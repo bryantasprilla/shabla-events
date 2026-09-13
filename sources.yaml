@@ -1,0 +1,353 @@
+version: 1
+
+settings:
+  consecutive_failure_threshold: 3
+  request_timeout_s: 20
+  user_agent: "shabla-events-bot/1.0 (+https://github.com/bryantasprilla/shabla-events)"
+
+# Selectors below are placeholders and get corrected against real page
+# structure in Milestone 4 (manage.py test-source dry-run fetch).
+
+sources:
+  # --- Tier 1: Shabla-specific ---
+  - id: shabla_sabitiya
+    name: "Shabla.bg — Sabitiya (Events)"
+    tier: 1
+    type: html-article-list
+    url: "https://shabla.bg/aktualno/sabitiya/"
+    active: true
+    geo_tags: [shabla]
+    assume_in_range: true
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  - id: shabla_novini
+    name: "Shabla.bg — Novini (News)"
+    tier: 1
+    type: html-article-list
+    url: "https://shabla.bg/aktualno/novini/"
+    active: true
+    geo_tags: [shabla]
+    assume_in_range: true
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  - id: zora1894_shabla
+    name: "NCh Zora 1894 (Shabla cultural center)"
+    tier: 1
+    type: html-article-list
+    url: "https://nch-zora1894shabla.com/novini/"
+    active: true
+    geo_tags: [shabla]
+    assume_in_range: true
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  # --- Tier 2: Kavarna / Balchik ---
+  - id: kavarna_municipality
+    name: "Kavarna.bg — Novini/Aktualno/Sabitiya"
+    tier: 2
+    type: rss
+    url: "https://www.kavarna.bg/novini-aktualno-sybitiya"
+    active: true
+    geo_tags: [kavarna]
+    assume_in_range: true
+
+  - id: balchik_municipality
+    name: "Balchik.bg"
+    tier: 2
+    type: html-article-list
+    url: "https://www.balchik.bg/"
+    active: true
+    geo_tags: [balchik]
+    assume_in_range: true
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  # --- Tier 3: Dobrich region ---
+  - id: dobrich_media_shabla
+    name: "Dobrich.media — Obshtina Shabla category"
+    tier: 3
+    type: html-article-list
+    url: "https://dobrich.media/category/regionalni/obshtinashabla/"
+    active: true
+    geo_tags: [shabla]
+    assume_in_range: true
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".entry-content"
+      date: ".entry-date"
+
+  - id: pronewsdobrich
+    name: "ProNews Dobrich"
+    tier: 3
+    type: html-article-list
+    url: "https://pronewsdobrich.bg/"
+    active: true
+    geo_tags: [dobrich, shabla, kavarna, balchik, general_toshevo, tervel]
+    assume_in_range: false
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".entry-content"
+      date: ".entry-date"
+
+  - id: dobrichonline
+    name: "Dobrich Online"
+    tier: 3
+    type: html-article-list
+    url: "https://www.dobrichonline.com/"
+    active: true
+    geo_tags: [dobrich, shabla, kavarna, balchik]
+    assume_in_range: false
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  - id: dobrudjabg
+    name: "Dobrudzha news agency"
+    tier: 3
+    type: html-article-list
+    url: "https://dobrudjabg.com/"
+    active: true
+    geo_tags: [dobrich, shabla, kavarna, balchik]
+    assume_in_range: false
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  # --- Tier 4: Varna ---
+  - id: visit_varna_calendar
+    name: "Visit Varna — Event Calendar"
+    tier: 4
+    type: structured-calendar
+    url: "https://visit.varna.bg/bg/event.html"
+    active: true
+    geo_tags: [varna]
+    assume_in_range: false
+    skip_keyword_filter: true
+    selectors:
+      list_item: ".event-card"
+      link: "a"
+      link_attr: "href"
+      title: "h3"
+      body: ".event-description"
+      date: ".event-date"
+      location: ".event-location"
+
+  - id: varna_culture
+    name: "Varna Culture calendar"
+    tier: 4
+    type: structured-calendar
+    url: "https://varnaculture.bg/"
+    active: true
+    geo_tags: [varna]
+    assume_in_range: false
+    skip_keyword_filter: true
+    selectors:
+      list_item: ".event-card"
+      link: "a"
+      link_attr: "href"
+      title: "h3"
+      body: ".event-description"
+      date: ".event-date"
+      location: ".event-location"
+
+  - id: budna_varna
+    name: "Budna Varna"
+    tier: 4
+    type: html-article-list
+    url: "https://www.budnavarna.com/"
+    active: true
+    geo_tags: [varna]
+    assume_in_range: false
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  - id: moreto_varna
+    name: "Moreto.net (Varna events)"
+    tier: 4
+    type: html-article-list
+    url: "https://www.moreto.net/events.php"
+    active: true
+    geo_tags: [varna]
+    assume_in_range: false
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  # --- Tier 5: Silistra region (edge of 2h range) ---
+  - id: portal_silistra
+    name: "Portal Silistra"
+    tier: 5
+    type: html-article-list
+    url: "https://www.portal-silistra.eu/"
+    active: true
+    geo_tags: [silistra, dulovo, tutrakan]
+    assume_in_range: false
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  - id: silistra_news
+    name: "Silistra News"
+    tier: 5
+    type: html-article-list
+    url: "https://silistranews.net/"
+    active: true
+    geo_tags: [silistra, dulovo, tutrakan]
+    assume_in_range: false
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  # --- Tier 6: Southeastern Romania (Constanta and south toward the border) ---
+  - id: mangalianews_events
+    name: "MangaliaNews.ro — Evenimente"
+    tier: 6
+    type: html-article-list
+    url: "https://www.mangalianews.ro/category/evenimente/"
+    active: true
+    geo_tags: [mangalia]
+    assume_in_range: true
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".entry-content"
+      date: ".entry-date"
+
+  - id: mangalia_tv
+    name: "Mangalia.TV"
+    tier: 6
+    type: html-article-list
+    url: "https://www.mangalia.tv/"
+    active: true
+    geo_tags: [mangalia]
+    assume_in_range: true
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  - id: cuget_liber_mangalia
+    name: "Cuget Liber (Mangalia)"
+    tier: 6
+    type: html-article-list
+    url: "https://cugetliber.ro/mangalia"
+    active: true
+    geo_tags: [mangalia]
+    assume_in_range: true
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  - id: ziua_constanta
+    name: "Ziua de Constanta"
+    tier: 6
+    type: html-article-list
+    url: "https://www.ziuaconstanta.ro/stiri.html"
+    active: true
+    geo_tags: [constanta, mamaia, eforie, costinesti, doi_mai, vama_veche, mangalia, limanu]
+    assume_in_range: false
+    selectors:
+      list_item: "article"
+      link: "a"
+      link_attr: "href"
+      title: "h2"
+      body: ".content"
+      date: ".date"
+
+  - id: onevent_constanta
+    name: "OnEvent.ro (Constanta)"
+    tier: 6
+    type: structured-calendar
+    url: "https://www.onevent.ro/orase/constanta/"
+    active: true
+    geo_tags: [constanta]
+    assume_in_range: false
+    skip_keyword_filter: true
+    selectors:
+      list_item: ".event-card"
+      link: "a"
+      link_attr: "href"
+      title: "h3"
+      body: ".event-description"
+      date: ".event-date"
+      location: ".event-location"
+
+  - id: zilesinopti_constanta
+    name: "Zile si Nopti (Constanta) — nightlife/party agenda"
+    tier: 6
+    type: structured-calendar
+    url: "https://zilesinopti.ro/evenimente-constanta/"
+    active: true
+    geo_tags: [constanta]
+    assume_in_range: false
+    skip_keyword_filter: true
+    selectors:
+      list_item: ".event-card"
+      link: "a"
+      link_attr: "href"
+      title: "h3"
+      body: ".event-description"
+      date: ".event-date"
+      location: ".event-location"
