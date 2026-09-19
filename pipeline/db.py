@@ -5,6 +5,7 @@ start of every pipeline run -- this is the entire migration story at this
 scale (see AGENTS.md).
 """
 import sqlite3
+from datetime import datetime, timezone
 from pathlib import Path
 
 SCHEMA = """
@@ -113,3 +114,74 @@ def connect(db_path: str | Path) -> sqlite3.Connection:
     conn.executescript(SCHEMA)
     conn.commit()
     return conn
+
+
+def upsert_article(
+    conn: sqlite3.Connection,
+    source_id: str,
+    url: str,
+    title: str,
+    body: str,
+    content_hash: str,
+    published_at: str | None = None,
+) -> tuple[int, bool]:
+    """Insert a new article, or update an existing one at (source_id, url).
+
+    Returns (article_id, is_new_or_changed). If the content_hash matches
+    what's stored, only fetched_at is bumped and status/other fields are
+    left untouched -- this is the change-detection gate (Milestone 5).
+    """
+    now = datetime.now(timezone.utc).isoformat()
+    row = conn.execute(
+        "SELECT id, content_hash FROM articles WHERE source_id = ? AND url = ?",
+        (source_id, url),
+    ).fetchone()
+
+    if row is None:
+        cur = conn.execute(
+            "INSERT INTO articles (source_id, url, title, body, published_at, fetched_at, content_hash, status) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, 'new')",
+            (source_id, url, title, body, published_at, now, content_hash),
+        )
+        return cur.lastrowid, True
+
+    if row["content_hash"] == content_hash:
+        conn.execute("UPDATE articles SET fetched_at = ? WHERE id = ?", (now, row["id"]))
+        return row["id"], False
+
+    conn.execute(
+        "UPDATE articles SET title = ?, body = ?, published_at = ?, fetched_at = ?, "
+        "content_hash = ?, status = 'new', updated_at = ? WHERE id = ?",
+        (title, body, published_at, now, content_hash, now, row["id"]),
+    )
+    return row["id"], True
+
+
+def record_source_run(
+    conn: sqlite3.Connection,
+    source_id: str,
+    status: str,
+    http_status: int | None = None,
+    error_message: str | None = None,
+    articles_fetched: int = 0,
+    articles_new_or_changed: int = 0,
+    articles_passed_filter: int = 0,
+    events_confirmed: int = 0,
+    duration_ms: int | None = None,
+) -> None:
+    conn.execute(
+        "INSERT INTO source_runs (source_id, status, http_status, error_message, "
+        "articles_fetched, articles_new_or_changed, articles_passed_filter, "
+        "events_confirmed, duration_ms) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        (
+            source_id,
+            status,
+            http_status,
+            error_message,
+            articles_fetched,
+            articles_new_or_changed,
+            articles_passed_filter,
+            events_confirmed,
+            duration_ms,
+        ),
+    )
