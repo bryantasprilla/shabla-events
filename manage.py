@@ -13,8 +13,54 @@ if sys.stdout.encoding != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
 from pipeline.config import Config, Source, load_config, save_config, validate
+from pipeline.fetchers.html_generic import fetch_html
+from pipeline.fetchers.rss import fetch_rss
 
 DEFAULT_SOURCES_PATH = "sources.yaml"
+
+
+def _fetch_for_test(source, settings) -> list:
+    if source.type == "rss":
+        return fetch_rss(source.url, timeout_s=settings.request_timeout_s, user_agent=settings.user_agent)
+    return fetch_html(
+        source.url,
+        source.selectors or {},
+        timeout_s=settings.request_timeout_s,
+        user_agent=settings.user_agent,
+    )
+
+
+def cmd_test_source(args: argparse.Namespace) -> None:
+    config = load_config(args.sources)
+    source = next((s for s in config.sources if s.id == args.source_id), None)
+    if source is None:
+        print(f"ERROR: no source with id '{args.source_id}'")
+        sys.exit(1)
+
+    print(f"Fetching {source.id} ({source.type}): {source.url}")
+    try:
+        items = _fetch_for_test(source, config.settings)
+    except Exception as e:
+        print(f"ERROR: fetch failed: {e}")
+        sys.exit(1)
+
+    print(f"{len(items)} item(s) found")
+    if items:
+        empty_titles = sum(1 for i in items if not i.title)
+        empty_bodies = sum(1 for i in items if not i.body)
+        if empty_titles:
+            print(f"WARNING: {empty_titles}/{len(items)} item(s) had an empty title")
+        if empty_bodies:
+            print(f"WARNING: {empty_bodies}/{len(items)} item(s) had an empty body")
+
+    for item in items[:3]:
+        body_preview = item.body[:200] + ("..." if len(item.body) > 200 else "")
+        print("---")
+        print(f"title: {item.title}")
+        print(f"url: {item.url}")
+        if item.published_at:
+            print(f"published_at: {item.published_at}")
+        print(f"body: {body_preview}")
 
 
 def cmd_list_sources(args: argparse.Namespace) -> None:
@@ -155,6 +201,10 @@ def build_parser() -> argparse.ArgumentParser:
 
     p_validate = sub.add_parser("validate")
     p_validate.set_defaults(func=cmd_validate)
+
+    p_test = sub.add_parser("test-source")
+    p_test.add_argument("source_id")
+    p_test.set_defaults(func=cmd_test_source)
 
     p_add = sub.add_parser("add-source")
     p_add.add_argument("--id", required=True)

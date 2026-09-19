@@ -11,20 +11,21 @@ settings:
 sources:
   # --- Tier 1: Shabla-specific ---
   - id: shabla_sabitiya
-    name: "Shabla.bg — Sabitiya (Events)"
+    name: "Shabla.bg — Sabitiya (Events archive)"
     tier: 1
     type: html-article-list
-    url: "https://shabla.bg/aktualno/sabitiya/"
+    url: "https://shabla.bg/events/"
     active: true
     geo_tags: [shabla]
     assume_in_range: true
     selectors:
-      list_item: "article"
-      link: "a"
+      list_item: "article.lsvr_event"
+      link: "h3.post__title a"
       link_attr: "href"
-      title: "h2"
-      body: ".content"
-      date: ".date"
+      title: "h3.post__title a"
+      date: "li.post__info-item--date"
+      time: "li.post__info-item--time"
+      location: "li.post__info-item--location a"
 
   - id: shabla_novini
     name: "Shabla.bg — Novini (News)"
@@ -63,7 +64,7 @@ sources:
     name: "Kavarna.bg — Novini/Aktualno/Sabitiya"
     tier: 2
     type: rss
-    url: "https://www.kavarna.bg/novini-aktualno-sybitiya"
+    url: "https://www.kavarna.bg/novini-aktualno-sybitiya?format=feed&type=rss"
     active: true
     geo_tags: [kavarna]
     assume_in_range: true
@@ -160,13 +161,11 @@ sources:
     assume_in_range: false
     skip_keyword_filter: true
     selectors:
-      list_item: ".event-card"
-      link: "a"
+      list_item: "div.list-element"
+      link: "div.data-cell a"
       link_attr: "href"
-      title: "h3"
-      body: ".event-description"
-      date: ".event-date"
-      location: ".event-location"
+      title: "div.data-cell h2"
+      date: "div.date-design"
 
   - id: varna_culture
     name: "Varna Culture calendar"
