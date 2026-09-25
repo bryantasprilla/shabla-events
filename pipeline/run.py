@@ -13,6 +13,7 @@ import time
 from pipeline.config import Settings, Source, load_config
 from pipeline.db import connect, record_source_run, upsert_article
 from pipeline.dedup import dedup_and_store
+from pipeline.export import export_events_json, export_source_stats_json
 from pipeline.fetchers.html_generic import fetch_html
 from pipeline.fetchers.rss import fetch_rss
 from pipeline.hashing import content_hash
@@ -111,6 +112,8 @@ def main() -> None:
     parser.add_argument("--db", default="data/shabla_events.db")
     parser.add_argument("--sources", default="sources.yaml")
     parser.add_argument("--model", default="models/qwen2.5-7b-instruct-q4_k_m.gguf")
+    parser.add_argument("--events-json", default="docs/events.json")
+    parser.add_argument("--stats-json", default="docs/source_stats.json")
     args = parser.parse_args()
 
     config = load_config(args.sources)
@@ -122,7 +125,10 @@ def main() -> None:
             continue
         run_source(conn, source, config.settings, extractor)
 
-    # TODO Milestone 9: export docs/events.json, docs/source_stats.json
+    events_written = export_events_json(conn, config, args.events_json)
+    sources_written = export_source_stats_json(conn, config, args.stats_json)
+    print(f"Exported {events_written} events to {args.events_json}, {sources_written} source stats to {args.stats_json}")
+
     # TODO Milestone 10: GitHub Issue auto-filing for repeatedly-failing sources
 
 

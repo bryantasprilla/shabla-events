@@ -1,0 +1,234 @@
+{
+  "generated_at": "2026-09-25T18:43:36.707107+00:00",
+  "events": [
+    {
+      "id": 7,
+      "title": "Прима Фацие",
+      "date": "2026-09-25",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "Концерт на прима Фацие.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/prima-fatsie-kontsert.html"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "„Дракула“ - театрална постановка",
+      "date": "2026-09-25",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Театрална постановка на същото име „Дракула“ се представя на Петък, 25 септември 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/drakula-teatralna-postanovka.html"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "„Боже мой“ - театрална обстановка",
+      "date": "2026-09-25",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Театрална обстановка под наименованието „Боже мой“, запланирана за петък, 25 септември 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/bozhe-moy.html"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "21-во Класик рали „Златни пясъци“, 4-то Еко рали „Златни пясъци“",
+      "date": "2026-09-25",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Класик рали и Еко рали с участието на „Златни пясъци“ се провеждат от петък, 25 септември до неделя, 27 септември 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/21-vo-klasik-rali-zlatni-pyasatsi-4-to-eko-rali-zl.html"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Плажен футбол, 2026",
+      "date": "2026-09-26",
+      "time": "13:30",
+      "location": "Къмпинг Добруджа",
+      "category": "sports",
+      "description": "Плажен футбол на Къмпинг Добруджа от 13:30 до 17:00 на 26 септември 2026 г.",
+      "sources": [
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/plazhen-futbol-2026/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Юбилеен концерт по повод 50 години средно образование в СУ „Асен Златаров“, гр. Шабла",
+      "date": "2026-10-10",
+      "time": "16:00",
+      "location": "СУ \"Асен Златаров\", гр. Шабла",
+      "category": "concert",
+      "description": "Юбилейный концерт в честь 50-летия среднего образования в СУ „Асен Златаров“ в Шабла.",
+      "sources": [
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/yubileen-konczert-po-povod-50-godini-sredno-obrazovanie-v-su-asen-zlatarov-gr-shabla/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Празникът на село Селце",
+      "date": "",
+      "time": "",
+      "location": "пред кметството в село Селце",
+      "category": "other",
+      "description": "Празникът на село Селце включваше музикални изпълнения, спортни прояви и томбола с награди. Празничната програма завърши с томбола, в която бяха раздадени множество награди.",
+      "sources": [
+        {
+          "source_id": "kavarna_municipality",
+          "source_name": "Kavarna.bg — Novini/Aktualno/Sabitiya",
+          "url": "https://www.kavarna.bg/novini-aktualno-sybitiya/5510-selo-selce-otbelaza-svoa-praznik"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Митинг-протест в Шабла срещу изграждането на ветрогенераторни паркове",
+      "date": "",
+      "time": "",
+      "location": "Шабла",
+      "category": "other",
+      "description": "В Шабла ще се проведе митинг-протест срещу изграждането на ветрогенераторни паркове върху плодородната земя на крайморската община.",
+      "sources": [
+        {
+          "source_id": "dobrich_media_shabla",
+          "source_name": "Dobrich.media — Obshtina Shabla category",
+          "url": "https://dobrich.media/%d0%b2-%d1%88%d0%b0%d0%b1%d0%bb%d0%b0-%d1%89%d0%b5-%d1%81%d0%b5-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5-%d0%bc%d0%b8%d1%82%d0%b8%d0%bd%d0%b3-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82-%d1%81/"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "100 години Международен музикален фестивал „Варненско лято“",
+      "date": "",
+      "time": "",
+      "location": "Варна",
+      "category": "festival",
+      "description": "Международен музикален фестивал „Варненско лято“ отмечава 100 години съществуване със събития между 27 юни и 14 октомври 2026 г.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/100-godini-mezhdunaroden-muzikalen-festival-varnen.html"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Реликвите на Калиакра - историческа изложба",
+      "date": "",
+      "time": "",
+      "location": "Исторически музей Калиакра",
+      "category": "exhibition",
+      "description": "Изложба под названието „Два лъва една кауза“ ще се провежда от 11 септември до 15 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/relikvite-na-kaliakra-istoricheska-izlozhba.html"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/dva-lava-edna-kauza-izlozhba.html"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "„Кодова памет“ - изложба керамика",
+      "date": "",
+      "time": "",
+      "location": "",
+      "category": "exhibition",
+      "description": "Изложбата „Кодова памет“ ще се проведе от сряда, 02 септември 2026 г. до неделя, 04 октомври 2026 г.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/kodova-pamet-izlozhba-keramika.html"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "„Радиални пулсации“ - изложба керамика",
+      "date": "",
+      "time": "",
+      "location": "",
+      "category": "exhibition",
+      "description": "Изложбата „Радиални пулсации“ приключва на 26 септември 2026 г. и е посветена на керамика.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/radialni-pulsatsii-izlozhba-keramika.html"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "XIX Международен фотографски салон Варна 2026",
+      "date": "",
+      "time": "",
+      "location": "Варна",
+      "category": "exhibition",
+      "description": "XIX Международен фотографски салон Варна 2026 ще се проведе между събота, 12 септември и четвъртък, 1 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/xix-mezhdunaroden-fotografski-salon-varna-2026.html"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
+      "date": "",
+      "time": "",
+      "location": "ДКТ – Силистра",
+      "category": "other",
+      "description": "ДКТ – Силистра обяви програмата за детските представления, които ще се проведат през октомври.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/09/25/dkt-silistra-obyavi-programata-za-detskite-predstavleniya-prez-oktomvri"
+        }
+      ]
+    }
+  ]
+}
