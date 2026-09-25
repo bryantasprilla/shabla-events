@@ -13,11 +13,12 @@ sources:
   - id: shabla_sabitiya
     name: "Shabla.bg — Sabitiya (Events archive)"
     tier: 1
-    type: html-article-list
+    type: structured-calendar
     url: "https://shabla.bg/events/"
     active: true
     geo_tags: [shabla]
     assume_in_range: true
+    skip_keyword_filter: true
     selectors:
       list_item: "article.lsvr_event"
       link: "h3.post__title a"
@@ -158,7 +159,7 @@ sources:
     url: "https://visit.varna.bg/bg/event.html"
     active: true
     geo_tags: [varna]
-    assume_in_range: false
+    assume_in_range: true
     skip_keyword_filter: true
     selectors:
       list_item: "div.list-element"
@@ -174,7 +175,7 @@ sources:
     url: "https://varnaculture.bg/"
     active: true
     geo_tags: [varna]
-    assume_in_range: false
+    assume_in_range: true
     skip_keyword_filter: true
     selectors:
       list_item: ".event-card"
@@ -322,7 +323,7 @@ sources:
     url: "https://www.onevent.ro/orase/constanta/"
     active: true
     geo_tags: [constanta]
-    assume_in_range: false
+    assume_in_range: true
     skip_keyword_filter: true
     selectors:
       list_item: ".event-card"
@@ -340,7 +341,7 @@ sources:
     url: "https://zilesinopti.ro/evenimente-constanta/"
     active: true
     geo_tags: [constanta]
-    assume_in_range: false
+    assume_in_range: true
     skip_keyword_filter: true
     selectors:
       list_item: ".event-card"
