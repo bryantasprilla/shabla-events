@@ -40,13 +40,27 @@ run at $0 recurring cost.
 2. **Change detection** (`pipeline/hashing.py`) — hash title+body; skip
    anything whose hash already exists in `articles`.
 3. **Relevance filter** (`pipeline/relevance.py`) — cheap pre-screen before
-   the expensive LLM step, modeled on adverse-media relevancy scoring:
-   SQLite FTS5 + BM25 over a bilingual event-keyword list, a date/time
-   regex bonus, and a geo place-name gate (`pipeline/geo.py`). Sources
-   flagged `assume_in_range: true` skip the geo gate; sources flagged
-   `skip_keyword_filter: true` (structured calendars) skip the keyword
-   gate but still need a geo match. This combination is what keeps
-   high-volume city sources (Varna, Constanța) from flooding the LLM step.
+   the expensive LLM step, modeled on adverse-media relevancy scoring: a
+   bilingual weighted keyword hit-count (title hits weighted above body
+   hits) plus a date/time regex bonus, and a geo place-name gate
+   (`pipeline/geo.py`). Sources flagged `assume_in_range: true` skip the
+   geo gate — use this both for sources that are inherently and entirely
+   about one place (a single municipality's own site) *and* for
+   single-city event portals whose per-event listings don't restate the
+   city name (visit.varna.bg, onevent.ro/constanta) — don't assume a
+   "calendar" type automatically needs the geo gate; check whether its
+   content actually mentions place names or just relies on being hosted
+   under that city's own domain. Sources flagged `skip_keyword_filter:
+   true` (structured calendars, or a dedicated "event" post type like
+   shabla.bg/events/) skip the keyword gate but still typically need
+   `assume_in_range` too, since the content is already known to be an
+   event without restating where. NOTE: an earlier version of this filter
+   used SQLite FTS5's bm25() ranking function, matching the plan's
+   original design (an Elasticsearch-relevancy analogy). Live testing
+   showed bm25's IDF term degenerates toward zero on a small/growing
+   corpus, so a fixed threshold isn't stable over time -- replaced with
+   the plain weighted hit-count above. `articles_fts` stays in the schema
+   for potential future ad-hoc search, just not for this gate.
 4. **LLM extraction** (`pipeline/llm/`) — Qwen2.5-7B-Instruct via
    `llama-cpp-python`, output forced into a strict schema by GBNF grammar
    (`grammar.gbnf`): `{is_event, title, date, time, location, category,

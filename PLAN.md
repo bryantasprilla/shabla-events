@@ -246,3 +246,38 @@ YAML read/write via `ruamel.yaml` to preserve comments/formatting in the hand-ma
 - Each milestone above has its own inline verification step.
 - End-to-end: after Milestone 11, trigger the workflow manually via `workflow_dispatch`, confirm a commit lands from the bot identity, and confirm both `https://<user>.github.io/shabla-events/` (events) and its `/stats.html` (health dashboard) render real data.
 - Ongoing: `manage.py show-stats` and the public stats page are the standing tools for judging whether a source is worth keeping; GitHub Issues are the standing tool for catching scraper breakage.
+
+## Implementation notes (post-Milestone 6)
+
+This section records deltas from the original design above, discovered
+during actual implementation and live-data testing. The design above is
+kept as the historical record of the original plan; this is what actually
+shipped where it differs. See AGENTS.md for the authoritative current
+architecture description.
+
+- **Keyword scoring is not bm25().** The original design used SQLite
+  FTS5's `bm25()` function for keyword relevance (an Elasticsearch-style
+  analogy). Live testing showed bm25's IDF term degenerates toward zero on
+  a small/growing corpus, making a fixed absolute threshold unstable (the
+  same article's score drifts as more articles are added to the FTS index
+  over time). Replaced with a plain weighted keyword hit-count in
+  `pipeline/relevance.py` (title hits weighted 5x, body hits 1x,
+  `KEYWORD_THRESHOLD = 3.0` as the starting calibration constant).
+  `articles_fts`/`bm25` remain in the schema for potential future ad-hoc
+  search, just not for this gate.
+- **`assume_in_range` corrected for 5 sources**, based on live-data
+  testing (a source passing only 1/12 real events was the tell):
+  `shabla_sabitiya` (reclassified `structured-calendar` +
+  `skip_keyword_filter: true` — it's a dedicated WordPress "event" post
+  type, not generic news, so applying a keyword gate to it was wrong),
+  `visit_varna_calendar`, `varna_culture`, `onevent_constanta`, and
+  `zilesinopti_constanta` (all now `assume_in_range: true` — these are
+  single-city event portals whose individual listings don't restate the
+  city name, so the geo-mention gate was failing real events by design,
+  not by miscalibration).
+- **General lesson for future sources**: `assume_in_range: true` isn't
+  just for "sources entirely about one municipality" as originally
+  scoped — it also applies to any single-city event *portal* (calendar or
+  dedicated event post type) where individual entries don't restate the
+  city name. Check a new source's actual per-item text before assuming a
+  `structured-calendar` type needs the geo gate.
