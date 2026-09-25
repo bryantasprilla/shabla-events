@@ -244,7 +244,7 @@ YAML read/write via `ruamel.yaml` to preserve comments/formatting in the hand-ma
 ## Verification
 
 - Each milestone above has its own inline verification step.
-- End-to-end: after Milestone 11, trigger the workflow manually via `workflow_dispatch`, confirm a commit lands from the bot identity, and confirm both `https://<user>.github.io/shabla-events/` (events) and its `/stats.html` (health dashboard) render real data.
+- End-to-end: after Milestone 11, trigger the workflow manually via `workflow_dispatch`, confirm a commit lands from the bot identity, and confirm both the live events page and its `/stats.html` (health dashboard) render real data. Live URL note (found during Milestone 9): `https://bryantasprilla.github.io/shabla-events/` 301-redirects to `https://bryantasprilla.com/shabla-events/` — the account's verified custom domain (from the bryantasprilla.github.io user-site repo) covers this project site too. Both were confirmed serving real content and all assets (200 on every file) as of Milestone 9.
 - Ongoing: `manage.py show-stats` and the public stats page are the standing tools for judging whether a source is worth keeping; GitHub Issues are the standing tool for catching scraper breakage.
 
 ## Implementation notes (post-Milestone 6)
