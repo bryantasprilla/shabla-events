@@ -3,9 +3,8 @@
 Per source: fetch -> change-detect -> relevance-filter -> LLM-extract -> dedup-and-store.
 Each source's steps are isolated so one failure never blocks the others (see AGENTS.md).
 
-Currently implements fetch + change-detection + relevance filtering +
-per-source error isolation (Milestones 4-6). LLM extraction, dedup, and
-export land in Milestones 7-9.
+Implements the full chain through Milestone 8. Export (Milestone 9) and
+GitHub Issue auto-filing (Milestone 10) are still TODO.
 """
 import argparse
 import json
@@ -13,9 +12,11 @@ import time
 
 from pipeline.config import Settings, Source, load_config
 from pipeline.db import connect, record_source_run, upsert_article
+from pipeline.dedup import dedup_and_store
 from pipeline.fetchers.html_generic import fetch_html
 from pipeline.fetchers.rss import fetch_rss
 from pipeline.hashing import content_hash
+from pipeline.llm.extractor import Extractor
 from pipeline.relevance import evaluate_relevance
 
 
@@ -32,7 +33,7 @@ def fetch_source(source: Source, settings: Settings) -> list:
 
 def apply_relevance_filter(conn, source: Source) -> int:
     """Scores and gates every 'new' article for this source. Returns the
-    count that passed (now status='sent_to_llm', ready for Milestone 7)."""
+    count that passed (now status='sent_to_llm', ready for extraction)."""
     rows = conn.execute(
         "SELECT id, title, body FROM articles WHERE source_id = ? AND status = 'new'",
         (source.id,),
@@ -49,7 +50,27 @@ def apply_relevance_filter(conn, source: Source) -> int:
     return passed
 
 
-def run_source(conn, source: Source, settings: Settings) -> None:
+def run_llm_extraction(conn, source: Source, extractor: Extractor) -> int:
+    """Extracts + dedups every 'sent_to_llm' article for this source.
+    Returns the count confirmed as real events."""
+    rows = conn.execute(
+        "SELECT id, url, title, body FROM articles WHERE source_id = ? AND status = 'sent_to_llm'",
+        (source.id,),
+    ).fetchall()
+    confirmed = 0
+    for row in rows:
+        result = extractor.extract(source.name, row["url"], row["title"], row["body"])
+        conn.execute(
+            "UPDATE articles SET llm_raw_response = ?, status = ? WHERE id = ?",
+            (result.raw_response, "event_confirmed" if result.is_event else "not_event", row["id"]),
+        )
+        if result.is_event:
+            dedup_and_store(conn, result, article_id=row["id"], source_id=source.id)
+            confirmed += 1
+    return confirmed
+
+
+def run_source(conn, source: Source, settings: Settings, extractor: Extractor) -> None:
     start = time.monotonic()
     try:
         items = fetch_source(source, settings)
@@ -60,6 +81,7 @@ def run_source(conn, source: Source, settings: Settings) -> None:
             if changed:
                 new_or_changed += 1
         passed_filter = apply_relevance_filter(conn, source)
+        events_confirmed = run_llm_extraction(conn, source, extractor)
         duration_ms = int((time.monotonic() - start) * 1000)
         record_source_run(
             conn,
@@ -68,10 +90,14 @@ def run_source(conn, source: Source, settings: Settings) -> None:
             articles_fetched=len(items),
             articles_new_or_changed=new_or_changed,
             articles_passed_filter=passed_filter,
+            events_confirmed=events_confirmed,
             duration_ms=duration_ms,
         )
         conn.commit()
-        print(f"[{source.id}] ok: {len(items)} fetched, {new_or_changed} new/changed, {passed_filter} passed filter")
+        print(
+            f"[{source.id}] ok: {len(items)} fetched, {new_or_changed} new/changed, "
+            f"{passed_filter} passed filter, {events_confirmed} events confirmed"
+        )
     except Exception as e:
         conn.rollback()
         duration_ms = int((time.monotonic() - start) * 1000)
@@ -89,15 +115,15 @@ def main() -> None:
 
     config = load_config(args.sources)
     conn = connect(args.db)
+    extractor = Extractor(args.model)
 
     for source in config.sources:
         if not source.active:
             continue
-        run_source(conn, source, config.settings)
+        run_source(conn, source, config.settings, extractor)
 
-    # TODO Milestone 7: LLM extraction for articles with status='sent_to_llm'
-    # TODO Milestone 8: cross-source dedup into events/event_sources
     # TODO Milestone 9: export docs/events.json, docs/source_stats.json
+    # TODO Milestone 10: GitHub Issue auto-filing for repeatedly-failing sources
 
 
 if __name__ == "__main__":
