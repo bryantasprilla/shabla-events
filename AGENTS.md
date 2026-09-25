@@ -67,7 +67,16 @@ run at $0 recurring cost.
    description, source_url}`. `category` enum:
    `concert|festival|exhibition|municipal|sports|theater|adult_18+|other`.
    `source_url` is always overwritten with the known article URL after
-   parsing — never trust the model to reproduce it faithfully.
+   parsing — never trust the model to reproduce it faithfully. On Windows,
+   `pip install llama-cpp-python` can hit a MAX_PATH build failure (the
+   source distribution vendors llama.cpp's full source tree); use
+   `--prefer-binary --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu`
+   for local dev instead (see requirements.txt comment). The model weights
+   themselves (`models/qwen2.5-7b-instruct-q4_k_m.gguf`, ~4.68GB, from
+   `bartowski/Qwen2.5-7B-Instruct-GGUF` on Hugging Face — Qwen's own GGUF
+   upload splits Q4_K_M across two shard files, bartowski's re-upload is a
+   single file) are gitignored and not part of `pip install`; they're
+   fetched separately (curl in CI, manual download for local dev).
 5. **Dedup** (`pipeline/dedup.py`) — fuzzy title match (rapidfuzz,
    threshold ~85) + location/geo-tag match + date compatibility (±1 day,
    never merge across a clear date mismatch) merges the same event

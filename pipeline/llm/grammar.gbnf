@@ -1,0 +1,15 @@
+root     ::= "{" ws "\"is_event\":" ws bool "," ws
+                  "\"title\":" ws string "," ws
+                  "\"date\":" ws date "," ws
+                  "\"time\":" ws time "," ws
+                  "\"location\":" ws string "," ws
+                  "\"category\":" ws category "," ws
+                  "\"description\":" ws string "," ws
+                  "\"source_url\":" ws string ws "}"
+bool     ::= "true" | "false"
+date     ::= "\"\"" | "\"" [0-9] [0-9] [0-9] [0-9] "-" [0-9] [0-9] "-" [0-9] [0-9] "\""
+time     ::= "\"\"" | "\"" [0-9] [0-9] ":" [0-9] [0-9] "\""
+category ::= "\"concert\"" | "\"festival\"" | "\"exhibition\"" | "\"municipal\"" | "\"sports\"" | "\"theater\"" | "\"adult_18+\"" | "\"other\""
+string   ::= "\"" char* "\""
+char     ::= [^"\\] | "\\" .
+ws       ::= [ \t\n]*

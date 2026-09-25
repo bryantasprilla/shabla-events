@@ -1,6 +1,10 @@
 requests
 beautifulsoup4
+lxml
 feedparser
 ruamel.yaml
 rapidfuzz
+# On Windows, building from source can hit MAX_PATH issues (llama.cpp's
+# vendored source tree has deep nested paths). Prefer a prebuilt wheel:
+#   pip install llama-cpp-python --prefer-binary --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
 llama-cpp-python
