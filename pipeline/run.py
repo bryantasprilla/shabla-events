@@ -17,6 +17,7 @@ from pipeline.export import export_events_json, export_source_stats_json
 from pipeline.fetchers.html_generic import fetch_html
 from pipeline.fetchers.rss import fetch_rss
 from pipeline.hashing import content_hash
+from pipeline.issues import check_and_file_issues
 from pipeline.llm.extractor import Extractor
 from pipeline.relevance import evaluate_relevance
 
@@ -129,7 +130,12 @@ def main() -> None:
     sources_written = export_source_stats_json(conn, config, args.stats_json)
     print(f"Exported {events_written} events to {args.events_json}, {sources_written} source stats to {args.stats_json}")
 
-    # TODO Milestone 10: GitHub Issue auto-filing for repeatedly-failing sources
+    try:
+        check_and_file_issues(conn, config)
+    except RuntimeError as e:
+        # GITHUB_TOKEN/GITHUB_REPOSITORY are only set inside a GitHub Actions
+        # job -- don't fail a local dev run just because issue-filing can't run.
+        print(f"Skipping issue auto-filing: {e}")
 
 
 if __name__ == "__main__":

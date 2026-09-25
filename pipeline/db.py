@@ -95,6 +95,7 @@ CREATE TABLE IF NOT EXISTS source_issues (
     github_issue_number INTEGER,
     opened_at           TEXT,
     last_commented_at   TEXT,
+    last_error_text     TEXT,
     resolved_at          TEXT
 );
 """
