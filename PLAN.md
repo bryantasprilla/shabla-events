@@ -281,3 +281,35 @@ architecture description.
   dedicated event post type) where individual entries don't restate the
   city name. Check a new source's actual per-item text before assuming a
   `structured-calendar` type needs the geo gate.
+
+## Implementation notes (post-Milestone 7)
+
+- **Grammar-constrained decoding uses `LlamaGrammar.from_json_schema()`,
+  not a hand-written `.gbnf` file.** The original design's GBNF grammar
+  skeleton (in the original plan text above) enforced strict `YYYY-MM-DD`
+  / `HH:MM` patterns and an exact key order at the grammar level. Multiple
+  corrected variants of that hand-written grammar all passed
+  `LlamaGrammar.from_file()`'s shallow parse check but caused a native
+  **access-violation crash** deep in llama.cpp's sampler the moment they
+  were actually used for generation -- a real fragility in this llama-cpp-
+  python version's raw-GBNF path, not a one-off typo. Switched to building
+  the grammar at runtime from a plain JSON Schema
+  (`pipeline/llm/extractor.py`'s `JSON_SCHEMA`) via
+  `LlamaGrammar.from_json_schema()`, which uses llama.cpp's own better-
+  tested schema-to-grammar conversion and has not crashed. Tradeoff:
+  `date`/`time` format is no longer grammar-enforced (JSON Schema
+  `"pattern"` regex support was judged too uncertain to rely on given the
+  crash risk already observed), so `extractor.py`'s `_normalize_date`/
+  `_normalize_time` validate the model's output after parsing and blank
+  out anything that doesn't match, rather than making malformed dates
+  structurally impossible. Valid JSON with the exact key set is still
+  guaranteed by the grammar either way.
+- **Observed extraction latency**: 38-71s/item on CPU across the four
+  live-tested fixtures (Bulgarian event, Bulgarian non-event, Romanian
+  event, `adult_18+`) -- higher than the original 10-40s/item estimate,
+  but still comfortably within the expected daily volume's time budget.
+- **Live extraction test fixtures live in `tests/test_extractor_live.py`**,
+  skipped automatically when the model weights aren't present locally, but
+  will run for real in CI once Milestone 11's workflow downloads/caches
+  the model -- giving an ongoing extraction-quality check on every run,
+  not just a one-off Milestone 7 verification.

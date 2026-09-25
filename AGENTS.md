@@ -62,12 +62,20 @@ run at $0 recurring cost.
    the plain weighted hit-count above. `articles_fts` stays in the schema
    for potential future ad-hoc search, just not for this gate.
 4. **LLM extraction** (`pipeline/llm/`) — Qwen2.5-7B-Instruct via
-   `llama-cpp-python`, output forced into a strict schema by GBNF grammar
-   (`grammar.gbnf`): `{is_event, title, date, time, location, category,
-   description, source_url}`. `category` enum:
+   `llama-cpp-python`, output forced into a strict schema via
+   `LlamaGrammar.from_json_schema(JSON_SCHEMA)` (the schema lives in
+   `extractor.py`, not a static `.gbnf` file -- an earlier hand-written
+   GBNF grammar caused a native access-violation crash deep in the sampler
+   despite passing a shallow parse check; see extractor.py's module
+   docstring for the full story): `{is_event, title, date, time, location, category, description,
+   source_url}`. `category` enum:
    `concert|festival|exhibition|municipal|sports|theater|adult_18+|other`.
    `source_url` is always overwritten with the known article URL after
-   parsing — never trust the model to reproduce it faithfully. On Windows,
+   parsing — never trust the model to reproduce it faithfully. Live-tested
+   against Bulgarian event/non-event, Romanian event, and `adult_18+`
+   fixtures -- all four classified and extracted correctly; observed
+   latency was 38-71s/item on CPU (higher than the original 10-40s
+   estimate, still fine at expected daily volume). On Windows,
    `pip install llama-cpp-python` can hit a MAX_PATH build failure (the
    source distribution vendors llama.cpp's full source tree); use
    `--prefer-binary --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu`
@@ -97,8 +105,8 @@ next success.
 - `pipeline/db.py` — SQLite schema (idempotent `CREATE ... IF NOT EXISTS`;
   this is the entire migration story at this scale)
 - `pipeline/relevance.py`, `pipeline/geo.py` — the cost-minimization filter
-- `pipeline/llm/extractor.py`, `pipeline/llm/grammar.gbnf` — self-hosted
-  extraction
+- `pipeline/llm/extractor.py` (includes `JSON_SCHEMA`), `pipeline/llm/prompt.py`
+  — self-hosted extraction
 - `sources.yaml` — source config (source of truth)
 - `manage.py` — admin CLI (`add-source`, `remove-source`, `validate`,
   `test-source`, `show-stats`, `activate-source`/`deactivate-source`)
@@ -114,12 +122,19 @@ next success.
   silently.
 - Every new source needs `geo_tags` from the canonical list in `geo.py`;
   extend that list (both languages) rather than inventing ad-hoc tags.
-- Structured-calendar sources always get `skip_keyword_filter: true`;
-  `assume_in_range` is only for sources that are inherently and entirely
-  about the covered area (e.g. a single municipality's own site) — regional
-  city-wide sources (Varna, Constanța) are never `assume_in_range`.
-- Don't add retry/repair logic around LLM JSON output — the GBNF grammar
-  makes malformed JSON structurally impossible; if output is wrong, it's a
+- Structured-calendar sources always get `skip_keyword_filter: true`.
+  `assume_in_range` applies to any source whose *individual entries* won't
+  restate an in-range place name — this includes a single municipality's
+  own site, but also single-city event portals (visit.varna.bg,
+  onevent.ro/constanta) where every listing is inherently in that city
+  without saying so per-item. It's only false for genuinely broad regional
+  sources (a general news outlet covering a whole province) where the geo
+  gate has to look for an actual place-name mention to know an article is
+  in range. Check a new source's real per-item text before assuming which
+  bucket it's in — see PLAN.md's "Implementation notes" for the sources
+  this was corrected on after live-data testing.
+- Don't add retry/repair logic around LLM JSON output — grammar-constrained
+  decoding makes malformed JSON structurally impossible; if output is wrong, it's a
   semantic/calibration problem (fix the prompt or keyword/geo lists), not a
   parsing problem.
 

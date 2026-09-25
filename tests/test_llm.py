@@ -1,14 +1,15 @@
+import json
 from datetime import date
 
 from llama_cpp import LlamaGrammar
 
-from pipeline.llm.extractor import GRAMMAR_PATH
+from pipeline.llm.extractor import JSON_SCHEMA
 from pipeline.llm.prompt import MAX_BODY_CHARS, build_user_prompt
 
 
-def test_grammar_file_parses():
-    # Doesn't need a model loaded -- just confirms the GBNF itself is valid.
-    grammar = LlamaGrammar.from_file(str(GRAMMAR_PATH))
+def test_json_schema_builds_a_grammar():
+    # Doesn't need a model loaded -- just confirms the schema itself is valid.
+    grammar = LlamaGrammar.from_json_schema(json.dumps(JSON_SCHEMA))
     assert grammar is not None
 
 

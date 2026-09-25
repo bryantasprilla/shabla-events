@@ -85,7 +85,6 @@ def main() -> None:
     parser.add_argument("--db", default="data/shabla_events.db")
     parser.add_argument("--sources", default="sources.yaml")
     parser.add_argument("--model", default="models/qwen2.5-7b-instruct-q4_k_m.gguf")
-    parser.add_argument("--grammar", default="pipeline/llm/grammar.gbnf")
     args = parser.parse_args()
 
     config = load_config(args.sources)
