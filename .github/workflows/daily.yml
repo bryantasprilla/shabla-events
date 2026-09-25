@@ -1,0 +1,60 @@
+name: Daily events pipeline
+
+on:
+  schedule:
+    # 04:00 UTC ~= 06:00-07:00 Sofia time depending on DST (Actions cron
+    # has no timezone/DST support). Adjust here if a different local time
+    # is wanted -- see PLAN.md's Milestone 11 note.
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Cache model weights
+        id: model-cache
+        uses: actions/cache@v4
+        with:
+          path: models/qwen2.5-7b-instruct-q4_k_m.gguf
+          key: qwen2.5-7b-instruct-q4_k_m-v1
+
+      - name: Download model if not cached
+        if: steps.model-cache.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p models
+          curl -L -o models/qwen2.5-7b-instruct-q4_k_m.gguf \
+            "https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-GGUF/resolve/main/Qwen2.5-7B-Instruct-Q4_K_M.gguf"
+
+      - name: Run pipeline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python -m pipeline.run
+
+      - name: Commit results
+        run: |
+          git config user.name "shabla-events-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/shabla_events.db docs/events.json docs/source_stats.json
+          git diff --cached --quiet || git commit -m "chore: daily events update $(date -u +%Y-%m-%d)"
+          git push
