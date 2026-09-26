@@ -317,13 +317,10 @@ sources:
     assume_in_range: true
     skip_keyword_filter: true
     selectors:
-      list_item: ".event-card"
-      link: "a"
-      link_attr: "href"
-      title: "h3"
-      body: ".event-description"
-      date: ".event-date"
-      location: ".event-location"
+      list_item: "a.on-car__card"
+      title: "span.on-car__nume"
+      date: "span.on-car__data"
+      location: "span.on-car__loc"
 
   - id: zilesinopti_constanta
     name: "Zile si Nopti (Constanta) — nightlife/party agenda"
@@ -335,10 +332,10 @@ sources:
     assume_in_range: true
     skip_keyword_filter: true
     selectors:
-      list_item: ".event-card"
-      link: "a"
+      list_item: "div.kzn-sw-item"
+      link: "h3.kzn-sw-item-titlu a"
       link_attr: "href"
-      title: "h3"
-      body: ".event-description"
-      date: ".event-date"
-      location: ".event-location"
+      title: "h3.kzn-sw-item-titlu a"
+      body: "div.kzn-sw-item-sumar"
+      date: "div.kzn-one-event-date"
+      location: "div.kzn-sw-item-adresa"
