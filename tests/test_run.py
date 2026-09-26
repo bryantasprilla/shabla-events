@@ -97,3 +97,19 @@ def test_llm_budget_defers_excess_articles_to_next_run():
         run_source(conn, CALENDAR_SOURCE, SETTINGS, extractor2, LlmBudget(remaining=10))
     assert extractor2.extract.call_count == 1
     assert all(r["status"] == "event_confirmed" for r in conn.execute("SELECT status FROM articles").fetchall())
+
+
+def test_one_failing_extraction_does_not_abort_the_source():
+    conn = connect(":memory:")
+    items = [RawItem(url=f"https://example.com/{i}", title=f"Event {i}", body="Details") for i in range(3)]
+    good = _mock_extractor(is_event=True).extract.return_value
+    extractor = Mock()
+    extractor.extract.side_effect = [good, ValueError("truncated"), good]
+
+    with patch("pipeline.run.fetch_source", return_value=items):
+        run_source(conn, CALENDAR_SOURCE, SETTINGS, extractor)
+
+    run = conn.execute("SELECT * FROM source_runs").fetchone()
+    assert run["status"] == "success"  # source not aborted
+    statuses = sorted(r["status"] for r in conn.execute("SELECT status FROM articles").fetchall())
+    assert statuses == ["error", "event_confirmed", "event_confirmed"]

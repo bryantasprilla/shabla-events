@@ -96,9 +96,15 @@ class Extractor:
             ],
             grammar=self._grammar,
             temperature=0,
-            max_tokens=300,
+            max_tokens=700,
         )
-        raw = response["choices"][0]["message"]["content"]
+        choice = response["choices"][0]
+        raw = choice["message"]["content"]
+        if choice.get("finish_reason") == "length":
+            # Grammar-constrained decoding guarantees valid JSON only if the
+            # model finishes; hitting max_tokens truncates mid-string (seen on
+            # long Cyrillic descriptions, which are token-heavy).
+            raise ValueError(f"model output truncated at max_tokens: {raw[-60:]!r}")
         data = json.loads(raw)
 
         category = data.get("category", "other")

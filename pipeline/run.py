@@ -82,7 +82,18 @@ def run_llm_extraction(conn, source: Source, extractor: Extractor, budget: LlmBu
         if budget is not None and not budget.take():
             print(f"[{source.id}] LLM budget exhausted; remaining articles deferred to the next run")
             break
-        result = extractor.extract(source.name, row["url"], row["title"], row["body"])
+        try:
+            result = extractor.extract(source.name, row["url"], row["title"], row["body"])
+        except Exception as e:
+            # One bad article (e.g. model output truncated at max_tokens ->
+            # invalid JSON) must not abort the whole source or lose its
+            # progress -- mark just this article as errored and move on.
+            print(f"[{source.id}] extraction failed for {row['url']}: {e}")
+            conn.execute(
+                "UPDATE articles SET llm_raw_response = ?, status = 'error' WHERE id = ?",
+                (f"ERROR: {e}", row["id"]),
+            )
+            continue
         conn.execute(
             "UPDATE articles SET llm_raw_response = ?, status = ? WHERE id = ?",
             (result.raw_response, "event_confirmed" if result.is_event else "not_event", row["id"]),

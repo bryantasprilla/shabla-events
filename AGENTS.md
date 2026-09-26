@@ -134,7 +134,11 @@ next success.
   bucket it's in — see PLAN.md's "Implementation notes" for the sources
   this was corrected on after live-data testing.
 - Don't add retry/repair logic around LLM JSON output — grammar-constrained
-  decoding makes malformed JSON structurally impossible; if output is wrong, it's a
+  decoding makes malformed JSON structurally impossible *as long as the
+  model finishes*: hitting `max_tokens` truncates mid-string (seen on long
+  Cyrillic descriptions), which the extractor now detects via
+  `finish_reason == "length"`, and `run_llm_extraction` isolates any
+  per-article failure (status='error') instead of aborting the source; if output is wrong, it's a
   semantic/calibration problem (fix the prompt or keyword/geo lists), not a
   parsing problem.
 
