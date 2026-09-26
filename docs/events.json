@@ -1,67 +1,130 @@
 {
-  "generated_at": "2026-09-25T19:51:56.050626+00:00",
+  "generated_at": "2026-09-26T09:06:17.162047+00:00",
   "events": [
     {
-      "id": 7,
-      "title": "Прима Фацие",
-      "date": "2026-09-25",
+      "id": 5,
+      "title": "Празникът на село Селце",
+      "date": "2026-09-26",
       "time": "",
-      "location": "",
-      "category": "concert",
-      "description": "Концерт на прима Фацие.",
+      "location": "пред кметството в село Селце",
+      "category": "other",
+      "description": "Празникът на село Селце включваше музикални изпълнения, спортни прояви и томбола с награди. Празничната програма завърши с томбола, в която бяха раздадени множество награди.",
       "sources": [
+        {
+          "source_id": "kavarna_municipality",
+          "source_name": "Kavarna.bg — Novini/Aktualno/Sabitiya",
+          "url": "https://www.kavarna.bg/novini-aktualno-sybitiya/5510-selo-selce-otbelaza-svoa-praznik"
+        },
         {
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/prima-fatsie-kontsert.html"
+          "url": "https://visit.varna.bg/bg/event/v-ochakvane-na-orest.html"
         }
       ]
     },
     {
-      "id": 8,
-      "title": "„Дракула“ - театрална постановка",
-      "date": "2026-09-25",
+      "id": 6,
+      "title": "Митинг-протест в Шабла срещу изграждането на ветрогенераторни паркове",
+      "date": "2026-09-26",
+      "time": "",
+      "location": "Шабла",
+      "category": "other",
+      "description": "В Шабла ще се проведе митинг-протест срещу изграждането на ветрогенераторни паркове върху плодородната земя на крайморската община.",
+      "sources": [
+        {
+          "source_id": "dobrich_media_shabla",
+          "source_name": "Dobrich.media — Obshtina Shabla category",
+          "url": "https://dobrich.media/%d0%b2-%d1%88%d0%b0%d0%b1%d0%bb%d0%b0-%d1%89%d0%b5-%d1%81%d0%b5-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5-%d0%bc%d0%b8%d1%82%d0%b8%d0%bd%d0%b3-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82-%d1%81/"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/nosht-na-horovete-iv.html"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "XIX Международен фотографски салон Варна 2026",
+      "date": "2026-09-26",
+      "time": "",
+      "location": "Варна",
+      "category": "exhibition",
+      "description": "XIX Международен фотографски салон Варна 2026 ще се проведе между събота, 12 септември и четвъртък, 1 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/xix-mezhdunaroden-fotografski-salon-varna-2026.html"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/varna-igrae-2026.html"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "„Рита“ - театрална обстановка",
+      "date": "2026-09-26",
       "time": "",
       "location": "",
       "category": "theater",
-      "description": "Театрална постановка на същото име „Дракула“ се представя на Петък, 25 септември 2026 година.",
+      "description": "Събитието е театърна обстановка под името „Рита“ на събота, 26 септември 2026 година.",
       "sources": [
         {
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/drakula-teatralna-postanovka.html"
+          "url": "https://visit.varna.bg/bg/event/rita.html"
         }
       ]
     },
     {
-      "id": 9,
-      "title": "„Боже мой“ - театрална обстановка",
-      "date": "2026-09-25",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Театрална обстановка под наименованието „Боже мой“, запланирана за петък, 25 септември 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/bozhe-moy.html"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "title": "21-во Класик рали „Златни пясъци“, 4-то Еко рали „Златни пясъци“",
-      "date": "2026-09-25",
+      "id": 19,
+      "title": "„Как да гледаме балет“ - мултимедийна среща",
+      "date": "2026-09-26",
       "time": "",
       "location": "",
       "category": "other",
-      "description": "Класик рали и Еко рали с участието на „Златни пясъци“ се провеждат от петък, 25 септември до неделя, 27 септември 2026 година.",
+      "description": "Мултимедийна среща под названието „Как да гледаме балет“.",
       "sources": [
         {
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/21-vo-klasik-rali-zlatni-pyasatsi-4-to-eko-rali-zl.html"
+          "url": "https://visit.varna.bg/bg/event/kak-da-gledame-balet-multimediyna-sreshta.html"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "„Травел фест“ - изложение",
+      "date": "2026-09-26",
+      "time": "",
+      "location": "Не указано",
+      "category": "exhibition",
+      "description": "Изложение под названием „Травел фест“ се проведе между събота, 26 септември и неделя, 27 септември 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/travel-fest-izlozhenie.html"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "XII турнир по художествена гимнастика „Морски звезди“ и Приз „Меглена Михайлова“",
+      "date": "2026-09-26",
+      "time": "",
+      "location": "",
+      "category": "sports",
+      "description": "XII турнир по художествена гимнастика с приз „Меглена Михайлова“ ще се проведе от събота, 26 септември до неделя, 27 септември 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/xii-turnir-po-hudozhestvena-gimnastika-morski-zvez.html"
         }
       ]
     },
@@ -72,12 +135,17 @@
       "time": "13:30",
       "location": "Къмпинг Добруджа",
       "category": "sports",
-      "description": "Плажен футбол на Къмпинг Добруджа от 13:30 до 17:00 на 26 септември 2026 г.",
+      "description": "Чудобой city 2026 е спортно събитие, което се проведе между събота, 26 септември 2026 г. и неделя, 27 септември 2026 г.",
       "sources": [
         {
           "source_id": "shabla_sabitiya",
           "source_name": "Shabla.bg — Sabitiya (Events archive)",
           "url": "https://shabla.bg/events/plazhen-futbol-2026/"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/chudoboy-city-2026-sportno-sabitie.html"
         }
       ]
     },
@@ -94,38 +162,6 @@
           "source_id": "shabla_sabitiya",
           "source_name": "Shabla.bg — Sabitiya (Events archive)",
           "url": "https://shabla.bg/events/yubileen-konczert-po-povod-50-godini-sredno-obrazovanie-v-su-asen-zlatarov-gr-shabla/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Празникът на село Селце",
-      "date": "",
-      "time": "",
-      "location": "пред кметството в село Селце",
-      "category": "other",
-      "description": "Празникът на село Селце включваше музикални изпълнения, спортни прояви и томбола с награди. Празничната програма завърши с томбола, в която бяха раздадени множество награди.",
-      "sources": [
-        {
-          "source_id": "kavarna_municipality",
-          "source_name": "Kavarna.bg — Novini/Aktualno/Sabitiya",
-          "url": "https://www.kavarna.bg/novini-aktualno-sybitiya/5510-selo-selce-otbelaza-svoa-praznik"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Митинг-протест в Шабла срещу изграждането на ветрогенераторни паркове",
-      "date": "",
-      "time": "",
-      "location": "Шабла",
-      "category": "other",
-      "description": "В Шабла ще се проведе митинг-протест срещу изграждането на ветрогенераторни паркове върху плодородната земя на крайморската община.",
-      "sources": [
-        {
-          "source_id": "dobrich_media_shabla",
-          "source_name": "Dobrich.media — Obshtina Shabla category",
-          "url": "https://dobrich.media/%d0%b2-%d1%88%d0%b0%d0%b1%d0%bb%d0%b0-%d1%89%d0%b5-%d1%81%d0%b5-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5-%d0%bc%d0%b8%d1%82%d0%b8%d0%bd%d0%b3-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82-%d1%81/"
         }
       ]
     },
@@ -171,7 +207,7 @@
       "title": "„Кодова памет“ - изложба керамика",
       "date": "",
       "time": "",
-      "location": "",
+      "location": "Дунавската градина в Силистра",
       "category": "exhibition",
       "description": "Изложбата „Кодова памет“ ще се проведе от сряда, 02 септември 2026 г. до неделя, 04 октомври 2026 г.",
       "sources": [
@@ -179,6 +215,11 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/kodova-pamet-izlozhba-keramika.html"
+        },
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/09/26/dokumentalna-izlozhba-za-146-godini-ofitsialna-statistika-e-otkrita-v-dunavskata-gradina-v-silistra"
         }
       ]
     },
@@ -195,22 +236,6 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/radialni-pulsatsii-izlozhba-keramika.html"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "title": "XIX Международен фотографски салон Варна 2026",
-      "date": "",
-      "time": "",
-      "location": "Варна",
-      "category": "exhibition",
-      "description": "XIX Международен фотографски салон Варна 2026 ще се проведе между събота, 12 септември и четвъртък, 1 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/xix-mezhdunaroden-fotografski-salon-varna-2026.html"
         }
       ]
     },
