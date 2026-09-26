@@ -18,13 +18,19 @@ def fetch_html(
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "lxml")
 
+    # Some sites write internal links meant to resolve against the site
+    # root rather than the current page path (e.g. a link literally reading
+    # "bg/novini/x" on a page already at "/bg/novini") -- selectors.base_url
+    # lets a source override what urljoin resolves relative hrefs against.
+    link_base = selectors.get("base_url", source_url)
+
     items = []
     for node in soup.select(selectors["list_item"]):
         link_el = node.select_one(selectors.get("link", "a"))
         href = link_el.get(selectors.get("link_attr", "href")) if link_el else None
         if not href:
             continue
-        url = urljoin(source_url, href)
+        url = urljoin(link_base, href)
 
         title_el = node.select_one(selectors["title"]) if selectors.get("title") else link_el
         title = title_el.get_text(strip=True) if title_el else ""

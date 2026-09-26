@@ -37,12 +37,11 @@ sources:
     geo_tags: [shabla]
     assume_in_range: true
     selectors:
-      list_item: "article"
-      link: "a"
+      list_item: "li.lsvr-post-list-widget__item"
+      link: "h4.lsvr-post-list-widget__item-title a"
       link_attr: "href"
-      title: "h2"
-      body: ".content"
-      date: ".date"
+      title: "h4.lsvr-post-list-widget__item-title a"
+      date: "p.lsvr-post-list-widget__item-date"
 
   - id: zora1894_shabla
     name: "NCh Zora 1894 (Shabla cultural center)"
@@ -53,12 +52,12 @@ sources:
     geo_tags: [shabla]
     assume_in_range: true
     selectors:
-      list_item: "article"
-      link: "a"
+      list_item: "div.news_table"
+      link: "h3 a"
       link_attr: "href"
-      title: "h2"
-      body: ".content"
-      date: ".date"
+      title: "h3 a"
+      body: "div[itemprop='text']"
+      date: "time.news_data"
 
   # --- Tier 2: Kavarna / Balchik ---
   - id: kavarna_municipality
@@ -71,20 +70,21 @@ sources:
     assume_in_range: true
 
   - id: balchik_municipality
-    name: "Balchik.bg"
+    name: "Balchik.bg — Novini"
     tier: 2
     type: html-article-list
-    url: "https://www.balchik.bg/"
+    url: "https://www.balchik.bg/bg/novini"
     active: true
     geo_tags: [balchik]
     assume_in_range: true
     selectors:
       list_item: "article"
-      link: "a"
+      link: "h2 a"
       link_attr: "href"
-      title: "h2"
-      body: ".content"
-      date: ".date"
+      title: "h2 a"
+      body: "p"
+      date: "time"
+      base_url: "https://www.balchik.bg/"
 
   # --- Tier 3: Dobrich region ---
   - id: dobrich_media_shabla

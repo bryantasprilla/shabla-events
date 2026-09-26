@@ -45,3 +45,14 @@ def test_fetch_html_skips_items_with_no_link():
     with patch("pipeline.fetchers.html_generic.requests.get", return_value=_mock_response(html)):
         items = fetch_html("https://shabla.bg/events/", SELECTORS)
     assert items == []
+
+
+def test_fetch_html_base_url_override_for_root_relative_links():
+    # Some sites write links like "bg/novini/x" meant to resolve against the
+    # site root, not the current page path (balchik.bg) -- selectors.base_url
+    # overrides what urljoin resolves against.
+    html = "<article class='lsvr_event'><h3 class='post__title'><a href='bg/novini/x'>Title</a></h3></article>"
+    selectors = {**SELECTORS, "base_url": "https://www.balchik.bg/"}
+    with patch("pipeline.fetchers.html_generic.requests.get", return_value=_mock_response(html)):
+        items = fetch_html("https://www.balchik.bg/bg/novini", selectors)
+    assert items[0].url == "https://www.balchik.bg/bg/novini/x"
