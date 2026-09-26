@@ -16,6 +16,13 @@ def fetch_html(
 ) -> list[RawItem]:
     resp = requests.get(source_url, timeout=timeout_s, headers={"User-Agent": user_agent})
     resp.raise_for_status()
+    if resp.encoding == "ISO-8859-1":
+        # requests falls back to ISO-8859-1 per RFC 2616 when a server sends
+        # no charset in its Content-Type header. That default silently
+        # mangles any non-Latin-1 page (found on moreto.net, which is
+        # actually windows-1251) into mojibake -- detect the real encoding
+        # instead whenever requests couldn't find one declared.
+        resp.encoding = resp.apparent_encoding
     soup = BeautifulSoup(resp.text, "lxml")
 
     # Some sites write internal links meant to resolve against the site

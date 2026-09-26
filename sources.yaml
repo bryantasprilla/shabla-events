@@ -112,12 +112,11 @@ sources:
     geo_tags: [dobrich, shabla, kavarna, balchik, general_toshevo, tervel]
     assume_in_range: false
     selectors:
-      list_item: "article"
+      list_item: "li.t09_bl"
       link: "a"
       link_attr: "href"
-      title: "h2"
-      body: ".entry-content"
-      date: ".entry-date"
+      title: "h3.hdng_02"
+      body: "div.t09_meta"
 
   - id: dobrichonline
     name: "Dobrich Online"
@@ -145,11 +144,10 @@ sources:
     assume_in_range: false
     selectors:
       list_item: "article"
-      link: "a"
+      link: "h3.gdlr-blog-title a"
       link_attr: "href"
-      title: "h2"
-      body: ".content"
-      date: ".date"
+      title: "h3.gdlr-blog-title a"
+      date: "div.blog-date"
 
   # --- Tier 4: Varna ---
   - id: visit_varna_calendar
@@ -178,13 +176,11 @@ sources:
     assume_in_range: true
     skip_keyword_filter: true
     selectors:
-      list_item: ".event-card"
+      list_item: "div.item-index"
       link: "a"
       link_attr: "href"
-      title: "h3"
-      body: ".event-description"
-      date: ".event-date"
-      location: ".event-location"
+      title: "h2"
+      date: "div.calendar"
 
   - id: budna_varna
     name: "Budna Varna"
@@ -195,12 +191,12 @@ sources:
     geo_tags: [varna]
     assume_in_range: false
     selectors:
-      list_item: "article"
-      link: "a"
+      list_item: "div.td_module_flex"
+      link: ".entry-title a"
       link_attr: "href"
-      title: "h2"
-      body: ".content"
-      date: ".date"
+      title: ".entry-title a"
+      body: "div.td-excerpt"
+      date: "time.entry-date"
 
   - id: moreto_varna
     name: "Moreto.net (Varna events)"
@@ -211,12 +207,12 @@ sources:
     geo_tags: [varna]
     assume_in_range: false
     selectors:
-      list_item: "article"
+      list_item: "td[height='180']"
       link: "a"
       link_attr: "href"
-      title: "h2"
-      body: ".content"
-      date: ".date"
+      title: "div.t5"
+      body: "div.t4"
+      date: "div.t1"
 
   # --- Tier 5: Silistra region (edge of 2h range) ---
   - id: portal_silistra

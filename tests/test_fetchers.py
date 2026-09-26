@@ -47,6 +47,34 @@ def test_fetch_html_skips_items_with_no_link():
     assert items == []
 
 
+class _FakeResponse:
+    """Mimics requests.Response's lazy, encoding-dependent .text decoding
+    (a plain Mock can't do this since .text is normally a property)."""
+
+    def __init__(self, raw_bytes: bytes, encoding: str, apparent_encoding: str):
+        self._raw = raw_bytes
+        self.encoding = encoding
+        self.apparent_encoding = apparent_encoding
+
+    def raise_for_status(self):
+        pass
+
+    @property
+    def text(self):
+        return self._raw.decode(self.encoding)
+
+
+def test_fetch_html_corrects_undeclared_charset():
+    # moreto.net sends no charset header; requests defaults to ISO-8859-1
+    # per RFC 2616, which mangles this windows-1251 page into mojibake
+    # unless corrected.
+    html = "<article class='lsvr_event'><h3 class='post__title'><a href='/x'>Кино прожекция</a></h3></article>"
+    fake = _FakeResponse(html.encode("windows-1251"), encoding="ISO-8859-1", apparent_encoding="windows-1251")
+    with patch("pipeline.fetchers.html_generic.requests.get", return_value=fake):
+        items = fetch_html("https://www.moreto.net/events.php", SELECTORS)
+    assert items[0].title == "Кино прожекция"
+
+
 def test_fetch_html_base_url_override_for_root_relative_links():
     # Some sites write links like "bg/novini/x" meant to resolve against the
     # site root, not the current page path (balchik.bg) -- selectors.base_url
