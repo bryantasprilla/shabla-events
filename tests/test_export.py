@@ -81,3 +81,20 @@ def test_export_source_stats_json_computes_rates(tmp_path: Path):
     assert stat["pass_rate"] == 0.4
     assert stat["confirm_rate"] == 0.5
     assert stat["last_error"] == "boom"
+
+
+def test_export_includes_translations(tmp_path: Path):
+    conn = connect(":memory:")
+    event_id = _insert_event(conn, "Koncert", "2026-12-31")
+    for lang, title in [("en", "Concert"), ("bg", "Концерт")]:
+        conn.execute(
+            "INSERT INTO event_translations (event_id, lang, title, description) VALUES (?, ?, ?, '')",
+            (event_id, lang, title),
+        )
+    conn.commit()
+
+    out = tmp_path / "events.json"
+    export_events_json(conn, CONFIG, out, today=date(2026, 9, 1))
+    data = json.loads(out.read_text(encoding="utf-8"))
+    assert data["events"][0]["translations"]["bg"]["title"] == "Концерт"
+    assert data["events"][0]["translations"]["en"]["title"] == "Concert"

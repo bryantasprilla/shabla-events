@@ -90,3 +90,28 @@ def test_adult_18_plus_category(extractor):
     print(f"\n[latency] adult_18_plus: {time.monotonic() - start:.1f}s -> {result}")
     assert result.is_event is True
     assert result.category == "adult_18+"
+
+
+def test_translate_bulgarian_event_to_all_languages(extractor):
+    start = time.monotonic()
+    out = extractor.translate(
+        "Юбилеен концерт по повод 50 години средно образование в СУ „Асен Златаров“",
+        "Концертът ще се проведе в Шабла и е посветен на 50 години средно образование.",
+    )
+    print(f"\n[latency] translate_bg: {time.monotonic() - start:.1f}s -> {out}")
+    assert set(out) == {"en", "bg", "ro"}
+    assert "концерт" in out["bg"]["title"].lower()  # original language kept
+    assert "concert" in out["en"]["title"].lower()
+    assert "concert" in out["ro"]["title"].lower()
+    assert out["en"]["description"].isascii() or "Shabla" in out["en"]["description"]
+
+
+def test_translate_romanian_event_to_all_languages(extractor):
+    out = extractor.translate(
+        "Festivalul Toamnei în Mangalia",
+        "Festivalul se va desfășura pe 15 octombrie 2026 în Parcul Central.",
+    )
+    print(f"\n[translate_ro] {out}")
+    assert "festival" in out["en"]["title"].lower()
+    assert "фестивал" in out["bg"]["title"].lower()
+    assert "Festivalul" in out["ro"]["title"]

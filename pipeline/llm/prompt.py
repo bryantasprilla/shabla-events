@@ -38,3 +38,20 @@ def build_user_prompt(source_name: str, source_url: str, title: str, body: str, 
         f"Title: {title}\n"
         f"Body: {truncated_body}"
     )
+
+
+TRANSLATE_SYSTEM_PROMPT = """You are a translator for a local-events website covering Shabla, Bulgaria and the surrounding region.
+
+You will be given an event's title and short description, written in Bulgarian or Romanian (or occasionally English). Produce the title and description in ALL THREE of: English (en), Bulgarian (bg), and Romanian (ro).
+
+Rules:
+- For the language the text is already written in, copy it unchanged.
+- Translate the MEANING of ordinary words into each language (for example "Festivalul Toamnei" becomes "Autumn Festival" / "Есенен фестивал"). Never transliterate an ordinary word into another alphabet as if it were a name.
+- Only proper nouns (people, venues, place names, brand names) are kept or transliterated as-is; do not invent new names.
+- If a description is provided, it is NOT empty: you must give a translated description in ALL THREE languages, about the same length as the original (1-2 sentences). Only return empty description strings when the input description is empty.
+
+Respond with only the JSON object matching the required schema."""
+
+
+def build_translate_prompt(title: str, description: str) -> str:
+    return "Title: " + title + "\nDescription: " + (description or "")[:1500]

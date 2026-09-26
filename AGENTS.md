@@ -90,6 +90,19 @@ run at $0 recurring cost.
    never merge across a clear date mismatch) merges the same event
    reported by multiple sources into one canonical `events` row, linked
    via `event_sources`.
+5b. **Translation** (`run.translate_pending_events`, `Extractor.translate`) —
+   after extraction, each newly-confirmed *active, non-past* event (a few
+   dozen, not every scraped article) is translated by the same local model
+   into en/bg/ro (title + description) and cached in `event_translations`
+   (capped by `--max-translate-per-run`, default 40; failures are skipped and
+   retried next run). The site's UI strings live in `docs/assets/i18n.js`
+   (EN/BG/RO switcher, `?lang=` param > localStorage > browser language >
+   English); event text uses `translations[lang]` and falls back to the
+   original text when a translation is missing or empty. The prompt tells
+   the model to translate meanings, not transliterate ordinary words, and
+   `translate()` retries once if a description is dropped -- both were real
+   failures seen in live testing ("Toamnei" -> "Томни"; empty descriptions).
+   Place names and venues are shown as originally written.
 6. **Export** (`pipeline/export.py`) — `docs/events.json` (public events
    page) and `docs/source_stats.json` (public stats/health dashboard).
 

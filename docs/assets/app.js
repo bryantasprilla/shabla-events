@@ -1,17 +1,7 @@
 (function () {
   "use strict";
 
-  const CATEGORY_LABELS = {
-    concert: "Concert",
-    festival: "Festival",
-    exhibition: "Exhibition",
-    municipal: "Municipal",
-    sports: "Sports",
-    theater: "Theater",
-    adult_18plus: "18+",
-    "adult_18+": "18+",
-    other: "Other",
-  };
+  let data = null;
 
   function escapeHtml(s) {
     const div = document.createElement("div");
@@ -20,10 +10,10 @@
   }
 
   function formatDateHeading(isoDate) {
-    if (!isoDate) return "Date to be announced";
+    if (!isoDate) return I18N.t("tbd");
     const [y, m, d] = isoDate.split("-").map(Number);
     const dt = new Date(Date.UTC(y, m - 1, d));
-    return dt.toLocaleDateString(undefined, {
+    return dt.toLocaleDateString(I18N.locale, {
       weekday: "long",
       year: "numeric",
       month: "long",
@@ -47,12 +37,18 @@
     return groups;
   }
 
+  function categoryLabel(category) {
+    const key = "cat." + (category || "other");
+    const label = I18N.t(key);
+    return label === key ? category || I18N.t("cat.other") : label;
+  }
+
   function renderEventCard(ev) {
-    const catLabel = CATEGORY_LABELS[ev.category] || ev.category || "Other";
     const metaParts = [];
-    if (ev.time) metaParts.push(ev.time);
+    if (ev.time) metaParts.push(escapeHtml(ev.time));
     if (ev.location) metaParts.push(escapeHtml(ev.location));
 
+    const description = I18N.pick(ev, "description");
     const sourceLinks = (ev.sources || [])
       .map((s) => `<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.source_name)}</a>`)
       .join("");
@@ -60,26 +56,25 @@
     return `
       <div class="event-card">
         <div class="row1">
-          <span class="title">${escapeHtml(ev.title)}</span>
-          <span class="badge">${escapeHtml(catLabel)}</span>
+          <span class="title">${escapeHtml(I18N.pick(ev, "title"))}</span>
+          <span class="badge">${escapeHtml(categoryLabel(ev.category))}</span>
         </div>
         ${metaParts.length ? `<div class="meta">${metaParts.join(" · ")}</div>` : ""}
-        ${ev.description ? `<div class="description">${escapeHtml(ev.description)}</div>` : ""}
-        ${sourceLinks ? `<div class="sources">Source: ${sourceLinks}</div>` : ""}
+        ${description ? `<div class="description">${escapeHtml(description)}</div>` : ""}
+        ${sourceLinks ? `<div class="sources">${escapeHtml(I18N.t("source"))}: ${sourceLinks}</div>` : ""}
       </div>
     `;
   }
 
-  function render(data) {
+  function render() {
     const content = document.getElementById("content");
-    const events = data.events || [];
+    const events = (data && data.events) || [];
     if (events.length === 0) {
-      content.innerHTML = '<p class="empty-state">No upcoming events found right now — check back soon.</p>';
+      content.innerHTML = `<p class="empty-state">${escapeHtml(I18N.t("empty"))}</p>`;
       return;
     }
 
-    const groups = groupByDate(events);
-    content.innerHTML = groups
+    content.innerHTML = groupByDate(events)
       .map(
         (g) => `
         <section class="date-group">
@@ -91,15 +86,22 @@
       .join("");
 
     document.getElementById("footer").textContent =
-      "Last updated " + new Date(data.generated_at).toLocaleString();
+      I18N.t("updated") + " " + new Date(data.generated_at).toLocaleString(I18N.locale);
   }
+
+  window.addEventListener("langchange", () => {
+    if (data) render();
+  });
 
   fetch("events.json", { cache: "no-cache" })
     .then((r) => r.json())
-    .then(render)
+    .then((json) => {
+      data = json;
+      render();
+    })
     .catch((err) => {
       document.getElementById("content").innerHTML =
-        '<p class="empty-state">Could not load events right now.</p>';
+        `<p class="empty-state">${escapeHtml(I18N.t("loadError"))}</p>`;
       console.error(err);
     });
 })();

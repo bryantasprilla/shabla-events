@@ -74,6 +74,15 @@ CREATE TABLE IF NOT EXISTS event_sources (
     UNIQUE(event_id, article_id)
 );
 
+CREATE TABLE IF NOT EXISTS event_translations (
+    event_id    INTEGER NOT NULL REFERENCES events(id),
+    lang        TEXT NOT NULL,
+    title       TEXT NOT NULL,
+    description TEXT NOT NULL DEFAULT '',
+    created_at  TEXT NOT NULL DEFAULT (datetime('now')),
+    PRIMARY KEY (event_id, lang)
+);
+
 CREATE TABLE IF NOT EXISTS source_runs (
     id                       INTEGER PRIMARY KEY AUTOINCREMENT,
     source_id                TEXT NOT NULL,

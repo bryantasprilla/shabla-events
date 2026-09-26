@@ -104,6 +104,36 @@ def run_llm_extraction(conn, source: Source, extractor: Extractor, budget: LlmBu
     return confirmed
 
 
+def translate_pending_events(conn, extractor: Extractor, limit: int) -> int:
+    """Translates active events that have no translations yet into en/bg/ro
+    (soonest-dated first), caching them in event_translations. Only confirmed
+    events are translated -- a few dozen, not every scraped article. A failure
+    on one event is logged and skipped (it's retried next run). Returns the
+    number of events translated."""
+    rows = conn.execute(
+        "SELECT id, title, description FROM events e WHERE status = 'active' "
+        "AND (event_date IS NULL OR event_date = '' OR event_date >= date('now')) "
+        "AND NOT EXISTS (SELECT 1 FROM event_translations t WHERE t.event_id = e.id) "
+        "ORDER BY (event_date IS NULL OR event_date = ''), event_date, id LIMIT ?",
+        (limit,),
+    ).fetchall()
+    done = 0
+    for row in rows:
+        try:
+            translations = extractor.translate(row["title"], row["description"] or "")
+        except Exception as e:
+            print(f"translation failed for event {row['id']}: {e}")
+            continue
+        for lang, tr in translations.items():
+            conn.execute(
+                "INSERT OR REPLACE INTO event_translations (event_id, lang, title, description) VALUES (?, ?, ?, ?)",
+                (row["id"], lang, tr["title"] or row["title"], tr["description"]),
+            )
+        conn.commit()
+        done += 1
+    return done
+
+
 def run_source(
     conn, source: Source, settings: Settings, extractor: Extractor, budget: LlmBudget | None = None
 ) -> None:
@@ -150,6 +180,7 @@ def main() -> None:
     parser.add_argument("--events-json", default="docs/events.json")
     parser.add_argument("--stats-json", default="docs/source_stats.json")
     parser.add_argument("--max-llm-per-run", type=int, default=60)
+    parser.add_argument("--max-translate-per-run", type=int, default=40)
     args = parser.parse_args()
 
     config = load_config(args.sources)
@@ -165,6 +196,9 @@ def main() -> None:
     queued = conn.execute("SELECT COUNT(*) FROM articles WHERE status = 'sent_to_llm'").fetchone()[0]
     if queued:
         print(f"{queued} article(s) still queued for LLM extraction on the next run")
+
+    translated = translate_pending_events(conn, extractor, args.max_translate_per_run)
+    print(f"Translated {translated} event(s) into en/bg/ro")
 
     events_written = export_events_json(conn, config, args.events_json)
     sources_written = export_source_stats_json(conn, config, args.stats_json)

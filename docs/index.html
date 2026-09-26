@@ -4,23 +4,28 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Shabla Events</title>
+<link rel="icon" href="data:,">
 <link rel="stylesheet" href="assets/style.css">
 </head>
-<body>
+<body data-title-key="pageTitle">
 <div class="wrap">
   <header>
-    <h1>Shabla Events</h1>
-    <p class="subtitle">Local events near Shabla, Bulgaria and southeastern Romania, scraped and extracted automatically.</p>
+    <div class="header-row">
+      <h1 data-i18n="title">Shabla Events</h1>
+      <div id="lang-switch" class="lang-switch"></div>
+    </div>
+    <p class="subtitle" data-i18n="subtitle">Local events near Shabla, Bulgaria and southeastern Romania, gathered and extracted automatically.</p>
     <nav class="tabs">
-      <a href="index.html" class="active">Events</a>
-      <a href="stats.html">Source health</a>
+      <a href="index.html" class="active" data-i18n="tabEvents">Events</a>
+      <a href="stats.html" data-i18n="tabHealth">Source health</a>
     </nav>
   </header>
   <main id="content">
-    <p class="loading">Loading events…</p>
+    <p class="loading" data-i18n="loading">Loading events…</p>
   </main>
   <footer id="footer"></footer>
 </div>
+<script src="assets/i18n.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>

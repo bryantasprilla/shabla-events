@@ -113,3 +113,38 @@ def test_one_failing_extraction_does_not_abort_the_source():
     assert run["status"] == "success"  # source not aborted
     statuses = sorted(r["status"] for r in conn.execute("SELECT status FROM articles").fetchall())
     assert statuses == ["error", "event_confirmed", "event_confirmed"]
+
+
+def test_translate_pending_events_stores_all_languages_and_skips_done():
+    from pipeline.run import translate_pending_events
+
+    conn = connect(":memory:")
+    conn.execute("INSERT INTO events (title, event_date, description, dedup_key) VALUES ('Koncert', '2999-01-01', 'Opisanie', 'k')")
+    conn.execute("INSERT INTO events (title, event_date, description, dedup_key) VALUES ('Old', '2000-01-01', 'x', 'o')")
+    conn.commit()
+    extractor = Mock()
+    extractor.translate.return_value = {
+        "en": {"title": "Concert", "description": "Description"},
+        "bg": {"title": "Концерт", "description": "Описание"},
+        "ro": {"title": "Concert", "description": "Descriere"},
+    }
+
+    assert translate_pending_events(conn, extractor, limit=10) == 1  # past event ignored
+    rows = {r["lang"]: r["title"] for r in conn.execute("SELECT lang, title FROM event_translations").fetchall()}
+    assert rows == {"en": "Concert", "bg": "Концерт", "ro": "Concert"}
+
+    extractor.translate.reset_mock()
+    assert translate_pending_events(conn, extractor, limit=10) == 0  # already translated
+    extractor.translate.assert_not_called()
+
+
+def test_translation_failure_is_skipped_not_fatal():
+    from pipeline.run import translate_pending_events
+
+    conn = connect(":memory:")
+    conn.execute("INSERT INTO events (title, event_date, description, dedup_key) VALUES ('A', '2999-01-01', '', 'a')")
+    conn.commit()
+    extractor = Mock()
+    extractor.translate.side_effect = ValueError("truncated")
+    assert translate_pending_events(conn, extractor, limit=10) == 0
+    assert conn.execute("SELECT COUNT(*) FROM event_translations").fetchone()[0] == 0

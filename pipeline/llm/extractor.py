@@ -28,7 +28,12 @@ from pathlib import Path
 
 from llama_cpp import Llama, LlamaGrammar
 
-from pipeline.llm.prompt import SYSTEM_PROMPT, build_user_prompt
+from pipeline.llm.prompt import (
+    SYSTEM_PROMPT,
+    TRANSLATE_SYSTEM_PROMPT,
+    build_translate_prompt,
+    build_user_prompt,
+)
 
 VALID_CATEGORIES = [
     "concert", "festival", "exhibition", "municipal", "sports", "theater", "adult_18+", "other",
@@ -47,6 +52,17 @@ JSON_SCHEMA = {
         "source_url": {"type": "string"},
     },
     "required": ["is_event", "title", "date", "time", "location", "category", "description", "source_url"],
+    "additionalProperties": False,
+}
+
+LANGS = ["en", "bg", "ro"]
+
+TRANSLATE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        f"{lang}_{field}": {"type": "string"} for lang in LANGS for field in ("title", "description")
+    },
+    "required": [f"{lang}_{field}" for lang in LANGS for field in ("title", "description")],
     "additionalProperties": False,
 }
 
@@ -79,6 +95,41 @@ class Extractor:
     def __init__(self, model_path: str, n_ctx: int = 4096):
         self._llm = Llama(model_path=model_path, n_ctx=n_ctx, verbose=False)
         self._grammar = LlamaGrammar.from_json_schema(json.dumps(JSON_SCHEMA))
+        self._translate_grammar = LlamaGrammar.from_json_schema(json.dumps(TRANSLATE_SCHEMA))
+
+    def translate(self, title: str, description: str) -> dict[str, dict[str, str]]:
+        """Returns {lang: {"title": ..., "description": ...}} for en/bg/ro.
+
+        The 7B model occasionally drops a description even when one was
+        given, so retry once if that happens; the site also falls back to the
+        original text for any description that's still empty."""
+        result = self._translate_once(title, description)
+        if description and any(not result[lang]["description"] for lang in LANGS):
+            retry = self._translate_once(title, description)
+            for lang in LANGS:
+                if not result[lang]["description"] and retry[lang]["description"]:
+                    result[lang]["description"] = retry[lang]["description"]
+        return result
+
+    def _translate_once(self, title: str, description: str) -> dict[str, dict[str, str]]:
+        response = self._llm.create_chat_completion(
+            messages=[
+                {"role": "system", "content": TRANSLATE_SYSTEM_PROMPT},
+                {"role": "user", "content": build_translate_prompt(title, description)},
+            ],
+            grammar=self._translate_grammar,
+            temperature=0,
+            max_tokens=1400,
+        )
+        choice = response["choices"][0]
+        raw = choice["message"]["content"]
+        if choice.get("finish_reason") == "length":
+            raise ValueError(f"translation truncated at max_tokens: {raw[-60:]!r}")
+        data = json.loads(raw)
+        return {
+            lang: {"title": data.get(f"{lang}_title", ""), "description": data.get(f"{lang}_description", "")}
+            for lang in LANGS
+        }
 
     def extract(
         self,

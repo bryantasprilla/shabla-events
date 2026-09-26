@@ -45,8 +45,16 @@ def export_events_json(
             "SELECT source_id, source_url FROM event_sources WHERE event_id = ?",
             (e["id"],),
         ).fetchall()
+        translations = {
+            t["lang"]: {"title": t["title"], "description": t["description"]}
+            for t in conn.execute(
+                "SELECT lang, title, description FROM event_translations WHERE event_id = ?",
+                (e["id"],),
+            ).fetchall()
+        }
         result.append(
             {
+                "translations": translations,
                 "id": e["id"],
                 "title": e["title"],
                 "date": e["event_date"] or "",
