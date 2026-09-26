@@ -27,9 +27,17 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          key: pip-${{ runner.os }}-portable-v2-${{ hashFiles('requirements.txt') }}
 
       - name: Install dependencies
+        env:
+          # llama-cpp-python has no Linux wheel on PyPI, so pip compiles it.
+          # By default that targets the *build machine's* exact CPU
+          # (-march=native), and the compiled wheel is then cached and reused
+          # on whatever runner CPU the next job lands on -- which crashed with
+          # "Illegal instruction" (SIGILL). Build for a portable AVX2 baseline
+          # (present on all GitHub-hosted x86 runners) instead.
+          CMAKE_ARGS: "-DGGML_NATIVE=OFF -DGGML_AVX2=ON -DGGML_FMA=ON -DGGML_F16C=ON"
         run: pip install -r requirements.txt
 
       - name: Cache model weights
