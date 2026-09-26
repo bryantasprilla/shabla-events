@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T09:06:17.162047+00:00",
+  "generated_at": "2026-09-26T17:56:05.103517+00:00",
   "events": [
     {
       "id": 5,
@@ -19,27 +19,37 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/v-ochakvane-na-orest.html"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/lekciya-nomer-3-silata-na-slovoto-avtorski-spektakal-na-kamen-donev.html"
         }
       ]
     },
     {
-      "id": 6,
-      "title": "Митинг-протест в Шабла срещу изграждането на ветрогенераторни паркове",
+      "id": 12,
+      "title": "Реликвите на Калиакра - историческа изложба",
       "date": "2026-09-26",
       "time": "",
-      "location": "Шабла",
-      "category": "other",
-      "description": "В Шабла ще се проведе митинг-протест срещу изграждането на ветрогенераторни паркове върху плодородната земя на крайморската община.",
+      "location": "Исторически музей Калиакра",
+      "category": "exhibition",
+      "description": "Изложба под названието „Два лъва една кауза“ ще се провежда от 11 септември до 15 октомври 2026 година.",
       "sources": [
         {
-          "source_id": "dobrich_media_shabla",
-          "source_name": "Dobrich.media — Obshtina Shabla category",
-          "url": "https://dobrich.media/%d0%b2-%d1%88%d0%b0%d0%b1%d0%bb%d0%b0-%d1%89%d0%b5-%d1%81%d0%b5-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5-%d0%bc%d0%b8%d1%82%d0%b8%d0%bd%d0%b3-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82-%d1%81/"
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/relikvite-na-kaliakra-istoricheska-izlozhba.html"
         },
         {
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/nosht-na-horovete-iv.html"
+          "url": "https://visit.varna.bg/bg/event/dva-lava-edna-kauza-izlozhba.html"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/elektra-v-ochakvane-na-orest/p1286.html"
         }
       ]
     },
@@ -77,6 +87,11 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/rita.html"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/rita/p1285.html"
         }
       ]
     },
@@ -117,7 +132,7 @@
       "title": "XII турнир по художествена гимнастика „Морски звезди“ и Приз „Меглена Михайлова“",
       "date": "2026-09-26",
       "time": "",
-      "location": "",
+      "location": "Шабла",
       "category": "sports",
       "description": "XII турнир по художествена гимнастика с приз „Меглена Михайлова“ ще се проведе от събота, 26 септември до неделя, 27 септември 2026 година.",
       "sources": [
@@ -125,6 +140,32 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/xii-turnir-po-hudozhestvena-gimnastika-morski-zvez.html"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/morski-kapan-za-sanishta.html"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/folkloren-praznik-pesni-i-hora-kray-zharavata.html"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "празничното отбелязване на Трифон Зарезан 2026г.",
+      "date": "2026-09-26",
+      "time": "10:00",
+      "location": "площада пред НЧ „Зора 1894 г.\"",
+      "category": "other",
+      "description": "Празникът започва на площада пред НЧ „Зора 1894 г.“ с транспорт до лозята край с. Горичане за зарязването и награждаване на участниците.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/praznichnoto-otbelyazvane-na-trifon-zarezan-2026g.html"
         }
       ]
     },
@@ -150,18 +191,191 @@
       ]
     },
     {
+      "id": 6,
+      "title": "Митинг-протест в Шабла срещу изграждането на ветрогенераторни паркове",
+      "date": "2026-09-26",
+      "time": "15:00",
+      "location": "Шабла",
+      "category": "other",
+      "description": "Магията на една кука, превърната в изкуство. Учителят не само води — той вдъхновява. В ръцете му една обикновена кука се превръща във вълшебен инструмент, който създава бримка след бримка топлина, умение и душевност.",
+      "sources": [
+        {
+          "source_id": "dobrich_media_shabla",
+          "source_name": "Dobrich.media — Obshtina Shabla category",
+          "url": "https://dobrich.media/%d0%b2-%d1%88%d0%b0%d0%b1%d0%bb%d0%b0-%d1%89%d0%b5-%d1%81%d0%b5-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5-%d0%bc%d0%b8%d1%82%d0%b8%d0%bd%d0%b3-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82-%d1%81/"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/nosht-na-horovete-iv.html"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/praznik-na-plodorodieto-2026.html"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/izlozhbata-pletivata-na-buditelya.html"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Читалището в село Езерец отпразнува 125 години от създаването си",
+      "date": "2026-09-27",
+      "time": "",
+      "location": "село Езерец",
+      "category": "other",
+      "description": "Читалището в село Езерец организира отпразнуване на 125-годишната годишнина на създаването си.",
+      "sources": [
+        {
+          "source_id": "shabla_novini",
+          "source_name": "Shabla.bg — Novini (News)",
+          "url": "https://shabla.bg/chitalistheto-v-selo-ezerecz-otpraznuva-125-godini-ot-sazdavaneto-si/"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/chast-ot-kolektsiya/p1288.html"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "МЕСЕЦ НА СЕЛО",
+      "date": "2026-09-27",
+      "time": "",
+      "location": "Село",
+      "category": "other",
+      "description": "Месец на Село е ежегоден събитие, организиран на неделя, 27 септември 2026 г.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/mesets-na-selo/p1287.html"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Приключенци на колела гостуват в Шабла с куклено-музикалното представление",
+      "date": "2026-09-28",
+      "time": "",
+      "location": "Народно читалище „Зора-1894“",
+      "category": "other",
+      "description": "Понеделник, 28/09/2026г. е дата на едно неуточнено събитие в рамките на програмата „Сън в лятна нощ“.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/priklyuchenci-na-kolela-gostuvat-v-shabla-s-kukleno-muzikalnoto-predstavlenie.html"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/san-v-lyatna-nosht/p1289.html"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "МАРИУС BG - моноспектакъл на Мариус Куркински по български автори",
+      "date": "2026-09-29",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Мариус Куркински представя моноспектакъл с текстове от български автори.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/marius-bg/p1315.html"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "INTER ALIA",
+      "date": "2026-09-30",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "An event taking place on Wednesday, September 30, 2026, but no further details are provided.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/inter-alia/p1320.html"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Среща с писателката Ал Тъна и нейния нов роман Вино",
+      "date": "2026-10-04",
+      "time": "18:00",
+      "location": "Изложбена зала на НЧ „Зора 1894“ - гр. Шабла",
+      "category": "other",
+      "description": "Народно читалище „Зора 1894“ в Шабла организира вечерта, която ще бъде посветена на съвременното българско слово, българската история и темата за любовта.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/sreshta-s-pisatelkata-al-tana-i-neyniya-nov-roman-vino.html"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/oganyat-na-gruziya/p1319.html"
+        }
+      ]
+    },
+    {
       "id": 2,
       "title": "Юбилеен концерт по повод 50 години средно образование в СУ „Асен Златаров“, гр. Шабла",
       "date": "2026-10-10",
       "time": "16:00",
       "location": "СУ \"Асен Златаров\", гр. Шабла",
       "category": "concert",
-      "description": "Юбилейный концерт в честь 50-летия среднего образования в СУ „Асен Златаров“ в Шабла.",
+      "description": "Това лято ще се проведе концерт-спектакъл с Руслан Мъйнов на сцената на НЧ „Зора 1894“ в Шабла, където ще се изпълнят италиански песни от вечните канцонети до съвременни хитове.",
       "sources": [
         {
           "source_id": "shabla_sabitiya",
           "source_name": "Shabla.bg — Sabitiya (Events archive)",
           "url": "https://shabla.bg/events/yubileen-konczert-po-povod-50-godini-sredno-obrazovanie-v-su-asen-zlatarov-gr-shabla/"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/koncert-spektakal-s-ruslan-maynov-muzikata-na-italiya.html"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/monospektakal-zhivotat-pred-teb-po-romen-gari-dramatizaciya-na-dimitar-nikolov-shablata.html"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/blagotvoritelniyat-koncert.html"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Кулинарна надпревара - Празник за най-вкусна рибена чорба!",
+      "date": "2026-12-06",
+      "time": "11:30",
+      "location": "НЧ „Зора 1894\"",
+      "category": "other",
+      "description": "Празник със вкусна рибена чорба, богата музикална програма и развлечения, организиран на събота, 6 декември.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/kulinarna-nadprevara-praznik-za-nay-vkusna-ribena-chorba-elate-na-vkusen-i-vesel-praznik-s-mnogo-muzika-tanci-i-nastroenie.html"
         }
       ]
     },
@@ -178,27 +392,6 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/100-godini-mezhdunaroden-muzikalen-festival-varnen.html"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "title": "Реликвите на Калиакра - историческа изложба",
-      "date": "",
-      "time": "",
-      "location": "Исторически музей Калиакра",
-      "category": "exhibition",
-      "description": "Изложба под названието „Два лъва една кауза“ ще се провежда от 11 септември до 15 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/relikvite-na-kaliakra-istoricheska-izlozhba.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/dva-lava-edna-kauza-izlozhba.html"
         }
       ]
     },
@@ -224,22 +417,6 @@
       ]
     },
     {
-      "id": 15,
-      "title": "„Радиални пулсации“ - изложба керамика",
-      "date": "",
-      "time": "",
-      "location": "",
-      "category": "exhibition",
-      "description": "Изложбата „Радиални пулсации“ приключва на 26 септември 2026 г. и е посветена на керамика.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/radialni-pulsatsii-izlozhba-keramika.html"
-        }
-      ]
-    },
-    {
       "id": 17,
       "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
       "date": "",
@@ -252,6 +429,139 @@
           "source_id": "silistra_news",
           "source_name": "Silistra News",
           "url": "https://silistranews.net/2026/09/25/dkt-silistra-obyavi-programata-za-detskite-predstavleniya-prez-oktomvri"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "КОНКУРС ЗА НАЙ-ДОБРО ДОМАШНО ВИНО  РЕКОЛТА 2025",
+      "date": "",
+      "time": "",
+      "location": "Община Шабла и Народно читалище „Зора 1894“ – гр. Шабла",
+      "category": "other",
+      "description": "По повод празника на лозаря Трифон Зарезан, Община Шабла и Народно читалище „Зора 1894“ организират конкурс за най-добро домашно бяло и червено вино от реколта 2025 г.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/konkurs-za-nay-dobro-domashno-vino-rekolta-2025.html"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/konkurs-za-kukerski-maski.html"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Кино прожекция \"Почивката 2\" неподправен български комедиен хаос",
+      "date": "",
+      "time": "",
+      "location": "НЧ „Зора 1894“, Шабла",
+      "category": "other",
+      "description": "Кино прожекция на филма „Почивката 2“ в НЧ „Зора 1894“ в град Шабла, България.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/kino-prozhekciya-pochivkata-2-nepodpraven-balgarski-komedien-haos.html"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Представяне на книгата „Нещо за подарък“ София Стойнева",
+      "date": "",
+      "time": "",
+      "location": "Народно читалище „Зора 1894\"",
+      "category": "other",
+      "description": "София Стойнева, автор на книгата „Нещо за подарък“, ще се срещне с публиката за разговор при отipple на Деня на четенето.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/predstavyane-na-sofiya-stoyneva.html"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Великденска работилница",
+      "date": "",
+      "time": "",
+      "location": "читалище,\"Зора 1894\" гр. Шабла",
+      "category": "other",
+      "description": "Празнично боядисване на яйца в читалището \"Зора 1894\" в Шабла, комбиниращо традиции с модерни техники.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/velikdenska-rabotilnica.html"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Конкурс за най-добро домашно вино",
+      "date": "",
+      "time": "",
+      "location": "NCh Zora 1894 (Shabla)",
+      "category": "other",
+      "description": "Конкурс за най-добро домашно вино организиран от NCh Zora 1894 в Шабла.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/konkurs-za-nay-dobro-domashno-vino.html"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Фестивалът \"Виа Понтика\" започна днес",
+      "date": "",
+      "time": "",
+      "location": "Мелницата, Художествената галерия, Балчик",
+      "category": "festival",
+      "description": "Фестивалът за изкуства \"Виа Понтика\" започна с ретроспективна изложба по Стефан Цанев и Доротея Тончева и ще продължи в следващите две седмици в различни места в Балчик.",
+      "sources": [
+        {
+          "source_id": "balchik_municipality",
+          "source_name": "Balchik.bg — Novini",
+          "url": "https://www.balchik.bg/bg/novini/festivalat-via-pontika-zapochna-dnes"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Спортен празник събра ученици, учители и деца в земеделската гимназия в Генерал Тошево",
+      "date": "",
+      "time": "",
+      "location": "Земеделската гимназия в Генерал Тошево",
+      "category": "other",
+      "description": "Спортен празник събира ученици, учители и деца в земеделската гимназия в Генерал Тошево.",
+      "sources": [
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/sporten-praznik-sabra-uchenitsi-uchiteli-i-detsa-v-zemedelskata-gimnaziya-v-general-toshevo-p731375"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Великденски концерт",
+      "date": "",
+      "time": "19:00",
+      "location": "Салона на НЧ \"Зора 1894\"",
+      "category": "concert",
+      "description": "Великденски концерт в салона на Народното читалище \"Зора 1894\" в Шабла, започващ от 19:00 ч. Вход свободен.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/velikdenski-koncert.html"
         }
       ]
     }
