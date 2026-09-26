@@ -224,12 +224,9 @@ sources:
     geo_tags: [silistra, dulovo, tutrakan]
     assume_in_range: false
     selectors:
-      list_item: "article"
-      link: "a"
-      link_attr: "href"
-      title: "h2"
-      body: ".content"
-      date: ".date"
+      list_item: "a.moreNewsItem"
+      title: "h6"
+      date: "div.articleDivider span"
 
   - id: silistra_news
     name: "Silistra News"
@@ -289,12 +286,11 @@ sources:
     geo_tags: [mangalia]
     assume_in_range: true
     selectors:
-      list_item: "article"
-      link: "a"
+      list_item: "div.item.row"
+      link: "div.titlu a"
       link_attr: "href"
-      title: "h2"
-      body: ".content"
-      date: ".date"
+      title: "div.titlu a"
+      date: "div.data"
 
   - id: ziua_constanta
     name: "Ziua de Constanta"
@@ -305,12 +301,11 @@ sources:
     geo_tags: [constanta, mamaia, eforie, costinesti, doi_mai, vama_veche, mangalia, limanu]
     assume_in_range: false
     selectors:
-      list_item: "article"
+      list_item: "div.item"
       link: "a"
       link_attr: "href"
       title: "h2"
-      body: ".content"
-      date: ".date"
+      date: "span.date"
 
   - id: onevent_constanta
     name: "OnEvent.ro (Constanta)"

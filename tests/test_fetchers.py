@@ -75,6 +75,16 @@ def test_fetch_html_corrects_undeclared_charset():
     assert items[0].title == "Кино прожекция"
 
 
+def test_fetch_html_list_item_that_is_itself_the_link():
+    # Some sites make the whole card an <a> with no nested link (portal-silistra.eu).
+    html = "<a class='moreNewsItem' href='/news/1'><h6>Item Title</h6></a>"
+    selectors = {"list_item": "a.moreNewsItem", "title": "h6"}
+    with patch("pipeline.fetchers.html_generic.requests.get", return_value=_mock_response(html)):
+        items = fetch_html("https://example.com/", selectors)
+    assert items[0].title == "Item Title"
+    assert items[0].url == "https://example.com/news/1"
+
+
 def test_fetch_html_base_url_override_for_root_relative_links():
     # Some sites write links like "bg/novini/x" meant to resolve against the
     # site root, not the current page path (balchik.bg) -- selectors.base_url

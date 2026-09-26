@@ -31,16 +31,24 @@ def fetch_html(
     # lets a source override what urljoin resolves relative hrefs against.
     link_base = selectors.get("base_url", source_url)
 
+    link_attr = selectors.get("link_attr", "href")
+
     items = []
     for node in soup.select(selectors["list_item"]):
-        link_el = node.select_one(selectors.get("link", "a"))
-        href = link_el.get(selectors.get("link_attr", "href")) if link_el else None
+        # Some sites make the whole list item an <a> itself (no nested link
+        # to select) -- fall back to the node itself when it already carries
+        # the link attribute directly.
+        if node.name == "a" and node.has_attr(link_attr):
+            link_el = node
+        else:
+            link_el = node.select_one(selectors.get("link", "a"))
+        href = link_el.get(link_attr) if link_el else None
         if not href:
             continue
         url = urljoin(link_base, href)
 
         title_el = node.select_one(selectors["title"]) if selectors.get("title") else link_el
-        title = title_el.get_text(strip=True) if title_el else ""
+        title = title_el.get_text(" ", strip=True) if title_el else ""
         if not title:
             continue
 
