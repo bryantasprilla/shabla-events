@@ -4,7 +4,7 @@ from pipeline.config import Settings, Source
 from pipeline.db import connect
 from pipeline.fetchers.base import RawItem
 from pipeline.llm.extractor import ExtractionResult
-from pipeline.run import run_source
+from pipeline.run import LlmBudget, run_source
 
 SOURCE = Source(id="s1", name="Source 1", tier=1, type="rss", url="https://example.com/feed")
 CALENDAR_SOURCE = Source(
@@ -76,3 +76,24 @@ def test_run_source_extracts_and_dedups_confirmed_events():
     events = conn.execute("SELECT * FROM events").fetchall()
     assert len(events) == 1
     assert events[0]["title"] == "Some Event"
+
+
+def test_llm_budget_defers_excess_articles_to_next_run():
+    conn = connect(":memory:")
+    items = [RawItem(url=f"https://example.com/{i}", title=f"Event {i}", body="Details") for i in range(3)]
+    extractor = _mock_extractor(is_event=True)
+    budget = LlmBudget(remaining=2)
+
+    with patch("pipeline.run.fetch_source", return_value=items):
+        run_source(conn, CALENDAR_SOURCE, SETTINGS, extractor, budget)
+
+    assert extractor.extract.call_count == 2
+    statuses = sorted(r["status"] for r in conn.execute("SELECT status FROM articles").fetchall())
+    assert statuses == ["event_confirmed", "event_confirmed", "sent_to_llm"]  # 3rd deferred, not dropped
+
+    # Next run (fresh budget) picks up the deferred article without re-fetching it as new.
+    extractor2 = _mock_extractor(is_event=True)
+    with patch("pipeline.run.fetch_source", return_value=items):
+        run_source(conn, CALENDAR_SOURCE, SETTINGS, extractor2, LlmBudget(remaining=10))
+    assert extractor2.extract.call_count == 1
+    assert all(r["status"] == "event_confirmed" for r in conn.execute("SELECT status FROM articles").fetchall())

@@ -138,6 +138,26 @@ next success.
   semantic/calibration problem (fix the prompt or keyword/geo lists), not a
   parsing problem.
 
+## Fetcher notes (learned calibrating real sites)
+
+- `selectors.base_url` overrides what relative hrefs resolve against, for
+  sites (balchik.bg) that write links like `bg/novini/x` meant relative to
+  the site root, not the current page.
+- If `list_item` matches `<a>` tags themselves (portal-silistra.eu,
+  onevent.ro), the node's own `href` is used -- no nested link selector needed.
+- `html_generic.py` overrides requests' ISO-8859-1 fallback with the
+  detected encoding (moreto.net is windows-1251 with no charset header).
+- Beware a `list_item` of plain `article`: some themes wrap the whole page in
+  an `<article>`, so a loose selector can "work" by grabbing the same first
+  headline repeatedly (silistra_news did this unnoticed). Always eyeball
+  `manage.py test-source` output for duplicate titles.
+- Some sites can't be scraped: mangalia.tv serves a reCAPTCHA bot check
+  (source kept but `active: false`); dobrichonline.com 403s GitHub's IP
+  ranges but not residential ones. Don't try to defeat bot protection.
+- `--max-llm-per-run` (default 60) caps LLM extractions per run; overflow
+  stays `status='sent_to_llm'` and is processed on later runs, so a big
+  first-run backlog spreads over several days instead of hitting the job limit.
+
 ## Status / next steps
 
 See the build-order milestones in `PLAN.md`. Known calibration risks going

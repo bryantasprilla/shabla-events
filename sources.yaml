@@ -5,8 +5,9 @@ settings:
   request_timeout_s: 20
   user_agent: "shabla-events-bot/1.0 (+https://github.com/bryantasprilla/shabla-events)"
 
-# Selectors below are placeholders and get corrected against real page
-# structure in Milestone 4 (manage.py test-source dry-run fetch).
+# Selectors were verified against each site's real markup via
+# `manage.py test-source`. Sites redesign without notice -- if a source
+# starts returning 0 items or errors, re-inspect its markup (see AGENTS.md).
 
 sources:
   # --- Tier 1: Shabla-specific ---
@@ -97,11 +98,11 @@ sources:
     assume_in_range: true
     selectors:
       list_item: "article"
-      link: "a"
+      link: "h2.post-title a"
       link_attr: "href"
-      title: "h2"
-      body: ".entry-content"
-      date: ".entry-date"
+      title: "h2.post-title a"
+      body: "div.entry.excerpt"
+      date: "p.post-date time"
 
   - id: pronewsdobrich
     name: "ProNews Dobrich"
@@ -127,12 +128,11 @@ sources:
     geo_tags: [dobrich, shabla, kavarna, balchik]
     assume_in_range: false
     selectors:
-      list_item: "article"
-      link: "a"
+      list_item: "div.post-item-small"
+      link: "h3.title a"
       link_attr: "href"
-      title: "h2"
-      body: ".content"
-      date: ".date"
+      title: "h3.title a"
+      date: "p.small-post-meta span"
 
   - id: dobrudjabg
     name: "Dobrudzha news agency"
@@ -237,36 +237,38 @@ sources:
     geo_tags: [silistra, dulovo, tutrakan]
     assume_in_range: false
     selectors:
-      list_item: "article"
-      link: "a"
+      list_item: "ul.grid-list > li"
+      link: ".entry-title a"
       link_attr: "href"
-      title: "h2"
-      body: ".content"
-      date: ".date"
+      title: ".entry-title a"
+      date: "time.entry-date"
 
   # --- Tier 6: Southeastern Romania (Constanta and south toward the border) ---
   - id: mangalianews_events
-    name: "MangaliaNews.ro — Evenimente"
+    name: "MangaliaNews.ro — Evenimente & Recomandari"
     tier: 6
     type: html-article-list
-    url: "https://www.mangalianews.ro/category/evenimente/"
+    url: "https://www.mangalianews.ro/category/stiri/evenimente-recomandari/"
     active: true
     geo_tags: [mangalia]
     assume_in_range: true
     selectors:
-      list_item: "article"
-      link: "a"
+      list_item: "div.td_module_10"
+      link: "h3.entry-title a"
       link_attr: "href"
-      title: "h2"
-      body: ".entry-content"
-      date: ".entry-date"
+      title: "h3.entry-title a"
+      body: "div.td-excerpt"
+      date: "time.entry-date"
 
+  # Deactivated: mangalia.tv serves a JS reCAPTCHA "Bot Verification" page to
+  # non-browser clients, so there is nothing to scrape without bypassing
+  # its bot protection (deliberately not attempted).
   - id: mangalia_tv
     name: "Mangalia.TV"
     tier: 6
     type: html-article-list
     url: "https://www.mangalia.tv/"
-    active: true
+    active: false
     geo_tags: [mangalia]
     assume_in_range: true
     selectors:

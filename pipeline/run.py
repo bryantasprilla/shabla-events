@@ -3,12 +3,13 @@
 Per source: fetch -> change-detect -> relevance-filter -> LLM-extract -> dedup-and-store.
 Each source's steps are isolated so one failure never blocks the others (see AGENTS.md).
 
-Implements the full chain through Milestone 8. Export (Milestone 9) and
-GitHub Issue auto-filing (Milestone 10) are still TODO.
+After all sources: export the public JSON files, then file/update/close
+GitHub Issues for repeatedly-failing sources.
 """
 import argparse
 import json
 import time
+from dataclasses import dataclass
 
 from pipeline.config import Settings, Source, load_config
 from pipeline.db import connect, record_source_run, upsert_article
@@ -20,6 +21,23 @@ from pipeline.hashing import content_hash
 from pipeline.issues import check_and_file_issues
 from pipeline.llm.extractor import Extractor
 from pipeline.relevance import evaluate_relevance
+
+
+@dataclass
+class LlmBudget:
+    """Caps LLM extractions per run. Extraction is by far the slowest step
+    (~40-70s/article on CPU), and calendar sources skip the keyword gate, so
+    a first run against a big backlog could otherwise run for hours. Articles
+    beyond the cap stay status='sent_to_llm' and are picked up on the next
+    run -- nothing is dropped, just deferred."""
+
+    remaining: int
+
+    def take(self) -> bool:
+        if self.remaining <= 0:
+            return False
+        self.remaining -= 1
+        return True
 
 
 def fetch_source(source: Source, settings: Settings) -> list:
@@ -52,15 +70,18 @@ def apply_relevance_filter(conn, source: Source) -> int:
     return passed
 
 
-def run_llm_extraction(conn, source: Source, extractor: Extractor) -> int:
-    """Extracts + dedups every 'sent_to_llm' article for this source.
-    Returns the count confirmed as real events."""
+def run_llm_extraction(conn, source: Source, extractor: Extractor, budget: LlmBudget | None = None) -> int:
+    """Extracts + dedups 'sent_to_llm' articles for this source, up to the
+    shared per-run budget. Returns the count confirmed as real events."""
     rows = conn.execute(
-        "SELECT id, url, title, body FROM articles WHERE source_id = ? AND status = 'sent_to_llm'",
+        "SELECT id, url, title, body FROM articles WHERE source_id = ? AND status = 'sent_to_llm' ORDER BY id",
         (source.id,),
     ).fetchall()
     confirmed = 0
     for row in rows:
+        if budget is not None and not budget.take():
+            print(f"[{source.id}] LLM budget exhausted; remaining articles deferred to the next run")
+            break
         result = extractor.extract(source.name, row["url"], row["title"], row["body"])
         conn.execute(
             "UPDATE articles SET llm_raw_response = ?, status = ? WHERE id = ?",
@@ -72,7 +93,9 @@ def run_llm_extraction(conn, source: Source, extractor: Extractor) -> int:
     return confirmed
 
 
-def run_source(conn, source: Source, settings: Settings, extractor: Extractor) -> None:
+def run_source(
+    conn, source: Source, settings: Settings, extractor: Extractor, budget: LlmBudget | None = None
+) -> None:
     start = time.monotonic()
     try:
         items = fetch_source(source, settings)
@@ -83,7 +106,7 @@ def run_source(conn, source: Source, settings: Settings, extractor: Extractor) -
             if changed:
                 new_or_changed += 1
         passed_filter = apply_relevance_filter(conn, source)
-        events_confirmed = run_llm_extraction(conn, source, extractor)
+        events_confirmed = run_llm_extraction(conn, source, extractor, budget)
         duration_ms = int((time.monotonic() - start) * 1000)
         record_source_run(
             conn,
@@ -115,16 +138,22 @@ def main() -> None:
     parser.add_argument("--model", default="models/qwen2.5-7b-instruct-q4_k_m.gguf")
     parser.add_argument("--events-json", default="docs/events.json")
     parser.add_argument("--stats-json", default="docs/source_stats.json")
+    parser.add_argument("--max-llm-per-run", type=int, default=60)
     args = parser.parse_args()
 
     config = load_config(args.sources)
     conn = connect(args.db)
     extractor = Extractor(args.model)
+    budget = LlmBudget(args.max_llm_per_run)
 
     for source in config.sources:
         if not source.active:
             continue
-        run_source(conn, source, config.settings, extractor)
+        run_source(conn, source, config.settings, extractor, budget)
+
+    queued = conn.execute("SELECT COUNT(*) FROM articles WHERE status = 'sent_to_llm'").fetchone()[0]
+    if queued:
+        print(f"{queued} article(s) still queued for LLM extraction on the next run")
 
     events_written = export_events_json(conn, config, args.events_json)
     sources_written = export_source_stats_json(conn, config, args.stats_json)
