@@ -21,6 +21,7 @@ from pipeline.hashing import content_hash
 from pipeline.issues import check_and_file_issues
 from pipeline.llm.extractor import Extractor
 from pipeline.relevance import evaluate_relevance
+from pipeline.translator import DEFAULT_MODEL_DIR, ENGINE, Translator, detect_language
 
 
 @dataclass
@@ -104,30 +105,42 @@ def run_llm_extraction(conn, source: Source, extractor: Extractor, budget: LlmBu
     return confirmed
 
 
-def translate_pending_events(conn, extractor: Extractor, limit: int) -> int:
-    """Translates active events that have no translations yet into en/bg/ro
-    (soonest-dated first), caching them in event_translations. Only confirmed
-    events are translated -- a few dozen, not every scraped article. A failure
-    on one event is logged and skipped (it's retried next run). Returns the
-    number of events translated."""
+def translate_pending_events(
+    conn, translator: Translator, limit: int, source_languages: dict[str, str] | None = None
+) -> int:
+    """Translates active, non-past events that don't yet have a translation
+    from the dedicated (MADLAD) engine into en/bg/ro (soonest-dated first) and
+    caches them in event_translations. Rows written by any other engine (earlier
+    Qwen-based translation) are simply replaced. Source language
+    comes from the event's first source's configured `language`; if unknown
+    it's guessed from the text. A failure on one event is logged and skipped
+    (retried next run). Returns the number of events translated."""
+    source_languages = source_languages or {}
     rows = conn.execute(
         "SELECT id, title, description FROM events e WHERE status = 'active' "
         "AND (event_date IS NULL OR event_date = '' OR event_date >= date('now')) "
-        "AND NOT EXISTS (SELECT 1 FROM event_translations t WHERE t.event_id = e.id) "
+        "AND NOT EXISTS (SELECT 1 FROM event_translations t WHERE t.event_id = e.id AND t.engine = ?) "
         "ORDER BY (event_date IS NULL OR event_date = ''), event_date, id LIMIT ?",
-        (limit,),
+        (ENGINE, limit),
     ).fetchall()
     done = 0
     for row in rows:
+        first_source = conn.execute(
+            "SELECT source_id FROM event_sources WHERE event_id = ? ORDER BY id LIMIT 1", (row["id"],)
+        ).fetchone()
+        src_lang = source_languages.get(first_source["source_id"]) if first_source else None
+        if src_lang is None:
+            src_lang = detect_language(f"{row['title']} {row['description'] or ''}")
         try:
-            translations = extractor.translate(row["title"], row["description"] or "")
+            translations = translator.translate(row["title"], row["description"] or "", src_lang)
         except Exception as e:
             print(f"translation failed for event {row['id']}: {e}")
             continue
         for lang, tr in translations.items():
             conn.execute(
-                "INSERT OR REPLACE INTO event_translations (event_id, lang, title, description) VALUES (?, ?, ?, ?)",
-                (row["id"], lang, tr["title"] or row["title"], tr["description"]),
+                "INSERT OR REPLACE INTO event_translations (event_id, lang, title, description, engine) "
+                "VALUES (?, ?, ?, ?, ?)",
+                (row["id"], lang, tr["title"] or row["title"], tr["description"], ENGINE),
             )
         conn.commit()
         done += 1
@@ -180,7 +193,8 @@ def main() -> None:
     parser.add_argument("--events-json", default="docs/events.json")
     parser.add_argument("--stats-json", default="docs/source_stats.json")
     parser.add_argument("--max-llm-per-run", type=int, default=60)
-    parser.add_argument("--max-translate-per-run", type=int, default=40)
+    parser.add_argument("--translator-model", default=DEFAULT_MODEL_DIR)
+    parser.add_argument("--max-translate-per-run", type=int, default=200)
     args = parser.parse_args()
 
     config = load_config(args.sources)
@@ -197,7 +211,9 @@ def main() -> None:
     if queued:
         print(f"{queued} article(s) still queued for LLM extraction on the next run")
 
-    translated = translate_pending_events(conn, extractor, args.max_translate_per_run)
+    translator = Translator(args.translator_model)
+    source_languages = {src.id: src.language for src in config.sources}
+    translated = translate_pending_events(conn, translator, args.max_translate_per_run, source_languages)
     print(f"Translated {translated} event(s) into en/bg/ro")
 
     events_written = export_events_json(conn, config, args.events_json)

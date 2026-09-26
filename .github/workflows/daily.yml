@@ -54,6 +54,25 @@ jobs:
           curl -L -o models/qwen2.5-7b-instruct-q4_k_m.gguf \
             "https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-GGUF/resolve/main/Qwen2.5-7B-Instruct-Q4_K_M.gguf"
 
+      - name: Cache translation model
+        id: mt-cache
+        uses: actions/cache@v4
+        with:
+          path: models/madlad400-3b-mt-ct2-int8
+          key: madlad400-3b-mt-ct2-int8-v1
+
+      - name: Download translation model if not cached
+        if: steps.mt-cache.outputs.cache-hit != 'true'
+        run: |
+          # MADLAD-400 3B (Google, Apache-2.0), CTranslate2 int8 conversion by
+          # Nextcloud, pinned to a commit. ~3GB; together with the Qwen weights
+          # this stays under the 10GB per-repo Actions cache limit.
+          mkdir -p models/madlad400-3b-mt-ct2-int8
+          cd models/madlad400-3b-mt-ct2-int8
+          for f in config.json shared_vocabulary.json spiece.model added_tokens.json model.bin; do
+            curl -fL -o "$f" "https://huggingface.co/Nextcloud-AI/madlad400-3b-mt-ct2-int8/resolve/aa32bbdeba7880eff2096ec044cb155a340a9400/$f"
+          done
+
       - name: Run pipeline
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -66,4 +85,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/shabla_events.db docs/events.json docs/source_stats.json
           git diff --cached --quiet || git commit -m "chore: daily events update $(date -u +%Y-%m-%d)"
+          # Rebase over any commits pushed while this (long) job ran, so a
+          # concurrent code push can't reject ours and discard the run's work.
+          git pull --rebase
           git push

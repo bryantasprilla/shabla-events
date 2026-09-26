@@ -125,6 +125,7 @@ def cmd_add_source(args: argparse.Namespace) -> None:
         assume_in_range=args.assume_in_range,
         skip_keyword_filter=args.skip_keyword_filter,
         selectors=selectors,
+        language=args.language,
     )
 
     trial_config = Config(settings=config.settings, sources=config.sources + [new_source])
@@ -212,6 +213,7 @@ def build_parser() -> argparse.ArgumentParser:
     p_add.add_argument("--url", required=True)
     p_add.add_argument("--tier", type=int, required=True)
     p_add.add_argument("--type", required=True)
+    p_add.add_argument("--language", choices=["bg", "ro"], default="bg", help="language the source is written in (used for translation)")
     p_add.add_argument("--geo-tags", default="")
     p_add.add_argument("--assume-in-range", action="store_true")
     p_add.add_argument("--skip-keyword-filter", action="store_true")

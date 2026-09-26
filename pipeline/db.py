@@ -79,6 +79,7 @@ CREATE TABLE IF NOT EXISTS event_translations (
     lang        TEXT NOT NULL,
     title       TEXT NOT NULL,
     description TEXT NOT NULL DEFAULT '',
+    engine      TEXT NOT NULL DEFAULT 'qwen',
     created_at  TEXT NOT NULL DEFAULT (datetime('now')),
     PRIMARY KEY (event_id, lang)
 );
@@ -110,6 +111,15 @@ CREATE TABLE IF NOT EXISTS source_issues (
 """
 
 
+def _migrate(conn: sqlite3.Connection) -> None:
+    """Additive migrations for databases created by earlier schema versions
+    (CREATE TABLE IF NOT EXISTS won't add columns to an existing table)."""
+    cols = {r[1] for r in conn.execute("PRAGMA table_info(event_translations)").fetchall()}
+    if "engine" not in cols:
+        # Rows written before the dedicated translator existed came from Qwen.
+        conn.execute("ALTER TABLE event_translations ADD COLUMN engine TEXT NOT NULL DEFAULT 'qwen'")
+
+
 def connect(db_path: str | Path) -> sqlite3.Connection:
     """Open (creating if needed) the SQLite DB and ensure the schema exists.
 
@@ -122,6 +132,7 @@ def connect(db_path: str | Path) -> sqlite3.Connection:
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
     conn.executescript(SCHEMA)
+    _migrate(conn)
     conn.commit()
     return conn
 

@@ -115,36 +115,108 @@ def test_one_failing_extraction_does_not_abort_the_source():
     assert statuses == ["error", "event_confirmed", "event_confirmed"]
 
 
-def test_translate_pending_events_stores_all_languages_and_skips_done():
-    from pipeline.run import translate_pending_events
-
-    conn = connect(":memory:")
-    conn.execute("INSERT INTO events (title, event_date, description, dedup_key) VALUES ('Koncert', '2999-01-01', 'Opisanie', 'k')")
-    conn.execute("INSERT INTO events (title, event_date, description, dedup_key) VALUES ('Old', '2000-01-01', 'x', 'o')")
-    conn.commit()
-    extractor = Mock()
-    extractor.translate.return_value = {
+def _translator_mock():
+    translator = Mock()
+    translator.translate.return_value = {
         "en": {"title": "Concert", "description": "Description"},
         "bg": {"title": "Концерт", "description": "Описание"},
         "ro": {"title": "Concert", "description": "Descriere"},
     }
+    return translator
 
-    assert translate_pending_events(conn, extractor, limit=10) == 1  # past event ignored
-    rows = {r["lang"]: r["title"] for r in conn.execute("SELECT lang, title FROM event_translations").fetchall()}
-    assert rows == {"en": "Concert", "bg": "Концерт", "ro": "Concert"}
 
-    extractor.translate.reset_mock()
-    assert translate_pending_events(conn, extractor, limit=10) == 0  # already translated
-    extractor.translate.assert_not_called()
+def _add_event(conn, title, event_date, source_id=None):
+    cur = conn.execute(
+        "INSERT INTO events (title, event_date, description, dedup_key) VALUES (?, ?, 'Opisanie', ?)",
+        (title, event_date, title.lower()),
+    )
+    if source_id:
+        conn.execute(
+            "INSERT INTO event_sources (event_id, article_id, source_id, source_url) VALUES (?, 1, ?, 'u')",
+            (cur.lastrowid, source_id),
+        )
+    conn.commit()
+    return cur.lastrowid
+
+
+def test_translate_pending_events_stores_all_languages_and_skips_done():
+    from pipeline.run import translate_pending_events
+
+    conn = connect(":memory:")
+    _add_event(conn, "Koncert", "2999-01-01")
+    _add_event(conn, "Old", "2000-01-01")
+    translator = _translator_mock()
+
+    assert translate_pending_events(conn, translator, limit=10) == 1  # past event ignored
+    from pipeline.translator import ENGINE
+
+    rows = {r["lang"]: (r["title"], r["engine"]) for r in conn.execute("SELECT * FROM event_translations").fetchall()}
+    assert rows == {"en": ("Concert", ENGINE), "bg": ("Концерт", ENGINE), "ro": ("Concert", ENGINE)}
+
+    translator.translate.reset_mock()
+    assert translate_pending_events(conn, translator, limit=10) == 0  # already translated by the current engine
+    translator.translate.assert_not_called()
+
+
+def test_source_language_comes_from_the_events_first_source():
+    from pipeline.run import translate_pending_events
+
+    conn = connect(":memory:")
+    _add_event(conn, "Petrecere", "2999-01-01", source_id="ro_source")
+    translator = _translator_mock()
+    translate_pending_events(conn, translator, limit=10, source_languages={"ro_source": "ro"})
+    assert translator.translate.call_args[0][2] == "ro"
+
+
+def test_source_language_falls_back_to_script_detection():
+    from pipeline.run import translate_pending_events
+
+    conn = connect(":memory:")
+    _add_event(conn, "Концерт на открито", "2999-01-01")  # no source known, Cyrillic -> bg
+    translator = _translator_mock()
+    translate_pending_events(conn, translator, limit=10)
+    assert translator.translate.call_args[0][2] == "bg"
+
+
+def test_translations_from_other_engines_are_replaced():
+    from pipeline.run import translate_pending_events
+
+    conn = connect(":memory:")
+    event_id = _add_event(conn, "Koncert", "2999-01-01")
+    conn.execute(
+        "INSERT INTO event_translations (event_id, lang, title, description, engine) VALUES (?, 'en', 'qwen text', '', 'qwen')",
+        (event_id,),
+    )
+    conn.commit()
+
+    assert translate_pending_events(conn, _translator_mock(), limit=10) == 1
+    row = conn.execute("SELECT title, engine FROM event_translations WHERE lang = 'en'").fetchone()
+    from pipeline.translator import ENGINE
+
+    assert (row["title"], row["engine"]) == ("Concert", ENGINE)
 
 
 def test_translation_failure_is_skipped_not_fatal():
     from pipeline.run import translate_pending_events
 
     conn = connect(":memory:")
-    conn.execute("INSERT INTO events (title, event_date, description, dedup_key) VALUES ('A', '2999-01-01', '', 'a')")
-    conn.commit()
-    extractor = Mock()
-    extractor.translate.side_effect = ValueError("truncated")
-    assert translate_pending_events(conn, extractor, limit=10) == 0
+    _add_event(conn, "A", "2999-01-01")
+    translator = Mock()
+    translator.translate.side_effect = ValueError("boom")
+    assert translate_pending_events(conn, translator, limit=10) == 0
     assert conn.execute("SELECT COUNT(*) FROM event_translations").fetchone()[0] == 0
+
+
+def test_db_migration_adds_engine_column_to_old_databases(tmp_path):
+    import sqlite3
+
+    path = tmp_path / "old.db"
+    old = sqlite3.connect(path)
+    old.execute("CREATE TABLE event_translations (event_id INTEGER, lang TEXT, title TEXT, description TEXT, created_at TEXT, PRIMARY KEY (event_id, lang))")
+    old.execute("INSERT INTO event_translations VALUES (1, 'en', 't', '', '2026-01-01')")
+    old.commit()
+    old.close()
+
+    conn = connect(path)
+    row = conn.execute("SELECT engine FROM event_translations").fetchone()
+    assert row["engine"] == "qwen"  # pre-existing rows are marked as the old engine

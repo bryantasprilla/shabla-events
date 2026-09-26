@@ -247,6 +247,7 @@ sources:
   - id: mangalianews_events
     name: "MangaliaNews.ro — Evenimente & Recomandari"
     tier: 6
+    language: ro
     type: html-article-list
     url: "https://www.mangalianews.ro/category/stiri/evenimente-recomandari/"
     active: true
@@ -266,6 +267,7 @@ sources:
   - id: mangalia_tv
     name: "Mangalia.TV"
     tier: 6
+    language: ro
     type: html-article-list
     url: "https://www.mangalia.tv/"
     active: false
@@ -282,6 +284,7 @@ sources:
   - id: cuget_liber_mangalia
     name: "Cuget Liber (Mangalia)"
     tier: 6
+    language: ro
     type: html-article-list
     url: "https://cugetliber.ro/mangalia"
     active: true
@@ -297,6 +300,7 @@ sources:
   - id: ziua_constanta
     name: "Ziua de Constanta"
     tier: 6
+    language: ro
     type: html-article-list
     url: "https://www.ziuaconstanta.ro/stiri.html"
     active: true
@@ -312,6 +316,7 @@ sources:
   - id: onevent_constanta
     name: "OnEvent.ro (Constanta)"
     tier: 6
+    language: ro
     type: structured-calendar
     url: "https://www.onevent.ro/orase/constanta/"
     active: true
@@ -327,6 +332,7 @@ sources:
   - id: zilesinopti_constanta
     name: "Zile si Nopti (Constanta) — nightlife/party agenda"
     tier: 6
+    language: ro
     type: structured-calendar
     url: "https://zilesinopti.ro/evenimente-constanta/"
     active: true

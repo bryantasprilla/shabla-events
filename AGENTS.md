@@ -90,19 +90,34 @@ run at $0 recurring cost.
    never merge across a clear date mismatch) merges the same event
    reported by multiple sources into one canonical `events` row, linked
    via `event_sources`.
-5b. **Translation** (`run.translate_pending_events`, `Extractor.translate`) —
-   after extraction, each newly-confirmed *active, non-past* event (a few
-   dozen, not every scraped article) is translated by the same local model
-   into en/bg/ro (title + description) and cached in `event_translations`
-   (capped by `--max-translate-per-run`, default 40; failures are skipped and
-   retried next run). The site's UI strings live in `docs/assets/i18n.js`
-   (EN/BG/RO switcher, `?lang=` param > localStorage > browser language >
-   English); event text uses `translations[lang]` and falls back to the
-   original text when a translation is missing or empty. The prompt tells
-   the model to translate meanings, not transliterate ordinary words, and
-   `translate()` retries once if a description is dropped -- both were real
-   failures seen in live testing ("Toamnei" -> "Томни"; empty descriptions).
-   Place names and venues are shown as originally written.
+5b. **Translation** (`pipeline/translator.py`, `run.translate_pending_events`) —
+   each active, non-past event is translated into en/bg/ro (title +
+   description) by a *dedicated* MT model, **MADLAD-400 3B** (Google,
+   T5-based, **Apache-2.0**) via CTranslate2 int8 (`ctranslate2` +
+   `sentencepiece`, no PyTorch; CT2 conversion by Nextcloud, pinned commit,
+   ~3GB in `models/madlad400-3b-mt-ct2-int8/`, cached in Actions). It is
+   steered by a target token prefix (`"<2en> text"`), so it needs no source
+   language for translating; the source-language text is copied unchanged.
+   Results are cached in `event_translations` with `engine=ENGINE`
+   (`translator.ENGINE`); rows from any other engine (the earlier Qwen
+   translation, or a future model bump) are automatically replaced, and a
+   `db._migrate` ALTER added the column to the committed DB. Source language
+   is the source's `language` field in `sources.yaml` (`bg` default, `ro` for
+   tier 6; `--language` on `add-source`), falling back to a script guess.
+   **Why MADLAD:** the whole stack should stay usable commercially. NLLB-200
+   was tried first (fast, ~1-2s/event) but its weights are CC-BY-NC-4.0
+   (non-commercial); MADLAD is Apache-2.0 and was *better* in a head-to-head
+   on real events (correct "Незабравимо"/"Констанца"/"Kaliakra", native ș/ț,
+   times preserved) at ~2-9s/event. Cheap guardrails from the NLLB trials
+   are kept (quote normalization, cedilla->comma-below, `_restore_times`).
+   Known residual flaws: occasional odd word choices (СУ -> "Școala
+   Superioară", "Moaștele" for relics) and place names kept in Latin.
+   Licenses across the stack: Qwen2.5-7B Apache-2.0, MADLAD Apache-2.0,
+   llama.cpp/CTranslate2 MIT -- but scraped content is a separate question
+   if the site is ever monetized. The site's UI
+   strings live in `docs/assets/i18n.js` (EN/BG/RO switcher, `?lang=` >
+   localStorage > browser language > English); event text uses
+   `translations[lang]` and falls back to the original text if missing.
 6. **Export** (`pipeline/export.py`) — `docs/events.json` (public events
    page) and `docs/source_stats.json` (public stats/health dashboard).
 

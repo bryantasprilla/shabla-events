@@ -14,6 +14,7 @@ from ruamel.yaml import YAML
 from pipeline.geo import GEO_PLACES
 
 VALID_TYPES = {"rss", "html-article-list", "structured-calendar"}
+VALID_LANGUAGES = {"bg", "ro"}
 SELECTORS_REQUIRED_FOR = {"html-article-list", "structured-calendar"}
 
 _yaml = YAML()
@@ -34,6 +35,7 @@ class Source:
     skip_keyword_filter: bool = False
     selectors: dict | None = None
     consecutive_failure_threshold: int | None = None
+    language: str = "bg"
 
     @classmethod
     def from_dict(cls, d: dict) -> "Source":
@@ -49,6 +51,7 @@ class Source:
             skip_keyword_filter=d.get("skip_keyword_filter", False),
             selectors=d.get("selectors"),
             consecutive_failure_threshold=d.get("consecutive_failure_threshold"),
+            language=d.get("language", "bg"),
         )
 
     def to_dict(self) -> dict:
@@ -61,6 +64,8 @@ class Source:
             "active": self.active,
             "geo_tags": self.geo_tags,
         }
+        if self.language != "bg":
+            d["language"] = self.language
         if self.assume_in_range:
             d["assume_in_range"] = True
         if self.skip_keyword_filter:
@@ -132,6 +137,9 @@ def validate(config: Config) -> list[str]:
 
         if not (1 <= s.tier <= 6):
             errors.append(f"{s.id}: tier must be 1-6, got {s.tier}")
+
+        if s.language not in VALID_LANGUAGES:
+            errors.append(f"{s.id}: invalid language '{s.language}' (must be one of {sorted(VALID_LANGUAGES)})")
 
         if s.type in SELECTORS_REQUIRED_FOR and not s.selectors:
             errors.append(f"{s.id}: type '{s.type}' requires 'selectors'")
