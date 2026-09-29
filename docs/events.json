@@ -1,221 +1,6 @@
 {
-  "generated_at": "2026-09-28T10:58:52.273142+00:00",
+  "generated_at": "2026-09-29T10:50:46.078987+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Приключенци на колела гостуват в Шабла с куклено-музикалното представление",
-          "description": "Понеделник, 28/09/2026г. е дата на едно неуточнено събитие в рамките на програмата „Сън в лятна нощ“."
-        },
-        "en": {
-          "title": "Adventurers on wheels visit Shabla with the puppet-musical performance",
-          "description": "Monday, 28/09/2026g. is the date of one unspecified event within the program \"A Midsummer Night's Dream\"."
-        },
-        "ro": {
-          "title": "Aventurieri pe roți vizitează Șabla cu spectacolul de păpuși și muzică",
-          "description": "Luni, 28/09/2026 este data unui eveniment nespecificat în cadrul programului \"Vis într-o noapte de vară\"."
-        }
-      },
-      "id": 25,
-      "title": "Приключенци на колела гостуват в Шабла с куклено-музикалното представление",
-      "date": "2026-09-28",
-      "time": "",
-      "location": "Народно читалище „Зора-1894“",
-      "category": "other",
-      "description": "Понеделник, 28/09/2026г. е дата на едно неуточнено събитие в рамките на програмата „Сън в лятна нощ“.",
-      "sources": [
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/priklyuchenci-na-kolela-gostuvat-v-shabla-s-kukleno-muzikalnoto-predstavlenie.html"
-        },
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/san-v-lyatna-nosht/p1289.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Формация „Либервокс“ с концерт в Добрич за Международния ден на музиката",
-          "description": "Формация „Либервокс“ ще се представи с концерт в Добрич за Международния ден на музиката."
-        },
-        "en": {
-          "title": "\"Libervox\" Formation with concert in Dobrich for the International Day of Music",
-          "description": "The Libervox band will perform a concert in Dobrich for the International Day of Music."
-        },
-        "ro": {
-          "title": "Formația \"Libervox\" cu un concert la Dobrici pentru Ziua Internațională a Muzicii",
-          "description": "Formația \"Libervox\" va susține un concert la Dobrich cu ocazia Zilei Internaționale a Muzicii."
-        }
-      },
-      "id": 168,
-      "title": "Формация „Либервокс“ с концерт в Добрич за Международния ден на музиката",
-      "date": "2026-09-28",
-      "time": "",
-      "location": "Добрич",
-      "category": "concert",
-      "description": "Формация „Либервокс“ ще се представи с концерт в Добрич за Международния ден на музиката.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/formatsiya-„libervoks“-s-kontsert-v-dobrich-za-mezhdunarodniya-den-na-muzikata-p731412"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ТЕНИС: Състезателката на \"Изида\" Далия Чипилска спечели регионален турнир във Варна",
-          "description": "Далия Чипилска от командата \"Изида\" спечели регионален турнир по тенис във Варна."
-        },
-        "en": {
-          "title": "TENNIS: Isis competitor Dalia Chipilska wins regional tournament in Varna",
-          "description": "Dalia Chipilska from the Isis team won a regional tennis tournament in Varna."
-        },
-        "ro": {
-          "title": "TENIS: Concurenta Isis, Dalia Cipilska, câștigă turneul regional de la Varna",
-          "description": "Dalia Cipilska de la echipa Isis a câștigat turneul regional de tenis de la Varna."
-        }
-      },
-      "id": 170,
-      "title": "ТЕНИС: Състезателката на \"Изида\" Далия Чипилска спечели регионален турнир във Варна",
-      "date": "2026-09-28",
-      "time": "",
-      "location": "Варна",
-      "category": "sports",
-      "description": "Далия Чипилска от командата \"Изида\" спечели регионален турнир по тенис във Варна.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/tenis-systezatelkata-na-izida-daliq-chipilska-specheli-regionalen-turnir-vyv-varna/116630"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Сън в лятна нощ",
-          "description": "Театрален спектакъл със тема „Сън в лятна нощ“."
-        },
-        "en": {
-          "title": "A Summer Night's Dream",
-          "description": "A Midsummer Night's Dream (2009)"
-        },
-        "ro": {
-          "title": "Somnul unei nopți de vară",
-          "description": "Spectacol teatral pe tema \"Vis într-o noapte de vară\"."
-        }
-      },
-      "id": 171,
-      "title": "Сън в лятна нощ",
-      "date": "2026-09-28",
-      "time": "",
-      "location": "театър",
-      "category": "theater",
-      "description": "Театрален спектакъл със тема „Сън в лятна нощ“.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/san-v-lyatna-nosht-teatralen-spektakal.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Varnapreneurs #36“ - предприемаческа лекция",
-          "description": "Предприемаческа лекция в рамките на програмата „Varnapreneurs #36“."
-        },
-        "en": {
-          "title": "\"Varnapreneurs #36\" - entrepreneurial lecture",
-          "description": "Entrepreneurial lecture within the program \"Varnapreneurs #36\"."
-        },
-        "ro": {
-          "title": "\"Varnapreneurs #36\" - prelegere antreprenorială",
-          "description": "O prelegere antreprenorială în cadrul programului \"Varnapreneurs #36\"."
-        }
-      },
-      "id": 172,
-      "title": "„Varnapreneurs #36“ - предприемаческа лекция",
-      "date": "2026-09-28",
-      "time": "",
-      "location": "",
-      "category": "municipal",
-      "description": "Предприемаческа лекция в рамките на програмата „Varnapreneurs #36“.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/varnapreneurs-36-predpriemacheska-lektsiya.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Читалището в Царевец с първа награда от кулинарния конкурс „Като едно време“ в \"Стария Добрич\"",
-          "description": "На 28 септември 2026 г. в Царевец се провежда читалище, при което е разносена първата награда от кулинарния конкурс „Като едно време“ в „Стария Добрич\"."
-        },
-        "en": {
-          "title": "The community center in Tsarevets with first prize from the culinary competition \"As Once Upon a Time\" in \"Stara Dobrich\"",
-          "description": "On September 28, 2026 in Tsarevets is held a community center, where the first prize from the culinary competition \"As Once Upon a Time\" in \"Stara Dobrich\" is distributed."
-        },
-        "ro": {
-          "title": "Centrul Cultural din Tsarevets cu premiul întâi la concursul culinar \"Ca pe vremuri\" în \"Staria Dobrich\"",
-          "description": "Pe 28 septembrie 2026, în Tsarevets se desfășoară o sală comunitară, în cadrul căreia a fost distribuit primul premiu al concursului culinar \"Ca odată\" în \"Staria Dobrich\"."
-        }
-      },
-      "id": 169,
-      "title": "Читалището в Царевец с първа награда от кулинарния конкурс „Като едно време“ в \"Стария Добрич\"",
-      "date": "2026-09-28",
-      "time": "09:01",
-      "location": "Царевец",
-      "category": "other",
-      "description": "На 28 септември 2026 г. в Царевец се провежда читалище, при което е разносена първата награда от кулинарния конкурс „Като едно време“ в „Стария Добрич\".",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/chitalishteto-v-carevec-s-pyrva-nagrada-ot-kulinarniq-konkurs-kato-edno-vreme-v-stariq-dobrich-/116627"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Джафул перфектен",
-          "description": "Музикалното представление \"Jaful Perfect\" с почетна година 2024 г. ще се проведе в Casa de Cultură a Sindicatelor в Констанца на 28 септември 2026 г. в 19:00 ч."
-        },
-        "en": {
-          "title": "Jaful Perfect",
-          "description": "A musical performance \"Jaful Perfect\" with the honorary year 2024 will be held at the Casa de Cultură a Sindicatelor in Constanta on 28 September 2026 at 19:00."
-        },
-        "ro": {
-          "title": "Jaful Perfect",
-          "description": "Музыкально представление „Jaful Perfect“ с почетна годината 2024 г. ще се проведе в Casa de Cultură a Sindicatelor в Констанца на 28 септември 2026 г. в 19:00."
-        }
-      },
-      "id": 90,
-      "title": "Jaful Perfect",
-      "date": "2026-09-28",
-      "time": "19:00",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "concert",
-      "description": "Музыкально представление „Jaful Perfect“ с почетна годината 2024 г. ще се проведе в Casa de Cultură a Sindicatelor в Констанца на 28 септември 2026 г. в 19:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/jaful-perfect/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -273,6 +58,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/milwaukee-open-day-constanta/"
+        },
+        {
+          "source_id": "ziua_constanta",
+          "source_name": "Ziua de Constanta",
+          "url": "https://www.ziuaconstanta.ro/stiri/sport/tenis-jucatoare-din-romania-castigatoare-la-turneul-itf-futures-w15-de-la-constanta-galerie-foto-video-954845.html"
         }
       ]
     },
@@ -308,6 +98,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/clubul-copiilor-mici/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/clubul-copiilor-mari/"
         }
       ]
     },
@@ -368,6 +163,11 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/inter-alia/p1320.html"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/inter-alia-teatralen-spektakal.html"
         }
       ]
     },
@@ -413,6 +213,11 @@
           "source_id": "ziua_constanta",
           "source_name": "Ziua de Constanta",
           "url": "https://www.ziuaconstanta.ro/stiri/actualitate/ziua-seniorului-sarbatorita-in-piata-ovidiu-constanta-paul-surugiu-fuego-printre-artistii-spectacolului-954730.html"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/28/incubatorul-accesibilitate-constanta/"
         }
       ]
     },
@@ -599,6 +404,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Откриваме нов кръг! Нова група за народни танци",
+          "description": "Нова група за традиционни танци открива нов кръг в четвъртък, 1 октомври от 19:00 часа на улица Калугарени в Констанца, Румъния."
+        },
+        "en": {
+          "title": "We open a new circle! New Traditional Dance Group",
+          "description": "A new traditional dance group opens a new circle on Thursday, October 1st at 19:00 in Calugareni Street in Constanta, Romania."
+        },
+        "ro": {
+          "title": "Deschidem cerc nou! Grupă nouă de Dans Tradițional",
+          "description": "O nouă grupă de dans tradițional deschide un cerc nou în joi, 1 octombrie la 19:00 în Strada Calugareni din Constanta, România."
+        }
+      },
+      "id": 192,
+      "title": "Deschidem cerc nou! Grupă nouă de Dans Tradițional",
+      "date": "2026-10-01",
+      "time": "19:00",
+      "location": "Strada Calugareni, Constanta, Romania",
+      "category": "other",
+      "description": "O nouă grupă de dans tradițional deschide un cerc nou în joi, 1 octombrie la 19:00 în Strada Calugareni din Constanta, România.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/deschidem-cerc-nou-grupa-noua-de-dans-traditional%f0%9f%87%b7%f0%9f%87%b4%e2%9c%a8/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Нощ на библиотеките, Библиотеката – сърцето на общността",
           "description": "Нощ на библиотеките, организирана в библиотеката в Констанца, която се счита за сърцето на общността."
         },
@@ -683,6 +518,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/%f0%9f%a7%83%f0%9f%93%9abarfe-de-bac-un-curs-gratuit-unic-in-constanta-pregatire-bacalaureat/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/cum-a-furat-grinch-craciunul-constanta/"
         }
       ]
     },
@@ -749,6 +589,51 @@
     {
       "translations": {
         "bg": {
+          "title": "Нептун Арена Фест продължава с три концертни вечери, празнична атмосфера и Фестивала в Намол",
+          "description": "Нептун Арена Фест ще продължи с три концертни вечери на Ривиера Мангалия, създавайки ваканционна атмосфера и участвайки във Фестивала в Нъмол."
+        },
+        "en": {
+          "title": "Neptun Arena Fest continues with three evenings of concerts, holiday atmosphere and the Nămol Festival",
+          "description": "Neptun Arena Fest will continue with three evenings of concerts at the Mangalia Riviera, creating a holiday atmosphere and participating in the Nămol Festival."
+        },
+        "ro": {
+          "title": "Neptun Arena Fest continuă cu trei seri de concerte, atmosferă de vacanță și Festivalul la Nămol",
+          "description": "Neptun Arena Fest va continua cu trei seri de concerte la Riviera Mangalia, creând o atmosferă de vacanță și participând la Festivalul la Nămol."
+        }
+      },
+      "id": 76,
+      "title": "Neptun Arena Fest continuă cu trei seri de concerte, atmosferă de vacanță și Festivalul la Nămol",
+      "date": "2026-10-03",
+      "time": "",
+      "location": "Neptun Arena, Riviera Mangalia",
+      "category": "concert",
+      "description": "Neptun Arena Fest va continua cu trei seri de concerte la Riviera Mangalia, creând o atmosferă de vacanță și participând la Festivalul la Nămol.",
+      "sources": [
+        {
+          "source_id": "cuget_liber_mangalia",
+          "source_name": "Cuget Liber (Mangalia)",
+          "url": "https://cugetliber.ro/stiri-actualitate-neptun-arena-fest-continua-cu-trei-seri-de-concerte-atmosfera-de-vacanta-si-festivalul-la-namol-la-riviera-mangalia-559383"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/capra-cu-trei-iezi-dupa-i-creanga/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/25/william-klein-100-ani-fotografie/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/karaoke-cu-live-band/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Национална конференция за млади лекари",
           "description": "Това събитие се провежда в Университета \"Овидий\" в Констанца на 3 и 4 октомври 2026 г. и е посветено на младите лекари от цялата страна."
         },
@@ -773,6 +658,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/conferinta-nationala-pentru-tineri-medici/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Начало х Зоом плаж",
+          "description": "На 3 октомври се завръща за заключителното лятно плажно парти, което включва лятна церемония до късно през нощта."
+        },
+        "en": {
+          "title": "Home x ZooM Beach",
+          "description": "Inizio x ZooM Beach is returning on October 3 for the Closing Summer Beach Party, featuring a late-night summer celebration."
+        },
+        "ro": {
+          "title": "Inizio x ZooM Beach",
+          "description": "Inizio x ZooM Beach is returning on October 3 for the Closing Summer Beach Party, featuring a late-night summer celebration."
+        }
+      },
+      "id": 200,
+      "title": "Inizio x ZooM Beach",
+      "date": "2026-10-03",
+      "time": "",
+      "location": "Zoom Beach",
+      "category": "other",
+      "description": "Inizio x ZooM Beach is returning on October 3 for the Closing Summer Beach Party, featuring a late-night summer celebration.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/inizio-x-zoom-beach/"
         }
       ]
     },
@@ -833,6 +748,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/%f0%9f%a7%a0-recalibrare-mentala-memorie-focus-cu-dr-soescu-irina-raluca/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Мечката, измамена от лисицата",
+          "description": "Събитието ще се проведе на улица „Купеней” в Констанца на 3 октомври 2026 г. от 11:00 часа."
+        },
+        "en": {
+          "title": "The bear fooled by the fox",
+          "description": "The event will take place on Cumpenei Street in Constanta on October 3, 2026, at 11:00."
+        },
+        "ro": {
+          "title": "Ursul păcălit de vulpe",
+          "description": "Evenimentul va avea loc pe strada Cumpenei în Constanta la data de 3 octombrie 2026, la ora 11:00."
+        }
+      },
+      "id": 193,
+      "title": "Ursul păcălit de vulpe",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "location": "Strada Cumpenei nr.2",
+      "category": "other",
+      "description": "Evenimentul va avea loc pe strada Cumpenei în Constanta la data de 3 octombrie 2026, la ora 11:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/ursul-pacalit-de-vulpe/"
         }
       ]
     },
@@ -1088,6 +1033,36 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/oganyat-na-gruziya/p1319.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "ТИЙМБИЛДИНГ се завръща – втора част в кината на 5 октомври",
+          "description": "Второто издание на събитието ще живее в кината на 5 октомври."
+        },
+        "en": {
+          "title": "TEAMBUILDING is back. Part Two is coming to theaters on October 5th",
+          "description": "The second edition of the TEAMBUILDING event will live in cinemas on October 5."
+        },
+        "ro": {
+          "title": "TEAMBUILDING se întoarce. Partea a doua intră în cinematografe pe 5 octombrie",
+          "description": "A doua ediție a evenimentului TEAMBUILDING va locui în cinematografe pe 5 octombrie."
+        }
+      },
+      "id": 202,
+      "title": "TEAMBUILDING se întoarce. Partea a doua intră în cinematografe pe 5 octombrie",
+      "date": "2026-10-05",
+      "time": "",
+      "location": "cinematografe",
+      "category": "other",
+      "description": "A doua ediție a evenimentului TEAMBUILDING va locui în cinematografe pe 5 octombrie.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/28/teambuilding-2-intra-in-cinematografe/"
         }
       ]
     },
@@ -1485,14 +1460,19 @@
       "title": "И ВЕРНИЯТ ОТГОВОР Е...",
       "date": "2026-10-11",
       "time": "",
-      "location": "",
+      "location": "Драматичен театър „Стоян Бъчваров“ във Варна",
       "category": "other",
-      "description": "Месецът Верният отговор е се провежда наедно със фестивала на песни и танци в Варна.",
+      "description": "Варненския драматичен театър ще представи две премиери и хитови спектакли през октомври, включително криминални истории, комедии, класика и романтика.",
       "sources": [
         {
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/org/p1034.html"
+        },
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536075"
         }
       ]
     },
@@ -1558,6 +1538,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/povestea-unei-seri-carmen-tanase-marius-bodochi-constanta/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/constanta-plaiesii-leru-i-ler-la-nalte-curti-spectacol-de-colinde/"
         }
       ]
     },
@@ -1688,6 +1673,36 @@
           "source_id": "pronewsdobrich",
           "source_name": "ProNews Dobrich",
           "url": "https://pronewsdobrich.bg/kamen-ivanov-stana-shampion-na-singal-pri-yunoshite-na-turnir-do-16-g-ot-tenis-evropa-v-dobrich-p731396"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Златни искри събира във Варна детски песни от автори от цял свят",
+          "description": "Варна ще гости 14-ото издание на Европейския конкурс за детски песни „Златни искри“ на 17 и 18 октомври."
+        },
+        "en": {
+          "title": "Golden Sparks gathers in Varna children’s songs by authors from all over the world",
+          "description": "Varna will host the 14th edition of the European Children's Song Competition \"Golden Sparks\" on October 17 and 18."
+        },
+        "ro": {
+          "title": "Golden Sparks adună la Varna cântece pentru copii de autori din întreaga lume",
+          "description": "Varna va găzdui cea de-a 14-a ediție a Concursului European de Cântece pentru Copii \"Scântei de Aur\" în 17 și 18 octombrie."
+        }
+      },
+      "id": 190,
+      "title": "Златни искри събира във Варна детски песни от автори от цял свят",
+      "date": "2026-10-17",
+      "time": "",
+      "location": "Варна",
+      "category": "other",
+      "description": "Варна ще гости 14-ото издание на Европейския конкурс за детски песни „Златни искри“ на 17 и 18 октомври.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536107"
         }
       ]
     },
@@ -2219,6 +2234,41 @@
     {
       "translations": {
         "bg": {
+          "title": "Отмъстителите: Завръщането на Края (2017)",
+          "description": "Повторно представяне на филма \"Отмъстителите: Краят на играта\" с тема \"Завръщане в бъдещето\"."
+        },
+        "en": {
+          "title": "\"Avengers: Endgame Encore\".",
+          "description": "\"Avengers: Endgame - Back to the Future\"."
+        },
+        "ro": {
+          "title": "„Avengers: Endgame Encore” – Back to the Future",
+          "description": "A repeat performance of the movie 'Avengers: Endgame' with the theme 'Back to the Future'."
+        }
+      },
+      "id": 166,
+      "title": "„Avengers: Endgame Encore” – Back to the Future",
+      "date": "2026-12-05",
+      "time": "19:00",
+      "location": "Cazino Constanța",
+      "category": "other",
+      "description": "The Spirit of Vienna concert is scheduled to take place at Cazino Constanța on December 5th at 7:00 PM.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/24/avengers-endgame-encore-doomsday/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/the-spirit-of-vienna-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Adriano Celentano Tribute Show by Adolfo Sebastiani",
           "description": "A tribute show to the Italian singer Adriano Celentano performed by Adolfo Sebastiani."
         },
@@ -2273,6 +2323,171 @@
           "source_id": "zora1894_shabla",
           "source_name": "NCh Zora 1894 (Shabla cultural center)",
           "url": "https://nch-zora1894shabla.com/novini/kulinarna-nadprevara-praznik-za-nay-vkusna-ribena-chorba-elate-na-vkusen-i-vesel-praznik-s-mnogo-muzika-tanci-i-nastroenie.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Коледен концерт",
+          "description": "Коледен концерт, който ще се проведе в Националния колеж по изкуствата \"Кралица Мария\" Констанца в 18:30 часа."
+        },
+        "en": {
+          "title": "Christmas Concert",
+          "description": "Christmas concert that will take place at the National College of Arts \"Regina Maria\" Constanta at 18:30."
+        },
+        "ro": {
+          "title": "Concert de Crăciun",
+          "description": "Concert de Crăciun care va avea loc la Colegiul Național de Arte \"Regina Maria\" Constanța la ora 18:30."
+        }
+      },
+      "id": 194,
+      "title": "Concert de Crăciun",
+      "date": "2026-12-19",
+      "time": "18:30",
+      "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
+      "category": "concert",
+      "description": "Concert de Crăciun care va avea loc la Colegiul Național de Arte \"Regina Maria\" Constanța la ora 18:30.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/concert-de-craciun/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Коледна приказка",
+          "description": "Културно събитие, което се провежда в Многофункционалния образователен център за младежта \"Жан Константин\" в Констанца на 21 декември 2026 г. от 19:00 часа."
+        },
+        "en": {
+          "title": "Christmas Story",
+          "description": "A cultural event that takes place in the Multifunctional Educational Center for Youth \"Jean Constantin\" in Constanta on December 21, 2026 at 19:00."
+        },
+        "ro": {
+          "title": "CRACIUN DE POVESTE",
+          "description": "Un eveniment cultural care are loc în Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanta pe 21 decembrie 2026 la ora 19:00."
+        }
+      },
+      "id": 195,
+      "title": "CRACIUN DE POVESTE",
+      "date": "2026-12-21",
+      "time": "19:00",
+      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
+      "category": "other",
+      "description": "Un eveniment cultural care are loc în Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanta pe 21 decembrie 2026 la ora 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/craciun-de-poveste-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Кралска Виена 🎼 Къща на профсъюзите Констанца 🎹 26 декември",
+          "description": "Концертът в Дома на културата на синдикатите в Констанца с участието на РЕГАЛ ВИЕНЕЦ е насрочен за 26 декември от 19:00 часа."
+        },
+        "en": {
+          "title": "ROYAL VIENNA 🎼 HOUSE OF UNION CONSTANȚA 🎹 26 DECEMBER",
+          "description": "The concert at the House of Culture of the Trade Unions of Constanta with the participation of REGAL VIENEZ is scheduled for December 26 at 19:00."
+        },
+        "ro": {
+          "title": "REGAL VIENEZ 🎼 CASA SINDICATELOR CONSTANȚA 🎹 26 DECEMBRIE",
+          "description": "Concertul de la Casa de Cultura a Sindicatelor din Constanța cu participarea lui REGAL VIENEZ este programat pentru 26 decembrie la ora 19:00."
+        }
+      },
+      "id": 197,
+      "title": "REGAL VIENEZ 🎼 CASA SINDICATELOR CONSTANȚA 🎹 26 DECEMBRIE",
+      "date": "2026-12-26",
+      "time": "19:00",
+      "location": "Casa de Cultura a Sindicatelor Constanta",
+      "category": "concert",
+      "description": "Concertul de la Casa de Cultura a Sindicatelor din Constanța cu participarea lui REGAL VIENEZ este programat pentru 26 decembrie la ora 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/regal-vienez-%f0%9f%8e%bc-casa-sindicatelor-constanta-%f0%9f%8e%b9-26-decembrie/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/regal-vienez-casa-de-cultura-a-sindicatelor-constanta-26-decembrie/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/regal-vienez-%f0%9f%8e%bb-casa-sindicatelor-constanta-%f0%9f%8e%84-26-decembrie/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Гласът на мъртвите",
+          "description": "ФУЕГО изпълнява „Глас де Колинда“ в Дома на културата на синдикатите в Констанца на 27 декември от 7:00 часа."
+        },
+        "en": {
+          "title": "FUEGO – A CALL OF CALL!",
+          "description": "FUEGO performs Glas de Colinda at Casa de Cultura a Sindicatelor in Constanta on December 27th at 7:00 PM."
+        },
+        "ro": {
+          "title": "FUEGO – GLAS DE COLINDĂ!",
+          "description": "FUEGO performs Glas de Colinda at Casa de Cultura a Sindicatelor in Constanta on December 27th at 7:00 PM."
+        }
+      },
+      "id": 198,
+      "title": "FUEGO – GLAS DE COLINDĂ!",
+      "date": "2026-12-27",
+      "time": "19:00",
+      "location": "Casa de Cultura a Sindicatelor Constanta",
+      "category": "other",
+      "description": "FUEGO performs Glas de Colinda at Casa de Cultura a Sindicatelor in Constanta on December 27th at 7:00 PM.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/fuego-glas-de-colinda-%f0%9f%8e%84-casa-sindicatelor-constanta-%f0%9f%8e%84-27-decembrie/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/fuego-glas-de-colinda-casa-de-cultura-a-sindicatelor-constanta-27-decembrie/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Юлий Нямцу @ Бирена градина Нибиру (4 юли 2027)",
+          "description": "Събитие за възрастни, организирано в Бирената градина Нибиру, което няма възрастово ограничение. Непълнолетни лица на възраст между 15 и 18 години могат да участват самостоятелно със специална декларация."
+        },
+        "en": {
+          "title": "Iuly Neamțu @ Nibiru Beer Garden (July 4, 2027)",
+          "description": "An event for adults, organized at Nibiru Beer Garden, which has no age limit, minors between 15 and 18 years old can participate alone with a special declaration."
+        },
+        "ro": {
+          "title": "Iuly Neamțu @ Nibiru Beer Garden (4 iulie 2027)",
+          "description": "Un eveniment pentru adulți, organizat la Nibiru Beer Garden, care nu are vârstă limită. Minorii între 15 și 18 ani pot participa singuri cu o declarație specială."
+        }
+      },
+      "id": 201,
+      "title": "Iuly Neamțu @ Nibiru Beer Garden (4 iulie 2027)",
+      "date": "2027-04-04",
+      "time": "",
+      "location": "Nibiru Beer Garden",
+      "category": "adult_18+",
+      "description": "Un eveniment pentru adulți, organizat la Nibiru Beer Garden, care nu are vârstă limită. Minorii între 15 și 18 ani pot participa singuri cu o declarație specială.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/iuly-neamtu-at-nibiru-beer-garden-4-iulie-2027/"
         }
       ]
     },
@@ -2578,36 +2793,11 @@
           "source_id": "silistra_news",
           "source_name": "Silistra News",
           "url": "https://silistranews.net/2026/09/26/dokumentalna-izlozhba-za-146-godini-ofitsialna-statistika-e-otkrita-v-dunavskata-gradina-v-silistra"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
-          "description": "ДКТ – Силистра обяви програмата за детските представления, които ще се проведат през октомври."
         },
-        "en": {
-          "title": "DKT – Silistra announced the program for children’s performances in October",
-          "description": "DKT – Silistra announced the program for the children’s performances, which will be held in October."
-        },
-        "ro": {
-          "title": "DKT – Silistra a anunțat programul spectacolelor pentru copii în octombrie",
-          "description": "DKT – Silistra a anunțat programul spectacolelor pentru copii care vor avea loc în octombrie."
-        }
-      },
-      "id": 17,
-      "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
-      "date": "",
-      "time": "",
-      "location": "ДКТ – Силистра",
-      "category": "other",
-      "description": "ДКТ – Силистра обяви програмата за детските представления, които ще се проведат през октомври.",
-      "sources": [
         {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/09/25/dkt-silistra-obyavi-programata-za-detskite-predstavleniya-prez-oktomvri"
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/glagolitsa-izlozhba.html"
         }
       ]
     },
@@ -2793,6 +2983,16 @@
           "source_id": "mangalianews_events",
           "source_name": "MangaliaNews.ro — Evenimente & Recomandari",
           "url": "https://www.mangalianews.ro/2026/09/19/unde-sunt-cei-ce-nu-mai-sunt-vernisajul-expozitiei-de-pictura-a-artistului-victor-lucian-costachescu-la-galeria-de-arta-mangalia-foto-video/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/jack-si-vrejul-de-fasole-dupa-joseph-jacobs/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/29/ac-dc-50-ani-dirty-deeds-done-dirt-cheap/"
         }
       ]
     },
@@ -2823,46 +3023,6 @@
           "source_id": "mangalianews_events",
           "source_name": "MangaliaNews.ro — Evenimente & Recomandari",
           "url": "https://www.mangalianews.ro/2026/09/11/gustul-toamnei-la-mangalia-17-20-septembrie-in-portul-turistic-must-mezeluri-si-lactate-legume-si-fructe-de-sezon-produse-traditionale-creatii-handmade-si-artizanat/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Нептун Арена Фест продължава с три концертни вечери, празнична атмосфера и Фестивала в Намол",
-          "description": "Нептун Арена Фест ще продължи с три концертни вечери на Ривиера Мангалия, създавайки ваканционна атмосфера и участвайки във Фестивала в Нъмол."
-        },
-        "en": {
-          "title": "Neptun Arena Fest continues with three evenings of concerts, holiday atmosphere and the Nămol Festival",
-          "description": "Neptun Arena Fest will continue with three evenings of concerts at the Mangalia Riviera, creating a holiday atmosphere and participating in the Nămol Festival."
-        },
-        "ro": {
-          "title": "Neptun Arena Fest continuă cu trei seri de concerte, atmosferă de vacanță și Festivalul la Nămol",
-          "description": "Neptun Arena Fest va continua cu trei seri de concerte la Riviera Mangalia, creând o atmosferă de vacanță și participând la Festivalul la Nămol."
-        }
-      },
-      "id": 76,
-      "title": "Neptun Arena Fest continuă cu trei seri de concerte, atmosferă de vacanță și Festivalul la Nămol",
-      "date": "",
-      "time": "",
-      "location": "Neptun Arena, Riviera Mangalia",
-      "category": "concert",
-      "description": "Neptun Arena Fest va continua cu trei seri de concerte la Riviera Mangalia, creând o atmosferă de vacanță și participând la Festivalul la Nămol.",
-      "sources": [
-        {
-          "source_id": "cuget_liber_mangalia",
-          "source_name": "Cuget Liber (Mangalia)",
-          "url": "https://cugetliber.ro/stiri-actualitate-neptun-arena-fest-continua-cu-trei-seri-de-concerte-atmosfera-de-vacanta-si-festivalul-la-namol-la-riviera-mangalia-559383"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/capra-cu-trei-iezi-dupa-i-creanga/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/25/william-klein-100-ani-fotografie/"
         }
       ]
     },
@@ -3173,36 +3333,6 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/09/24/celebreaza-10-editii-discoteca-80-cluj/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Отмъстителите: Завръщането на Края (2017)",
-          "description": "Повторно представяне на филма \"Отмъстителите: Краят на играта\" с тема \"Завръщане в бъдещето\"."
-        },
-        "en": {
-          "title": "\"Avengers: Endgame Encore\".",
-          "description": "\"Avengers: Endgame - Back to the Future\"."
-        },
-        "ro": {
-          "title": "„Avengers: Endgame Encore” – Back to the Future",
-          "description": "A repeat performance of the movie 'Avengers: Endgame' with the theme 'Back to the Future'."
-        }
-      },
-      "id": 166,
-      "title": "„Avengers: Endgame Encore” – Back to the Future",
-      "date": "",
-      "time": "",
-      "location": "",
-      "category": "other",
-      "description": "A repeat performance of the movie 'Avengers: Endgame' with the theme 'Back to the Future'.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/24/avengers-endgame-encore-doomsday/"
         }
       ]
     },
@@ -3539,6 +3669,126 @@
     {
       "translations": {
         "bg": {
+          "title": "ДКТ – Силистра представя „Родината, или Силистра“ на международен фестивал в Турция",
+          "description": "ДКТ – Силистра представи спектакълът „Родината, или Силистра“ на международен фестивал в Турция."
+        },
+        "en": {
+          "title": "DKT – Silistra presents \"The Homeland, or Silistra\" at an international festival in Turkey",
+          "description": "DKT – Silistra presented the show \"The Homeland, or Silistra\" at an international festival in Turkey."
+        },
+        "ro": {
+          "title": "DKT – Silistra prezintă \"Patria, sau Silistra\" la un festival internațional din Turcia",
+          "description": "DKT-Silistra a prezentat spectacolul \"Patria sau Silistra\" la un festival internațional din Turcia."
+        }
+      },
+      "id": 191,
+      "title": "ДКТ – Силистра представя „Родината, или Силистра“ на международен фестивал в Турция",
+      "date": "",
+      "time": "",
+      "location": "Турция",
+      "category": "festival",
+      "description": "ДКТ – Силистра представи спектакълът „Родината, или Силистра“ на международен фестивал в Турция.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/09/28/dkt-silistra-predstavya-rodinata-ili-silistra-na-mezhdunaroden-festival-v-turtsiya"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": ",,",
+          "description": "Документален филм и изложба, посветени на Олег Дановски, една от най-значимите личности на румънския танц, в рамките на документалната поредица \"Хореографско наследство"
+        },
+        "en": {
+          "title": ",,",
+          "description": "A documentary film and an exhibition dedicated to Oleg Danovski, one of the most important personalities of Romanian dance, within the documentary series \"Choreographic Legacies"
+        },
+        "ro": {
+          "title": ",,",
+          "description": "Un film documentar și o expoziție dedicate lui Oleg Danovski, unul dintre cele mai importante personalități ale dansului românesc, în cadrul serii documentare „Moșteniri coregrafice"
+        }
+      },
+      "id": 199,
+      "title": ",,",
+      "date": "",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Un film documentar și o expoziție dedicate lui Oleg Danovski, unul dintre cele mai importante personalități ale dansului românesc, în cadrul serii documentare „Moșteniri coregrafice",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/mosteniri-coregrafice-perspective-film-documentar-expozitie-dedicate-lui-oleg-danovski/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "ПРЕМИЕРА | УЛИЦА МАЛАГА: Ода на свободата да желаеш и обичаш на всяка възраст",
+          "description": "Премиерата на стая, която носи свободата да искаш и да обичаш на всяка възраст, със субтитри \"СТРАДА МАЛАГА\"."
+        },
+        "en": {
+          "title": "PREMIERE | STRADA MALAGA: An ode to the freedom to want and love at any age",
+          "description": "The premiere of a room that brings the freedom to want and love at any age, subtitled 'STRADA MALAGA'."
+        },
+        "ro": {
+          "title": "PREMIERĂ | STRADA MALAGA: O odă adusă libertății de a dori și iubi la orice vârstă",
+          "description": "Premiera unei odăi care aduce libertatea de a dori și iubi la orice vârstă, subtitulată 'STRADA MALAGA'."
+        }
+      },
+      "id": 203,
+      "title": "PREMIERĂ | STRADA MALAGA: O odă adusă libertății de a dori și iubi la orice vârstă",
+      "date": "",
+      "time": "",
+      "location": "STRADA MALAGA",
+      "category": "adult_18+",
+      "description": "Premiera unei odăi care aduce libertatea de a dori și iubi la orice vârstă, subtitulată 'STRADA MALAGA'.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/29/strada-malaga-carmen-maura-premiera/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "\"Престрелка в О.К. Корал\" (1957, реж. Джон Стърджс)",
+          "description": "Прожекция на филма от 1957 г. \"Сблъсък в О.К. Корал\" на режисьора Джон Стърджс, показан във ВИДЕОДОМ."
+        },
+        "en": {
+          "title": "VIDEODOME | \"GUNFIGHT AT THE O.K. CORRAL\" (1957, r: John Sturges)",
+          "description": "Gunfight at the O.K. Corral is a 1957 film directed by John Sturges."
+        },
+        "ro": {
+          "title": "VIDEODOME | „GUNFIGHT AT THE O.K. CORRAL” (1957, r: John Sturges)",
+          "description": "A screening of the 1957 film 'Gunfight at the O.K. Corral' directed by John Sturges, shown at VIDEODOME."
+        }
+      },
+      "id": 204,
+      "title": "VIDEODOME | „GUNFIGHT AT THE O.K. CORRAL” (1957, r: John Sturges)",
+      "date": "",
+      "time": "",
+      "location": "VIDEODOME",
+      "category": "other",
+      "description": "A screening of the 1957 film 'Gunfight at the O.K. Corral' directed by John Sturges, shown at VIDEODOME.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/29/gunfight-at-the-ok-corral-john-sturges/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Ние отваряме сладолед",
           "description": "Сладоледът се отваря на адрес Принципала 123, община Сарикиой, Тулча, на церемония, насрочена за 09:00 часа."
         },
@@ -3563,6 +3813,41 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/deschidem-gelateria/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
+          "description": "ДКТ – Силистра обяви програмата за детските представления, които ще се проведат през октомври."
+        },
+        "en": {
+          "title": "DKT – Silistra announced the program for children’s performances in October",
+          "description": "DKT – Silistra announced the program for the children’s performances, which will be held in October."
+        },
+        "ro": {
+          "title": "DKT – Silistra a anunțat programul spectacolelor pentru copii în octombrie",
+          "description": "DKT – Silistra a anunțat programul spectacolelor pentru copii care vor avea loc în octombrie."
+        }
+      },
+      "id": 17,
+      "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
+      "date": "",
+      "time": "11:00",
+      "location": "ДКТ – Силистра",
+      "category": "other",
+      "description": "Програма за интеркултурно образование за учебната 2026/2027 година, организирана по проект „Единни в различието, за живота се учим“. Дейността се проведе между 28 септември и 10 октомври 2026 г. от 11:00 до 11:00.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/09/25/dkt-silistra-obyavi-programata-za-detskite-predstavleniya-prez-oktomvri"
+        },
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/programa-za-interkulturno-obrazovanie-za-uchebnata-2026-2027-godina-po-proekt-edinni-v-razlichieto-za-zhivota-se-uchim/"
         }
       ]
     },
