@@ -1,141 +1,6 @@
 {
-  "generated_at": "2026-09-29T10:50:46.078987+00:00",
+  "generated_at": "2026-09-30T10:30:15.357574+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "МАРИУС BG - моноспектакъл на Мариус Куркински по български автори",
-          "description": "Мариус Куркински представя моноспектакъл с текстове от български автори."
-        },
-        "en": {
-          "title": "MARIUS BG - a mono-performance by Marius Kurkinsky based on Bulgarian authors",
-          "description": "Marius Kurkinsky presents a mono-performance with texts by Bulgarian authors."
-        },
-        "ro": {
-          "title": "MARIUS BG - monospectacol de Marius Kurkinsky după autori bulgari",
-          "description": "Marius Kurkinski prezintă un mono-spectacol cu texte de autori bulgari."
-        }
-      },
-      "id": 56,
-      "title": "МАРИУС BG - моноспектакъл на Мариус Куркински по български автори",
-      "date": "2026-09-29",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Мариус Куркински представя моноспектакъл с текстове от български автори.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/marius-bg/p1315.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Ден на отворените врати в Констанца",
-          "description": "ДЕН НА ОТВОРЕНИТЕ ВРАТИ на Милуоки в Констанца е насрочен за 29 септември 2026 г., от 10:00 ч. в Логистичен парк, ул. Индустриала № 6, Констанца."
-        },
-        "en": {
-          "title": "Milwaukee OPEN DAY Constanța",
-          "description": "Milwaukee OPEN DAY Constanța is scheduled for September 29, 2026, at 10:00 AM in Incinta Logistic Park, Str. Industriala nr. 6, Constanta."
-        },
-        "ro": {
-          "title": "Milwaukee OPEN DAY Constanța",
-          "description": "Milwaukee OPEN DAY Constanța is scheduled for September 29, 2026, at 10:00 AM in Incinta Logistic Park, Str. Industriala nr. 6, Constanta."
-        }
-      },
-      "id": 140,
-      "title": "Milwaukee OPEN DAY Constanța",
-      "date": "2026-09-29",
-      "time": "10:00",
-      "location": "Str. Industriala nr. 6, Constanta, (Incinta Logistic Park)",
-      "category": "other",
-      "description": "Milwaukee OPEN DAY Constanța is scheduled for September 29, 2026, at 10:00 AM in Incinta Logistic Park, Str. Industriala nr. 6, Constanta.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/milwaukee-open-day-constanta/"
-        },
-        {
-          "source_id": "ziua_constanta",
-          "source_name": "Ziua de Constanta",
-          "url": "https://www.ziuaconstanta.ro/stiri/sport/tenis-jucatoare-din-romania-castigatoare-la-turneul-itf-futures-w15-de-la-constanta-galerie-foto-video-954845.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Бебешки клуб – Монтесори работилници",
-          "description": "Монтесори семинари за деца, насрочени за вторник, 29 септември 2026 г., в Бебешкия клуб в Георге Муреа 3, Констанца."
-        },
-        "en": {
-          "title": "Baby Club – Montessori workshops",
-          "description": "Montessori workshops for children scheduled for Tuesday, September 29, 2026, at the Baby Club in Gheorghe Murea 3, Constanta."
-        },
-        "ro": {
-          "title": "Clubul bebelușilor – ateliere Montessori",
-          "description": "Ateliere Montessori pentru copii programate pentru marți, 29 septembrie 2026, la Clubul bebelușilor în Gheorghe Murea 3, Constanta."
-        }
-      },
-      "id": 91,
-      "title": "Clubul bebelușilor – ateliere Montessori",
-      "date": "2026-09-29",
-      "time": "11:30",
-      "location": "Gheorghe Murea 3, 900589 Constanta, Romania",
-      "category": "other",
-      "description": "Ateliere Montessori pentru copii programate pentru marți, 29 septembrie 2026, la Clubul bebelușilor în Gheorghe Murea 3, Constanta.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/clubul-bebelusilor-ateliere-montessori/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/clubul-copiilor-mici/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/clubul-copiilor-mari/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Разходка на сърцето",
-          "description": "Разходката на сърцето е събитие с фиксирана дата на вторник, 29 септември от 16:00 часа на улица Стефан Велики № 2 в Констанца, Румъния."
-        },
-        "en": {
-          "title": "Promenade of the Heart",
-          "description": "The Heart Walk is an event with a fixed date on Tuesday, September 29 at 16:00 in Stefan cel Mare street no. 2 in Constanta, Romania."
-        },
-        "ro": {
-          "title": "Promenada inimii",
-          "description": "Promenada inimii este o eveniment cu data fixă pe marți 29 septembrie la ora 16:00 în strada Stefan cel Mare nr. 2 din Constanta, România."
-        }
-      },
-      "id": 92,
-      "title": "Promenada inimii",
-      "date": "2026-09-29",
-      "time": "16:00",
-      "location": "Str. Stefan cel Mare nr. 2, Constanta, Romania",
-      "category": "other",
-      "description": "Promenada inimii este o eveniment cu data fixă pe marți 29 septembrie la ora 16:00 în strada Stefan cel Mare nr. 2 din Constanta, România.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/promenada-inimii/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -168,6 +33,66 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/inter-alia-teatralen-spektakal.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Община Добричка кани добруджанци на фестивала „Плодовете на Добруджа“ в събота",
+          "description": "Община Добрич призовава жителите на Добруджа да участват в фестивал „Плодовете на Добруджа“, който се проведе на събота."
+        },
+        "en": {
+          "title": "Municipality of Dobrich invites Dobrudzhans to the festival \"Fruit of Dobrich\" on Saturday",
+          "description": "The Municipality of Dobrich invites the residents of Dobrudja to participate in the festival \"The Fruits of Dobrudja\", which took place on Saturday."
+        },
+        "ro": {
+          "title": "Municipalitatea Dobrich îi invită sâmbătă pe locuitorii Dobrogei la festivalul \"Fructele Dobrogei\"",
+          "description": "Municipalitatea Dobrich a cerut locuitorilor din Dobrogea să participe la festivalul Fructele Dobrogei, care a avut loc sâmbătă."
+        }
+      },
+      "id": 206,
+      "title": "Община Добричка кани добруджанци на фестивала „Плодовете на Добруджа“ в събота",
+      "date": "2026-09-30",
+      "time": "",
+      "location": "Събота",
+      "category": "festival",
+      "description": "Община Добрич призовава жителите на Добруджа да участват в фестивал „Плодовете на Добруджа“, който се проведе на събота.",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/obshtina-dobrichka-kani-dobrudjanci-na-festivala-plodovete-na-dobrudja-v-sybota/116665"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Майчина грижа“ в Добрич отбеляза 130 години с изложба и филм за историята на сдружението",
+          "description": "Майчина грижа"
+        },
+        "en": {
+          "title": "\"Mother's Care\" in Dobrich marked 130 years with an exhibition and a film about the history of the association",
+          "description": "A mother's care"
+        },
+        "ro": {
+          "title": "\"Îngrijirea mamei\" din Dobrici a sărbătorit 130 de ani cu o expoziție și un film despre istoria asociației",
+          "description": "Îngrijirea mamei"
+        }
+      },
+      "id": 205,
+      "title": "„Майчина грижа“ в Добрич отбеляза 130 години с изложба и филм за историята на сдружението",
+      "date": "2026-09-30",
+      "time": "08:59",
+      "location": "Добрич",
+      "category": "exhibition",
+      "description": "Майчина грижа",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/maichina-grija-v-dobrich-otbelqza-130-godini-s-izlojba-i-film-za-istoriqta-na-sdrujenieto/116675"
         }
       ]
     },
@@ -268,6 +193,71 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/%f0%9d%97%a9%f0%9d%97%94%cc%86-%f0%9d%97%9c%f0%9d%97%a1%f0%9d%97%a9%f0%9d%97%9c%f0%9d%97%a7%f0%9d%97%94%cc%86%f0%9d%97%a0-%f0%9d%97%a6%f0%9d%97%94%cc%86-%f0%9d%97%a6%f0%9d%97%94%cc%86%f0%9d%97%a5-2/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Не питай как",
+          "description": "Ненчо Илчев, Кристиян Янкулов и Биляна Добрева представят шоу „Не питай как“ в The Brick Port във Варна на 30 септември."
+        },
+        "en": {
+          "title": "Don't ask how",
+          "description": "Nencho Ilchev, Kristian Yankulov and Bilyana Dobreva present the show \"Don't Ask How\" at The Brick Port in Varna on September 30."
+        },
+        "ro": {
+          "title": "Nu întreba cum",
+          "description": "Nenco Ilchev, Kristian Yankulov și Bilyana Dobreva prezintă spectacolul \"Nu întrebați cum\" la The Brick Port din Varna în 30 septembrie."
+        }
+      },
+      "id": 208,
+      "title": "Не питай как",
+      "date": "2026-09-30",
+      "time": "20:00",
+      "location": "The Brick Port",
+      "category": "concert",
+      "description": "Ненчо Илчев, Кристиян Янкулов и Биляна Добрева представят шоу „Не питай как“ в The Brick Port във Варна на 30 септември.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536165"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "ДКТ – Силистра представя „Родината, или Силистра“ на международен фестивал в Турция",
+          "description": "ДКТ – Силистра представи спектакълът „Родината, или Силистра“ на международен фестивал в Турция."
+        },
+        "en": {
+          "title": "DKT – Silistra presents \"The Homeland, or Silistra\" at an international festival in Turkey",
+          "description": "DKT – Silistra presented the show \"The Homeland, or Silistra\" at an international festival in Turkey."
+        },
+        "ro": {
+          "title": "DKT – Silistra prezintă \"Patria, sau Silistra\" la un festival internațional din Turcia",
+          "description": "DKT-Silistra a prezentat spectacolul \"Patria sau Silistra\" la un festival internațional din Turcia."
+        }
+      },
+      "id": 191,
+      "title": "ДКТ – Силистра представя „Родината, или Силистра“ на международен фестивал в Турция",
+      "date": "2026-10-01",
+      "time": "",
+      "location": "Турция",
+      "category": "festival",
+      "description": "ДКТ – Силистра представи спектакълът „Родината, или Силистра“ на международен фестивал в Турция.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/09/28/dkt-silistra-predstavya-rodinata-ili-silistra-na-mezhdunaroden-festival-v-turtsiya"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/nosht-na-literaturata-2026.html"
         }
       ]
     },
@@ -458,6 +448,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/nocturna-bibliotecilor-biblioteca-inima-comunitatii/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Храмът на Кибела в нова мултимедийна изложба във Варна",
+          "description": "На 2 октомври ще бъде открита иновативната мултимедийна изложба в Археологическия музей във Варна, посветена на Храмът на Кибела от Дионисополис."
+        },
+        "en": {
+          "title": "The Temple of Cybele in a new multimedia exhibition in Varna",
+          "description": "On October 2, the innovative multimedia exhibition dedicated to the Temple of Cybele from Dionysopolis will be opened at the Archaeological Museum in Varna."
+        },
+        "ro": {
+          "title": "Templul lui Cybele într-o nouă expoziție multimedia la Varna",
+          "description": "În 2 octombrie, la Muzeul de Arheologie din Varna va fi inaugurată o expoziție multimedia inovatoare dedicată Templului lui Cybele din Dionysopolis."
+        }
+      },
+      "id": 207,
+      "title": "Храмът на Кибела в нова мултимедийна изложба във Варна",
+      "date": "2026-10-02",
+      "time": "16:00",
+      "location": "Археологически музей във Варна",
+      "category": "exhibition",
+      "description": "На 2 октомври ще бъде открита иновативната мултимедийна изложба в Археологическия музей във Варна, посветена на Храмът на Кибела от Дионисополис.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536109"
         }
       ]
     },
@@ -1444,6 +1464,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Сватбата на Фигаро",
+          "description": "Сватбата на Фигаро се провежда в Дома на културата на синдикатите в Констанца на 10 октомври 2026 г. от 18:30 часа."
+        },
+        "en": {
+          "title": "The Wedding of Figaro",
+          "description": "The wedding of Figaro takes place at the House of Culture of the Trade Unions Constanta on October 10, 2026 at 18:30."
+        },
+        "ro": {
+          "title": "Nunta lui Figaro",
+          "description": "Nunta lui Figaro are loc la Casa de Cultură a Sindicatelor Constanța pe 10 octombrie 2026 la ora 18:30."
+        }
+      },
+      "id": 209,
+      "title": "Nunta lui Figaro",
+      "date": "2026-10-10",
+      "time": "18:30",
+      "location": "Casa de Cultură a Sindicatelor Constanța",
+      "category": "other",
+      "description": "Nunta lui Figaro are loc la Casa de Cultură a Sindicatelor Constanța pe 10 octombrie 2026 la ora 18:30.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/nunta-lui-figaro/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "И ВЕРНИЯТ ОТГОВОР Е...",
           "description": "Месецът Верният отговор е се провежда наедно със фестивала на песни и танци в Варна."
         },
@@ -1787,7 +1837,7 @@
       "time": "18:30",
       "location": "Casa de Cultură a Sindicatelor Constanța",
       "category": "theater",
-      "description": "Представа на оперите „Cavalleria rusticana“ и „Paiațe“ на Teatrul Național, програмата започва на 18 октомври 2026 г. във Великата зала на Културното дома на Синдикалите в Констанца.",
+      "description": "Un spectacol teatral care include peisajele teatralului 'Cavalleria rusticana' și 'Paiațe' se va desfășura la Casa de Cultura a Sindicatelor din Constanța pe 18 octombrie 2026, la ora 18:30.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -2108,6 +2158,36 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/bezgarancii/p1325.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Семейните съзвездия",
+          "description": "Семейни съзвездия е събитие, което ще се проведе между 31 октомври и 1 ноември 2026 г. в Констанца."
+        },
+        "en": {
+          "title": "Family constellations",
+          "description": "Family Constellations is an event that will take place between October 31 and November 1, 2026 in Constanța."
+        },
+        "ro": {
+          "title": "Constelații Familiale",
+          "description": "Constelații Familiale este o eveniment care va avea loc între 31 octombrie și 1 noiembrie 2026 în Constanța."
+        }
+      },
+      "id": 210,
+      "title": "Constelații Familiale",
+      "date": "2026-10-31",
+      "time": "",
+      "location": "Constanța",
+      "category": "other",
+      "description": "Constelații Familiale este o eveniment care va avea loc între 31 octombrie și 1 noiembrie 2026 în Constanța.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/constelatii-familiale-4/"
         }
       ]
     },
@@ -2977,7 +3057,7 @@
       "time": "",
       "location": "Galeria de Artă Mangalia",
       "category": "exhibition",
-      "description": "O vernisaj a expoziției de pictură intitulată „Unde sunt cei ce nu mai sunt?” a fost organizată în Galeria de Artă Mangalia, în semn de omagiu pentru cei dragi.",
+      "description": "Un titlu de seara pentru club sau eveniment adult, sugestiv și orientat spre oameni de noapte sau clubbing, dar fără detalii suplimentare despre locație sau program.",
       "sources": [
         {
           "source_id": "mangalianews_events",
@@ -2993,6 +3073,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/09/29/ac-dc-50-ani-dirty-deeds-done-dirt-cheap/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/30/pielea-ta-cand-nu-te-demachiezi-seara/"
         }
       ]
     },
@@ -3058,6 +3143,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/09/27/ian-sweet-shiverstruck-jilian-medford/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/29/noaptea-alba-a-galeriilor-20-editii/"
         }
       ]
     },
@@ -3669,36 +3759,6 @@
     {
       "translations": {
         "bg": {
-          "title": "ДКТ – Силистра представя „Родината, или Силистра“ на международен фестивал в Турция",
-          "description": "ДКТ – Силистра представи спектакълът „Родината, или Силистра“ на международен фестивал в Турция."
-        },
-        "en": {
-          "title": "DKT – Silistra presents \"The Homeland, or Silistra\" at an international festival in Turkey",
-          "description": "DKT – Silistra presented the show \"The Homeland, or Silistra\" at an international festival in Turkey."
-        },
-        "ro": {
-          "title": "DKT – Silistra prezintă \"Patria, sau Silistra\" la un festival internațional din Turcia",
-          "description": "DKT-Silistra a prezentat spectacolul \"Patria sau Silistra\" la un festival internațional din Turcia."
-        }
-      },
-      "id": 191,
-      "title": "ДКТ – Силистра представя „Родината, или Силистра“ на международен фестивал в Турция",
-      "date": "",
-      "time": "",
-      "location": "Турция",
-      "category": "festival",
-      "description": "ДКТ – Силистра представи спектакълът „Родината, или Силистра“ на международен фестивал в Турция.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/09/28/dkt-silistra-predstavya-rodinata-ili-silistra-na-mezhdunaroden-festival-v-turtsiya"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": ",,",
           "description": "Документален филм и изложба, посветени на Олег Дановски, една от най-значимите личности на румънския танц, в рамките на документалната поредица \"Хореографско наследство"
         },
@@ -3783,6 +3843,126 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/09/29/gunfight-at-the-ok-corral-john-sturges/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Национален маршрут: Лаборатория 2026 пристига в Букурещ, Яш, Клуж-Напока, Тимишоара и Арад",
+          "description": "Национален маршрут: ще се проведе в няколко града в Румъния, включително Букурещ, Яш, Клуж-Напока, Тимишоара и Арад."
+        },
+        "en": {
+          "title": "National route: Classix Lab 2026 arrives in Bucharest, Iași, Cluj-Napoca, Timișoara and Arad",
+          "description": "National route: Classix Lab 2026 will take place in several cities in Romania, including Bucharest, Iași, Cluj-Napoca, Timișoara and Arad."
+        },
+        "ro": {
+          "title": "Parcurs național: Classix Lab 2026 ajunge în București, Iași, Cluj-Napoca, Timișoara și Arad",
+          "description": "Parcurs național: Classix Lab 2026 va avea loc în mai multe orașe din România, inclusiv București, Iași, Cluj-Napoca, Timișoara și Arad."
+        }
+      },
+      "id": 211,
+      "title": "Parcurs național: Classix Lab 2026 ajunge în București, Iași, Cluj-Napoca, Timișoara și Arad",
+      "date": "",
+      "time": "",
+      "location": "București, Iași, Cluj-Napoca, Timișoara, Arad",
+      "category": "other",
+      "description": "Parcurs național: Classix Lab 2026 va avea loc în mai multe orașe din România, inclusiv București, Iași, Cluj-Napoca, Timișoara și Arad.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/30/parcurs-national-classix-lab-2026/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Фантомел издава песента \"Падни за нея\" с датския изпълнител Крис Крон",
+          "description": "Фантомел организира предварително представяне на песента заедно с датския артист Крис Крон."
+        },
+        "en": {
+          "title": "Fantomel releases \"Fall for Her\" with Danish artist Chris Crone",
+          "description": "Fantomel organizes a pre-release with Danish artist Chris Crone."
+        },
+        "ro": {
+          "title": "Fantomel lansează piesa „Fall for Her” alături de artistul danez Chris Crone",
+          "description": "Fantomel organizează o prelansare de piesă alături de artistul danez Chris Crone."
+        }
+      },
+      "id": 212,
+      "title": "Fantomel lansează piesa „Fall for Her” alături de artistul danez Chris Crone",
+      "date": "",
+      "time": "",
+      "location": "Fantomel",
+      "category": "other",
+      "description": "Fantomel organizează o prelansare de piesă alături de artistul danez Chris Crone.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/29/fantomel-chris-crone-piesa-fall-for-her/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Хамра Латафа за специални поводи",
+          "description": "Ароматът е специално предназначен за специални случаи и видове събития, където ароматът се усеща най-добре."
+        },
+        "en": {
+          "title": "Khamrah Lattafa for Special Occasions",
+          "description": "Khamrah Lattafa fragrance is specially proposed for special occasions and types of events, where the fragrance is sharpened best."
+        },
+        "ro": {
+          "title": "Khamrah Lattafa pentru ocazii speciale",
+          "description": "Аромат Khamrah Lattafa е специално предложено за особые случаи и видове събития, където аромата се ощислява най-добре."
+        }
+      },
+      "id": 213,
+      "title": "Khamrah Lattafa pentru ocazii speciale",
+      "date": "",
+      "time": "",
+      "location": "",
+      "category": "adult_18+",
+      "description": "Аромат Khamrah Lattafa е специално предложено за особые случаи и видове събития, където аромата се ощислява най-добре.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/30/parfumul-khamrah-lattafa-ocazii-speciale/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "За всички, с малки, с големи, Сергиана е празник!",
+          "description": "Среща за всички, организирана в Сергиана, с варианти на размери, от малки до големи, в рамките на които се празнува градът."
+        },
+        "en": {
+          "title": "For All, with Small, with Large, Sergiana's Celebration!",
+          "description": "A meeting for all, organized in Sergiana, with variations of sizes, from small to large, in which the city is celebrated."
+        },
+        "ro": {
+          "title": "Pentru Toţi, cu Mic, cu Mare, Sergiana-i Sărbătoare!",
+          "description": "O întâlnire pentru toți, organizată în Sergiana, cu variante de dimensiuni, de la mici la mari, în cadrul căreia se sărbătoară orașul."
+        }
+      },
+      "id": 214,
+      "title": "Pentru Toţi, cu Mic, cu Mare, Sergiana-i Sărbătoare!",
+      "date": "",
+      "time": "",
+      "location": "Sergiana",
+      "category": "other",
+      "description": "O întâlnire pentru toți, organizată în Sergiana, cu variante de dimensiuni, de la mici la mari, în cadrul căreia se sărbătoară orașul.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/30/sergiana-octombrie-2026/"
         }
       ]
     },
