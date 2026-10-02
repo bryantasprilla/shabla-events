@@ -1,233 +1,48 @@
 {
-  "generated_at": "2026-10-01T11:11:27.724747+00:00",
+  "generated_at": "2026-10-02T10:37:52.296935+00:00",
   "events": [
     {
       "translations": {
         "bg": {
-          "title": "Вкусът на есента в Мангалия, 17-20 септември, в туристическото пристанище",
-          "description": "Панаир-фестивал, посветен на традициите и радостите на есента, с колбаси, млечни продукти, сезонни зеленчуци и плодове, традиционни продукти и ръчно изработени творения."
+          "title": "„Кодова памет“ - изложба керамика",
+          "description": "Изложбата „Кодова памет“ ще се проведе от сряда, 02 септември 2026 г. до неделя, 04 октомври 2026 г."
         },
         "en": {
-          "title": "The Taste of Autumn in Mangalia, 17–20 September, in the Tourist Port",
-          "description": "A fair-festival dedicated to the traditions and joys of autumn, with sausages, dairy products, seasonal vegetables and fruits, traditional products and handmade creations."
+          "title": "\"Code Memory\" - ceramics exhibition",
+          "description": "The exhibition \"Code Memory\" will be held from Wednesday, 02 September 2026 to Sunday, 04 October 2026."
         },
         "ro": {
-          "title": "Gustul Toamnei la Mangalia, 17–20 septembrie, în Portul Turistic",
-          "description": "Un târg-festival dedicat tradițiilor și bucuriilor toamnei, cu mezeluri, lactate, legume și fructe de sezon, produse traditionale și creații handmade."
+          "title": "\"Cod de memorie\" - expoziție de ceramică",
+          "description": "Expoziția \"Code Memory\" va avea loc de miercuri, 02 septembrie 2026 până duminică, 04 octombrie 2026."
         }
       },
-      "id": 73,
-      "title": "Gustul Toamnei la Mangalia, 17–20 septembrie, în Portul Turistic",
-      "date": "2026-10-01",
+      "id": 14,
+      "title": "„Кодова памет“ - изложба керамика",
+      "date": "2026-10-02",
       "time": "",
-      "location": "Portul Turistic",
-      "category": "festival",
-      "description": "Pianistul Paul Staicu începe vineri primul său turneu național în România cu un recital care include muzica clasică a lui Bach și Mozart, precum și jazz.",
+      "location": "Дунавската градина в Силистра",
+      "category": "exhibition",
+      "description": "Изложбата „Кодова памет“ ще се проведе от сряда, 02 септември 2026 г. до неделя, 04 октомври 2026 г.",
       "sources": [
         {
-          "source_id": "mangalianews_events",
-          "source_name": "MangaliaNews.ro — Evenimente & Recomandari",
-          "url": "https://www.mangalianews.ro/2026/09/11/gustul-toamnei-la-mangalia-17-20-septembrie-in-portul-turistic-must-mezeluri-si-lactate-legume-si-fructe-de-sezon-produse-traditionale-creatii-handmade-si-artizanat/"
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/kodova-pamet-izlozhba-keramika.html"
         },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/01/classic-jazz-voyage-paul-staicu/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ДКТ – Силистра представя „Родината, или Силистра“ на международен фестивал в Турция",
-          "description": "ДКТ – Силистра представи спектакълът „Родината, или Силистра“ на международен фестивал в Турция."
-        },
-        "en": {
-          "title": "DKT – Silistra presents \"The Homeland, or Silistra\" at an international festival in Turkey",
-          "description": "DKT – Silistra presented the show \"The Homeland, or Silistra\" at an international festival in Turkey."
-        },
-        "ro": {
-          "title": "DKT – Silistra prezintă \"Patria, sau Silistra\" la un festival internațional din Turcia",
-          "description": "DKT-Silistra a prezentat spectacolul \"Patria sau Silistra\" la un festival internațional din Turcia."
-        }
-      },
-      "id": 191,
-      "title": "ДКТ – Силистра представя „Родината, или Силистра“ на международен фестивал в Турция",
-      "date": "2026-10-01",
-      "time": "",
-      "location": "Турция",
-      "category": "festival",
-      "description": "ДКТ – Силистра представи спектакълът „Родината, или Силистра“ на международен фестивал в Турция.",
-      "sources": [
         {
           "source_id": "silistra_news",
           "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/09/28/dkt-silistra-predstavya-rodinata-ili-silistra-na-mezhdunaroden-festival-v-turtsiya"
+          "url": "https://silistranews.net/2026/09/26/dokumentalna-izlozhba-za-146-godini-ofitsialna-statistika-e-otkrita-v-dunavskata-gradina-v-silistra"
         },
         {
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/nosht-na-literaturata-2026.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Среща за изпробване на носилки @ Констанца – 2026",
-          "description": "Пробна среща за носилки, организирана от Констанца, която ще се проведе в четвъртък, 1 октомври от 09:00 часа в Кафе Куиб."
-        },
-        "en": {
-          "title": "Baby Carrier Trial Meeting @ BabyWearing Constanta – 2026",
-          "description": "Trial meeting for baby carriers organized by BabyWearing Constanta, which will take place on Thursday, October 1 at 09:00 at Cuib Cafe."
-        },
-        "ro": {
-          "title": "Întâlnirea de Probat Marsupii @ BabyWearing Constanta – 2026",
-          "description": "Întâlnire de probă pentru marsupii organizată de BabyWearing Constanta, care va avea loc joi, 1 octombrie la 09:00 la Cuib Cafe."
-        }
-      },
-      "id": 95,
-      "title": "Întâlnirea de Probat Marsupii @ BabyWearing Constanta – 2026",
-      "date": "2026-10-01",
-      "time": "09:00",
-      "location": "Cuib Cafe",
-      "category": "other",
-      "description": "Alpin Film Festival 2026 va prezentă peste 40 de filme din 18 țări și va include expoziții și întâlniri literare într-o săptămână dedicată culturii montane.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/intalnirea-de-probat-marsupii-babywearing-constanta-2026/"
+          "url": "https://visit.varna.bg/bg/event/glagolitsa-izlozhba.html"
         },
         {
-          "source_id": "mangalianews_events",
-          "source_name": "MangaliaNews.ro — Evenimente & Recomandari",
-          "url": "https://www.mangalianews.ro/2026/09/23/alpin-film-festival-2026-peste-40-de-filme-din-18-tari-si-o-saptamana-dedicata-culturii-montane/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/mizerabilii-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Фестивал на уличните инструменти",
-          "description": "Фестивалът е насрочен за 1 октомври от 10:00 часа в Констанца, Румъния."
-        },
-        "en": {
-          "title": "Street Tools Fest",
-          "description": "Street Tools Fest is scheduled for October 1st at 10:00 AM in Constanța, Romania."
-        },
-        "ro": {
-          "title": "Street Tools Fest",
-          "description": "Street Tools Fest is scheduled for October 1st at 10:00 AM in Constanța, Romania."
-        }
-      },
-      "id": 96,
-      "title": "Street Tools Fest",
-      "date": "2026-10-01",
-      "time": "10:00",
-      "location": "Enachita Vacarescu 115, 900327 Constanța, Romania",
-      "category": "other",
-      "description": "Street Tools Fest is scheduled for October 1st at 10:00 AM in Constanța, Romania.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/street-tools-fest/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Глупости.",
-          "description": "Събитие без конкретно наименование, насрочено за четвъртък, 1 октомври от 18:00 часа на плажа близо до хотел Малибу, на булевард Мамая, в рибарската зона на Констанца."
-        },
-        "en": {
-          "title": "crap",
-          "description": "An event without a specific name, scheduled for Thursday, October 1 at 18:00 on the beach near the Malibu Hotel, on Blv Mamaia street, in the fishing area of Constanta."
-        },
-        "ro": {
-          "title": "crap",
-          "description": "Un eveniment fără denumire specific, programat pentru joi, 1 octombrie la 18:00 pe plaja în apropiere de Hotelul Malibu, pe strada Blv Mamaia, în zona pescarie a Constantei."
-        }
-      },
-      "id": 97,
-      "title": "crap",
-      "date": "2026-10-01",
-      "time": "18:00",
-      "location": "Blv Mamaia 312 D zona pescarie, pe plaja langa Hotel Malibu, 900001 Constanta, Romania",
-      "category": "other",
-      "description": "Un eveniment fără denumire specific, programat pentru joi, 1 octombrie la 18:00 pe plaja în apropiere de Hotelul Malibu, pe strada Blv Mamaia, în zona pescarie a Constantei.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/crap/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Курс по аржентинско танго в Констанца",
-          "description": "Безплатен курс по аржентинско танго, който ще се проведе в четвъртък, 1 октомври от 19:00 часа на улица Фъгетулу 116, Констанца, Румъния."
-        },
-        "en": {
-          "title": "Argentinean tango gift course in Constanta",
-          "description": "A free Argentinean tango class that will take place on Thursday, October 1st at 19:00 in Strada Făgetului 116, Constanța, Romania."
-        },
-        "ro": {
-          "title": "Curs cadou de tango argentinian in Constanta",
-          "description": "Un curs gratuit de tango argentinian care va avea loc joi, 1 octombrie la ora 19:00 în Strada Făgetului 116, Constanța, România."
-        }
-      },
-      "id": 98,
-      "title": "Curs cadou de tango argentinian in Constanta",
-      "date": "2026-10-01",
-      "time": "19:00",
-      "location": "Strada Făgetului 116",
-      "category": "other",
-      "description": "Un curs gratuit de tango argentinian care va avea loc joi, 1 octombrie la ora 19:00 în Strada Făgetului 116, Constanța, România.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/curs-cadou-de-tango-argentinian-in-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Откриваме нов кръг! Нова група за народни танци",
-          "description": "Нова група за традиционни танци открива нов кръг в четвъртък, 1 октомври от 19:00 часа на улица Калугарени в Констанца, Румъния."
-        },
-        "en": {
-          "title": "We open a new circle! New Traditional Dance Group",
-          "description": "A new traditional dance group opens a new circle on Thursday, October 1st at 19:00 in Calugareni Street in Constanta, Romania."
-        },
-        "ro": {
-          "title": "Deschidem cerc nou! Grupă nouă de Dans Tradițional",
-          "description": "O nouă grupă de dans tradițional deschide un cerc nou în joi, 1 octombrie la 19:00 în Strada Calugareni din Constanta, România."
-        }
-      },
-      "id": 192,
-      "title": "Deschidem cerc nou! Grupă nouă de Dans Tradițional",
-      "date": "2026-10-01",
-      "time": "19:00",
-      "location": "Strada Calugareni, Constanta, Romania",
-      "category": "other",
-      "description": "O nouă grupă de dans tradițional deschide un cerc nou în joi, 1 octombrie la 19:00 în Strada Calugareni din Constanta, România.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/deschidem-cerc-nou-grupa-noua-de-dans-traditional%f0%9f%87%b7%f0%9f%87%b4%e2%9c%a8/"
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/bregove-izlozhba.html"
         }
       ]
     },
@@ -258,6 +73,136 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536215"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/forum-buna.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Акага 35 Funky Years“ - клубен концерт",
+          "description": "Клубен концерт на „Акага 35 Funky Years“."
+        },
+        "en": {
+          "title": "\"Akaga 35 Funky Years\" - club concert",
+          "description": "Club concert of Akaga 35 Funky Years."
+        },
+        "ro": {
+          "title": "\"Akaga 35 Funky Years\" - concert de club",
+          "description": "Concert de club al formației Akaga 35 Funky Years."
+        }
+      },
+      "id": 230,
+      "title": "„Акага 35 Funky Years“ - клубен концерт",
+      "date": "2026-10-02",
+      "time": "",
+      "location": "Акага 35",
+      "category": "other",
+      "description": "Клубен концерт на „Акага 35 Funky Years“.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/akaga-35-funky-years-kluben-kontsert.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Програма Държавна опера Варна, м. октомври 2026 г.",
+          "description": "Петък, 02/10/2026г. е представяне на опера „Бал с маски“. Место и време за представяне не са указани в текста."
+        },
+        "en": {
+          "title": "Program Varna State Opera, October 2026",
+          "description": "Friday, 02/10/2026 is the performance of the opera \"The Masked Ball\".Place and time of performance are not specified in the text."
+        },
+        "ro": {
+          "title": "Program Opera de Stat Varna, octombrie 2026",
+          "description": "Vineri, 02/10/2026 este prezentarea operei \"Balul cu măști\". Locul și ora de prezentare nu sunt specificate în text."
+        }
+      },
+      "id": 231,
+      "title": "Програма Държавна опера Варна, м. октомври 2026 г.",
+      "date": "2026-10-02",
+      "time": "",
+      "location": "Държавна опера Варна",
+      "category": "theater",
+      "description": "Петък, 02/10/2026г. е представяне на опера „Бал с маски“. Место и време за представяне не са указани в текста.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/programa-darzhavna-opera-varna-moktomvri-2026-g.html"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/bal-s-maski-opera444.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Арменска душа",
+          "description": "Варна ще гости III Международен фестивал на танца „Арменска душа“ от 2 до 4 октомври, посветен на арменската култура, музика и традиции."
+        },
+        "en": {
+          "title": "The Armenian Soul",
+          "description": "Varna will host the 3rd International Dance Festival \"Armenian Soul\" from October 2 to 4, dedicated to Armenian culture, music and traditions."
+        },
+        "ro": {
+          "title": "Sufletul armean",
+          "description": "Varna va găzdui în perioada 2-4 octombrie cel de-al III-lea Festival Internațional de Dans \"Sufletul Armean\", dedicat culturii, muzicii și tradițiilor armenești."
+        }
+      },
+      "id": 236,
+      "title": "Арменска душа",
+      "date": "2026-10-02",
+      "time": "",
+      "location": "Варна",
+      "category": "festival",
+      "description": "Варна ще гости III Международен фестивал на танца „Арменска душа“ от 2 до 4 октомври, посветен на арменската култура, музика и традиции.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536255"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "\"Улица Малага\" — филм за радостта и силата да започнете нов живот, независимо от възрастта",
+          "description": "Филм за радостта и силата да започнеш нов живот, независимо от възрастта, който се прожектира в кината от 2 октомври."
+        },
+        "en": {
+          "title": "\"Street Malaga\" — a film about the joy and power to start a new life, regardless of age",
+          "description": "A film about the joy and power of starting a new life, regardless of age, which is screening in cinemas from October 2."
+        },
+        "ro": {
+          "title": "„Strada Málaga” — un film despre bucuria și puterea de începe o nouă viață, indiferent de vârstă",
+          "description": "Un film despre bucuria și puterea de începe o nouă viață, indiferent de vârstă, care se screening în cinema din 2 octombrie."
+        }
+      },
+      "id": 239,
+      "title": "„Strada Málaga” — un film despre bucuria și puterea de începe o nouă viață, indiferent de vârstă",
+      "date": "2026-10-02",
+      "time": "",
+      "location": "cinema",
+      "category": "other",
+      "description": "Un film despre bucuria și puterea de începe o nouă viață, indiferent de vârstă, care se screening în cinema din 2 octombrie.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/02/strada-malaga-despre-o-noua-viata/"
         }
       ]
     },
@@ -323,6 +268,16 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/turizam-ekspo-destinatsiya-varna_2026.html"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/vroden-inat-izlozhba-chast-ot-buna-4.html"
+        },
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536212"
         }
       ]
     },
@@ -964,6 +919,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Царицата на чардаша - оперета в три действия от Имре Калман",
+          "description": "Царицата на чардаша е оперета в три действия от Имре Калман, която ще се представи на Понеделник, 05/10/2026г."
+        },
+        "en": {
+          "title": "The Queen of the Chardas - operetta in three acts by Imre Kalman",
+          "description": "The Queen of the Chardas is an operetta in three acts by Imre Kalman, which will be presented on Monday, 05/10/2026."
+        },
+        "ro": {
+          "title": "Regina cârdasului - operetă în trei acte de Imre Kalman",
+          "description": "Regina cârdasului este o operetă în trei acte de Imre Kalman, care va fi prezentată pe Luni, 05/10/2026."
+        }
+      },
+      "id": 232,
+      "title": "Царицата на чардаша - оперета в три действия от Имре Калман",
+      "date": "2026-10-05",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Царицата на чардаша е оперета в три действия от Имре Калман, която ще се представи на Понеделник, 05/10/2026г.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/tsaritsata-na-chardasha/p97.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "МИЗЕРАБИЛИ – Констанца",
           "description": "Мизерабили ще свирят в Констанца в Дома на културата на синдикатите на 5 октомври от 19:00 часа."
         },
@@ -1089,6 +1074,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Концерт по случай 25 години от създаването на Вокално студио Angel Voices - Варна",
+          "description": "Концерт, организиран от Вокално студио Angel Voices, за отпразнуване на 25-годишното създаване на студиото."
+        },
+        "en": {
+          "title": "Concert on the occasion of 25 years of Vocal Studio Angel Voices - Varna",
+          "description": "A concert organized by Vocal Studio Angel Voices, to celebrate the 25th anniversary of the studio."
+        },
+        "ro": {
+          "title": "Concert cu ocazia împlinirii a 25 de ani de la înființarea Studioului Vocal Angel Voices - Varna",
+          "description": "Un concert organizat de Studioul Vocal Angel Voices pentru a sărbători cea de-a 25-a aniversare a studioului."
+        }
+      },
+      "id": 233,
+      "title": "Концерт по случай 25 години от създаването на Вокално студио Angel Voices - Варна",
+      "date": "2026-10-07",
+      "time": "",
+      "location": "Вокално студио Angel Voices",
+      "category": "concert",
+      "description": "Концерт, организиран от Вокално студио Angel Voices, за отпразнуване на 25-годишното създаване на студиото.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/vokalno-studio-angel-voices/p1326.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "КЛАСИЧНО ДЖАЗ ПЪТУВАНЕ – Национален театър за опера и балет \"Олег Дановски\" Констанца",
           "description": "Събитие с участието на Националния театър за опера и балет \"Олег Дановски\" в Констанца, Румъния, насрочено за 7 октомври от 7:00 часа."
         },
@@ -1193,6 +1208,41 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/triosence-germania-cuba-la-jazz-fan-rising-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Кино прожекция \"Почивката 2\" неподправен български комедиен хаос",
+          "description": "Кино прожекция на филма „Почивката 2“ в НЧ „Зора 1894“ в град Шабла, България."
+        },
+        "en": {
+          "title": "Cinema projection \"The Break 2\" genuine Bulgarian comedy chaos",
+          "description": "Cinema projection of the film \"The Break 2\" in the National Theatre \"Zora 1894\" in Shabla, Bulgaria."
+        },
+        "ro": {
+          "title": "Proiecție cinematografică \"Vacanța 2\" haos de comedie bulgară autentică",
+          "description": "Proiecție cinematografică a filmului \"Vacanța 2\" în Școala Națională \"Zora 1894\" din orașul Shabla, Bulgaria."
+        }
+      },
+      "id": 35,
+      "title": "Кино прожекция \"Почивката 2\" неподправен български комедиен хаос",
+      "date": "2026-10-09",
+      "time": "",
+      "location": "НЧ „Зора 1894“, Шабла",
+      "category": "other",
+      "description": "Кино прожекция на филма „Почивката 2“ в НЧ „Зора 1894“ в град Шабла, България.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/kino-prozhekciya-pochivkata-2-nepodpraven-balgarski-komedien-haos.html"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/otchayani-sapruzi/p525.html"
         }
       ]
     },
@@ -1544,6 +1594,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Това и нейната мрежа... на живота",
+          "description": "Събитието ще се проведе в Дома на културата на профсъюзите в Констанца във вторник, 13 октомври от 19:00 часа."
+        },
+        "en": {
+          "title": "THAT AND ITS NETWORK... OF LIFE",
+          "description": "The event will take place at the House of Culture of the Trade Unions Constanta on Tuesday, October 13 at 19:00."
+        },
+        "ro": {
+          "title": "AȚA ȘI NĂVODU’ EI… DE VIAȚĂ",
+          "description": "Evenimentul va avea loc la Casa de Cultură a Sindicatelor Constanța pe marți, 13 octombrie la ora 19:00."
+        }
+      },
+      "id": 237,
+      "title": "AȚA ȘI NĂVODU’ EI… DE VIAȚĂ",
+      "date": "2026-10-13",
+      "time": "19:00",
+      "location": "Casa de Cultură a Sindicatelor Constanța",
+      "category": "other",
+      "description": "Evenimentul va avea loc la Casa de Cultură a Sindicatelor Constanța pe marți, 13 octombrie la ora 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/ata-si-navodu-ei-de-viata-casa-sindicatelor-constanta-13-octombrie/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Представяне на книгата „Нещо за подарък“ София Стойнева",
           "description": "София Стойнева, автор на книгата „Нещо за подарък“, ще се срещне с публиката за разговор при отipple на Деня на четенето."
         },
@@ -1883,6 +1963,76 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/tae-chun-do-kids/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
+          "description": "ДКТ – Силистра обяви програмата за детските представления, които ще се проведат през октомври."
+        },
+        "en": {
+          "title": "DKT – Silistra announced the program for children’s performances in October",
+          "description": "DKT – Silistra announced the program for the children’s performances, which will be held in October."
+        },
+        "ro": {
+          "title": "DKT – Silistra a anunțat programul spectacolelor pentru copii în octombrie",
+          "description": "DKT – Silistra a anunțat programul spectacolelor pentru copii care vor avea loc în octombrie."
+        }
+      },
+      "id": 17,
+      "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
+      "date": "2026-10-20",
+      "time": "11:00",
+      "location": "ДКТ – Силистра",
+      "category": "other",
+      "description": "Програма за интеркултурно образование за учебната 2026/2027 година, организирана по проект „Единни в различието, за живота се учим“. Дейността се проведе между 28 септември и 10 октомври 2026 г. от 11:00 до 11:00.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/09/25/dkt-silistra-obyavi-programata-za-detskite-predstavleniya-prez-oktomvri"
+        },
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/programa-za-interkulturno-obrazovanie-za-uchebnata-2026-2027-godina-po-proekt-edinni-v-razlichieto-za-zhivota-se-uchim/"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/vecherya-za-glupatsi/p628.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "АМАДЕУС",
+          "description": "АМАДЕУС е концерт, които се проведе на сряда, 21 октомври 2026 г."
+        },
+        "en": {
+          "title": "Amadeus",
+          "description": "AMADEUS is a concert that will take place on Wednesday, 21 October 2026."
+        },
+        "ro": {
+          "title": "Amadeus.",
+          "description": "AMADEUS este un concert care va avea loc pe miercuri, 21 octombrie 2026."
+        }
+      },
+      "id": 234,
+      "title": "АМАДЕУС",
+      "date": "2026-10-21",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "АМАДЕУС е концерт, които се проведе на сряда, 21 октомври 2026 г.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/amadeus/p625.html"
         }
       ]
     },
@@ -2273,6 +2423,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/constanta-teo-vio-si-costel-orizont-electric-stand-up-comedy-show/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "СМЯХ БЕЗ ЗАВЕСА",
+          "description": "Евента е запланирана за вторник, 10 ноември 2026 година, но няма указана конкретна локация или описанието на евента."
+        },
+        "en": {
+          "title": "Laughter Without a Curtain",
+          "description": "The event is scheduled for Tuesday, November 10, 2026, but no specific location or event description has been specified."
+        },
+        "ro": {
+          "title": "Râsete fără cortină",
+          "description": "Evenimentul este programat pentru marți, 10 noiembrie 2026, dar nu există o locație specifică sau o descriere a evenimentului."
+        }
+      },
+      "id": 235,
+      "title": "СМЯХ БЕЗ ЗАВЕСА",
+      "date": "2026-11-10",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Евента е запланирана за вторник, 10 ноември 2026 година, но няма указана конкретна локация или описанието на евента.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/smqh/p1328.html"
         }
       ]
     },
@@ -2989,46 +3169,6 @@
     {
       "translations": {
         "bg": {
-          "title": "„Кодова памет“ - изложба керамика",
-          "description": "Изложбата „Кодова памет“ ще се проведе от сряда, 02 септември 2026 г. до неделя, 04 октомври 2026 г."
-        },
-        "en": {
-          "title": "\"Code Memory\" - ceramics exhibition",
-          "description": "The exhibition \"Code Memory\" will be held from Wednesday, 02 September 2026 to Sunday, 04 October 2026."
-        },
-        "ro": {
-          "title": "\"Cod de memorie\" - expoziție de ceramică",
-          "description": "Expoziția \"Code Memory\" va avea loc de miercuri, 02 septembrie 2026 până duminică, 04 octombrie 2026."
-        }
-      },
-      "id": 14,
-      "title": "„Кодова памет“ - изложба керамика",
-      "date": "",
-      "time": "",
-      "location": "Дунавската градина в Силистра",
-      "category": "exhibition",
-      "description": "Изложбата „Кодова памет“ ще се проведе от сряда, 02 септември 2026 г. до неделя, 04 октомври 2026 г.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/kodova-pamet-izlozhba-keramika.html"
-        },
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/09/26/dokumentalna-izlozhba-za-146-godini-ofitsialna-statistika-e-otkrita-v-dunavskata-gradina-v-silistra"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/glagolitsa-izlozhba.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "КОНКУРС ЗА НАЙ-ДОБРО ДОМАШНО ВИНО  РЕКОЛТА 2025",
           "description": "По повод празника на лозаря Трифон Зарезан, Община Шабла и Народно читалище „Зора 1894“ организират конкурс за най-добро домашно бяло и червено вино от реколта 2025 г."
         },
@@ -3058,36 +3198,6 @@
           "source_id": "zora1894_shabla",
           "source_name": "NCh Zora 1894 (Shabla cultural center)",
           "url": "https://nch-zora1894shabla.com/novini/konkurs-za-kukerski-maski.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Кино прожекция \"Почивката 2\" неподправен български комедиен хаос",
-          "description": "Кино прожекция на филма „Почивката 2“ в НЧ „Зора 1894“ в град Шабла, България."
-        },
-        "en": {
-          "title": "Cinema projection \"The Break 2\" genuine Bulgarian comedy chaos",
-          "description": "Cinema projection of the film \"The Break 2\" in the National Theatre \"Zora 1894\" in Shabla, Bulgaria."
-        },
-        "ro": {
-          "title": "Proiecție cinematografică \"Vacanța 2\" haos de comedie bulgară autentică",
-          "description": "Proiecție cinematografică a filmului \"Vacanța 2\" în Școala Națională \"Zora 1894\" din orașul Shabla, Bulgaria."
-        }
-      },
-      "id": 35,
-      "title": "Кино прожекция \"Почивката 2\" неподправен български комедиен хаос",
-      "date": "",
-      "time": "",
-      "location": "НЧ „Зора 1894“, Шабла",
-      "category": "other",
-      "description": "Кино прожекция на филма „Почивката 2“ в НЧ „Зора 1894“ в град Шабла, България.",
-      "sources": [
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/kino-prozhekciya-pochivkata-2-nepodpraven-balgarski-komedien-haos.html"
         }
       ]
     },
@@ -3248,6 +3358,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/09/30/debut-alessia-pop-lanseaza-compromis/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/02/romanian-jewelry-week-2026-8-designeri/"
         }
       ]
     },
@@ -4159,6 +4274,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Фестивал \"Дан Мойсеску\" – Ден 1",
+          "description": "30-то издание на Фестивала „Дан Мойсеску” се организира от Окръжния съвет чрез Окръжния културен център „Теодор Т. Бурда”, като се кани обществеността да присъства."
+        },
+        "en": {
+          "title": "\"Dan Moisescu\" Festival – Day 1",
+          "description": "The 30th edition of the Dan Moisescu Festival is being organized by the County Council through the Teodor T. Burada County Cultural Center, inviting the public to attend."
+        },
+        "ro": {
+          "title": "Festivalul “Dan Moisescu” – Ziua 1",
+          "description": "The 30th edition of the Dan Moisescu Festival is being organized by the County Council through the Teodor T. Burada County Cultural Center, inviting the public to attend."
+        }
+      },
+      "id": 238,
+      "title": "Festivalul “Dan Moisescu” – Ziua 1",
+      "date": "",
+      "time": "",
+      "location": "Centrul Cultural Județean „Teodor T. Burada",
+      "category": "festival",
+      "description": "The 30th edition of the Dan Moisescu Festival is being organized by the County Council through the Teodor T. Burada County Cultural Center, inviting the public to attend.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/festivalul-dan-moisescu-ziua-1/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Ние отваряме сладолед",
           "description": "Сладоледът се отваря на адрес Принципала 123, община Сарикиой, Тулча, на церемония, насрочена за 09:00 часа."
         },
@@ -4183,41 +4328,6 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/deschidem-gelateria/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
-          "description": "ДКТ – Силистра обяви програмата за детските представления, които ще се проведат през октомври."
-        },
-        "en": {
-          "title": "DKT – Silistra announced the program for children’s performances in October",
-          "description": "DKT – Silistra announced the program for the children’s performances, which will be held in October."
-        },
-        "ro": {
-          "title": "DKT – Silistra a anunțat programul spectacolelor pentru copii în octombrie",
-          "description": "DKT – Silistra a anunțat programul spectacolelor pentru copii care vor avea loc în octombrie."
-        }
-      },
-      "id": 17,
-      "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
-      "date": "",
-      "time": "11:00",
-      "location": "ДКТ – Силистра",
-      "category": "other",
-      "description": "Програма за интеркултурно образование за учебната 2026/2027 година, организирана по проект „Единни в различието, за живота се учим“. Дейността се проведе между 28 септември и 10 октомври 2026 г. от 11:00 до 11:00.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/09/25/dkt-silistra-obyavi-programata-za-detskite-predstavleniya-prez-oktomvri"
-        },
-        {
-          "source_id": "shabla_sabitiya",
-          "source_name": "Shabla.bg — Sabitiya (Events archive)",
-          "url": "https://shabla.bg/events/programa-za-interkulturno-obrazovanie-za-uchebnata-2026-2027-godina-po-proekt-edinni-v-razlichieto-za-zhivota-se-uchim/"
         }
       ]
     },
