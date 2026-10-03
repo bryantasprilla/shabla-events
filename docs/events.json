@@ -1,411 +1,6 @@
 {
-  "generated_at": "2026-10-02T10:37:52.296935+00:00",
+  "generated_at": "2026-10-03T10:02:26.113226+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "„Кодова памет“ - изложба керамика",
-          "description": "Изложбата „Кодова памет“ ще се проведе от сряда, 02 септември 2026 г. до неделя, 04 октомври 2026 г."
-        },
-        "en": {
-          "title": "\"Code Memory\" - ceramics exhibition",
-          "description": "The exhibition \"Code Memory\" will be held from Wednesday, 02 September 2026 to Sunday, 04 October 2026."
-        },
-        "ro": {
-          "title": "\"Cod de memorie\" - expoziție de ceramică",
-          "description": "Expoziția \"Code Memory\" va avea loc de miercuri, 02 septembrie 2026 până duminică, 04 octombrie 2026."
-        }
-      },
-      "id": 14,
-      "title": "„Кодова памет“ - изложба керамика",
-      "date": "2026-10-02",
-      "time": "",
-      "location": "Дунавската градина в Силистра",
-      "category": "exhibition",
-      "description": "Изложбата „Кодова памет“ ще се проведе от сряда, 02 септември 2026 г. до неделя, 04 октомври 2026 г.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/kodova-pamet-izlozhba-keramika.html"
-        },
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/09/26/dokumentalna-izlozhba-za-146-godini-ofitsialna-statistika-e-otkrita-v-dunavskata-gradina-v-silistra"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/glagolitsa-izlozhba.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/bregove-izlozhba.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Изложба открива предварителната програма на БУНА vol. 4 във Варна",
-          "description": "БУНА, най-големият фестивал за съвременno изкуство в България, открива своето четвърто издание с предварителна изложба от 2 до 5 октомври във Варна."
-        },
-        "en": {
-          "title": "Exhibition opens the preliminary program of BUNA vol. 4 in Varna",
-          "description": "BUNA, the largest contemporary art festival in Bulgaria, opens its fourth edition with a preliminary exhibition from October 2 to 5 in Varna."
-        },
-        "ro": {
-          "title": "O expoziție deschide programul preliminar al BUNA vol. 4 la Varna",
-          "description": "BUNA, cel mai mare festival de artă contemporană din Bulgaria, își deschide cea de-a patra ediție cu o expoziție preliminară în perioada 2-5 octombrie la Varna."
-        }
-      },
-      "id": 217,
-      "title": "Изложба открива предварителната програма на БУНА vol. 4 във Варна",
-      "date": "2026-10-02",
-      "time": "",
-      "location": "различни галерии, независими пространства и неочаквани локации в целия Варна",
-      "category": "exhibition",
-      "description": "БУНА, най-големият фестивал за съвременno изкуство в България, открива своето четвърто издание с предварителна изложба от 2 до 5 октомври във Варна.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536215"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/forum-buna.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Акага 35 Funky Years“ - клубен концерт",
-          "description": "Клубен концерт на „Акага 35 Funky Years“."
-        },
-        "en": {
-          "title": "\"Akaga 35 Funky Years\" - club concert",
-          "description": "Club concert of Akaga 35 Funky Years."
-        },
-        "ro": {
-          "title": "\"Akaga 35 Funky Years\" - concert de club",
-          "description": "Concert de club al formației Akaga 35 Funky Years."
-        }
-      },
-      "id": 230,
-      "title": "„Акага 35 Funky Years“ - клубен концерт",
-      "date": "2026-10-02",
-      "time": "",
-      "location": "Акага 35",
-      "category": "other",
-      "description": "Клубен концерт на „Акага 35 Funky Years“.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/akaga-35-funky-years-kluben-kontsert.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Програма Държавна опера Варна, м. октомври 2026 г.",
-          "description": "Петък, 02/10/2026г. е представяне на опера „Бал с маски“. Место и време за представяне не са указани в текста."
-        },
-        "en": {
-          "title": "Program Varna State Opera, October 2026",
-          "description": "Friday, 02/10/2026 is the performance of the opera \"The Masked Ball\".Place and time of performance are not specified in the text."
-        },
-        "ro": {
-          "title": "Program Opera de Stat Varna, octombrie 2026",
-          "description": "Vineri, 02/10/2026 este prezentarea operei \"Balul cu măști\". Locul și ora de prezentare nu sunt specificate în text."
-        }
-      },
-      "id": 231,
-      "title": "Програма Държавна опера Варна, м. октомври 2026 г.",
-      "date": "2026-10-02",
-      "time": "",
-      "location": "Държавна опера Варна",
-      "category": "theater",
-      "description": "Петък, 02/10/2026г. е представяне на опера „Бал с маски“. Место и време за представяне не са указани в текста.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/programa-darzhavna-opera-varna-moktomvri-2026-g.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/bal-s-maski-opera444.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Арменска душа",
-          "description": "Варна ще гости III Международен фестивал на танца „Арменска душа“ от 2 до 4 октомври, посветен на арменската култура, музика и традиции."
-        },
-        "en": {
-          "title": "The Armenian Soul",
-          "description": "Varna will host the 3rd International Dance Festival \"Armenian Soul\" from October 2 to 4, dedicated to Armenian culture, music and traditions."
-        },
-        "ro": {
-          "title": "Sufletul armean",
-          "description": "Varna va găzdui în perioada 2-4 octombrie cel de-al III-lea Festival Internațional de Dans \"Sufletul Armean\", dedicat culturii, muzicii și tradițiilor armenești."
-        }
-      },
-      "id": 236,
-      "title": "Арменска душа",
-      "date": "2026-10-02",
-      "time": "",
-      "location": "Варна",
-      "category": "festival",
-      "description": "Варна ще гости III Международен фестивал на танца „Арменска душа“ от 2 до 4 октомври, посветен на арменската култура, музика и традиции.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536255"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "\"Улица Малага\" — филм за радостта и силата да започнете нов живот, независимо от възрастта",
-          "description": "Филм за радостта и силата да започнеш нов живот, независимо от възрастта, който се прожектира в кината от 2 октомври."
-        },
-        "en": {
-          "title": "\"Street Malaga\" — a film about the joy and power to start a new life, regardless of age",
-          "description": "A film about the joy and power of starting a new life, regardless of age, which is screening in cinemas from October 2."
-        },
-        "ro": {
-          "title": "„Strada Málaga” — un film despre bucuria și puterea de începe o nouă viață, indiferent de vârstă",
-          "description": "Un film despre bucuria și puterea de începe o nouă viață, indiferent de vârstă, care se screening în cinema din 2 octombrie."
-        }
-      },
-      "id": 239,
-      "title": "„Strada Málaga” — un film despre bucuria și puterea de începe o nouă viață, indiferent de vârstă",
-      "date": "2026-10-02",
-      "time": "",
-      "location": "cinema",
-      "category": "other",
-      "description": "Un film despre bucuria și puterea de începe o nouă viață, indiferent de vârstă, care se screening în cinema din 2 octombrie.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/02/strada-malaga-despre-o-noua-viata/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Нощ на библиотеките, Библиотеката – сърцето на общността",
-          "description": "Нощ на библиотеките, организирана в библиотеката в Констанца, която се счита за сърцето на общността."
-        },
-        "en": {
-          "title": "Nocturne of Libraries, Library – heart of the community",
-          "description": "A night event of libraries, organized at the Library of Constanta, which is considered the heart of the community."
-        },
-        "ro": {
-          "title": "Nocturna Bibliotecilor, Biblioteca – inima comunității",
-          "description": "Un eveniment nocturn al bibliotecilor, organizat la Biblioteca din Constanta, care se consideră inima comunității."
-        }
-      },
-      "id": 99,
-      "title": "Nocturna Bibliotecilor, Biblioteca – inima comunității",
-      "date": "2026-10-02",
-      "time": "15:00",
-      "location": "str. Mircea cel Batran nr. 104 A, 900663 Constanta, Romania",
-      "category": "other",
-      "description": "Un eveniment nocturn al bibliotecilor, organizat la Biblioteca din Constanta, care se consideră inima comunității.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/nocturna-bibliotecilor-biblioteca-inima-comunitatii/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Храмът на Кибела в нова мултимедийна изложба във Варна",
-          "description": "На 2 октомври ще бъде открита иновативната мултимедийна изложба в Археологическия музей във Варна, посветена на Храмът на Кибела от Дионисополис."
-        },
-        "en": {
-          "title": "The Temple of Cybele in a new multimedia exhibition in Varna",
-          "description": "On October 2, the innovative multimedia exhibition dedicated to the Temple of Cybele from Dionysopolis will be opened at the Archaeological Museum in Varna."
-        },
-        "ro": {
-          "title": "Templul lui Cybele într-o nouă expoziție multimedia la Varna",
-          "description": "În 2 octombrie, la Muzeul de Arheologie din Varna va fi inaugurată o expoziție multimedia inovatoare dedicată Templului lui Cybele din Dionysopolis."
-        }
-      },
-      "id": 207,
-      "title": "Храмът на Кибела в нова мултимедийна изложба във Варна",
-      "date": "2026-10-02",
-      "time": "16:00",
-      "location": "Археологически музей във Варна",
-      "category": "exhibition",
-      "description": "На 2 октомври ще бъде открита иновативната мултимедийна изложба в Археологическия музей във Варна, посветена на Храмът на Кибела от Дионисополис.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536109"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/turizam-ekspo-destinatsiya-varna_2026.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/vroden-inat-izlozhba-chast-ot-buna-4.html"
-        },
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536212"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Карнавалът – Констанца",
-          "description": "Събитието Банометър Констанца се провежда в Областната библиотека на Констанца на 2 октомври от 18:30 ч., като приканва участниците да разсъждават върху стойността на своето време."
-        },
-        "en": {
-          "title": "The carnival – Constanta",
-          "description": "The Banometru Constanta event takes place at the Constanta County Library on October 2 at 18:30 pm, inviting participants to reflect on the value of their time."
-        },
-        "ro": {
-          "title": "Carnavalul – Constanta",
-          "description": "Evenimentul Banometru Constanța se desfășoară la Biblioteca Judeteana Constanta pe 2 octombrie la ora 18:30, invitanți participanții să reflecteze asupra valorii timpului lor."
-        }
-      },
-      "id": 101,
-      "title": "Carnavalul – Constanta",
-      "date": "2026-10-02",
-      "time": "17:00",
-      "location": "Casa de Cultura a Sindicatelor Constanta",
-      "category": "other",
-      "description": "Evenimentul Banometru Constanța se desfășoară la Biblioteca Judeteana Constanta pe 2 octombrie la ora 18:30, invitanți participanții să reflecteze asupra valorii timpului lor.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/carnavalul-constanta/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/banometru-constanta-cat-valoreaza-o-ora-din-viata-ta/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/zambetul-muzicii-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/curs-de-prim-ajutor-pediatric-la-constanta-cu-mensave-2/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/%f0%9f%8c%8a-toamna-se-danseaza-tango-la-constanta-%f0%9f%8d%82/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/curs-de-prim-ajutor-de-baza-la-constanta-cu-mensave/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/%f0%9f%a7%83%f0%9f%93%9abarfe-de-bac-un-curs-gratuit-unic-in-constanta-pregatire-bacalaureat/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/cum-a-furat-grinch-craciunul-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Публична лекция „100 години въздушна поща в България“",
-          "description": "Публична лекция на тема „100 години въздушна поща в България“ ще се проведе в Музея за нова история на Варна на 2 октомври от 17:30 до 19:00 часа."
-        },
-        "en": {
-          "title": "Public lecture \"100 years of airmail in Bulgaria\"",
-          "description": "A public lecture on \"100 years of airmail in Bulgaria\" will be held at the Museum of Modern History of Varna on October 2 from 17:30 to 19:00."
-        },
-        "ro": {
-          "title": "Prelegere publică \"100 de ani de poștă aeriană în Bulgaria\"",
-          "description": "O prelegere publică pe tema \"100 de ani de poștă aeriană în Bulgaria\" va avea loc la Muzeul de Istorie Modernă din Varna pe 2 octombrie între orele 17:30 și 19:00."
-        }
-      },
-      "id": 139,
-      "title": "Публична лекция „100 години въздушна поща в България“",
-      "date": "2026-10-02",
-      "time": "17:30",
-      "location": "Музея за нова история на Варна",
-      "category": "municipal",
-      "description": "Публична лекция на тема „100 години въздушна поща в България“ ще се проведе в Музея за нова история на Варна на 2 октомври от 17:30 до 19:00 часа.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=535950"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Празникът на смъртта # 1",
-          "description": "е рок фестивал, който ще се проведе на 2 октомври 2026 г., от 19:00 ч. в Рок Хале, Констанца."
-        },
-        "en": {
-          "title": "CONSTANGELES DEATHFEST #1",
-          "description": "CONSTANGELES DEATHFEST #1 is a rock festival taking place on October 2nd, 2026, starting at 19:00 in Rock Halle, Constanta."
-        },
-        "ro": {
-          "title": "CONSTANGELES DEATHFEST # 1",
-          "description": "CONSTANGELES DEATHFEST # 1 is a rock festival taking place on October 2nd, 2026, starting at 19:00 in Rock Halle, Constanta."
-        }
-      },
-      "id": 134,
-      "title": "CONSTANGELES DEATHFEST # 1",
-      "date": "2026-10-02",
-      "time": "19:00",
-      "location": "Rock Halle (str. Tulcea nr. 2, Constanta)",
-      "category": "adult_18+",
-      "description": "CONSTANGELES DEATHFEST # 1 is a rock festival taking place on October 2nd, 2026, starting at 19:00 in Rock Halle, Constanta.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/constangeles-deathfest-1/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -448,6 +43,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/karaoke-cu-live-band/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/02/escapade-cu-spa-timp-pentru-tine/"
         }
       ]
     },
@@ -478,6 +78,41 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/conferinta-nationala-pentru-tineri-medici/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Седмицата на комедията се завръща с премиери",
+          "description": "Седмицата на комедията ще се проведе в Брашов между 2 и 8 ноември 2026 г., представяйки премиерни представления."
+        },
+        "en": {
+          "title": "Comedy Week returns with premiere shows",
+          "description": "The Comedy Week will take place in Brasov between 2 and 8 November 2026, presenting premiere shows."
+        },
+        "ro": {
+          "title": "Săptămâna Comediei revine cu spectacole prezentate în premieră",
+          "description": "Săptămâna Comediei va avea loc în Brașov între 2 și 8 noiembrie 2026, prezentând spectacole în premieră."
+        }
+      },
+      "id": 185,
+      "title": "Săptămâna Comediei revine cu spectacole prezentate în premieră",
+      "date": "2026-10-03",
+      "time": "",
+      "location": "Brașov",
+      "category": "theater",
+      "description": "Săptămâna Comediei va avea loc în Brașov între 2 și 8 noiembrie 2026, prezentând spectacole în premieră.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/28/saptamana-comediei-in-premiera-2026/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/karaoke-cu-live-band/"
         }
       ]
     },
@@ -544,6 +179,96 @@
     {
       "translations": {
         "bg": {
+          "title": "Програма Държавен куклен театър Варна 03.10 - 04.10.2026 г.",
+          "description": "Държавен куклен театър върху събота, 03.10.2026 и неделя, 04.10.2026."
+        },
+        "en": {
+          "title": "Program State Puppet Theatre Varna 03.10 - 04.10.2026",
+          "description": "State Puppet Theatre on Saturday, 03.10.2026 and Sunday, 04.10.2026."
+        },
+        "ro": {
+          "title": "Program Teatrul de Stat de Păpuși Varna 03.10 - 04.10.2026",
+          "description": "Teatrul de păpuși de stat pe sâmbătă, 03.10.2026 și duminică, 04.10.2026."
+        }
+      },
+      "id": 242,
+      "title": "Програма Държавен куклен театър Варна 03.10 - 04.10.2026 г.",
+      "date": "2026-10-03",
+      "time": "",
+      "location": "Варна",
+      "category": "theater",
+      "description": "Държавен куклен театър върху събота, 03.10.2026 и неделя, 04.10.2026.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/programa-darzhaven-kuklen-teatar-varna-0310-041020.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Градска философия: фотография, мода, архитектура",
+          "description": "Изложба под тема „Градска философия: фотография, мода, архитектура“ състои се от събота, 03 октомври до петък, 09 октомври 2026 г."
+        },
+        "en": {
+          "title": "Urban philosophy: photography, fashion, architecture",
+          "description": "Exhibition on the theme \"Urban philosophy: photography, fashion, architecture\" takes place from Saturday, 03 October to Friday, 09 October 2026."
+        },
+        "ro": {
+          "title": "Filosofie urbană: fotografie, modă, arhitectură",
+          "description": "Expoziția cu tema \"Filozofia urbană: fotografie, modă, arhitectură\" are loc de sâmbătă, 03 octombrie până vineri, 09 octombrie 2026."
+        }
+      },
+      "id": 243,
+      "title": "Градска философия: фотография, мода, архитектура",
+      "date": "2026-10-03",
+      "time": "",
+      "location": "",
+      "category": "exhibition",
+      "description": "Изложба под тема „Градска философия: фотография, мода, архитектура“ състои се от събота, 03 октомври до петък, 09 октомври 2026 г.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/gradska-filosofiya-fotografiya-moda-arhitekturaizl.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "II Фолклорен фестивал „Фолклорна приказка“ събира танцьори в Дулово на 3 октомври",
+          "description": "Повторно се провежда II Фолклорен фестивал „Фолклорна приказка“, който събира танцьори в Дулово на 3 октомври."
+        },
+        "en": {
+          "title": "II Folklore Festival \"Folklore Tale\" gathers dancers in Dulovo on October 3",
+          "description": "The 2nd Folklore Festival \"Folklore Tale\" is held again, which gathers dancers in Dulovo on October 3."
+        },
+        "ro": {
+          "title": "Cel de-al doilea festival folcloric \"Folkloric Fairytale\" reunește dansatori la Dulovo în 3 octombrie",
+          "description": "Cel de-al doilea festival folcloric \"Povestire folclorică\", care adună dansatori în Dulovo pe 3 octombrie, se desfășoară din nou."
+        }
+      },
+      "id": 244,
+      "title": "II Фолклорен фестивал „Фолклорна приказка“ събира танцьори в Дулово на 3 октомври",
+      "date": "2026-10-03",
+      "time": "",
+      "location": "Дулово",
+      "category": "festival",
+      "description": "Повторно се провежда II Фолклорен фестивал „Фолклорна приказка“, който събира танцьори в Дулово на 3 октомври.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/10/02/ii-folkloren-festival-folklorna-prikazka-sabira-tantsori-v-dulovo-na-3-oktomvri"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Уъркшоп: \"В контакт ли съм с моите нужди?\"",
           "description": "Уъркшоп по Интегративна остеопатия и психотерапия, който се провежда в Констанца, Румъния, от 10:00 часа."
         },
@@ -568,6 +293,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/workshop-iopt-eu-sunt-in-contact-cu-nevoile-mele/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/02/minivacanta-1-decembrie-city-break-zbor/"
         }
       ]
     },
@@ -1098,6 +828,36 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/vokalno-studio-angel-voices/p1326.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Община Добричка кани добруджанци на фестивала „Плодовете на Добруджа“ в събота",
+          "description": "Община Добрич призовава жителите на Добруджа да участват в фестивал „Плодовете на Добруджа“, който се проведе в събота."
+        },
+        "en": {
+          "title": "Municipality of Dobrich invites Dobrudzhans to the festival \"Fruit of Dobrich\" on Saturday",
+          "description": "The Municipality of Dobrich invites the residents of Dobrich to participate in the festival \"The Fruits of Dobrich\", which took place on Saturday."
+        },
+        "ro": {
+          "title": "Municipalitatea Dobrich îi invită sâmbătă pe locuitorii Dobrogei la festivalul \"Fructele Dobrogei\"",
+          "description": "Municipalitatea Dobrich a cerut locuitorilor din Dobrogea să participe la festivalul Fructele Dobrogei, care a avut loc sâmbătă."
+        }
+      },
+      "id": 241,
+      "title": "Община Добричка кани добруджанци на фестивала „Плодовете на Добруджа“ в събота",
+      "date": "2026-10-07",
+      "time": "",
+      "location": "Събота",
+      "category": "festival",
+      "description": "Община Добрич призовава жителите на Добруджа да участват в фестивал „Плодовете на Добруджа“, който се проведе в събота.",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/obshtina-dobrichka-kani-dobrudjanci-na-festivala-plodovete-na-dobrudja-v-sybota-1/116759"
         }
       ]
     },
@@ -1844,6 +1604,66 @@
     {
       "translations": {
         "bg": {
+          "title": "Момичето и змеят",
+          "description": "Момичето на баба и момичето на Дядо Коледа – представление, което ще се състои в Дома на културата на синдикатите в Констанца на 17 октомври от 11:00 часа."
+        },
+        "en": {
+          "title": "BABY’S FACE AND FATHER’S FACE – Constanta",
+          "description": "Fata Babei si Fata Mosului – a show that will take place at the House of Culture of the Trade Unions in Constanta on October 17 at 11:00."
+        },
+        "ro": {
+          "title": "FATA BABEI SI FATA MOSULUI – Constanta",
+          "description": "Fata Babei si Fata Mosului – un spectacol care va avea loc la Casa de Cultură a Sindicatelor în Constanta pe data de 17 octombrie la ora 11:00."
+        }
+      },
+      "id": 245,
+      "title": "FATA BABEI SI FATA MOSULUI – Constanta",
+      "date": "2026-10-17",
+      "time": "11:00",
+      "location": "Casa de Cultură a Sindicatelor Constanța",
+      "category": "other",
+      "description": "Fata Babei si Fata Mosului – un spectacol care va avea loc la Casa de Cultură a Sindicatelor în Constanta pe data de 17 octombrie la ora 11:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/fata-babei-si-fata-mosului-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Дон Кихот“",
+          "description": "Театрален спектакъл на Дон Кихот, насрочен за 17 октомври 2026 г., от 18:30 ч. в Дома на културата на синдикатите в Констанца."
+        },
+        "en": {
+          "title": "Don Quixote",
+          "description": "Theater performance of Don Quijote scheduled for October 17, 2026, at 18:30 in Casa de Cultură a Sindicatelor in Constanța."
+        },
+        "ro": {
+          "title": "Don Quijote",
+          "description": "Theater performance of Don Quijote scheduled for October 17, 2026, at 18:30 in Casa de Cultură a Sindicatelor in Constanța."
+        }
+      },
+      "id": 246,
+      "title": "Don Quijote",
+      "date": "2026-10-17",
+      "time": "18:30",
+      "location": "Casa de Cultură a Sindicatelor Constanța",
+      "category": "theater",
+      "description": "Theater performance of Don Quijote scheduled for October 17, 2026, at 18:30 in Casa de Cultură a Sindicatelor in Constanța.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/don-quijote/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Уъркшоп по рисуване за възрастни",
           "description": "Уъркшоп по рисуване за възрастни, който ще се проведе на 18 октомври от 11:00 часа в Василе Лукачиу, № 1, Констанца."
         },
@@ -2179,6 +1999,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Щефан Баница – Моята история (премиера)",
+          "description": "Театралната премиера на биографията на Щефан Баница ще се състои в Многофункционалния образователен център за младежта \"Жан Константин\" в Констанца, със спектакъла, насрочен за 19:30 часа."
+        },
+        "en": {
+          "title": "Ștefan Bănică – My Story (Premiere)",
+          "description": "The theatrical premiere of the biography of Ștefan Bănică will take place at the Multifunctional Educational Center for Youth \"Jean Constantin\" in Constanța, with the show scheduled at 19:30."
+        },
+        "ro": {
+          "title": "Ștefan Bănică – Povestea mea (În premieră)",
+          "description": "Premiera teatrală a biografiei lui Ștefan Bănică va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanța, cu spectacolul programat la ora 19:30."
+        }
+      },
+      "id": 247,
+      "title": "Ștefan Bănică – Povestea mea (În premieră)",
+      "date": "2026-10-26",
+      "time": "19:30",
+      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
+      "category": "concert",
+      "description": "Premiera teatrală a biografiei lui Ștefan Bănică va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanța, cu spectacolul programat la ora 19:30.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/stefan-banica-povestea-mea-in-premiera-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "10 години Черното пиле - Моноспектакъл на Мариус Куркински",
           "description": "Монодрама на Мариус Куркински, посветена на 10-та годишнина на „Черното пиле"
         },
@@ -2195,14 +2045,19 @@
       "title": "10 години Черното пиле - Моноспектакъл на Мариус Куркински",
       "date": "2026-10-27",
       "time": "",
-      "location": "",
+      "location": "Историческия музей в Дулово",
       "category": "theater",
-      "description": "Монодрама на Мариус Куркински, посветена на 10-та годишнина на „Черното пиле",
+      "description": "Гостуваща изложба на Художествена галерия отвори се в Историческия музей в Дулово.",
       "sources": [
         {
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/kurkinski/p501.html"
+        },
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/10/03/gostuvashta-izlozhba-na-hudozhestvena-galeriya-silistra-beshe-otkrita-v-istoricheskiya-muzej-v-dulovo"
         }
       ]
     },
@@ -2863,6 +2718,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/fuego-glas-de-colinda-casa-de-cultura-a-sindicatelor-constanta-27-decembrie/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Слаш идва на Рокстад Фест 2027",
+          "description": "Китаристът на \"Гънс енд Роузес\" Слаш открива фестивала \"Рокщад Фест 2027\" в Гимбав."
+        },
+        "en": {
+          "title": "Slash comes to Rockstadt Fest 2027",
+          "description": "Guns N' Roses guitarist Slash opens the Rockstadt Fest 2027 festival in Ghimbav."
+        },
+        "ro": {
+          "title": "Slash vine la Rockstadt Fest 2027",
+          "description": "Chitaristul Guns N’ Roses, Slash, deschide festivalul Rockstadt Fest 2027 la Ghimbav."
+        }
+      },
+      "id": 251,
+      "title": "Slash vine la Rockstadt Fest 2027",
+      "date": "2027-01-01",
+      "time": "",
+      "location": "Ghimbav",
+      "category": "concert",
+      "description": "Chitaristul Guns N’ Roses, Slash, deschide festivalul Rockstadt Fest 2027 la Ghimbav.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/02/slash-vine-la-rockstadt-fest-2027/"
         }
       ]
     },
@@ -3854,36 +3739,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Седмицата на комедията се завръща с премиери",
-          "description": "Седмицата на комедията ще се проведе в Брашов между 2 и 8 ноември 2026 г., представяйки премиерни представления."
-        },
-        "en": {
-          "title": "Comedy Week returns with premiere shows",
-          "description": "The Comedy Week will take place in Brasov between 2 and 8 November 2026, presenting premiere shows."
-        },
-        "ro": {
-          "title": "Săptămâna Comediei revine cu spectacole prezentate în premieră",
-          "description": "Săptămâna Comediei va avea loc în Brașov între 2 și 8 noiembrie 2026, prezentând spectacole în premieră."
-        }
-      },
-      "id": 185,
-      "title": "Săptămâna Comediei revine cu spectacole prezentate în premieră",
-      "date": "",
-      "time": "",
-      "location": "Brașov",
-      "category": "theater",
-      "description": "Săptămâna Comediei va avea loc în Brașov între 2 și 8 noiembrie 2026, prezentând spectacole în premieră.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/28/saptamana-comediei-in-premiera-2026/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Национален Турнир по Органи на Румъния",
           "description": "Националното турне на Органите на Румъния, с органистите Мария-Луиза Антал и Едуард Антал, ще се проведе през есента в Търгу Муреш, Париж и Букурещ."
         },
@@ -4298,6 +4153,126 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/festivalul-dan-moisescu-ziua-1/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Либервокс“ Добрич събра пълна зала за концерт, посветен на Световния ден на музиката",
+          "description": "Добрич събрал пълна зала за концерт на „Либервокс“, посветен на Световния ден на музиката."
+        },
+        "en": {
+          "title": "\"Libervox\" Dobrich gathered a full hall for a concert dedicated to the World Day of Music",
+          "description": "Dobrich gathered a full hall for a concert of \"Libervox\", dedicated to the World Day of Music."
+        },
+        "ro": {
+          "title": "\"Libervox\" Dobrici a adunat o sală plină pentru un concert dedicat Zilei Mondiale a Muzicii",
+          "description": "Dobrici a adunat o sală plină pentru concertul \"Libervox\", dedicat Zilei Mondiale a Muzicii."
+        }
+      },
+      "id": 240,
+      "title": "„Либервокс“ Добрич събра пълна зала за концерт, посветен на Световния ден на музиката",
+      "date": "",
+      "time": "",
+      "location": "Добрич",
+      "category": "concert",
+      "description": "Добрич събрал пълна зала за концерт на „Либервокс“, посветен на Световния ден на музиката.",
+      "sources": [
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/„libervoks“-dobrich-sabra-palna-zala-za-kontsert-posveten-na-svetovniya-den-na-muzikata-p731590"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Мариус Маноле, Мая Моргенстерн, Оана Пеля и Медея Маринеску",
+          "description": "Театрални представления с Мариус Маноле, Мая Моргенстерн, Оана Пеля и Медея Маринеску на сцената на различни градове в Румъния в периода 4-11 октомври."
+        },
+        "en": {
+          "title": "Marius Manole, Maia Morgenstern, Oana Pellea and Medeea Marinescu",
+          "description": "Theatre performances with Marius Manole, Maia Morgenstern, Oana Pellea and Medeea Marinescu on the stage of different cities in Romania between October 4-11."
+        },
+        "ro": {
+          "title": "Marius Manole, Maia Morgenstern, Oana Pellea și Medeea Marinescu",
+          "description": "Teatrală spectacole cu Marius Manole, Maia Morgenstern, Oana Pellea și Medeea Marinescu pe scena diferitelor orașe din România în perioada 4-11 octombrie."
+        }
+      },
+      "id": 249,
+      "title": "Marius Manole, Maia Morgenstern, Oana Pellea și Medeea Marinescu",
+      "date": "",
+      "time": "",
+      "location": "București, Craiova, Focșani, Piatra-Neamț, Pitești și Bacău",
+      "category": "theater",
+      "description": "Teatrală spectacole cu Marius Manole, Maia Morgenstern, Oana Pellea și Medeea Marinescu pe scena diferitelor orașe din România în perioada 4-11 octombrie.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/03/marius-manole-oana-pellea-spectacole/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "ТРИОСЕНС и техният сонджаз се завръщат с турне в Румъния през октомври 2026 г.",
+          "description": "ТРИОСЕНС и техният сонджаз се завръщат с турне в Румъния през октомври 2026 г., предлагайки музикално изживяване, на което да се насладите."
+        },
+        "en": {
+          "title": "TRIOSENCE and their songjazz return with a tour in Romania in October 2026",
+          "description": "TRIOSENCE and their songjazz return with a tour in Romania in October 2026, offering a Jazz Fan Rising branded musical experience to be enjoyed."
+        },
+        "ro": {
+          "title": "TRIOSENCE și songjazzul lor revin cu un turneu în România în octombrie 2026",
+          "description": "TRIOSENCE și songjazzul lor revin cu un turneu în România în octombrie 2026, oferind o experiență muzicală marca Jazz Fan Rising de savurat."
+        }
+      },
+      "id": 250,
+      "title": "TRIOSENCE și songjazzul lor revin cu un turneu în România în octombrie 2026",
+      "date": "",
+      "time": "",
+      "location": "România",
+      "category": "other",
+      "description": "TRIOSENCE și songjazzul lor revin cu un turneu în România în octombrie 2026, oferind o experiență muzicală marca Jazz Fan Rising de savurat.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/03/triosence-turneu-romania-2026/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Сцени от дегустация",
+          "description": "Дегустация на гурме продукти на специализирана сцена, организирана в КФС Дорито."
+        },
+        "en": {
+          "title": "GURMAND | Scenes from a tasting",
+          "description": "Gourmet tasting in a specialized stage, organized at KFC Doritos Loaded."
+        },
+        "ro": {
+          "title": "GURMAND | Scene dintr-o degustare",
+          "description": "Degustare de produse gurmance într-o scenă specializată, organizată la KFC Doritos Loaded."
+        }
+      },
+      "id": 252,
+      "title": "GURMAND | Scene dintr-o degustare",
+      "date": "",
+      "time": "",
+      "location": "KFC Doritos Loaded",
+      "category": "adult_18+",
+      "description": "Degustare de produse gurmance într-o scenă specializată, organizată la KFC Doritos Loaded.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/03/kfc-doritos-loaded-degustare/"
         }
       ]
     },
