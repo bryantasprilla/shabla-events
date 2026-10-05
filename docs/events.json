@@ -1,136 +1,6 @@
 {
-  "generated_at": "2026-10-04T10:45:26.079804+00:00",
+  "generated_at": "2026-10-05T11:25:04.326468+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "„Либервокс“ Добрич събра пълна зала за концерт, посветен на Световния ден на музиката",
-          "description": "Добрич събрал пълна зала за концерт на „Либервокс“, посветен на Световния ден на музиката."
-        },
-        "en": {
-          "title": "\"Libervox\" Dobrich gathered a full hall for a concert dedicated to the World Day of Music",
-          "description": "Dobrich gathered a full hall for a concert of \"Libervox\", dedicated to the World Day of Music."
-        },
-        "ro": {
-          "title": "\"Libervox\" Dobrici a adunat o sală plină pentru un concert dedicat Zilei Mondiale a Muzicii",
-          "description": "Dobrici a adunat o sală plină pentru concertul \"Libervox\", dedicat Zilei Mondiale a Muzicii."
-        }
-      },
-      "id": 240,
-      "title": "„Либервокс“ Добрич събра пълна зала за концерт, посветен на Световния ден на музиката",
-      "date": "2026-10-04",
-      "time": "",
-      "location": "Добрич",
-      "category": "concert",
-      "description": "Добрич събрал пълна зала за концерт на „Либервокс“, посветен на Световния ден на музиката.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/„libervoks“-dobrich-sabra-palna-zala-za-kontsert-posveten-na-svetovniya-den-na-muzikata-p731590"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/oganyat-na-gruziyatantsovspektakal.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Ветил 70",
-          "description": "Бетел 70 е събитие, което ще се проведе на 4 октомври 2026 г., от 10:00 ч. в Констанца, Румъния."
-        },
-        "en": {
-          "title": "Betel 70",
-          "description": "Betel 70 is an event taking place on October 4, 2026, at 10:00 AM in Constanta, Romania."
-        },
-        "ro": {
-          "title": "Betel 70",
-          "description": "Betel 70 is an event taking place on October 4, 2026, at 10:00 AM in Constanta, Romania."
-        }
-      },
-      "id": 109,
-      "title": "Betel 70",
-      "date": "2026-10-04",
-      "time": "10:00",
-      "location": "Str. Amurgului, Nr. 43, 900005 Constanta, Romania",
-      "category": "other",
-      "description": "Betel 70 is an event taking place on October 4, 2026, at 10:00 AM in Constanta, Romania.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/betel-70/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Джоузеф Джейкъбс – „Джак и бобовата лудост“",
-          "description": "Театрален спектакъл, базиран на историята на Джоузеф Джейкъбс, насрочен за 4 октомври от 10:30 часа в зала Аристид Караджали в Констанца, Румъния."
-        },
-        "en": {
-          "title": "JACK AND THE BEANS, by Joseph Jacobs",
-          "description": "A theatrical performance based on the story of Joseph Jacobs, scheduled for October 4 at 10:30 in the Aristide Karatzali location in Constanța, Romania."
-        },
-        "ro": {
-          "title": "JACK ȘI VREJUL DE FASOLE, după Joseph Jacobs",
-          "description": "Un spectacol teatral bazat pe povestea Joseph Jacobs, programat pentru data de 4 octombrie la ora 10:30 în locația Aristide Karatzali din Constanța, România."
-        }
-      },
-      "id": 142,
-      "title": "JACK ȘI VREJUL DE FASOLE, după Joseph Jacobs",
-      "date": "2026-10-04",
-      "time": "10:30",
-      "location": "Aristide Karatzali, nr 16, 900746 Constanța, România",
-      "category": "other",
-      "description": "Un spectacol teatral bazat pe povestea Joseph Jacobs, programat pentru data de 4 octombrie la ora 10:30 în locația Aristide Karatzali din Constanța, România.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/jack-si-vrejul-de-fasole-dupa-joseph-jacobs/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Среща с писателката Ал Тъна и нейния нов роман Вино",
-          "description": "Народно читалище „Зора 1894“ в Шабла организира вечерта, която ще бъде посветена на съвременното българско слово, българската история и темата за любовта."
-        },
-        "en": {
-          "title": "A meeting with the writer Al Thuna and her new novel Wine",
-          "description": "\"Zora 1894\" in Shabla organizes the evening, which will be dedicated to contemporary Bulgarian poetry, Bulgarian history and the theme of love."
-        },
-        "ro": {
-          "title": "Întâlnire cu scriitoarea Al Thuna și noul ei roman Vin",
-          "description": "Centrul Cultural \"Zora 1894\" din Shabla organizează seara, care va fi dedicată poeziei bulgare contemporane, istoriei bulgare și temei iubirii."
-        }
-      },
-      "id": 27,
-      "title": "Среща с писателката Ал Тъна и нейния нов роман Вино",
-      "date": "2026-10-04",
-      "time": "18:00",
-      "location": "Изложбена зала на НЧ „Зора 1894“ - гр. Шабла",
-      "category": "other",
-      "description": "Народно читалище „Зора 1894“ в Шабла организира вечерта, която ще бъде посветена на съвременното българско слово, българската история и темата за любовта.",
-      "sources": [
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/sreshta-s-pisatelkata-al-tana-i-neyniya-nov-roman-vino.html"
-        },
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/oganyat-na-gruziya/p1319.html"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -188,6 +58,36 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/tsaritsata-na-chardasha/p97.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Куршум над Бродуе“ - театрален спектакъл",
+          "description": "Понеделник, 05/10/2026г. - Театрален спектакъл „Куршум над Бродуе“. Детайли за местоположение и време на стартиране не са предоставени."
+        },
+        "en": {
+          "title": "\"Bullet over Broadway\" - theatrical performance",
+          "description": "Monday, 05/10/2026g. - Theatre show \"Bullet over Broadway\". Details about location and start time are not provided."
+        },
+        "ro": {
+          "title": "\"Glonț peste Broadway\" - spectacol de teatru",
+          "description": "Luni, 05/10/2026 - Spectacolul de teatru \"Glonț peste Broadway\". Detaliile despre locație și ora de începere nu sunt furnizate."
+        }
+      },
+      "id": 264,
+      "title": "„Куршум над Бродуе“ - театрален спектакъл",
+      "date": "2026-10-05",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Понеделник, 05/10/2026г. - Театрален спектакъл „Куршум над Бродуе“. Детайли за местоположение и време на стартиране не са предоставени.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/kurshum-nad-broduey-teatralen-spektakal.html"
         }
       ]
     },
@@ -379,6 +279,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Експозиция „Състояния на пространството“ на Траяна Панайотова",
+          "description": "Художничката Траяна Панайотова ще отвори експозицията си „Състояния на пространството“ в галериата A&G Art Meeting в Варна на 7 октомври във възглед на авторката."
+        },
+        "en": {
+          "title": "Exhibition \"States of Space\" by Trayana Panayotova",
+          "description": "Artist Trayana Panayotova will open her exhibition \"States of Space\" at the A&G Art Meeting gallery in Varna on October 7 in the view of the author."
+        },
+        "ro": {
+          "title": "Expoziția \"Stări ale spațiului\" de Traiana Panayotova",
+          "description": "Artista Traiana Panayotova își va deschide expoziția \"Stări ale Spațiului\" la galeria A&G Art Meeting din Varna în 7 octombrie."
+        }
+      },
+      "id": 265,
+      "title": "Експозиция „Състояния на пространството“ на Траяна Панайотова",
+      "date": "2026-10-07",
+      "time": "18:00",
+      "location": "галерия A&G Art Meeting",
+      "category": "exhibition",
+      "description": "Художничката Траяна Панайотова ще отвори експозицията си „Състояния на пространството“ в галериата A&G Art Meeting в Варна на 7 октомври във възглед на авторката.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536423"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "КЛАСИЧНО ДЖАЗ ПЪТУВАНЕ – Национален театър за опера и балет \"Олег Дановски\" Констанца",
           "description": "Събитие с участието на Националния театър за опера и балет \"Олег Дановски\" в Констанца, Румъния, насрочено за 7 октомври от 7:00 часа."
         },
@@ -423,6 +353,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/masha-si-ursul-constanta-2/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/05/turneul-regina-si-compozitorii/"
         }
       ]
     },
@@ -1203,6 +1138,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/orchestra-curcubeu-in-lumea-povestilor-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/05/de-profundis-palate-festivaluri-2026/"
         }
       ]
     },
@@ -1293,6 +1233,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/atelier-de-pictura-pentru-adulti/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/05/mielul-shaun-aventuri-de-halloween/"
         }
       ]
     },
@@ -1729,6 +1674,96 @@
     {
       "translations": {
         "bg": {
+          "title": "Пясъчен замък",
+          "description": "ПЯСЪЧЕН ЗАМЪК – третото издание на това събитие, което ще се проведе от 25 до 26 септември 2026 г., на Шосеа Индустриала № 12 в Констанца, Румъния."
+        },
+        "en": {
+          "title": "SAND CASTLE – EDITION III-A",
+          "description": "SAND CASTLE – the third edition of this event, taking place from September 25 to 26, 2026, at Șoseaua Industrială nr."
+        },
+        "ro": {
+          "title": "SAND CASTLE – EDIȚIA A III-A",
+          "description": "SAND CASTLE – the third edition of this event, taking place from September 25 to 26, 2026, at Șoseaua Industriala nr. 12 in Constanta, Romania."
+        }
+      },
+      "id": 79,
+      "title": "SAND CASTLE – EDIȚIA A III-A",
+      "date": "2026-10-24",
+      "time": "09:30",
+      "location": "Șoseaua Industriala nr. 12, 900147 Constanta, Romania",
+      "category": "other",
+      "description": "Conferința Transformă NU-ul în DA se desfășoară la Hotel Continental Forum Constanța pe 24 octombrie la ora 09:30, abordând temele legate de curajul de a renunța la practici de copy-paste în vânzări.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/sand-castle-editia-a-iii-a/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/27/ian-sweet-shiverstruck-jilian-medford/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/29/noaptea-alba-a-galeriilor-20-editii/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/30/debut-alessia-pop-lanseaza-compromis/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/02/romanian-jewelry-week-2026-8-designeri/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/conferinta-transforma-nu-ul-in-da-curajul-de-a-nu-mai-fi-copy-paste-in-vanzari-2/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/conferinta-transforma-nu-ul-in-da-curajul-de-a-nu-mai-fi-copy-paste-in-vanzari/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Една нощ във Венеция",
+          "description": "Една нощ във Венеция е събитие с среща в Дома на културата на профсъюзите в Констанца в 18:30 часа."
+        },
+        "en": {
+          "title": "A Night in Venice",
+          "description": "A Night of Venice is an event with an appointment at the House of Culture of the Trade Unions of Constanta at 18:30."
+        },
+        "ro": {
+          "title": "O noapte de Veneția",
+          "description": "O noapte de Veneția este o eveniment cu o programare la Casa de Cultură a Sindicatelor Constanța la ora 18:30."
+        }
+      },
+      "id": 266,
+      "title": "O noapte de Veneția",
+      "date": "2026-10-24",
+      "time": "18:30",
+      "location": "Casa de Cultură a Sindicatelor Constanța",
+      "category": "other",
+      "description": "O noapte de Veneția este o eveniment cu o programare la Casa de Cultură a Sindicatelor Constanța la ora 18:30.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/o-noapte-de-venetia/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Хензел и Гретел – Хензел и Гретел",
           "description": "На 25 октомври от 10:00 ч. в Дома на културата на синдикатите в Констанца е насрочено театрално представление на \"Хензел и Гретел\" от Кюфил."
         },
@@ -2014,6 +2049,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Констанца: Пуя – Голата истина",
+          "description": "Концертът ще се състои във Фратели Констанца на 30 октомври от 20:00 часа."
+        },
+        "en": {
+          "title": "Constanta: Puya – The truth of Gol-Goluț",
+          "description": "The concert will take place in Fratelli Constanta on October 30 at 20:00."
+        },
+        "ro": {
+          "title": "Constanta: Puya – Adevărul Gol-Goluț",
+          "description": "Concertul va avea loc în Fratelli Constanta pe data de 30 octombrie la ora 20:00."
+        }
+      },
+      "id": 267,
+      "title": "Constanta: Puya – Adevărul Gol-Goluț",
+      "date": "2026-10-30",
+      "time": "20:00",
+      "location": "Fratelli Constanta",
+      "category": "concert",
+      "description": "Concertul va avea loc în Fratelli Constanta pe data de 30 octombrie la ora 20:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/constanta-puya-adevarul-gol-golut/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Семейните съзвездия",
           "description": "Семейни съзвездия е събитие, което ще се проведе между 31 октомври и 1 ноември 2026 г. в Констанца."
         },
@@ -2068,6 +2133,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/concurs-de-costume-de-halloween-la-ondina/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Хелоуин лов-Мистерията на нощта",
+          "description": "Хелоуин лов с името \"Мистерията на нощта\" се провежда на Б-дъл Томис, 126 в Констанца в 17:00 часа."
+        },
+        "en": {
+          "title": "Hunting Haloween Mystery of the Night",
+          "description": "Halloween hunt with the name 'The Mystery of the Night' takes place on B-dul Tomis, 126 in Constanta at 17:00."
+        },
+        "ro": {
+          "title": "Vanatoare Haloween-Misterul nopții",
+          "description": "Vanatoare de Halloween cu numele 'Misterul nopții' se desfășoară pe B-dul Tomis, 126 în Constanța la ora 17:00."
+        }
+      },
+      "id": 269,
+      "title": "Vanatoare Haloween-Misterul nopții",
+      "date": "2026-10-31",
+      "time": "17:00",
+      "location": "B-dul Tomis, 126, Constanta, Constanța",
+      "category": "other",
+      "description": "Vanatoare de Halloween cu numele 'Misterul nopții' se desfășoară pe B-dul Tomis, 126 în Constanța la ora 17:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/vanatoare-haloween-misterul-noptii/"
         }
       ]
     },
@@ -3034,56 +3129,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Пясъчен замък",
-          "description": "ПЯСЪЧЕН ЗАМЪК – третото издание на това събитие, което ще се проведе от 25 до 26 септември 2026 г., на Шосеа Индустриала № 12 в Констанца, Румъния."
-        },
-        "en": {
-          "title": "SAND CASTLE – EDITION III-A",
-          "description": "SAND CASTLE – the third edition of this event, taking place from September 25 to 26, 2026, at Șoseaua Industrială nr."
-        },
-        "ro": {
-          "title": "SAND CASTLE – EDIȚIA A III-A",
-          "description": "SAND CASTLE – the third edition of this event, taking place from September 25 to 26, 2026, at Șoseaua Industriala nr. 12 in Constanta, Romania."
-        }
-      },
-      "id": 79,
-      "title": "SAND CASTLE – EDIȚIA A III-A",
-      "date": "",
-      "time": "",
-      "location": "Șoseaua Industriala nr. 12, 900147 Constanta, Romania",
-      "category": "other",
-      "description": "SAND CASTLE – the third edition of this event, taking place from September 25 to 26, 2026, at Șoseaua Industriala nr. 12 in Constanta, Romania.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/sand-castle-editia-a-iii-a/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/27/ian-sweet-shiverstruck-jilian-medford/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/29/noaptea-alba-a-galeriilor-20-editii/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/30/debut-alessia-pop-lanseaza-compromis/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/02/romanian-jewelry-week-2026-8-designeri/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Виартфест VI",
           "description": "ВиартФест се провежда от 2 до 4 октомври на ул. „Александру Марковичи“ № 1 в Констанца."
         },
@@ -3503,6 +3548,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/mizerabilii-casa-sindicatelor-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/interpretul-casa-sindicatelor-constanta/"
         }
       ]
     },
@@ -4103,6 +4153,96 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/04/documentarul-delta-salbatica-porneste/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Спектакълът \"Изпълнителят\"",
+          "description": "Булевардна комедия, написана от Тристан Бернар и преведена на български език от Раду Белиган."
+        },
+        "en": {
+          "title": "The show 'THE INTERPRETER'",
+          "description": "Boulevard comedy written by Tristan Bernard and translated into Romanian by Radu Beligan."
+        },
+        "ro": {
+          "title": "Spectacolul 'INTERPRETUL'",
+          "description": "Comedie bulevardieră scrisă de Tristan Bernard și tradusă în limba română de Radu Beligan."
+        }
+      },
+      "id": 270,
+      "title": "Spectacolul 'INTERPRETUL'",
+      "date": "",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Comedie bulevardieră scrisă de Tristan Bernard și tradusă în limba română de Radu Beligan.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/interpretul-teatru/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Лебедово езеро (балет в 4 действия)",
+          "description": "Балетът в 4 акта се провежда в Дома на културата на профсъюзите в Констанца."
+        },
+        "en": {
+          "title": "Swan Lake (Ballet in 4 Acts)",
+          "description": "Ballet in 4 acts takes place at the House of Culture of the Trade Unions in Constanta."
+        },
+        "ro": {
+          "title": "Lacul Lebedelor (Balet în 4 Acte)",
+          "description": "Balet în 4 acte se desfășoară la Casa de Cultură a Sindicatelor din Constanţa."
+        }
+      },
+      "id": 271,
+      "title": "Lacul Lebedelor (Balet în 4 Acte)",
+      "date": "",
+      "time": "",
+      "location": "Casa de Cultură a Sindicatelor Constanţa",
+      "category": "theater",
+      "description": "Balet în 4 acte se desfășoară la Casa de Cultură a Sindicatelor din Constanţa.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/lacul-lebedelor-balet-4-acte-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "ФБР и ФБР: Най-търсените се завръщат през октомври с нови сезони",
+          "description": "ФБР и ФБР: Най-издирваните се завръщат през октомври с нови сезони на AXN Romania."
+        },
+        "en": {
+          "title": "FBI and FBI: Most Wanted return in October with new seasons",
+          "description": "FBI and FBI: Most Wanted return in October with new seasons on AXN Romania."
+        },
+        "ro": {
+          "title": "FBI și FBI: Most Wanted revin în octombrie cu noi sezoane",
+          "description": "FBI și FBI: Most Wanted returnează în octombrie cu noi sezoane pe AXN România."
+        }
+      },
+      "id": 272,
+      "title": "FBI și FBI: Most Wanted revin în octombrie cu noi sezoane",
+      "date": "",
+      "time": "",
+      "location": "AXN România",
+      "category": "other",
+      "description": "FBI și FBI: Most Wanted returnează în octombrie cu noi sezoane pe AXN România.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/05/fbi-si-fbi-most-wanted-revin/"
         }
       ]
     },
