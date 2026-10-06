@@ -1,123 +1,93 @@
 {
-  "generated_at": "2026-10-05T11:25:04.326468+00:00",
+  "generated_at": "2026-10-06T11:19:00.657265+00:00",
   "events": [
     {
       "translations": {
         "bg": {
-          "title": "ТИЙМБИЛДИНГ се завръща – втора част в кината на 5 октомври",
-          "description": "Второто издание на събитието ще живее в кината на 5 октомври."
+          "title": "64 картини са подредени в годишната изложба на школа „ART HERO",
+          "description": "В Добрич се провежда годишната изложба на работите на учениците на школата „ART HERO"
         },
         "en": {
-          "title": "TEAMBUILDING is back. Part Two is coming to theaters on October 5th",
-          "description": "The second edition of the TEAMBUILDING event will live in cinemas on October 5."
+          "title": "64 paintings are arranged in the annual exhibition of the school \"ART HERO",
+          "description": "In Dobrich is held the annual exhibition of works of students of the school \"ART HERO"
         },
         "ro": {
-          "title": "TEAMBUILDING se întoarce. Partea a doua intră în cinematografe pe 5 octombrie",
-          "description": "A doua ediție a evenimentului TEAMBUILDING va locui în cinematografe pe 5 octombrie."
+          "title": "64 de picturi sunt expuse în cadrul expoziției anuale a școlii \"ART HERO",
+          "description": "Dobrich găzduiește expoziția anuală de lucrări ale elevilor școlii ART HERO"
         }
       },
-      "id": 202,
-      "title": "TEAMBUILDING se întoarce. Partea a doua intră în cinematografe pe 5 octombrie",
-      "date": "2026-10-05",
+      "id": 274,
+      "title": "64 картини са подредени в годишната изложба на школа „ART HERO",
+      "date": "2026-10-06",
       "time": "",
-      "location": "cinematografe",
-      "category": "other",
-      "description": "A doua ediție a evenimentului TEAMBUILDING va locui în cinematografe pe 5 octombrie.",
+      "location": "Добрич",
+      "category": "exhibition",
+      "description": "В Добрич се провежда годишната изложба на работите на учениците на школата „ART HERO",
       "sources": [
         {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/28/teambuilding-2-intra-in-cinematografe/"
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/64-kartini-sa-podredeni-v-godishnata-izlojba-na-shkolaart-hirou-v-dobrich-video-/116838"
         }
       ]
     },
     {
       "translations": {
         "bg": {
-          "title": "Царицата на чардаша - оперета в три действия от Имре Калман",
-          "description": "Царицата на чардаша е оперета в три действия от Имре Калман, която ще се представи на Понеделник, 05/10/2026г."
+          "title": "„Петата стъпка” - театрална постановка",
+          "description": "Театрална постановка под названието „Петата стъпка"
         },
         "en": {
-          "title": "The Queen of the Chardas - operetta in three acts by Imre Kalman",
-          "description": "The Queen of the Chardas is an operetta in three acts by Imre Kalman, which will be presented on Monday, 05/10/2026."
+          "title": "\"The Fifth Step\" - theatrical production",
+          "description": "A theatrical production entitled \"The Fifth Step"
         },
         "ro": {
-          "title": "Regina cârdasului - operetă în trei acte de Imre Kalman",
-          "description": "Regina cârdasului este o operetă în trei acte de Imre Kalman, care va fi prezentată pe Luni, 05/10/2026."
+          "title": "\"Pasul al cincilea\" - o producție teatrală",
+          "description": "O producție teatrală intitulată \"Pasul al cincilea"
         }
       },
-      "id": 232,
-      "title": "Царицата на чардаша - оперета в три действия от Имре Калман",
-      "date": "2026-10-05",
+      "id": 275,
+      "title": "„Петата стъпка” - театрална постановка",
+      "date": "2026-10-06",
       "time": "",
       "location": "",
       "category": "theater",
-      "description": "Царицата на чардаша е оперета в три действия от Имре Калман, която ще се представи на Понеделник, 05/10/2026г.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/tsaritsata-na-chardasha/p97.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Куршум над Бродуе“ - театрален спектакъл",
-          "description": "Понеделник, 05/10/2026г. - Театрален спектакъл „Куршум над Бродуе“. Детайли за местоположение и време на стартиране не са предоставени."
-        },
-        "en": {
-          "title": "\"Bullet over Broadway\" - theatrical performance",
-          "description": "Monday, 05/10/2026g. - Theatre show \"Bullet over Broadway\". Details about location and start time are not provided."
-        },
-        "ro": {
-          "title": "\"Glonț peste Broadway\" - spectacol de teatru",
-          "description": "Luni, 05/10/2026 - Spectacolul de teatru \"Glonț peste Broadway\". Detaliile despre locație și ora de începere nu sunt furnizate."
-        }
-      },
-      "id": 264,
-      "title": "„Куршум над Бродуе“ - театрален спектакъл",
-      "date": "2026-10-05",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Понеделник, 05/10/2026г. - Театрален спектакъл „Куршум над Бродуе“. Детайли за местоположение и време на стартиране не са предоставени.",
+      "description": "Театрална постановка под названието „Петата стъпка",
       "sources": [
         {
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/kurshum-nad-broduey-teatralen-spektakal.html"
+          "url": "https://visit.varna.bg/bg/event/petata-stapka-teatralna-postanovka.html"
         }
       ]
     },
     {
       "translations": {
         "bg": {
-          "title": "МИЗЕРАБИЛИ – Констанца",
-          "description": "Мизерабили ще свирят в Констанца в Дома на културата на синдикатите на 5 октомври от 19:00 часа."
+          "title": "Срещи със Зорница Христова във Варненската библиотека",
+          "description": "Зорница Христова се среща във Варненската библиотека."
         },
         "en": {
-          "title": "MIZERABILII – Constanta",
-          "description": "Mizerabili performs in Constanta at Casa de Cultură a Sindicatelor on October 5th at 19:00."
+          "title": "Meetings with Zornitsa Hristova in the Varna Library",
+          "description": "Zornitsa Hristova meets in the Varna Library."
         },
         "ro": {
-          "title": "MIZERABILII – Constanta",
-          "description": "Mizerabili performs in Constanta at Casa de Cultură a Sindicatelor on October 5th at 19:00."
+          "title": "Întâlniri cu Zornitsa Hristova la Biblioteca din Varna",
+          "description": "Zornița Hristova se întâlnește în Biblioteca din Varna."
         }
       },
-      "id": 143,
-      "title": "MIZERABILII – Constanta",
-      "date": "2026-10-05",
-      "time": "19:00",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "concert",
-      "description": "Mizerabili performs in Constanta at Casa de Cultură a Sindicatelor on October 5th at 19:00.",
+      "id": 276,
+      "title": "Срещи със Зорница Христова във Варненската библиотека",
+      "date": "2026-10-06",
+      "time": "",
+      "location": "Варненската библиотека",
+      "category": "other",
+      "description": "Зорница Христова се среща във Варненската библиотека.",
       "sources": [
         {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/mizerabilii-constanta/"
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/sreshti-sas-zornitsa-hristova-vav-varnenskata-bibl.html"
         }
       ]
     },
@@ -309,6 +279,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Природа - Изложба на Иван Чакъров",
+          "description": "Пловдивският живописец Иван Чакъров ще отвори самостоятелната си изложба „Природа“ в галерия „Ларго“ във Варна на 7 октомври."
+        },
+        "en": {
+          "title": "Nature - Exhibition of Ivan Chakirov",
+          "description": "Plovdiv painter Ivan Chakirov will open his solo exhibition \"Nature\" at Largo Gallery in Varna on October 7."
+        },
+        "ro": {
+          "title": "Natura - Expoziție de Ivan Chakirov",
+          "description": "Pictorul Ivan Cakirov din Plovdiv își va deschide expoziția personală \"Natura\" la Galeria Largo din Varna în 7 octombrie."
+        }
+      },
+      "id": 279,
+      "title": "Природа - Изложба на Иван Чакъров",
+      "date": "2026-10-07",
+      "time": "18:30",
+      "location": "галерия „Ларго“, ул. „Хан Крум“ №8",
+      "category": "exhibition",
+      "description": "Пловдивският живописец Иван Чакъров ще отвори самостоятелната си изложба „Природа“ в галерия „Ларго“ във Варна на 7 октомври.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536444"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "КЛАСИЧНО ДЖАЗ ПЪТУВАНЕ – Национален театър за опера и балет \"Олег Дановски\" Констанца",
           "description": "Събитие с участието на Националния театър за опера и балет \"Олег Дановски\" в Констанца, Румъния, насрочено за 7 октомври от 7:00 часа."
         },
@@ -358,6 +358,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/05/turneul-regina-si-compozitorii/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/fata-babei-si-fata-mosneagului-dupa-ion-creanga/"
         }
       ]
     },
@@ -394,6 +399,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Присъствие – 13 представя живописта на Димитър Манолов във Варна",
+          "description": "Изложба на живопис на варненския художник Димитър Манолов ще бъде представена в галерия „Арт Маркони“. Експозицията ще се открива на 8 октомври от 18:30 часа."
+        },
+        "en": {
+          "title": "Presence – 13 presents the paintings of Dimitar Manolov in Varna",
+          "description": "An exhibition of paintings by the Varna artist Dimitar Manolov will be presented at Art Marconi Gallery on October 8 at 18:30 p.m."
+        },
+        "ro": {
+          "title": "Prezență – 13 prezintă pictura lui Dimitar Manolov la Varna",
+          "description": "O expoziție de pictură a artistului Dimitar Manolov din Varna va fi prezentată la Galeria Art Marconi în 8 octombrie, de la ora 18:30."
+        }
+      },
+      "id": 277,
+      "title": "Присъствие – 13 представя живописта на Димитър Манолов във Варна",
+      "date": "2026-10-08",
+      "time": "18:30",
+      "location": "галерия „Арт Маркони“ на ул. „Охрид“ 22",
+      "category": "exhibition",
+      "description": "Изложба на живопис на варненския художник Димитър Манолов ще бъде представена в галерия „Арт Маркони“. Експозицията ще се открива на 8 октомври от 18:30 часа.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536463"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "ТРИОСЕНС (Германия/Куба) на Джаз Фен Райзинг КОНСТАНЦА",
           "description": "Джаз концертът на триото от Германия и Куба ще се състои в четвъртък, 8 октомври от 19:00 часа в Детския и младежки театър „Кълъц Де Мар” в Констанца."
         },
@@ -418,6 +453,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/triosence-germania-cuba-la-jazz-fan-rising-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/06/bowie80-nasterea-lui-david-bowie/"
         }
       ]
     },
@@ -453,6 +493,41 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/otchayani-sapruzi/p525.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Фотографска изложба за 80-годишнината на УНИЦЕФ",
+          "description": "УНИЦЕФ България представя във Варна пътуваща фотографска изложба, която включва над 50 фотографии от България и света, разказана е историята на организацията."
+        },
+        "en": {
+          "title": "Photo exhibition for the 80th anniversary of UNICEF",
+          "description": "UNICEF Bulgaria presents in Varna a traveling photographic exhibition, which includes over 50 photographs from Bulgaria and the world, the story of the organization is told."
+        },
+        "ro": {
+          "title": "O expoziție de fotografii marchează cea de-a 80-a aniversare a UNICEF",
+          "description": "UNICEF Bulgaria prezintă la Varna o expoziție fotografică itinerantă, care cuprinde peste 50 de fotografii din Bulgaria și din lume, povestind istoria organizației."
+        }
+      },
+      "id": 278,
+      "title": "Фотографска изложба за 80-годишнината на УНИЦЕФ",
+      "date": "2026-10-09",
+      "time": "11:00",
+      "location": "Варна",
+      "category": "exhibition",
+      "description": "УНИЦЕФ България представя във Варна пътуваща фотографска изложба, която включва над 50 фотографии от България и света, разказана е историята на организацията.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536433"
+        },
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536424"
         }
       ]
     },
@@ -753,6 +828,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/micile-maini-mari-transformari-editia-a-ii-a/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/doggy-dupa-o-nuvela-de-maria-pilchin/"
         }
       ]
     },
@@ -1114,6 +1194,36 @@
     {
       "translations": {
         "bg": {
+          "title": "ЕФЕМЕРИД: Космическата мисия ИРИС",
+          "description": "Нелу изнася шоу, което се противопоставя на времето и пространството в Клуб Финикс на 17 октомври като част от поредицата събития ЕФЕМЕРИД."
+        },
+        "en": {
+          "title": "EFEMERIDE: IRIS Space Mission @Club Phoenix",
+          "description": "Nelu performed a time and space-defying show at Club Phoenix on October 17th as part of the EFEMERIDE event series."
+        },
+        "ro": {
+          "title": "EFEMERIDE: Misiunea Spațială IRIS @Club Phoenix",
+          "description": "Nelu performs a time and space-defying show at Club Phoenix on October 17th as part of the EFEMERIDE event series."
+        }
+      },
+      "id": 282,
+      "title": "EFEMERIDE: Misiunea Spațială IRIS @Club Phoenix",
+      "date": "2026-10-17",
+      "time": "",
+      "location": "Club Phoenix",
+      "category": "adult_18+",
+      "description": "Nelu performs a time and space-defying show at Club Phoenix on October 17th as part of the EFEMERIDE event series.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/efemeride-misiunea-spatiala-iris-at-club-phoenix/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "ОРКЕСТЪР КУРКУБЮ В СВЕТА НА ПРИКАЗКИТЕ",
           "description": "Концертът на Оркестър \"Дъга\" в рамките на проекта \"Светът на приказките\" ще се проведе в Дома на културата на синдикатите в Констанца на 17 октомври 2026 г. от 11:00 часа."
         },
@@ -1203,6 +1313,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/don-quijote/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Агри.СС“ организира празник с игри и музика за Световния ден на яйцето в Генерал Тошево",
+          "description": "Празник с игри и музика организиран от „Агри.СС“ в Генерал Тошево за Световния ден на яйцето."
+        },
+        "en": {
+          "title": "\"Agri.SS\" organizes a celebration with games and music for World Egg Day in General Toshevo",
+          "description": "Celebration with games and music organized by \"Agri.SS\" in General Toshevo for World Egg Day."
+        },
+        "ro": {
+          "title": "\"Agri.SS\" organizează o sărbătoare cu jocuri și muzică pentru Ziua Mondială a Ouălor în General Toshevo",
+          "description": "Sărbătoare cu jocuri și muzică organizată de \"Agri.SS\" în General Toshevo pentru Ziua Mondială a Ouălor."
+        }
+      },
+      "id": 273,
+      "title": "„Агри.СС“ организира празник с игри и музика за Световния ден на яйцето в Генерал Тошево",
+      "date": "2026-10-18",
+      "time": "",
+      "location": "Генерал Тошево",
+      "category": "other",
+      "description": "Празник с игри и музика организиран от „Агри.СС“ в Генерал Тошево за Световния ден на яйцето.",
+      "sources": [
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/„agriss“-organizira-praznik-s-igri-i-muzika-za-svetovniya-den-na-yaytseto-v-general-toshevo-p731663"
         }
       ]
     },
@@ -1788,6 +1928,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/hansel-si-gretel-by-qfeel-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Риголето",
+          "description": "Театър опера Риголето ще се проведе в Дома на културата на профсъюзите в Констанца от 18:30 часа."
+        },
+        "en": {
+          "title": "Rigoletto",
+          "description": "The opera Rigoletto will be performed at the House of Culture of the Trade Unions in Constanta at 18:30."
+        },
+        "ro": {
+          "title": "Rigoletto",
+          "description": "Teatru opera Rigoletto se va desfășura la Casa de Cultură a Sindicatelor în Constanța la ora 18:30."
+        }
+      },
+      "id": 281,
+      "title": "Rigoletto",
+      "date": "2026-10-25",
+      "time": "18:30",
+      "location": "Casa de Cultură a Sindicatelor Constanța",
+      "category": "theater",
+      "description": "Teatru opera Rigoletto se va desfășura la Casa de Cultură a Sindicatelor în Constanța la ora 18:30.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/rigoletto/"
         }
       ]
     },
@@ -4243,6 +4413,126 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/05/fbi-si-fbi-most-wanted-revin/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "ДКТ – Силистра представя четири драматични спектакъла през октомври",
+          "description": "ДКТ – Силистра ще представи четири драматични спектакъла през октомври."
+        },
+        "en": {
+          "title": "DKT – Silistra presents four dramatic performances in October",
+          "description": "DKT – Silistra will present four dramatic performances in October."
+        },
+        "ro": {
+          "title": "DKT – Silistra prezintă patru spectacole dramatice în octombrie",
+          "description": "DKT – Silistra va prezenta patru spectacole dramatice în luna octombrie."
+        }
+      },
+      "id": 280,
+      "title": "ДКТ – Силистра представя четири драматични спектакъла през октомври",
+      "date": "",
+      "time": "",
+      "location": "ДКТ – Силистра",
+      "category": "theater",
+      "description": "ДКТ – Силистра ще представи четири драматични спектакъла през октомври.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/10/06/dkt-silistra-predstavya-chetiri-dramatichni-spektakala-prez-oktomvri"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Моята красива дама",
+          "description": "Национален театър за опера и балет \"Олег Дановски\""
+        },
+        "en": {
+          "title": "My Fair Lady",
+          "description": "National Theatre of Opera and Ballet \"Oleg Danovski"
+        },
+        "ro": {
+          "title": "My Fair Lady",
+          "description": "Teatrul Național de Operă și Balet „Oleg Danovski"
+        }
+      },
+      "id": 283,
+      "title": "My Fair Lady",
+      "date": "",
+      "time": "",
+      "location": "Teatrul Național de Operă și Balet „Oleg Danovski",
+      "category": "theater",
+      "description": "Teatrul Național de Operă și Balet „Oleg Danovski",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/my-fair-lady-6/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Гуми на най-голямото автомобилно изложение в Румъния",
+          "description": "Гумите участват в най-голямото автомобилно изложение в Румъния."
+        },
+        "en": {
+          "title": "SAILUN tyres at the largest car show in Romania",
+          "description": "SAILUN tyres participate in the largest car show in Romania."
+        },
+        "ro": {
+          "title": "Anvelopele SAILUN la cel mai mare salon auto din România",
+          "description": "Anvelopele SAILUN participă la cel mai mare salon auto din România."
+        }
+      },
+      "id": 284,
+      "title": "Anvelopele SAILUN la cel mai mare salon auto din România",
+      "date": "",
+      "time": "",
+      "location": "Cel mai mare salon auto din România",
+      "category": "other",
+      "description": "Anvelopele SAILUN participă la cel mai mare salon auto din România.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/05/anvelopele-sailun-salon-auto-din-romania/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "\"По-странен от фантастиката\" (2006, реж. Марк Форстър)",
+          "description": "Прожекция на филма \"По-странен от фантастиката\" (2006, режисьор Марк Форстър) във ВИДЕОДОМ."
+        },
+        "en": {
+          "title": "VIDEODOME | \"STRANGER THAN FICTION\" (2006, d: Marc Forster)",
+          "description": "A screening of the film 'Stranger Than Fiction' (2006, directed by Marc Forster) at Videodome."
+        },
+        "ro": {
+          "title": "VIDEODOME | “STRANGER THAN FICTION” (2006, r: Marc Forster)",
+          "description": "A screening of the film 'Stranger Than Fiction' (2006, directed by Marc Forster) at VIDEODOME."
+        }
+      },
+      "id": 285,
+      "title": "VIDEODOME | “STRANGER THAN FICTION” (2006, r: Marc Forster)",
+      "date": "",
+      "time": "",
+      "location": "VIDEODOME",
+      "category": "other",
+      "description": "A screening of the film 'Stranger Than Fiction' (2006, directed by Marc Forster) at VIDEODOME.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/06/filmul-stranger-than-fiction-2026/"
         }
       ]
     },
