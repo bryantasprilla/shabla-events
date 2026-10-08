@@ -1,391 +1,6 @@
 {
-  "generated_at": "2026-10-07T11:11:59.158096+00:00",
+  "generated_at": "2026-10-08T11:25:06.131538+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Национален маршрут: Лаборатория 2026 пристига в Букурещ, Яш, Клуж-Напока, Тимишоара и Арад",
-          "description": "Национален маршрут: ще се проведе в няколко града в Румъния, включително Букурещ, Яш, Клуж-Напока, Тимишоара и Арад."
-        },
-        "en": {
-          "title": "National route: Classix Lab 2026 arrives in Bucharest, Iași, Cluj-Napoca, Timișoara and Arad",
-          "description": "National route: Classix Lab 2026 will take place in several cities in Romania, including Bucharest, Iași, Cluj-Napoca, Timișoara and Arad."
-        },
-        "ro": {
-          "title": "Parcurs național: Classix Lab 2026 ajunge în București, Iași, Cluj-Napoca, Timișoara și Arad",
-          "description": "Parcurs național: Classix Lab 2026 va avea loc în mai multe orașe din România, inclusiv București, Iași, Cluj-Napoca, Timișoara și Arad."
-        }
-      },
-      "id": 211,
-      "title": "Parcurs național: Classix Lab 2026 ajunge în București, Iași, Cluj-Napoca, Timișoara și Arad",
-      "date": "2026-10-07",
-      "time": "",
-      "location": "București, Iași, Cluj-Napoca, Timișoara, Arad",
-      "category": "other",
-      "description": "Parcurs național: Classix Lab 2026 va avea loc în mai multe orașe din România, inclusiv București, Iași, Cluj-Napoca, Timișoara și Arad.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/30/parcurs-national-classix-lab-2026/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/07/incep-zilele-filmului-maghiar-2026/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Концерт по случай 25 години от създаването на Вокално студио Angel Voices - Варна",
-          "description": "Концерт, организиран от Вокално студио Angel Voices, за отпразнуване на 25-годишното създаване на студиото."
-        },
-        "en": {
-          "title": "Concert on the occasion of 25 years of Vocal Studio Angel Voices - Varna",
-          "description": "A concert organized by Vocal Studio Angel Voices, to celebrate the 25th anniversary of the studio."
-        },
-        "ro": {
-          "title": "Concert cu ocazia împlinirii a 25 de ani de la înființarea Studioului Vocal Angel Voices - Varna",
-          "description": "Un concert organizat de Studioul Vocal Angel Voices pentru a sărbători cea de-a 25-a aniversare a studioului."
-        }
-      },
-      "id": 233,
-      "title": "Концерт по случай 25 години от създаването на Вокално студио Angel Voices - Варна",
-      "date": "2026-10-07",
-      "time": "",
-      "location": "Вокално студио Angel Voices",
-      "category": "concert",
-      "description": "Концерт, организиран от Вокално студио Angel Voices, за отпразнуване на 25-годишното създаване на студиото.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/vokalno-studio-angel-voices/p1326.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Община Добричка кани добруджанци на фестивала „Плодовете на Добруджа“ в събота",
-          "description": "Община Добрич призовава жителите на Добруджа да участват в фестивал „Плодовете на Добруджа“, който се проведе в събота."
-        },
-        "en": {
-          "title": "Municipality of Dobrich invites Dobrudzhans to the festival \"Fruit of Dobrich\" on Saturday",
-          "description": "The Municipality of Dobrich invites the residents of Dobrich to participate in the festival \"The Fruits of Dobrich\", which took place on Saturday."
-        },
-        "ro": {
-          "title": "Municipalitatea Dobrich îi invită sâmbătă pe locuitorii Dobrogei la festivalul \"Fructele Dobrogei\"",
-          "description": "Municipalitatea Dobrich a cerut locuitorilor din Dobrogea să participe la festivalul Fructele Dobrogei, care a avut loc sâmbătă."
-        }
-      },
-      "id": 241,
-      "title": "Община Добричка кани добруджанци на фестивала „Плодовете на Добруджа“ в събота",
-      "date": "2026-10-07",
-      "time": "",
-      "location": "Събота",
-      "category": "festival",
-      "description": "Община Добрич призовава жителите на Добруджа да участват в фестивал „Плодовете на Добруджа“, който се проведе в събота.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/obshtina-dobrichka-kani-dobrudjanci-na-festivala-plodovete-na-dobrudja-v-sybota-1/116759"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "PAGUR VARNA 2026 събира бъдещето на туризма, гастрономията и HORECA във VARNA",
-          "description": "PAGUR VARNA 2026 собира бъдещето на туризма, гастрономията и HORECA във Варна от сряда, 07 октомври до понеделник, 12 октомври 2026 година."
-        },
-        "en": {
-          "title": "PAGUR VARNA 2026 brings together the future of tourism, gastronomy and HORECA in VARNA",
-          "description": "PAGUR VARNA 2026 brings together the future of tourism, gastronomy and HORECA in Varna from Wednesday, 07 October to Monday, 12 October 2026."
-        },
-        "ro": {
-          "title": "PAGUR VARNA 2026 reunește viitorul turismului, gastronomiei și HORECA în VARNA",
-          "description": "PAGUR VARNA 2026 reunește viitorul turismului, gastronomiei și HORECA în Varna de miercuri, 07 octombrie până luni, 12 octombrie 2026."
-        }
-      },
-      "id": 288,
-      "title": "PAGUR VARNA 2026 събира бъдещето на туризма, гастрономията и HORECA във VARNA",
-      "date": "2026-10-07",
-      "time": "",
-      "location": "VARNA",
-      "category": "other",
-      "description": "PAGUR VARNA 2026 собира бъдещето на туризма, гастрономията и HORECA във Варна от сряда, 07 октомври до понеделник, 12 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/pagur-varna-2026-sabira-badeshteto-na-turizma-gast.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Природа",
-          "description": "Иван Чакъров е представен чрез изложба на живопис с тема „Природа“, која ще се провежда от 7 до 27 октомври 2026 година."
-        },
-        "en": {
-          "title": "Nature",
-          "description": "Ivan Chakarov is presented through an exhibition of paintings with the theme \"Nature\", which will be held from 7 to 27 October 2026."
-        },
-        "ro": {
-          "title": "Natura",
-          "description": "Ivan Cakirov este prezentat printr-o expoziție de pictură cu tema \"Natura\", care va avea loc între 7 și 27 octombrie 2026."
-        }
-      },
-      "id": 289,
-      "title": "Природа",
-      "date": "2026-10-07",
-      "time": "",
-      "location": "изложба живопис на Иван Чакъров",
-      "category": "exhibition",
-      "description": "Иван Чакъров е представен чрез изложба на живопис с тема „Природа“, која ще се провежда от 7 до 27 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/priroda-izlozhba-zhivopis-na-ivan-chakarov.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Изключително труден опит за Карол Попа на състезанието за Световната купа в Рим (ФОТОГАЛЕРИЯ)",
-          "description": "Карол Попа участва в изключително труден опит за ЦСМ Констанца в състезание за Световната купа по триатлон в Рим."
-        },
-        "en": {
-          "title": "CSM Constanta Triathlon An extremely demanding attempt for Carol Popa at the World Cup competition in Rome (PHOTO GALLERY)",
-          "description": "Carol Popa participated in an extremely demanding attempt for CSM Constanta in a triathlon World Cup competition in Rome."
-        },
-        "ro": {
-          "title": "CSM Constanța triatlon O încercare extrem de solicitantă pentru Carol Popa la concursul de Cupă Mondială de la Roma (GALERIE FOTO)",
-          "description": "Carol Popa a participat la o încercare extrem de solicitantă pentru CSM Constanța într-un concurs de Cupă Mondială de triatlon la Roma."
-        }
-      },
-      "id": 292,
-      "title": "CSM Constanța triatlon O încercare extrem de solicitantă pentru Carol Popa la concursul de Cupă Mondială de la Roma (GALERIE FOTO)",
-      "date": "2026-10-07",
-      "time": "",
-      "location": "Roma",
-      "category": "sports",
-      "description": "Carol Popa a participat la o încercare extrem de solicitantă pentru CSM Constanța într-un concurs de Cupă Mondială de triatlon la Roma.",
-      "sources": [
-        {
-          "source_id": "ziua_constanta",
-          "source_name": "Ziua de Constanta",
-          "url": "https://www.ziuaconstanta.ro/stiri/sport/csm-constata-triatlon-o-incercare-extrem-de-solicitanta-pentru-carol-popa-la-concursul-de-cupa-mondiala-de-la-roma-galerie-foto-p-955817.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Спортен празник събра ученици, учители и деца в земеделската гимназия в Генерал Тошево",
-          "description": "РОМ от Two Seagulls е концерт с Боил Банов и Ива Петрони, които ще се представят на сряда, 7 октомври 2026 година."
-        },
-        "en": {
-          "title": "Sports celebration gathered students, teachers and children in the agricultural high school in General Toshevo",
-          "description": "ROM by Two Seagulls is a concert with Boyl Banov and Iva Petroni, who will perform on Wednesday, October 7, 2026."
-        },
-        "ro": {
-          "title": "O sărbătoare sportivă a reunit elevi, profesori și copii la liceul agricol din General Tosevo",
-          "description": "ROM de la Two Seagulls este un concert cu Boyil Banov și Iva Petroni, care va avea loc miercuri, 7 octombrie 2026."
-        }
-      },
-      "id": 53,
-      "title": "Спортен празник събра ученици, учители и деца в земеделската гимназия в Генерал Тошево",
-      "date": "2026-10-07",
-      "time": "10:28",
-      "location": "Земеделската гимназия в Генерал Тошево",
-      "category": "other",
-      "description": "РОМ от Two Seagulls е концерт с Боил Банов и Ива Петрони, които ще се представят на сряда, 7 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/sporten-praznik-sabra-uchenitsi-uchiteli-i-detsa-v-zemedelskata-gimnaziya-v-general-toshevo-p731375"
-        },
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/rom-ot-two-seagulls/p1323.html"
-        },
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/miro-s-koncert-v-general-toshevo-za-praznika-na-grada/116870"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Турнир по минифутбол организира Община Добричка",
-          "description": "Община Добричка организира турнир по минифутбол на 07.10.2026 г. във връзка със събитието, събитието започва на 13:53 ч."
-        },
-        "en": {
-          "title": "Mini-football tournament organized by the Municipality of Dobrich",
-          "description": "Municipality of Dobrichka organizes a mini-football tournament on 07.10.2026 in connection with the event, the event begins at 13:53."
-        },
-        "ro": {
-          "title": "Turneul de mini-fotbal organizat de municipalitatea Dobrich",
-          "description": "Municipalitatea Dobrich organizează un turneu de mini-fotbal pe 07.10.2026 în legătură cu evenimentul, evenimentul începe la ora 13:53."
-        }
-      },
-      "id": 286,
-      "title": "Турнир по минифутбол организира Община Добричка",
-      "date": "2026-10-07",
-      "time": "13:53",
-      "location": "Община Добричка",
-      "category": "sports",
-      "description": "Община Добричка организира турнир по минифутбол на 07.10.2026 г. във връзка със събитието, събитието започва на 13:53 ч.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/turnir-po-minifutbol-organizira-obshtina-dobrichka/116879"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Експозиция „Състояния на пространството“ на Траяна Панайотова",
-          "description": "Художничката Траяна Панайотова ще отвори експозицията си „Състояния на пространството“ в галериата A&G Art Meeting в Варна на 7 октомври във възглед на авторката."
-        },
-        "en": {
-          "title": "Exhibition \"States of Space\" by Trayana Panayotova",
-          "description": "Artist Trayana Panayotova will open her exhibition \"States of Space\" at the A&G Art Meeting gallery in Varna on October 7 in the view of the author."
-        },
-        "ro": {
-          "title": "Expoziția \"Stări ale spațiului\" de Traiana Panayotova",
-          "description": "Artista Traiana Panayotova își va deschide expoziția \"Stări ale Spațiului\" la galeria A&G Art Meeting din Varna în 7 octombrie."
-        }
-      },
-      "id": 265,
-      "title": "Експозиция „Състояния на пространството“ на Траяна Панайотова",
-      "date": "2026-10-07",
-      "time": "18:00",
-      "location": "галерия A&G Art Meeting",
-      "category": "exhibition",
-      "description": "Художничката Траяна Панайотова ще отвори експозицията си „Състояния на пространството“ в галериата A&G Art Meeting в Варна на 7 октомври във възглед на авторката.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536423"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/sastooyaniya-na-prostranstvoto-izlozhba-na-trayana.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Природа - Изложба на Иван Чакъров",
-          "description": "Пловдивският живописец Иван Чакъров ще отвори самостоятелната си изложба „Природа“ в галерия „Ларго“ във Варна на 7 октомври."
-        },
-        "en": {
-          "title": "Nature - Exhibition of Ivan Chakirov",
-          "description": "Plovdiv painter Ivan Chakirov will open his solo exhibition \"Nature\" at Largo Gallery in Varna on October 7."
-        },
-        "ro": {
-          "title": "Natura - Expoziție de Ivan Chakirov",
-          "description": "Pictorul Ivan Cakirov din Plovdiv își va deschide expoziția personală \"Natura\" la Galeria Largo din Varna în 7 octombrie."
-        }
-      },
-      "id": 279,
-      "title": "Природа - Изложба на Иван Чакъров",
-      "date": "2026-10-07",
-      "time": "18:30",
-      "location": "галерия „Ларго“, ул. „Хан Крум“ №8",
-      "category": "exhibition",
-      "description": "Пловдивският живописец Иван Чакъров ще отвори самостоятелната си изложба „Природа“ в галерия „Ларго“ във Варна на 7 октомври.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536444"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "КЛАСИЧНО ДЖАЗ ПЪТУВАНЕ – Национален театър за опера и балет \"Олег Дановски\" Констанца",
-          "description": "Събитие с участието на Националния театър за опера и балет \"Олег Дановски\" в Констанца, Румъния, насрочено за 7 октомври от 7:00 часа."
-        },
-        "en": {
-          "title": "CLASSIC JAZZ VOYAGE – National Theatre of Opera and Ballet \"Oleg Danovski\" Constanta",
-          "description": "A Classic Jazz Voyage event featuring the National Opera and Ballet Theatre \"Oleg Danovski\" in Constanța, Romania, scheduled for October 7th at 7:00 PM."
-        },
-        "ro": {
-          "title": "CLASSIC JAZZ VOYAGE – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-          "description": "A Classic Jazz Voyage event featuring the National Opera and Ballet Theatre \"Oleg Danovski\" in Constanța, Romania, scheduled for October 7th at 7:00 PM."
-        }
-      },
-      "id": 110,
-      "title": "CLASSIC JAZZ VOYAGE – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-      "date": "2026-10-07",
-      "time": "19:00",
-      "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
-      "category": "other",
-      "description": "Paul Staicu aduce la Constanța turneul național „Classic Jazz Voyage”, un concert în care muzica marilor componitori se împlinește cu jazzul și improvizația.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/classic-jazz-voyage-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/lacul-lebedelor-spectacol-omagial-oleg-danovski/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/classic-jazz-voyage-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/aladin-si-lampa-jucausa-constanta/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/masha-si-ursul-constanta/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/masha-si-ursul-constanta-2/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/05/turneul-regina-si-compozitorii/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/fata-babei-si-fata-mosneagului-dupa-ion-creanga/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -413,6 +28,71 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/umopomrachenie/p897.html"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/umopomrachenie-teatralen-spektakal.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Започва фестивалът „Дни на духовата музика“ в Добрич",
+          "description": "Фестивалът „Дни на духовата музика“ започва в Добрич."
+        },
+        "en": {
+          "title": "The \"Days of Wind Music\" festival begins in Dobrich",
+          "description": "The Festival \"Days of Wind Music\" begins in Dobrich."
+        },
+        "ro": {
+          "title": "Festivalul \"Zilele muzicii de suflat\" începe în Dobrich",
+          "description": "Festivalul \"Zilele Muzicii de Suflat\" începe la Dobrich."
+        }
+      },
+      "id": 295,
+      "title": "Започва фестивалът „Дни на духовата музика“ в Добрич",
+      "date": "2026-10-08",
+      "time": "",
+      "location": "Добрич",
+      "category": "festival",
+      "description": "Фестивалът „Дни на духовата музика“ започва в Добрич.",
+      "sources": [
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/zapochva-festivalat-„dni-na-duhovata-muzika“-v-dobrich-p731738"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Второ издание на Фестивала \"Дни на духовата музика в Добрич\"",
+          "description": "Почваше второто издание на Фестивала \"Дни на духовата музика в Добрич\"."
+        },
+        "en": {
+          "title": "Second edition of the Festival \"Days of Wind Music in Dobrich\"",
+          "description": "The second edition of the Festival \"Days of Wind Music in Dobrich\" started."
+        },
+        "ro": {
+          "title": "A doua ediție a Festivalului \"Zilele muzicii de suflat din Dobrich\"",
+          "description": "A început cea de-a doua ediție a Festivalului \"Zilele muzicii de suflat din Dobrich\"."
+        }
+      },
+      "id": 296,
+      "title": "Второ издание на Фестивала \"Дни на духовата музика в Добрич\"",
+      "date": "2026-10-08",
+      "time": "09:00",
+      "location": "Добрич",
+      "category": "festival",
+      "description": "Почваше второто издание на Фестивала \"Дни на духовата музика в Добрич\".",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/vtoro-izdanie-na-festivala-dni-na-duhovata-muzika-v-dobrich-zapochva-dnes/116893"
         }
       ]
     },
@@ -534,7 +214,7 @@
       "id": 287,
       "title": "Ден на отворени врати и изложба в Държавен архив - Добрич на 9 октомври",
       "date": "2026-10-09",
-      "time": "",
+      "time": "10:55",
       "location": "Държавен архив - Добрич",
       "category": "exhibition",
       "description": "На 9 октомври ще се проведе Ден на отворени врати и изложба в Държавен архив в Добрич.",
@@ -543,6 +223,11 @@
           "source_id": "dobrudjabg",
           "source_name": "Dobrudzha news agency",
           "url": "https://dobrudjabg.com/novina/den-na-otvoreni-vrati-i-izlojba-v-dyrjaven-arhiv-dobrich-na-9-oktomvri/116872"
+        },
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/izlojbata-hramyt-na-kibela-gostuva-v-dobrich/116899"
         }
       ]
     },
@@ -1164,6 +849,41 @@
     {
       "translations": {
         "bg": {
+          "title": "Великденски концерт",
+          "description": "Великденски концерт в салона на Народното читалище \"Зора 1894\" в Шабла, започващ от 19:00 ч. Вход свободен."
+        },
+        "en": {
+          "title": "The Easter Concert",
+          "description": "Easter concert in the hall of the \"Zora 1894\" in Shabla, starting at 19:00. Free entrance."
+        },
+        "ro": {
+          "title": "Concert de Paste",
+          "description": "Concert de Paste în sala de la Centrul Cultural \"Zora 1894\" din Shabla, începând cu ora 19:00."
+        }
+      },
+      "id": 50,
+      "title": "Великденски концерт",
+      "date": "2026-10-15",
+      "time": "19:00",
+      "location": "Салона на НЧ \"Зора 1894\"",
+      "category": "concert",
+      "description": "Великденски концерт в салона на Народното читалище \"Зора 1894\" в Шабла, започващ от 19:00 ч. Вход свободен.",
+      "sources": [
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/velikdenski-koncert.html"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/kontsert-na-klavirno-duo/p1329.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "КОНСТАНТА Комедия в МАКСИМ – Ромика Точу и Корнел Паладе",
           "description": "Комедия на четвъртък, 15 октомври от 19:00 часа в Дома на културата на синдикатите в Констанца, с Ромика Точу и Корнел Паладе."
         },
@@ -1283,6 +1003,11 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536107"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/detski-horov-kontsert/p1330.html"
         }
       ]
     },
@@ -1313,6 +1038,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/efemeride-misiunea-spatiala-iris-at-club-phoenix/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Концерт – Клавирно трио",
+          "description": "Клавирно трио ще се представи с концерт на събота, 17 октомври 2026 година."
+        },
+        "en": {
+          "title": "Concert – Piano Trio",
+          "description": "Piano trio will perform a concert on Saturday, October 17, 2026."
+        },
+        "ro": {
+          "title": "Concert – Trio pentru pian",
+          "description": "Un trio de pian va prezenta un concert sâmbătă, 17 octombrie 2026."
+        }
+      },
+      "id": 297,
+      "title": "Концерт – Клавирно трио",
+      "date": "2026-10-17",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "Клавирно трио ще се представи с концерт на събота, 17 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/klavirno-trio/p1331.html"
         }
       ]
     },
@@ -1798,6 +1553,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/collapse-tour-hakairi-neon-prophecies-si-engineer-of-death-in-club-phoenix/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/08/classic-for-teens-revine-si-se-extinde/"
         }
       ]
     },
@@ -2230,7 +1990,7 @@
       "title": "ОТ КРЪСТА НАДОЛУ",
       "date": "2026-10-28",
       "time": "",
-      "location": "",
+      "location": "Подkrepa",
       "category": "other",
       "description": "An event titled 'От кръста надолу' is scheduled for Wednesday, October 28, 2026, but no additional details are provided.",
       "sources": [
@@ -2238,6 +1998,11 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/ot-krasta-nadolu/p1318.html"
+        },
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/deputatat-ot-dobrich-svilen-trifonov-initsiira-izlozhba-v-podkrepa-na-horata-s-intelektualni-zatrudneniya-p731742"
         }
       ]
     },
@@ -2488,6 +2253,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/the-groovy-bastards-lansare-album-kvlt-constanta-phoenix-club-06-11/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/08/the-90s-art-and-fashion-tate-britain/"
         }
       ]
     },
@@ -3902,7 +3672,7 @@
       "time": "",
       "location": "Golden Party",
       "category": "theater",
-      "description": "Представа на театър за деца „Маша и Урсъл“ в Golden Party, организирана със съвместно участие на Teatrul за деца Piciul Julien из Chișinău.",
+      "description": "Un teatru pentru copii cu magie, aventură și voie bună organizat de Golden Party în colaborare cu Teatrul pentru Copii Piciul Julien din Chișinău.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -4674,6 +4444,96 @@
     {
       "translations": {
         "bg": {
+          "title": "Балетът „Спартак“ с две представления във Варна през октомври",
+          "description": "Балетът „Спартак“ ще бъде представен на 27 и 28 октомври в Основна сцена на Варненската опера, поставен с хореография на Сергей Бобров."
+        },
+        "en": {
+          "title": "Spartak Ballet with two performances in Varna in October",
+          "description": "The ballet \"Spartacus\" will be presented on October 27 and 28 in the Main Stage of the Varna Opera, choreographed by Sergey Bobrov."
+        },
+        "ro": {
+          "title": "Baletul \"Spartacus\" cu două spectacole la Varna în octombrie",
+          "description": "Baletul \"Spartacus\" va fi prezentat în 27 și 28 octombrie pe Scena Principală a Operei din Varna, în coregrafia lui Serghei Bobrov."
+        }
+      },
+      "id": 298,
+      "title": "Балетът „Спартак“ с две представления във Варна през октомври",
+      "date": "",
+      "time": "",
+      "location": "Основна сцена на Варненската опера",
+      "category": "theater",
+      "description": "Балетът „Спартак“ ще бъде представен на 27 и 28 октомври в Основна сцена на Варненската опера, поставен с хореография на Сергей Бобров.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536560"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Надя Команечи, в комикси, в Мангалия! \"10 ПЕРФЕКТ!\" – изложбата, която...",
+          "description": "Изложбата \"10 на комикса... се провежда в Мангалия и е организирана от Европейското училище по комикси в партньорство с и Гимназията \"Гала Галаксион\""
+        },
+        "en": {
+          "title": "Nadia Comăneci, in comics, at Mangalia! \"10 PERFECT!\" – the exhibition that brings...",
+          "description": "The exhibition \"A 10 of comics... takes place in Mangalia and is organized by the European School of Comics in partnership with MangaliaNews.ro and Gala Galaction High School"
+        },
+        "ro": {
+          "title": "Nadia Comăneci, în benzi desenate, la Mangalia! „10 PERFECT!” – expoziția care aduce...",
+          "description": "Expoziția „Un 10 al benzii desenate... are loc la Mangalia și este organizată de European School of Comics în parteneriat cu MangaliaNews.ro și Școlia Gimnazială „Gala Galaction"
+        }
+      },
+      "id": 299,
+      "title": "Nadia Comăneci, în benzi desenate, la Mangalia! „10 PERFECT!” – expoziția care aduce...",
+      "date": "",
+      "time": "",
+      "location": "Mangalia",
+      "category": "exhibition",
+      "description": "Expoziția „Un 10 al benzii desenate... are loc la Mangalia și este organizată de European School of Comics în parteneriat cu MangaliaNews.ro și Școlia Gimnazială „Gala Galaction",
+      "sources": [
+        {
+          "source_id": "mangalianews_events",
+          "source_name": "MangaliaNews.ro — Evenimente & Recomandari",
+          "url": "https://www.mangalianews.ro/2026/10/02/eveniment-nadia-comaneci-in-benzi-desenate-la-mangalia-10-perfect/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Констанца: Отново на снимачната площадка | Велора в Мамая",
+          "description": "ВЕЛОРА представя музикално събитие с участието на РОУ ЛЕ НОМАД и НЕГРУЛИН в зала в Мамая."
+        },
+        "en": {
+          "title": "Constanta: Back on Set | Velora at The Place Mamaia",
+          "description": "VELORA presents BACK ON SET, a music event featuring RAW LE NOMADE and NEGRULIN at The Place in Mamaia."
+        },
+        "ro": {
+          "title": "Constanta: Back on Set | Velora @ The Place Mamaia",
+          "description": "VELORA presents BACK ON SET, a music event featuring RAW LE NOMADE and NEGRULIN at The Place in Mamaia."
+        }
+      },
+      "id": 300,
+      "title": "Constanta: Back on Set | Velora @ The Place Mamaia",
+      "date": "",
+      "time": "",
+      "location": "The Place Mamaia",
+      "category": "adult_18+",
+      "description": "VELORA presents BACK ON SET, a music event featuring RAW LE NOMADE and NEGRULIN at The Place in Mamaia.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/constanta-back-on-set-velora/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Ние отваряме сладолед",
           "description": "Сладоледът се отваря на адрес Принципала 123, община Сарикиой, Тулча, на церемония, насрочена за 09:00 часа."
         },
@@ -4758,36 +4618,6 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/tosca/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Великденски концерт",
-          "description": "Великденски концерт в салона на Народното читалище \"Зора 1894\" в Шабла, започващ от 19:00 ч. Вход свободен."
-        },
-        "en": {
-          "title": "The Easter Concert",
-          "description": "Easter concert in the hall of the \"Zora 1894\" in Shabla, starting at 19:00. Free entrance."
-        },
-        "ro": {
-          "title": "Concert de Paste",
-          "description": "Concert de Paste în sala de la Centrul Cultural \"Zora 1894\" din Shabla, începând cu ora 19:00."
-        }
-      },
-      "id": 50,
-      "title": "Великденски концерт",
-      "date": "",
-      "time": "19:00",
-      "location": "Салона на НЧ \"Зора 1894\"",
-      "category": "concert",
-      "description": "Великденски концерт в салона на Народното читалище \"Зора 1894\" в Шабла, започващ от 19:00 ч. Вход свободен.",
-      "sources": [
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/velikdenski-koncert.html"
         }
       ]
     }
