@@ -1,163 +1,43 @@
 {
-  "generated_at": "2026-10-08T11:25:06.131538+00:00",
+  "generated_at": "2026-10-09T11:19:59.274732+00:00",
   "events": [
     {
       "translations": {
         "bg": {
-          "title": "УМОПОМРАЧЕНИЕ",
-          "description": "Музыкален концерт от Сам Бобрик, запланиран за четвъртък, 08 октомври 2026 година."
+          "title": "КОНКУРС ЗА НАЙ-ДОБРО ДОМАШНО ВИНО  РЕКОЛТА 2025",
+          "description": "По повод празника на лозаря Трифон Зарезан, Община Шабла и Народно читалище „Зора 1894“ организират конкурс за най-добро домашно бяло и червено вино от реколта 2025 г."
         },
         "en": {
-          "title": "Eclipse",
-          "description": "Musical concert by Sam Bobrick, scheduled for Thursday, 08 October 2026."
+          "title": "COMPETITION FOR THE BEST DOMESTIC WINE OF THE 2025 COLLECTION",
+          "description": "On the occasion of the feast of the winegrower Trifon Zarezan, Shabla Municipality and the \"Zora 1894\" Community Center are organizing a competition for the best homemade white and red wine from the 2025 harvest."
         },
         "ro": {
-          "title": "Eclipsă de Soare",
-          "description": "Concert muzical de Sam Bobrick, programat pentru joi, 08 octombrie 2026."
+          "title": "CONCURS PENTRU CEL MAI BUN VIN DOMESTIC AL SEZOANEI 2025",
+          "description": "Cu ocazia sărbătorii viticultorului Trifon Zarezan, Municipalitatea Shabla și Centrul Cultural \"Zora 1894\" organizează un concurs pentru cel mai bun vin alb și roșu de casă din recolta anului 2025."
         }
       },
-      "id": 59,
-      "title": "УМОПОМРАЧЕНИЕ",
-      "date": "2026-10-08",
+      "id": 33,
+      "title": "КОНКУРС ЗА НАЙ-ДОБРО ДОМАШНО ВИНО  РЕКОЛТА 2025",
+      "date": "2026-10-09",
       "time": "",
-      "location": "Сам Бобрик",
-      "category": "concert",
-      "description": "Музыкален концерт от Сам Бобрик, запланиран за четвъртък, 08 октомври 2026 година.",
+      "location": "Община Шабла и Народно читалище „Зора 1894“ – гр. Шабла",
+      "category": "other",
+      "description": "По повод празника на лозаря Трифон Зарезан, Община Шабла и Народно читалище „Зора 1894“ организират конкурс за най-добро домашно бяло и червено вино от реколта 2025 г.",
       "sources": [
         {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/umopomrachenie/p897.html"
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/konkurs-za-nay-dobro-domashno-vino-rekolta-2025.html"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/konkurs-za-kukerski-maski.html"
         },
         {
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/umopomrachenie-teatralen-spektakal.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Започва фестивалът „Дни на духовата музика“ в Добрич",
-          "description": "Фестивалът „Дни на духовата музика“ започва в Добрич."
-        },
-        "en": {
-          "title": "The \"Days of Wind Music\" festival begins in Dobrich",
-          "description": "The Festival \"Days of Wind Music\" begins in Dobrich."
-        },
-        "ro": {
-          "title": "Festivalul \"Zilele muzicii de suflat\" începe în Dobrich",
-          "description": "Festivalul \"Zilele Muzicii de Suflat\" începe la Dobrich."
-        }
-      },
-      "id": 295,
-      "title": "Започва фестивалът „Дни на духовата музика“ в Добрич",
-      "date": "2026-10-08",
-      "time": "",
-      "location": "Добрич",
-      "category": "festival",
-      "description": "Фестивалът „Дни на духовата музика“ започва в Добрич.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/zapochva-festivalat-„dni-na-duhovata-muzika“-v-dobrich-p731738"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Второ издание на Фестивала \"Дни на духовата музика в Добрич\"",
-          "description": "Почваше второто издание на Фестивала \"Дни на духовата музика в Добрич\"."
-        },
-        "en": {
-          "title": "Second edition of the Festival \"Days of Wind Music in Dobrich\"",
-          "description": "The second edition of the Festival \"Days of Wind Music in Dobrich\" started."
-        },
-        "ro": {
-          "title": "A doua ediție a Festivalului \"Zilele muzicii de suflat din Dobrich\"",
-          "description": "A început cea de-a doua ediție a Festivalului \"Zilele muzicii de suflat din Dobrich\"."
-        }
-      },
-      "id": 296,
-      "title": "Второ издание на Фестивала \"Дни на духовата музика в Добрич\"",
-      "date": "2026-10-08",
-      "time": "09:00",
-      "location": "Добрич",
-      "category": "festival",
-      "description": "Почваше второто издание на Фестивала \"Дни на духовата музика в Добрич\".",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/vtoro-izdanie-na-festivala-dni-na-duhovata-muzika-v-dobrich-zapochva-dnes/116893"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Присъствие – 13 представя живописта на Димитър Манолов във Варна",
-          "description": "Изложба на живопис на варненския художник Димитър Манолов ще бъде представена в галерия „Арт Маркони“. Експозицията ще се открива на 8 октомври от 18:30 часа."
-        },
-        "en": {
-          "title": "Presence – 13 presents the paintings of Dimitar Manolov in Varna",
-          "description": "An exhibition of paintings by the Varna artist Dimitar Manolov will be presented at Art Marconi Gallery on October 8 at 18:30 p.m."
-        },
-        "ro": {
-          "title": "Prezență – 13 prezintă pictura lui Dimitar Manolov la Varna",
-          "description": "O expoziție de pictură a artistului Dimitar Manolov din Varna va fi prezentată la Galeria Art Marconi în 8 octombrie, de la ora 18:30."
-        }
-      },
-      "id": 277,
-      "title": "Присъствие – 13 представя живописта на Димитър Манолов във Варна",
-      "date": "2026-10-08",
-      "time": "18:30",
-      "location": "галерия „Арт Маркони“ на ул. „Охрид“ 22",
-      "category": "exhibition",
-      "description": "Изложба на живопис на варненския художник Димитър Манолов ще бъде представена в галерия „Арт Маркони“. Експозицията ще се открива на 8 октомври от 18:30 часа.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536463"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ТРИОСЕНС (Германия/Куба) на Джаз Фен Райзинг КОНСТАНЦА",
-          "description": "Джаз концертът на триото от Германия и Куба ще се състои в четвъртък, 8 октомври от 19:00 часа в Детския и младежки театър „Кълъц Де Мар” в Констанца."
-        },
-        "en": {
-          "title": "TRIOSENCE (Germany/Cuba) at Jazz Fan Rising CONSTANȚA",
-          "description": "The jazz concert of the trio TRIOSENCE from Germany and Cuba will take place on Thursday, October 8 at 19:00 in the Theatre for Children and Youth Căluțul De Mare in Constanța."
-        },
-        "ro": {
-          "title": "TRIOSENCE (Germania/Cuba) la Jazz Fan Rising CONSTANȚA",
-          "description": "Concertul de jazz al triongului TRIOSENCE din Germania și Cuba va avea loc joi, 8 octombrie la ora 19:00 în Teatrul Pentru Copii Și Tineret Căluțul De Mare din Constanța."
-        }
-      },
-      "id": 111,
-      "title": "TRIOSENCE (Germania/Cuba) la Jazz Fan Rising CONSTANȚA",
-      "date": "2026-10-08",
-      "time": "19:00",
-      "location": "Teatrul Pentru Copii Și Tineret Căluțul De Mare",
-      "category": "concert",
-      "description": "Concertul de jazz al triongului TRIOSENCE din Germania și Cuba va avea loc joi, 8 octombrie la ora 19:00 în Teatrul Pentru Copii Și Tineret Căluțul De Mare din Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/triosence-germania-cuba-la-jazz-fan-rising-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/06/bowie80-nasterea-lui-david-bowie/"
+          "url": "https://visit.varna.bg/bg/event/za-svobodata-na-edin-narod-izlozhba-posvetena-na-1.html"
         }
       ]
     },
@@ -193,6 +73,126 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/otchayani-sapruzi/p525.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Читалището в с. Преселенци отбелязва 85 години с музикална програма и изложба",
+          "description": "Читалището в село Преселенци организира музикална програма и изложба за отбелязване на 85-ото юбилейно събране."
+        },
+        "en": {
+          "title": "The community center in the village of Preselentsi celebrates 85 years with a music program and an exhibition",
+          "description": "The community center in the village of Preselentsi organized a music program and an exhibition to mark the 85th anniversary gathering."
+        },
+        "ro": {
+          "title": "Centrul Cultural din satul Preselentsi sărbătorește 85 de ani cu un program muzical și o expoziție",
+          "description": "Centrul cultural din satul Preselentsi a organizat un program muzical și o expoziție pentru a marca cea de-a 85-a reuniune jubiliară."
+        }
+      },
+      "id": 301,
+      "title": "Читалището в с. Преселенци отбелязва 85 години с музикална програма и изложба",
+      "date": "2026-10-09",
+      "time": "",
+      "location": "с. Преселенци",
+      "category": "other",
+      "description": "Читалището в село Преселенци организира музикална програма и изложба за отбелязване на 85-ото юбилейно събране.",
+      "sources": [
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/chitalishteto-v-s-preselentsi-otbelyazva-85-godini-s-muzikalna-programa-i-izlozhba-p731767"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Севилският бръснар - опера",
+          "description": "Опера „Севилският бръснар“ ще се представи на петък, 09 октомври 2026 г."
+        },
+        "en": {
+          "title": "The Barber of Seville - opera",
+          "description": "Opera \"The Barber of Seville\" will be performed on Friday, 09 October 2026."
+        },
+        "ro": {
+          "title": "Bărbierul din Sevilia",
+          "description": "Opera \"Bărbierul din Sevilia\" va fi prezentată vineri, 09 octombrie 2026."
+        }
+      },
+      "id": 302,
+      "title": "Севилският бръснар - опера",
+      "date": "2026-10-09",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Опера „Севилският бръснар“ ще се представи на петък, 09 октомври 2026 г.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/sivilskiya-brasnar-opera.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Spirits Tastival of Varna 2026",
+          "description": "Spirits Tastival of Varna 2026 is scheduled to take place from Friday, October 9, 2026, to Saturday, October 10, 2026."
+        },
+        "en": {
+          "title": "Spirits Tastival of Varna 2026",
+          "description": "Spirits Tastival of Varna 2026 is scheduled to take place from Friday, October 9, 2026, to Saturday, October 10, 2026."
+        },
+        "ro": {
+          "title": "Degustarea de băuturi spirtoase din Varna 2026",
+          "description": "Spirits Tastival of Varna 2026 este programat să aibă loc de vineri, 9 octombrie 2026, până sâmbătă, 10 octombrie 2026."
+        }
+      },
+      "id": 303,
+      "title": "Spirits Tastival of Varna 2026",
+      "date": "2026-10-09",
+      "time": "",
+      "location": "Varna",
+      "category": "other",
+      "description": "Spirits Tastival of Varna 2026 is scheduled to take place from Friday, October 9, 2026, to Saturday, October 10, 2026.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/spirits-tastival-of-varna-2026.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Представяне на книгата „Канайени“ от Силвен Ривар",
+          "description": "Представяне на книгата „Канайени“ от автор Силвен Ривар между 09 и 13 октомври 2026 г."
+        },
+        "en": {
+          "title": "Presentation of the book \"Kanayeni\" by Sylven Rivar",
+          "description": "Presentation of the book \"Kanayeni\" by author Sylven Rivar between 09 and 13 October 2026"
+        },
+        "ro": {
+          "title": "Prezentarea cărții \"Călărașii\" de Silvan Rivar",
+          "description": "Prezentarea cărții \"Călărașii\" de autorul Silviu Rivar între 09 și 13 octombrie 2026"
+        }
+      },
+      "id": 304,
+      "title": "Представяне на книгата „Канайени“ от Силвен Ривар",
+      "date": "2026-10-09",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Представяне на книгата „Канайени“ от автор Силвен Ривар между 09 и 13 октомври 2026 г.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/predstavyane-na-knigata-kanayeni-ot-silven-rivar.html"
         }
       ]
     },
@@ -268,6 +268,11 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536501"
+        },
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/pozharnata-v-kavarna-organizira-informatsionno-sabitie-za-riska-ot-bedstviya-p731768"
         }
       ]
     },
@@ -292,12 +297,17 @@
       "time": "18:00",
       "location": "Themis Constanta",
       "category": "other",
-      "description": "Un eveniment de socializare și jocuri de tablă organizat de ReConectare cu SenS, care are loc în seara de 9 octombrie la 18:00.",
+      "description": "A concert titled 'Scufița Roșie – by Qfeel' is scheduled for tomorrow at 10:00 AM at Casa de Cultură a Sindicatelor in Constanta.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/9-octombrie-seara-de-socializare-board-games-by-reconectare-cu-sens/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/scufita-rosie-by-qfeel-constanta/"
         }
       ]
     },
@@ -2079,6 +2089,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Замръзналото кралство",
+          "description": "Едно театрално или танцово представление на тема \"Замръзналото кралство\", което ще се проведе в Дома на културата на синдикатите в Констанца на посочената дата."
+        },
+        "en": {
+          "title": "Frozen the Frozen Kingdom",
+          "description": "A theatre or dance show with the theme 'Frozen' that will take place at the House of Culture of the Trade Unions in Constanta on the specified date."
+        },
+        "ro": {
+          "title": "Frozen Regatul Înghețat",
+          "description": "Un spectacol de teatru sau de danse cu tema 'Frozen' care va avea loc în Casa de Cultura a Sindicatelor din Constanța la data specificată."
+        }
+      },
+      "id": 305,
+      "title": "Frozen Regatul Înghețat",
+      "date": "2026-10-29",
+      "time": "18:00",
+      "location": "Casa de Cultura a Sindicatelor Constanta",
+      "category": "other",
+      "description": "Un spectacol de teatru sau de danse cu tema 'Frozen' care va avea loc în Casa de Cultura a Sindicatelor din Constanța la data specificată.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/frozen-regatul-inghetat-2/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Клуб Феникс – Клуб Феникс",
           "description": "ТРУПЪР ще свирят в Клуб Феникс в Констанца на 30 октомври от 20:00 часа."
         },
@@ -3093,41 +3133,6 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/100-godini-mezhdunaroden-muzikalen-festival-varnen.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "КОНКУРС ЗА НАЙ-ДОБРО ДОМАШНО ВИНО  РЕКОЛТА 2025",
-          "description": "По повод празника на лозаря Трифон Зарезан, Община Шабла и Народно читалище „Зора 1894“ организират конкурс за най-добро домашно бяло и червено вино от реколта 2025 г."
-        },
-        "en": {
-          "title": "COMPETITION FOR THE BEST DOMESTIC WINE OF THE 2025 COLLECTION",
-          "description": "On the occasion of the feast of the winegrower Trifon Zarezan, Shabla Municipality and the \"Zora 1894\" Community Center are organizing a competition for the best homemade white and red wine from the 2025 harvest."
-        },
-        "ro": {
-          "title": "CONCURS PENTRU CEL MAI BUN VIN DOMESTIC AL SEZOANEI 2025",
-          "description": "Cu ocazia sărbătorii viticultorului Trifon Zarezan, Municipalitatea Shabla și Centrul Cultural \"Zora 1894\" organizează un concurs pentru cel mai bun vin alb și roșu de casă din recolta anului 2025."
-        }
-      },
-      "id": 33,
-      "title": "КОНКУРС ЗА НАЙ-ДОБРО ДОМАШНО ВИНО  РЕКОЛТА 2025",
-      "date": "",
-      "time": "",
-      "location": "Община Шабла и Народно читалище „Зора 1894“ – гр. Шабла",
-      "category": "other",
-      "description": "По повод празника на лозаря Трифон Зарезан, Община Шабла и Народно читалище „Зора 1894“ организират конкурс за най-добро домашно бяло и червено вино от реколта 2025 г.",
-      "sources": [
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/konkurs-za-nay-dobro-domashno-vino-rekolta-2025.html"
-        },
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/konkurs-za-kukerski-maski.html"
         }
       ]
     },
@@ -4618,6 +4623,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/tosca/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Еволюция на магията",
+          "description": "Еволюцията на магията ще се проведе в Дома на културата на синдикатите в Констанца на неопределена дата, от 19:00 часа."
+        },
+        "en": {
+          "title": "Evolution of Magic",
+          "description": "Evolution of Magic is scheduled to take place at Casa de Cultura a Sindicatelor in Constanta on an unspecified date, starting at 19:00."
+        },
+        "ro": {
+          "title": "Evolution of Magic",
+          "description": "Evolution of Magic is scheduled to take place at Casa de Cultura a Sindicatelor in Constanta on an unspecified date, starting at 19:00."
+        }
+      },
+      "id": 306,
+      "title": "Evolution of Magic",
+      "date": "",
+      "time": "19:00",
+      "location": "Casa de Cultura a Sindicatelor Constanta",
+      "category": "other",
+      "description": "Evolution of Magic is scheduled to take place at Casa de Cultura a Sindicatelor in Constanta on an unspecified date, starting at 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/evolution-of-magic/"
         }
       ]
     }
