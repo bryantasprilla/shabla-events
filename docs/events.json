@@ -1,353 +1,38 @@
 {
-  "generated_at": "2026-10-09T11:19:59.274732+00:00",
+  "generated_at": "2026-10-10T11:00:57.154598+00:00",
   "events": [
     {
       "translations": {
         "bg": {
-          "title": "КОНКУРС ЗА НАЙ-ДОБРО ДОМАШНО ВИНО  РЕКОЛТА 2025",
-          "description": "По повод празника на лозаря Трифон Зарезан, Община Шабла и Народно читалище „Зора 1894“ организират конкурс за най-добро домашно бяло и червено вино от реколта 2025 г."
+          "title": "Виолончелисимо – Национален театър за опера и балет \"Олег Дановски\" Констанца",
+          "description": "Класическо представление с 12 цигулки, което превръща музиката в истинско театрално представление."
         },
         "en": {
-          "title": "COMPETITION FOR THE BEST DOMESTIC WINE OF THE 2025 COLLECTION",
-          "description": "On the occasion of the feast of the winegrower Trifon Zarezan, Shabla Municipality and the \"Zora 1894\" Community Center are organizing a competition for the best homemade white and red wine from the 2025 harvest."
+          "title": "VIOLONCELLISSIMO – \"Oleg Danovski\" National Opera and Ballet Theatre Constanta",
+          "description": "A classical performance with 12 violins that turns music into a real theatre show."
         },
         "ro": {
-          "title": "CONCURS PENTRU CEL MAI BUN VIN DOMESTIC AL SEZOANEI 2025",
-          "description": "Cu ocazia sărbătorii viticultorului Trifon Zarezan, Municipalitatea Shabla și Centrul Cultural \"Zora 1894\" organizează un concurs pentru cel mai bun vin alb și roșu de casă din recolta anului 2025."
+          "title": "VIOLONCELLISSIMO – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
+          "description": "Un spectacol clasicist cu 12 violoncele care transformă muzica într-un adevărat spectacol de teatru."
         }
       },
-      "id": 33,
-      "title": "КОНКУРС ЗА НАЙ-ДОБРО ДОМАШНО ВИНО  РЕКОЛТА 2025",
-      "date": "2026-10-09",
+      "id": 131,
+      "title": "VIOLONCELLISSIMO – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
+      "date": "2026-10-10",
       "time": "",
-      "location": "Община Шабла и Народно читалище „Зора 1894“ – гр. Шабла",
-      "category": "other",
-      "description": "По повод празника на лозаря Трифон Зарезан, Община Шабла и Народно читалище „Зора 1894“ организират конкурс за най-добро домашно бяло и червено вино от реколта 2025 г.",
+      "location": "Colegiul Național de Arte Regina Maria",
+      "category": "concert",
+      "description": "Celebrity tribute event marking the 86th anniversary of John Lennon's birth, likely involving performances or tributes to the former member of The Beatles.",
       "sources": [
         {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/konkurs-za-nay-dobro-domashno-vino-rekolta-2025.html"
-        },
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/konkurs-za-kukerski-maski.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/za-svobodata-na-edin-narod-izlozhba-posvetena-na-1.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Кино прожекция \"Почивката 2\" неподправен български комедиен хаос",
-          "description": "Кино прожекция на филма „Почивката 2“ в НЧ „Зора 1894“ в град Шабла, България."
-        },
-        "en": {
-          "title": "Cinema projection \"The Break 2\" genuine Bulgarian comedy chaos",
-          "description": "Cinema projection of the film \"The Break 2\" in the National Theatre \"Zora 1894\" in Shabla, Bulgaria."
-        },
-        "ro": {
-          "title": "Proiecție cinematografică \"Vacanța 2\" haos de comedie bulgară autentică",
-          "description": "Proiecție cinematografică a filmului \"Vacanța 2\" în Școala Națională \"Zora 1894\" din orașul Shabla, Bulgaria."
-        }
-      },
-      "id": 35,
-      "title": "Кино прожекция \"Почивката 2\" неподправен български комедиен хаос",
-      "date": "2026-10-09",
-      "time": "",
-      "location": "НЧ „Зора 1894“, Шабла",
-      "category": "other",
-      "description": "Кино прожекция на филма „Почивката 2“ в НЧ „Зора 1894“ в град Шабла, България.",
-      "sources": [
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/kino-prozhekciya-pochivkata-2-nepodpraven-balgarski-komedien-haos.html"
-        },
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/otchayani-sapruzi/p525.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Читалището в с. Преселенци отбелязва 85 години с музикална програма и изложба",
-          "description": "Читалището в село Преселенци организира музикална програма и изложба за отбелязване на 85-ото юбилейно събране."
-        },
-        "en": {
-          "title": "The community center in the village of Preselentsi celebrates 85 years with a music program and an exhibition",
-          "description": "The community center in the village of Preselentsi organized a music program and an exhibition to mark the 85th anniversary gathering."
-        },
-        "ro": {
-          "title": "Centrul Cultural din satul Preselentsi sărbătorește 85 de ani cu un program muzical și o expoziție",
-          "description": "Centrul cultural din satul Preselentsi a organizat un program muzical și o expoziție pentru a marca cea de-a 85-a reuniune jubiliară."
-        }
-      },
-      "id": 301,
-      "title": "Читалището в с. Преселенци отбелязва 85 години с музикална програма и изложба",
-      "date": "2026-10-09",
-      "time": "",
-      "location": "с. Преселенци",
-      "category": "other",
-      "description": "Читалището в село Преселенци организира музикална програма и изложба за отбелязване на 85-ото юбилейно събране.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/chitalishteto-v-s-preselentsi-otbelyazva-85-godini-s-muzikalna-programa-i-izlozhba-p731767"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Севилският бръснар - опера",
-          "description": "Опера „Севилският бръснар“ ще се представи на петък, 09 октомври 2026 г."
-        },
-        "en": {
-          "title": "The Barber of Seville - opera",
-          "description": "Opera \"The Barber of Seville\" will be performed on Friday, 09 October 2026."
-        },
-        "ro": {
-          "title": "Bărbierul din Sevilia",
-          "description": "Opera \"Bărbierul din Sevilia\" va fi prezentată vineri, 09 octombrie 2026."
-        }
-      },
-      "id": 302,
-      "title": "Севилският бръснар - опера",
-      "date": "2026-10-09",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Опера „Севилският бръснар“ ще се представи на петък, 09 октомври 2026 г.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/sivilskiya-brasnar-opera.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Spirits Tastival of Varna 2026",
-          "description": "Spirits Tastival of Varna 2026 is scheduled to take place from Friday, October 9, 2026, to Saturday, October 10, 2026."
-        },
-        "en": {
-          "title": "Spirits Tastival of Varna 2026",
-          "description": "Spirits Tastival of Varna 2026 is scheduled to take place from Friday, October 9, 2026, to Saturday, October 10, 2026."
-        },
-        "ro": {
-          "title": "Degustarea de băuturi spirtoase din Varna 2026",
-          "description": "Spirits Tastival of Varna 2026 este programat să aibă loc de vineri, 9 octombrie 2026, până sâmbătă, 10 octombrie 2026."
-        }
-      },
-      "id": 303,
-      "title": "Spirits Tastival of Varna 2026",
-      "date": "2026-10-09",
-      "time": "",
-      "location": "Varna",
-      "category": "other",
-      "description": "Spirits Tastival of Varna 2026 is scheduled to take place from Friday, October 9, 2026, to Saturday, October 10, 2026.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/spirits-tastival-of-varna-2026.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Представяне на книгата „Канайени“ от Силвен Ривар",
-          "description": "Представяне на книгата „Канайени“ от автор Силвен Ривар между 09 и 13 октомври 2026 г."
-        },
-        "en": {
-          "title": "Presentation of the book \"Kanayeni\" by Sylven Rivar",
-          "description": "Presentation of the book \"Kanayeni\" by author Sylven Rivar between 09 and 13 October 2026"
-        },
-        "ro": {
-          "title": "Prezentarea cărții \"Călărașii\" de Silvan Rivar",
-          "description": "Prezentarea cărții \"Călărașii\" de autorul Silviu Rivar între 09 și 13 octombrie 2026"
-        }
-      },
-      "id": 304,
-      "title": "Представяне на книгата „Канайени“ от Силвен Ривар",
-      "date": "2026-10-09",
-      "time": "",
-      "location": "",
-      "category": "other",
-      "description": "Представяне на книгата „Канайени“ от автор Силвен Ривар между 09 и 13 октомври 2026 г.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/predstavyane-na-knigata-kanayeni-ot-silven-rivar.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Ден на отворени врати и изложба в Държавен архив - Добрич на 9 октомври",
-          "description": "На 9 октомври ще се проведе Ден на отворени врати и изложба в Държавен архив в Добрич."
-        },
-        "en": {
-          "title": "Open day and exhibition at the State Archives - Dobrich on October 9",
-          "description": "On October 9, an Open Day and an exhibition will be held at the State Archives in Dobrich."
-        },
-        "ro": {
-          "title": "Ziua porților deschise și expoziție în Arhiva de Stat - Dobrich pe 9 octombrie",
-          "description": "Pe 9 octombrie va avea loc o Zi a Ușilor Deschise și o expoziție la Arhiva de Stat din Dobrich."
-        }
-      },
-      "id": 287,
-      "title": "Ден на отворени врати и изложба в Държавен архив - Добрич на 9 октомври",
-      "date": "2026-10-09",
-      "time": "10:55",
-      "location": "Държавен архив - Добрич",
-      "category": "exhibition",
-      "description": "На 9 октомври ще се проведе Ден на отворени врати и изложба в Държавен архив в Добрич.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/den-na-otvoreni-vrati-i-izlojba-v-dyrjaven-arhiv-dobrich-na-9-oktomvri/116872"
-        },
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/izlojbata-hramyt-na-kibela-gostuva-v-dobrich/116899"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Фотографска изложба за 80-годишнината на УНИЦЕФ",
-          "description": "УНИЦЕФ България представя във Варна пътуваща фотографска изложба, която включва над 50 фотографии от България и света, разказана е историята на организацията."
-        },
-        "en": {
-          "title": "Photo exhibition for the 80th anniversary of UNICEF",
-          "description": "UNICEF Bulgaria presents in Varna a traveling photographic exhibition, which includes over 50 photographs from Bulgaria and the world, the story of the organization is told."
-        },
-        "ro": {
-          "title": "O expoziție de fotografii marchează cea de-a 80-a aniversare a UNICEF",
-          "description": "UNICEF Bulgaria prezintă la Varna o expoziție fotografică itinerantă, care cuprinde peste 50 de fotografii din Bulgaria și din lume, povestind istoria organizației."
-        }
-      },
-      "id": 278,
-      "title": "Фотографска изложба за 80-годишнината на УНИЦЕФ",
-      "date": "2026-10-09",
-      "time": "11:00",
-      "location": "Варна",
-      "category": "exhibition",
-      "description": "Есенният салон на изкуствата 2026 ще предложи четиринадесет събития във Варна, включително концерти с класическа музика, детско хорово изкуство и литература, от 15 октомври до 15 ноември.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536433"
-        },
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536424"
-        },
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536501"
-        },
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/pozharnata-v-kavarna-organizira-informatsionno-sabitie-za-riska-ot-bedstviya-p731768"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "9 ОКТОМВРИ: Социална вечер и настолни игри от Свързване отново със СенС",
-          "description": "Събитие за социализиране и настолни игри, организирано от което се провежда вечерта на 9 октомври от 18:00 часа."
-        },
-        "en": {
-          "title": "OCTOBER 9: Socializing evening & BOARD GAMES by ReConectare cu SenS",
-          "description": "A socializing and board games event organized by ReConectare cu SenS, which takes place on the evening of October 9 at 18:00."
-        },
-        "ro": {
-          "title": "9 OCTOMBRIE: Seara de socializare & BOARD GAMES by ReConectare cu SenS",
-          "description": "Un eveniment de socializare și jocuri de tablă organizat de ReConectare cu SenS, care are loc în seara de 9 octombrie la 18:00."
-        }
-      },
-      "id": 177,
-      "title": "9 OCTOMBRIE: Seara de socializare & BOARD GAMES by ReConectare cu SenS",
-      "date": "2026-10-09",
-      "time": "18:00",
-      "location": "Themis Constanta",
-      "category": "other",
-      "description": "A concert titled 'Scufița Roșie – by Qfeel' is scheduled for tomorrow at 10:00 AM at Casa de Cultură a Sindicatelor in Constanta.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/9-octombrie-seara-de-socializare-board-games-by-reconectare-cu-sens/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/scufita-rosie-by-qfeel-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ОрландоCity in Florida USA",
-          "description": "ОРЛАНДО, съблазнителен и неспокоен млад аристократ от елизабетинската епоха, предизвиква времето и идентичността си на пътешествие."
-        },
-        "en": {
-          "title": "Orlando",
-          "description": "ORLANDO, a seductive and restless young Elizabethan aristocrat, defies time and identity on a journey."
-        },
-        "ro": {
-          "title": "Orlando",
-          "description": "ORLANDO, un tânăr aristocrat din epoca elisabetană, seducător și neliniștit, sfidează timpul și identitatea într-o călătorie."
-        }
-      },
-      "id": 178,
-      "title": "Orlando",
-      "date": "2026-10-09",
-      "time": "19:00",
-      "location": "Strada Ion Lahovari nr. 2A, 900726 Constanta, Romania",
-      "category": "other",
-      "description": "ORLANDO, un tânăr aristocrat din epoca elisabetană, seducător și neliniștit, sfidează timpul și identitatea într-o călătorie.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/orlando-2/"
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/violoncellissimo-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
         },
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/orlando/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/orlando/"
+          "url": "https://zilesinopti.ro/2026/10/09/john-lennon-86-de-ani-beatles/"
         }
       ]
     },
@@ -372,7 +57,7 @@
       "time": "",
       "location": "Club Phoenix",
       "category": "other",
-      "description": "Emo Reunion, a known band, is performing for the first time in Constanța at Club Phoenix on October 10th, marking the start of autumn with energy.",
+      "description": "Emo Reunion, a known band, is performing for the first time in Constanța at Club Phoenix on October 10th, marking the start of autumn with energetic music.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -408,6 +93,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/anniversary-challenge/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "С дефиле и концерт ще закрият \"Дни на духовата музика\" в Добрич",
+          "description": "На 10 октомври 2026 г. ще се проведат дефиле и концерт за закритие на \"Дни на духовата музика\" в Добрич."
+        },
+        "en": {
+          "title": "\"Days of Wind Music\" in Dobrich will close with a parade and concert",
+          "description": "On October 10, 2026 will be held a parade and concert for the closing of \"Days of Wind Music\" in Dobrich."
+        },
+        "ro": {
+          "title": "\"Zilele muzicii de suflat\" se vor încheia cu o paradă și un concert la Dobrich",
+          "description": "Pe 10 octombrie 2026 va avea loc parada și concertul de închidere a „Zilelor muzicii de suflat” din Dobrich."
+        }
+      },
+      "id": 308,
+      "title": "С дефиле и концерт ще закрият \"Дни на духовата музика\" в Добрич",
+      "date": "2026-10-10",
+      "time": "11:12",
+      "location": "Добрич",
+      "category": "concert",
+      "description": "На 10 октомври 2026 г. ще се проведат дефиле и концерт за закритие на \"Дни на духовата музика\" в Добрич.",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/s-defile-i-koncert-shte-zakriqt-dni-na-duhovata-muzika-v-dobrich/116956"
         }
       ]
     },
@@ -588,6 +303,16 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/07/gaina-gyorgy-palfi-film-premiera/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/09/roger-waters-legacy-a-pink-floyd-show/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/09/jocuri-video-de-groaza-sezon-halloween/"
         }
       ]
     },
@@ -788,6 +513,36 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/simfonichen-orkestar-na-bbc-london/p1307.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "13 октомври - Международен ден за намаляване на риска от бедствия",
+          "description": "Районната служба „Пожарна безопасност и защита на населението“ гр. Каварна организира събитие за повишаване на осведомеността на населението за рисковете от бедствия, което ще се проведе във фойето на „Сити център“ Каварна на 14 октомври 2026 г. от 14:00 часа."
+        },
+        "en": {
+          "title": "13 October - International Day for Disaster Risk Reduction",
+          "description": "The Regional Service \"Fire Safety and Protection of the Population\" Kavarna organizes an event to raise the awareness of the population about the risks of disasters, which will be held in the foyer of \"City Center\" Kavarna on October 14, 2026 from 14:00."
+        },
+        "ro": {
+          "title": "13 octombrie - Ziua Internațională pentru Reducerea Riscului de Dezastre",
+          "description": "Serviciul raional \"Securitatea împotriva incendiilor și protecția populației\" din orașul Kavarna organizează un eveniment pentru creșterea gradului de conștientizare a populației cu privire la riscurile dezastrelor, care va avea loc în foaierul \"City Center\" Kavarna pe 14 octombrie 2026 de la ora 14:00."
+        }
+      },
+      "id": 307,
+      "title": "13 октомври - Международен ден за намаляване на риска от бедствия",
+      "date": "2026-10-14",
+      "time": "14:00",
+      "location": "Фойето на „Сити център“ Каварна",
+      "category": "municipal",
+      "description": "Районната служба „Пожарна безопасност и защита на населението“ гр. Каварна организира събитие за повишаване на осведомеността на населението за рисковете от бедствия, което ще се проведе във фойето на „Сити център“ Каварна на 14 октомври 2026 г. от 14:00 часа.",
+      "sources": [
+        {
+          "source_id": "kavarna_municipality",
+          "source_name": "Kavarna.bg — Novini/Aktualno/Sabitiya",
+          "url": "https://www.kavarna.bg/novini-aktualno-sybitiya/5544-13-oktomvri-mezdunaroden-den-za-namalavane-na-riska-ot-bedstvia"
         }
       ]
     },
@@ -1113,6 +868,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/05/de-profundis-palate-festivaluri-2026/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/orchestra-curcubeu-in-lumea-povestilor-constanta/"
         }
       ]
     },
@@ -1233,6 +993,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/atelier-de-pictura-pentru-adulti/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/nunta-lui-figaro-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
         },
         {
           "source_id": "zilesinopti_constanta",
@@ -1504,6 +1269,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Нови художествени практики във Варна от края на ХХ век - представяне на книга",
+          "description": "Представяне на книга за нови художествени практики във Варна от края на ХХ век."
+        },
+        "en": {
+          "title": "New artistic practices in Varna from the end of the 20th century - book presentation",
+          "description": "Presentation of a book on new artistic practices in Varna from the end of the 20th century."
+        },
+        "ro": {
+          "title": "Noi practici artistice în Varna de la sfârșitul secolului XX - prezentarea cărții",
+          "description": "Prezentarea unei cărți despre noile practici artistice din Varna de la sfârșitul secolului XX."
+        }
+      },
+      "id": 311,
+      "title": "Нови художествени практики във Варна от края на ХХ век - представяне на книга",
+      "date": "2026-10-21",
+      "time": "",
+      "location": "Варна",
+      "category": "other",
+      "description": "Представяне на книга за нови художествени практики във Варна от края на ХХ век.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/novi-hudozhestveni-praktiki/p1332.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "ДЖОРДЖ МИХАЙТА – Възстановяване на един живот",
           "description": "Музикалният концерт с участието на Георге Михайта, озаглавен \"Възстановяване на един живот\", ще се проведе в Дома на културата на профсъюзите в Констанца от 19:00 часа."
         },
@@ -1528,6 +1323,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/george-mihaita-reconstituirea-unei-vieti-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Клавирно дуо - Росен Идеалов - кларинет и Богдан Станев - пиано",
+          "description": "Клавирно дуо съставено от Росен Идеалов на кларинет и Богдан Станев на пиано ще дебютират на четвъртък, 22 октомври 2026 година."
+        },
+        "en": {
+          "title": "Piano duo - Rosen Idealov - clarinet and Bogdan Stanev - piano",
+          "description": "A piano duo composed of Rosen Idealov on clarinet and Bogdan Stanev on piano will debut on Thursday, October 22, 2026."
+        },
+        "ro": {
+          "title": "Duet de pian - Rosen Idealov - clarinet și Bogdan Stanev - pian",
+          "description": "Un duo de pian format din Rosen Idealov la clarinet și Bogdan Stanev la pian va debuta joi, 22 octombrie 2026."
+        }
+      },
+      "id": 312,
+      "title": "Клавирно дуо - Росен Идеалов - кларинет и Богдан Станев - пиано",
+      "date": "2026-10-22",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "Клавирно дуо съставено от Росен Идеалов на кларинет и Богдан Станев на пиано ще дебютират на четвъртък, 22 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/klavirno-duo-kl-piano/p1333.html"
         }
       ]
     },
@@ -2364,6 +2189,36 @@
     {
       "translations": {
         "bg": {
+          "title": "НИКОГА НЕ СМЕ ПРОПУСКАЛИ ИЗГРЕВА – АВРЕЛИАН ТЕМИЗАН – Констанца",
+          "description": "Аурелиан Темисан ще изнесе турнето си на живо в Дома на културата на синдикатите в Констанца на 13 ноември 2026 г., от 19:00 часа."
+        },
+        "en": {
+          "title": "AURELIAN TEMISAN LIVE TOUR – Constanta",
+          "description": "Aurelian Temisan performs his live tour at Casa de Cultură a Sindicatelor in Constanta on November 13, 2026, starting at 19:00."
+        },
+        "ro": {
+          "title": "N-AM PIERDUT RĂSĂRITUL – AURELIAN TEMISAN LIVE TOUR – Constanta",
+          "description": "Aurelian Temisan performs his live tour at Casa de Cultură a Sindicatelor in Constanta on November 13, 2026, starting at 19:00."
+        }
+      },
+      "id": 314,
+      "title": "N-AM PIERDUT RĂSĂRITUL – AURELIAN TEMISAN LIVE TOUR – Constanta",
+      "date": "2026-11-13",
+      "time": "19:00",
+      "location": "Casa de Cultură a Sindicatelor Constanța",
+      "category": "concert",
+      "description": "Aurelian Temisan performs his live tour at Casa de Cultură a Sindicatelor in Constanta on November 13, 2026, starting at 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/n-am-pierdut-rasaritul-aurelian-temisan-live-tour-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Констанца; театър/комедия \"При гинеколога\"",
           "description": "Театър/комедия \"При гинеколога\" ще се играе в Многофункционален образователен младежки център \"Жан Константин\" в понеделник, 16 ноември от 19:00 часа."
         },
@@ -2478,6 +2333,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/vlad-corb-lansare-de-album-constanta-doors-club-20-noiembrie/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Вапцарови дни – 2026",
+          "description": "Дванадесетият национален конкурс-рецитал на творчеството на Никола Вапцаров ще се проведе във Варна на 21 ноември 2026 г. от 9:00."
+        },
+        "en": {
+          "title": "Vaptsarov Days – 2026",
+          "description": "The Twelfth National Competition-Recital of the Creativity of Nikola Vaptsarov will be held in Varna on November 21, 2026 from 9:00."
+        },
+        "ro": {
+          "title": "Zilele de Crăciun – 2026",
+          "description": "Al doisprezecelea concurs național-recital al creației lui Nikola Vaptsarov va avea loc la Varna pe 21 noiembrie 2026 de la ora 9:00."
+        }
+      },
+      "id": 313,
+      "title": "Вапцарови дни – 2026",
+      "date": "2026-11-21",
+      "time": "09:00",
+      "location": "Варна",
+      "category": "other",
+      "description": "Дванадесетият национален конкурс-рецитал на творчеството на Никола Вапцаров ще се проведе във Варна на 21 ноември 2026 г. от 9:00.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536666"
         }
       ]
     },
@@ -3319,36 +3204,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Виолончелисимо – Национален театър за опера и балет \"Олег Дановски\" Констанца",
-          "description": "Класическо представление с 12 цигулки, което превръща музиката в истинско театрално представление."
-        },
-        "en": {
-          "title": "VIOLONCELLISSIMO – \"Oleg Danovski\" National Opera and Ballet Theatre Constanta",
-          "description": "A classical performance with 12 violins that turns music into a real theatre show."
-        },
-        "ro": {
-          "title": "VIOLONCELLISSIMO – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-          "description": "Un spectacol clasicist cu 12 violoncele care transformă muzica într-un adevărat spectacol de teatru."
-        }
-      },
-      "id": 131,
-      "title": "VIOLONCELLISSIMO – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-      "date": "",
-      "time": "",
-      "location": "Colegiul Național de Arte Regina Maria",
-      "category": "concert",
-      "description": "Un spectacol clasicist cu 12 violoncele care transformă muzica clasică într-un adevărat spectacol de teatru.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/violoncellissimo-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Жените не са ангели",
           "description": "Успешна лондонска комедия се представя в нова постановка в Букурещкия театър „Метроном“."
         },
@@ -3427,7 +3282,7 @@
       "time": "",
       "location": "Dracula Film Festival",
       "category": "adult_18+",
-      "description": "Minor-aged individuals (15-18) can attend this age-restricted event alone, but must bring a declaration form.",
+      "description": "A fashion event titled 'ART EAST FASHION FESTIVAL' is taking place in 2026, though specific details such as date, time, and location are not provided.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -3438,6 +3293,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/09/28/simon-boswell-dracula-film-festival-2026/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/10/art-east-fashion-festival-2026-iasi/"
         }
       ]
     },
@@ -4287,12 +4147,17 @@
       "time": "",
       "location": "AXN România",
       "category": "other",
-      "description": "FBI și FBI: Most Wanted returnează în octombrie cu noi sezoane pe AXN România.",
+      "description": "Un program special de filme SF, inclusiv Harry Potter și comedii îndrăgite, va fi transmis pe AXN România în luna octombrie.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/05/fbi-si-fbi-most-wanted-revin/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/10/harry-potter-comedii-indragite-filme-sf/"
         }
       ]
     },
@@ -4533,6 +4398,96 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/constanta-back-on-set-velora/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Момичето на баба и момичето на Дядо Коледа",
+          "description": "Нощна програма в Центъра за култура на профсъюзите Констанца."
+        },
+        "en": {
+          "title": "Baby's Girl and Santa's Girl",
+          "description": "Night programme at the Trade Union Culture Centre of Constanta."
+        },
+        "ro": {
+          "title": "Fata babei și fata moșului",
+          "description": "Ночная программа в Центру культуре профсоюзов Констанца."
+        }
+      },
+      "id": 315,
+      "title": "Fata babei și fata moșului",
+      "date": "",
+      "time": "",
+      "location": "Casa de Cultură a Sindicatelor Constanţa",
+      "category": "other",
+      "description": "Ночная программа в Центру культуре профсоюзов Констанца.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/fata-babei-si-fata-mosului-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Аурелиан Темишан, Моника Давидеску, Овидиу Кунча и Адриан Нартеа на сцените в страната през октомври",
+          "description": "Аурелиан Темишан, Моника Давидеску, Овидиу Кунча и Адриан Нартеа ще свирят на различни места в страната през октомври."
+        },
+        "en": {
+          "title": "Aurelian Temișan, Monica Davidescu, Ovidiu Cuncea and Adrian Nartea, on country stages in October",
+          "description": "Aurelian Temișan, Monica Davidescu, Ovidiu Cuncea and Adrian Nartea will perform at various venues in the country in October."
+        },
+        "ro": {
+          "title": "Aurelian Temișan, Monica Davidescu, Ovidiu Cuncea și Adrian Nartea, pe scenele din țară în octombrie",
+          "description": "Aurelian Temișan, Monica Davidescu, Ovidiu Cuncea și Adrian Nartea will perform at various venues in the country in October."
+        }
+      },
+      "id": 316,
+      "title": "Aurelian Temișan, Monica Davidescu, Ovidiu Cuncea și Adrian Nartea, pe scenele din țară în octombrie",
+      "date": "",
+      "time": "",
+      "location": "various venues in the country",
+      "category": "adult_18+",
+      "description": "Aurelian Temișan, Monica Davidescu, Ovidiu Cuncea și Adrian Nartea will perform at various venues in the country in October.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/09/aurelian-temisan-monica-davidescu-scene/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Саймън Босуел, Костин Киореану и почит към Стивън Спилбърг сред специалните събития на Дракула Филм Фестивал 2026",
+          "description": "Това е почит към Стивън Спилбърг, заедно с представянето на филмите на Саймън Босуел и Костин Киореану, в рамките на Дракула Филм Фестивал 2026."
+        },
+        "en": {
+          "title": "Simon Boswell, Costin Chioreanu and a tribute to Steven Spielberg among the special events at Dracula Film Festival 2026",
+          "description": "This is a tribute to Steven Spielberg, along with the presentations of films by Simon Boswell and Costin Chioreanu, within the Dracula Film Festival 2026."
+        },
+        "ro": {
+          "title": "Simon Boswell, Costin Chioreanu și un omagiu adus lui Steven Spielberg, printre evenimentele speciale de la Dracula Film Festival 2026",
+          "description": "Acesta este un omagiu adus lui Steven Spielberg, alături de prezentările filmelor de Simon Boswell și Costin Chioreanu, în cadrul Dracula Film Festivalului 2026."
+        }
+      },
+      "id": 317,
+      "title": "Simon Boswell, Costin Chioreanu și un omagiu adus lui Steven Spielberg, printre evenimentele speciale de la Dracula Film Festival 2026",
+      "date": "",
+      "time": "",
+      "location": "Dracula Film Festival 2026",
+      "category": "other",
+      "description": "Acesta este un omagiu adus lui Steven Spielberg, alături de prezentările filmelor de Simon Boswell și Costin Chioreanu, în cadrul Dracula Film Festivalului 2026.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/09/dracula-film-festival-2026-simon-boswell/"
         }
       ]
     },
