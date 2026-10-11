@@ -1,206 +1,6 @@
 {
-  "generated_at": "2026-10-10T11:00:57.154598+00:00",
+  "generated_at": "2026-10-11T10:42:37.960735+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Виолончелисимо – Национален театър за опера и балет \"Олег Дановски\" Констанца",
-          "description": "Класическо представление с 12 цигулки, което превръща музиката в истинско театрално представление."
-        },
-        "en": {
-          "title": "VIOLONCELLISSIMO – \"Oleg Danovski\" National Opera and Ballet Theatre Constanta",
-          "description": "A classical performance with 12 violins that turns music into a real theatre show."
-        },
-        "ro": {
-          "title": "VIOLONCELLISSIMO – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-          "description": "Un spectacol clasicist cu 12 violoncele care transformă muzica într-un adevărat spectacol de teatru."
-        }
-      },
-      "id": 131,
-      "title": "VIOLONCELLISSIMO – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-      "date": "2026-10-10",
-      "time": "",
-      "location": "Colegiul Național de Arte Regina Maria",
-      "category": "concert",
-      "description": "Celebrity tribute event marking the 86th anniversary of John Lennon's birth, likely involving performances or tributes to the former member of The Beatles.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/violoncellissimo-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/09/john-lennon-86-de-ani-beatles/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Емо Реюниън – турне „Паднали листа“ във Финикс",
-          "description": "Емо Реюниън, известна група, ще свири за първи път в Констанца в клуб \"Феникс\" на 10 октомври, отбелязвайки началото на есента с енергия."
-        },
-        "en": {
-          "title": "Emo Reunion – Fallen Leaves Tour at Phoenix",
-          "description": "Emo Reunion, a well-known band, is performing for the first time in Constanța at Club Phoenix on October 10th, marking the start of autumn with energy."
-        },
-        "ro": {
-          "title": "Emo Reunion – Fallen Leaves Tour @ Phoenix",
-          "description": "Emo Reunion, a known band, is performing for the first time in Constanța at Club Phoenix on October 10th, marking the start of autumn with energy."
-        }
-      },
-      "id": 261,
-      "title": "Emo Reunion – Fallen Leaves Tour @ Phoenix",
-      "date": "2026-10-10",
-      "time": "",
-      "location": "Club Phoenix",
-      "category": "other",
-      "description": "Emo Reunion, a known band, is performing for the first time in Constanța at Club Phoenix on October 10th, marking the start of autumn with energetic music.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/emo-reunion-fallen-leaves-tour-at-phoenix/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Предизвикателство за годишнина",
-          "description": "Юбилейно предизвикателство, което ще се проведе на 10 октомври от 11:00 часа в двора на КОМАТ, намиращ се на ул."
-        },
-        "en": {
-          "title": "Anniversary Challenge",
-          "description": "Anniversary Challenge event taking place on October 10th at 11:00 in the courtyard of COMAT, located at Str."
-        },
-        "ro": {
-          "title": "Anniversary Challenge",
-          "description": "Anniversary Challenge event taking place on October 10th at 11:00 in the courtyard of COMAT, located at Str. Interioara 3, Constanța."
-        }
-      },
-      "id": 116,
-      "title": "Anniversary Challenge",
-      "date": "2026-10-10",
-      "time": "11:00",
-      "location": "Str. Interioara 3, curtea COMAT, Constanța",
-      "category": "other",
-      "description": "Anniversary Challenge event taking place on October 10th at 11:00 in the courtyard of COMAT, located at Str. Interioara 3, Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/anniversary-challenge/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "С дефиле и концерт ще закрият \"Дни на духовата музика\" в Добрич",
-          "description": "На 10 октомври 2026 г. ще се проведат дефиле и концерт за закритие на \"Дни на духовата музика\" в Добрич."
-        },
-        "en": {
-          "title": "\"Days of Wind Music\" in Dobrich will close with a parade and concert",
-          "description": "On October 10, 2026 will be held a parade and concert for the closing of \"Days of Wind Music\" in Dobrich."
-        },
-        "ro": {
-          "title": "\"Zilele muzicii de suflat\" se vor încheia cu o paradă și un concert la Dobrich",
-          "description": "Pe 10 octombrie 2026 va avea loc parada și concertul de închidere a „Zilelor muzicii de suflat” din Dobrich."
-        }
-      },
-      "id": 308,
-      "title": "С дефиле и концерт ще закрият \"Дни на духовата музика\" в Добрич",
-      "date": "2026-10-10",
-      "time": "11:12",
-      "location": "Добрич",
-      "category": "concert",
-      "description": "На 10 октомври 2026 г. ще се проведат дефиле и концерт за закритие на \"Дни на духовата музика\" в Добрич.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/s-defile-i-koncert-shte-zakriqt-dni-na-duhovata-muzika-v-dobrich/116956"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Юбилеен концерт по повод 50 години средно образование в СУ „Асен Златаров“, гр. Шабла",
-          "description": "Това лято ще се проведе концерт-спектакъл с Руслан Мъйнов на сцената на НЧ „Зора 1894“ в Шабла, където ще се изпълнят италиански песни от вечните канцонети до съвременни хитове."
-        },
-        "en": {
-          "title": "Anniversary concert on the occasion of 50 years of secondary education in \"Asen Zlatarov\" Secondary School, Shabla",
-          "description": "This summer will be held a concert-performance with Ruslan Mynov on the stage of the National Choir \"Zora 1894\" in Shabla, where Italian songs will be performed from the eternal canzonetti to contemporary hits."
-        },
-        "ro": {
-          "title": "Concert jubiliar cu ocazia împlinirii a 50 de ani de învățământ secundar la Școala Gimnazială \"Asen Zlatarov\", orașul Șabla",
-          "description": "În această vară va avea loc un concert-spectacol cu Ruslan Mynov pe scena Școlii Naționale \"Zora 1894\" din Șabla, unde vor fi interpretate cântece italiene de la canzonete veșnice la hituri contemporane."
-        }
-      },
-      "id": 2,
-      "title": "Юбилеен концерт по повод 50 години средно образование в СУ „Асен Златаров“, гр. Шабла",
-      "date": "2026-10-10",
-      "time": "16:00",
-      "location": "СУ \"Асен Златаров\", гр. Шабла",
-      "category": "concert",
-      "description": "Това лято ще се проведе концерт-спектакъл с Руслан Мъйнов на сцената на НЧ „Зора 1894“ в Шабла, където ще се изпълнят италиански песни от вечните канцонети до съвременни хитове.",
-      "sources": [
-        {
-          "source_id": "shabla_sabitiya",
-          "source_name": "Shabla.bg — Sabitiya (Events archive)",
-          "url": "https://shabla.bg/events/yubileen-konczert-po-povod-50-godini-sredno-obrazovanie-v-su-asen-zlatarov-gr-shabla/"
-        },
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/koncert-spektakal-s-ruslan-maynov-muzikata-na-italiya.html"
-        },
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/monospektakal-zhivotat-pred-teb-po-romen-gari-dramatizaciya-na-dimitar-nikolov-shablata.html"
-        },
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/blagotvoritelniyat-koncert.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Сватбата на Фигаро",
-          "description": "Сватбата на Фигаро се провежда в Дома на културата на синдикатите в Констанца на 10 октомври 2026 г. от 18:30 часа."
-        },
-        "en": {
-          "title": "The Wedding of Figaro",
-          "description": "The wedding of Figaro takes place at the House of Culture of the Trade Unions Constanta on October 10, 2026 at 18:30."
-        },
-        "ro": {
-          "title": "Nunta lui Figaro",
-          "description": "Nunta lui Figaro are loc la Casa de Cultură a Sindicatelor Constanța pe 10 octombrie 2026 la ora 18:30."
-        }
-      },
-      "id": 209,
-      "title": "Nunta lui Figaro",
-      "date": "2026-10-10",
-      "time": "18:30",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "other",
-      "description": "Nunta lui Figaro are loc la Casa de Cultură a Sindicatelor Constanța pe 10 octombrie 2026 la ora 18:30.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/nunta-lui-figaro/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -319,6 +119,41 @@
     {
       "translations": {
         "bg": {
+          "title": "Алесия изнесе музиката на улицата с градски манифест за свобода",
+          "description": "Алесия организира градски манифест с музика по улиците на града, наречен „Манифест за градска свобода“, насърчаващ свободата и творчеството."
+        },
+        "en": {
+          "title": "Alessiah brought music to the streets with an urban manifesto of freedom",
+          "description": "Alessiah organized an urban manifesto with music in the streets of the city, called 'Urban Freedom Manifest', promoting freedom and creativity."
+        },
+        "ro": {
+          "title": "Alessiah a adus muzica în stradă, printr-un manifest urban al libertății",
+          "description": "Alessiah a organiza un manifest urban cu muzică în străduțele orașului, sub numele 'Urban Freedom Manifest', promovând libertatea și creativitatea."
+        }
+      },
+      "id": 187,
+      "title": "Alessiah a adus muzica în stradă, printr-un manifest urban al libertății",
+      "date": "2026-10-11",
+      "time": "",
+      "location": "strada",
+      "category": "other",
+      "description": "Un eveniment organizat pe 11 octombrie, care face parte din seria „Micile Mâini, Mari Transformări”. Detalii suplimentare despre programul evenimentului nu sunt disponibile în acest articol.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/27/alessiah-a-adus-muzica-in-strada/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/micile-maini-mari-transformari-editia-a-ii-a/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Солта на парченца – Констанца",
           "description": "Концерт с Михай Бендеак и Илона Брежояну, който ще се проведе в Дома на културата на синдикатите в Констанца на 12 октомври 2026 г., от 19:00 часа."
         },
@@ -378,6 +213,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/my-fair-lady/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "35 години Конституция на Република България",
+          "description": "Фотодокументалната изложба „35 години Конституция на Република България“ е организирана в Регионалната библиотека „Пенчо Славейков“ във Варна от 12 до 24 октомври."
+        },
+        "en": {
+          "title": "35 years Constitution of the Republic of Bulgaria",
+          "description": "The photo documentary exhibition \"35 years of the Constitution of the Republic of Bulgaria\" is organized in the Regional Library \"Pencho Slaveykov\" in Varna from October 12 to 24."
+        },
+        "ro": {
+          "title": "35 de ani de la Constituția Republicii Bulgaria",
+          "description": "Expoziția foto-documentară \"35 de ani de Constituție a Republicii Bulgaria\" a fost organizată la Biblioteca Regională \"Pencho Slaveykov\" din Varna între 12 și 24 octombrie."
+        }
+      },
+      "id": 319,
+      "title": "35 години Конституция на Република България",
+      "date": "2026-10-12",
+      "time": "",
+      "location": "Регионалната библиотека „Пенчо Славейков“ във Варна",
+      "category": "exhibition",
+      "description": "Фотодокументалната изложба „35 години Конституция на Република България“ е организирана в Регионалната библиотека „Пенчо Славейков“ във Варна от 12 до 24 октомври.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536705"
         }
       ]
     },
@@ -1003,6 +868,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/05/mielul-shaun-aventuri-de-halloween/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/11/dracula-film-festival-dracula-trophy/"
         }
       ]
     },
@@ -3579,36 +3449,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Алесия изнесе музиката на улицата с градски манифест за свобода",
-          "description": "Алесия организира градски манифест с музика по улиците на града, наречен „Манифест за градска свобода“, насърчаващ свободата и творчеството."
-        },
-        "en": {
-          "title": "Alessiah brought music to the streets with an urban manifesto of freedom",
-          "description": "Alessiah organized an urban manifesto with music in the streets of the city, called 'Urban Freedom Manifest', promoting freedom and creativity."
-        },
-        "ro": {
-          "title": "Alessiah a adus muzica în stradă, printr-un manifest urban al libertății",
-          "description": "Alessiah a organiza un manifest urban cu muzică în străduțele orașului, sub numele 'Urban Freedom Manifest', promovând libertatea și creativitatea."
-        }
-      },
-      "id": 187,
-      "title": "Alessiah a adus muzica în stradă, printr-un manifest urban al libertății",
-      "date": "",
-      "time": "",
-      "location": "strada",
-      "category": "other",
-      "description": "Alessiah a organiza un manifest urban cu muzică în străduțele orașului, sub numele 'Urban Freedom Manifest', promovând libertatea și creativitatea.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/27/alessiah-a-adus-muzica-in-strada/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "М. Л. Рио, авторката на бестселъра \"Ако бяхме злодеи\", идва в Румъния: срещи с читатели в Букурещ и Яш",
           "description": "Авторът на бестселъра \"Ако бяхме злодеи\" М. Л. Рио идва в Румъния за срещи с читателите си в Букурещ и Яш."
         },
@@ -3747,12 +3587,17 @@
       "time": "",
       "location": "Fantomel",
       "category": "other",
-      "description": "Fantomel organizează o prelansare de piesă alături de artistul danez Chris Crone.",
+      "description": "Francis On My Mind lansează un nou EP numit „Ars Valendi”. Aceasta este o notitie despre o lansare de album în contextul vieții noptii, dar nu specifică un eveniment cu data și locul de sosire.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/09/29/fantomel-chris-crone-piesa-fall-for-her/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/10/francis-on-my-mind-lanseaza-ars-valendi/"
         }
       ]
     },
@@ -4488,6 +4333,126 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/09/dracula-film-festival-2026-simon-boswell/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "\"Дон Кихот\"",
+          "description": "Дон Кихот - страст, приключение и танц на сцената в Констанц."
+        },
+        "en": {
+          "title": "Don Quixote",
+          "description": "Don Quixote - passion, adventure and dance on the Constanta stage."
+        },
+        "ro": {
+          "title": "Don Quijote",
+          "description": "Don Quijote - pasiune, aventură și dans pe scena constănțeană."
+        }
+      },
+      "id": 320,
+      "title": "Don Quijote",
+      "date": "",
+      "time": "",
+      "location": "Teatrul Național de Operă și Balet „Oleg Danovski",
+      "category": "theater",
+      "description": "Don Quijote - pasiune, aventură și dans pe scena constănțeană.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/don-quijote-6/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Аладин и игривата лампа",
+          "description": "Аладин и игривата лампа играят в Дома на културата на синдикатите в Констанца."
+        },
+        "en": {
+          "title": "Aladdin and the playful lamp",
+          "description": "Aladdin and the playful lamp are playing at the House of Culture of the Trade Unions in Constanta."
+        },
+        "ro": {
+          "title": "Aladin și lampa jucăușă",
+          "description": "Aladin și lampa jucăușă se joacă la Casa de Cultură a Sindicatelor din Constanța."
+        }
+      },
+      "id": 321,
+      "title": "Aladin și lampa jucăușă",
+      "date": "",
+      "time": "",
+      "location": "Casa de Cultură a Sindicatelor Constanţa",
+      "category": "other",
+      "description": "Aladin și lampa jucăușă se joacă la Casa de Cultură a Sindicatelor din Constanța.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/aladin-si-lampa-jucausa-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Селска кавалерия / рицари",
+          "description": "Национален театър за опера и балет \"Олег Дановски\""
+        },
+        "en": {
+          "title": "Rustic cavalry / Clowns",
+          "description": "National Theatre of Opera and Ballet \"Oleg Danovski"
+        },
+        "ro": {
+          "title": "Cavalleria Rusticana / Paiațe",
+          "description": "Teatrul Național de Operă și Balet „Oleg Danovski"
+        }
+      },
+      "id": 322,
+      "title": "Cavalleria Rusticana / Paiațe",
+      "date": "",
+      "time": "",
+      "location": "Teatrul Național de Operă și Balet „Oleg Danovski",
+      "category": "theater",
+      "description": "Teatrul Național de Operă și Balet „Oleg Danovski",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/cavalleria-rusticana-paiate/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Магията на коледните филми се завръща в дивата",
+          "description": "Филмов фестивал с празнични истории се завръща в зала Дива."
+        },
+        "en": {
+          "title": "The magic of Christmas movies returns to Diva",
+          "description": "Film festival with festive stories is returning to Diva venue."
+        },
+        "ro": {
+          "title": "Magia filmelor de Crăciun revine la Diva",
+          "description": "Film festival with festive stories is returning to Diva venue."
+        }
+      },
+      "id": 323,
+      "title": "Magia filmelor de Crăciun revine la Diva",
+      "date": "",
+      "time": "",
+      "location": "Diva",
+      "category": "other",
+      "description": "Film festival with festive stories is returning to Diva venue.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/11/12-octombrie-magia-filmelor-de-craciun/"
         }
       ]
     },
