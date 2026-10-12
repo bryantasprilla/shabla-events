@@ -1,221 +1,6 @@
 {
-  "generated_at": "2026-10-11T10:42:37.960735+00:00",
+  "generated_at": "2026-10-12T11:56:29.247653+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "И ВЕРНИЯТ ОТГОВОР Е...",
-          "description": "Месецът Верният отговор е се провежда наедно със фестивала на песни и танци в Варна."
-        },
-        "en": {
-          "title": "AND THE TRUE ANSWERS IS...",
-          "description": "The month The True Answer is held together with the festival of songs and dances in Varna."
-        },
-        "ro": {
-          "title": "ȘI RĂSPUNSUL CORECT ESTE...",
-          "description": "Luna Răspunsul Adevărat se desfășoară împreună cu Festivalul de cântece și dansuri din Varna."
-        }
-      },
-      "id": 60,
-      "title": "И ВЕРНИЯТ ОТГОВОР Е...",
-      "date": "2026-10-11",
-      "time": "",
-      "location": "Драматичен театър „Стоян Бъчваров“ във Варна",
-      "category": "other",
-      "description": "Варненския драматичен театър ще представи две премиери и хитови спектакли през октомври, включително криминални истории, комедии, класика и романтика.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/org/p1034.html"
-        },
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536075"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "\"Къде са онези, които вече ги няма?\" – Откриване на изложбата на художника Виктор Лучиан Костаческу",
-          "description": "Вернисаж на изложбата на живопис, озаглавена \"Къде са онези, които вече не са?\" бе организирана в Художествената галерия Мангалия, в знак на почит към близките."
-        },
-        "en": {
-          "title": "\"Where are those who are no longer?\" – Vernissage of the painting exhibition of the artist Victor Lucian Costachescu",
-          "description": "A vernissage of the painting exhibition entitled \"Where are those who are no longer?\" was organized in the Mangalia Art Gallery, as a tribute to the loved ones."
-        },
-        "ro": {
-          "title": "„Unde sunt cei ce nu mai sunt?” – Vernisajul expoziției de pictură a artistului Victor Lucian Costachescu",
-          "description": "O vernisaj a expoziției de pictură intitulată „Unde sunt cei ce nu mai sunt?” a fost organizată în Galeria de Artă Mangalia, în semn de omagiu pentru cei dragi."
-        }
-      },
-      "id": 71,
-      "title": "„Unde sunt cei ce nu mai sunt?” – Vernisajul expoziției de pictură a artistului Victor Lucian Costachescu",
-      "date": "2026-10-11",
-      "time": "",
-      "location": "Galeria de Artă Mangalia",
-      "category": "exhibition",
-      "description": "Un eveniment organizat pe 11 octombrie, care face parte din seria „Micile Mâini, Mari Transformări”. Detalii suplimentare despre programul evenimentului nu sunt disponibile în acest articol.",
-      "sources": [
-        {
-          "source_id": "mangalianews_events",
-          "source_name": "MangaliaNews.ro — Evenimente & Recomandari",
-          "url": "https://www.mangalianews.ro/2026/09/19/unde-sunt-cei-ce-nu-mai-sunt-vernisajul-expozitiei-de-pictura-a-artistului-victor-lucian-costachescu-la-galeria-de-arta-mangalia-foto-video/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/jack-si-vrejul-de-fasole-dupa-joseph-jacobs/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/29/ac-dc-50-ani-dirty-deeds-done-dirt-cheap/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/30/pielea-ta-cand-nu-te-demachiezi-seara/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/01/secretul-unui-ring-de-dans-plin-la-nunta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/01/verity-film-anne-hathaway-dakota-johnson/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/micile-maini-mari-transformari-editia-a-ii-a/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/doggy-dupa-o-nuvela-de-maria-pilchin/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/07/gaina-gyorgy-palfi-film-premiera/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/09/roger-waters-legacy-a-pink-floyd-show/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/09/jocuri-video-de-groaza-sezon-halloween/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Алесия изнесе музиката на улицата с градски манифест за свобода",
-          "description": "Алесия организира градски манифест с музика по улиците на града, наречен „Манифест за градска свобода“, насърчаващ свободата и творчеството."
-        },
-        "en": {
-          "title": "Alessiah brought music to the streets with an urban manifesto of freedom",
-          "description": "Alessiah organized an urban manifesto with music in the streets of the city, called 'Urban Freedom Manifest', promoting freedom and creativity."
-        },
-        "ro": {
-          "title": "Alessiah a adus muzica în stradă, printr-un manifest urban al libertății",
-          "description": "Alessiah a organiza un manifest urban cu muzică în străduțele orașului, sub numele 'Urban Freedom Manifest', promovând libertatea și creativitatea."
-        }
-      },
-      "id": 187,
-      "title": "Alessiah a adus muzica în stradă, printr-un manifest urban al libertății",
-      "date": "2026-10-11",
-      "time": "",
-      "location": "strada",
-      "category": "other",
-      "description": "Un eveniment organizat pe 11 octombrie, care face parte din seria „Micile Mâini, Mari Transformări”. Detalii suplimentare despre programul evenimentului nu sunt disponibile în acest articol.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/27/alessiah-a-adus-muzica-in-strada/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/micile-maini-mari-transformari-editia-a-ii-a/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Солта на парченца – Констанца",
-          "description": "Концерт с Михай Бендеак и Илона Брежояну, който ще се проведе в Дома на културата на синдикатите в Констанца на 12 октомври 2026 г., от 19:00 часа."
-        },
-        "en": {
-          "title": "Salt in Pieces – by Qfeel Constanta",
-          "description": "A concert with Mihai Bendeac and Ilona Brezoianu that will take place at the House of Culture of the Trade Unions in Constanta on October 12, 2026, at 19:00."
-        },
-        "ro": {
-          "title": "Sarea în Bucate – by Qfeel Constanta",
-          "description": "Un concert cu Mihai Bendeac și Ilona Brezoianu care va avea loc la Casa de Cultura a Sindicatelor în Constanta la data de 12 octombrie 2026, la ora 19:00."
-        }
-      },
-      "id": 218,
-      "title": "Sarea în Bucate – by Qfeel Constanta",
-      "date": "2026-10-11",
-      "time": "11:00",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "concert",
-      "description": "Un concert cu Mihai Bendeac și Ilona Brezoianu care va avea loc la Casa de Cultura a Sindicatelor în Constanta la data de 12 octombrie 2026, la ora 19:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/sarea-in-bucate-by-qfeel-constanta/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/constanta-doi-pe-o-banca-mihai-bendeac-ilona-brezoianu-2/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Моята красива дама",
-          "description": "Моята красива дама е театрален спектакъл, насрочен за 11 октомври 2026 г., от 18:30 ч. в Дома на културата на синдикатите в Констанца."
-        },
-        "en": {
-          "title": "My Fair Lady",
-          "description": "My Fair Lady is a theater performance scheduled for October 11, 2026, at 18:30 in Casa de Cultură a Sindicatelor in Constanța."
-        },
-        "ro": {
-          "title": "My Fair Lady",
-          "description": "My Fair Lady is a theater performance scheduled for October 11, 2026, at 18:30 in Casa de Cultură a Sindicatelor in Constanța."
-        }
-      },
-      "id": 219,
-      "title": "My Fair Lady",
-      "date": "2026-10-11",
-      "time": "18:30",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "theater",
-      "description": "My Fair Lady is a theater performance scheduled for October 11, 2026, at 18:30 in Casa de Cultură a Sindicatelor in Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/my-fair-lady/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -243,6 +28,66 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536705"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "С наситен събитиен календар, археология и занимания за децата музеят в Балчик привлича нови публики",
+          "description": "Музей в Балчик организира разнообразни събития, археологически изследвания и дейности за децата, които привличат посетители."
+        },
+        "en": {
+          "title": "With a rich calendar of events, archaeology and activities for children, the museum in Balchik attracts new audiences",
+          "description": "The Museum in Balchik organizes various events, archaeological research and activities for children that attract visitors."
+        },
+        "ro": {
+          "title": "Cu un calendar bogat de evenimente, arheologie și activități pentru copii, muzeul din Balcic atrage noi publicuri",
+          "description": "Muzeul din Balcic organizează diverse evenimente, cercetări arheologice și activități pentru copii, care atrag vizitatori."
+        }
+      },
+      "id": 324,
+      "title": "С наситен събитиен календар, археология и занимания за децата музеят в Балчик привлича нови публики",
+      "date": "2026-10-12",
+      "time": "",
+      "location": "музеят в Балчик",
+      "category": "other",
+      "description": "Музей в Балчик организира разнообразни събития, археологически изследвания и дейности за децата, които привличат посетители.",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/s-nasiten-sybitien-kalendar-arheologiq-i-zanimaniq-za-decata-muzeqt-v-balchik-privlicha-novi-publiki-video-/117000"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Честит празник на район „Младост“ във Варна!",
+          "description": "Празнуване на празник в район „Младост“ във Варна."
+        },
+        "en": {
+          "title": "Happy holiday to the district \"Mladost\" in Varna!",
+          "description": "Celebration of a holiday in the district \"Mladost\" in Varna."
+        },
+        "ro": {
+          "title": "Sărbători fericite!",
+          "description": "Sărbătorirea unei sărbători în cartierul Mladost din Varna."
+        }
+      },
+      "id": 325,
+      "title": "Честит празник на район „Младост“ във Варна!",
+      "date": "2026-10-12",
+      "time": "",
+      "location": "Варна",
+      "category": "municipal",
+      "description": "Празнуване на празник в район „Младост“ във Варна.",
+      "sources": [
+        {
+          "source_id": "budna_varna",
+          "source_name": "Budna Varna",
+          "url": "https://www.budnavarna.com/2026/10/12/chestit-praznik-na-rajon-mladost-vav-varna/"
         }
       ]
     },
@@ -313,6 +158,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/constanta-plaiesii-leru-i-ler-la-nalte-curti-spectacol-de-colinde/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/povestea-unei-seri-constanta/"
         }
       ]
     },
@@ -568,6 +418,11 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536425"
+        },
+        {
+          "source_id": "budna_varna",
+          "source_name": "Budna Varna",
+          "url": "https://www.budnavarna.com/2026/10/12/varna-izbira-svoite-mis-i-mistar-top-licze-na-16-oktomvri/"
         }
       ]
     },
@@ -603,6 +458,36 @@
           "source_id": "pronewsdobrich",
           "source_name": "ProNews Dobrich",
           "url": "https://pronewsdobrich.bg/kamen-ivanov-stana-shampion-na-singal-pri-yunoshite-na-turnir-do-16-g-ot-tenis-evropa-v-dobrich-p731396"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "\"Лято на нищото\", новият игрален филм на Алина Манолаче",
+          "description": "Алиней Манолаке пусна на 16 октомври в кината новия си пълнометражен филм, озаглавен \"Лято на нищо\"."
+        },
+        "en": {
+          "title": "\"A Summer of Nothing\", the new feature film by Alina Manolache",
+          "description": "Alinei Manolache launched on October 16 his new feature film, titled \"A Summer of Nothing\", in cinemas."
+        },
+        "ro": {
+          "title": "„O vară de nimic”, noul lungmetraj al Alinei Manolache",
+          "description": "Alinei Manolache a lanțuit pe 16 octombrie noul său lungmetraj, titulat „O vară de nimic”, în cinematografe."
+        }
+      },
+      "id": 333,
+      "title": "„O vară de nimic”, noul lungmetraj al Alinei Manolache",
+      "date": "2026-10-16",
+      "time": "",
+      "location": "cinematografe",
+      "category": "other",
+      "description": "Alinei Manolache a lanțuit pe 16 octombrie noul său lungmetraj, titulat „O vară de nimic”, în cinematografe.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/12/o-vara-de-nimic-alina-manolache/"
         }
       ]
     },
@@ -674,30 +559,30 @@
     {
       "translations": {
         "bg": {
-          "title": "Концерт – Клавирно трио",
-          "description": "Клавирно трио ще се представи с концерт на събота, 17 октомври 2026 година."
+          "title": "Група Дискотека @doors",
+          "description": "Изпълнение на живо на Труба Дискотека в клуб Дорс в събота, 17 октомври."
         },
         "en": {
-          "title": "Concert – Piano Trio",
-          "description": "Piano trio will perform a concert on Saturday, October 17, 2026."
+          "title": "Band Disco @doors",
+          "description": "Live performance by Trupa Discoteka at the Doors Club on Saturday, October 17th."
         },
         "ro": {
-          "title": "Concert – Trio pentru pian",
-          "description": "Un trio de pian va prezenta un concert sâmbătă, 17 octombrie 2026."
+          "title": "Trupa Discoteka @doors",
+          "description": "Live performance by Trupa Discoteka at the Doors Club on Saturday, October 17th."
         }
       },
-      "id": 297,
-      "title": "Концерт – Клавирно трио",
+      "id": 329,
+      "title": "Trupa Discoteka @doors",
       "date": "2026-10-17",
       "time": "",
-      "location": "",
-      "category": "concert",
-      "description": "Клавирно трио ще се представи с концерт на събота, 17 октомври 2026 година.",
+      "location": "Doors Club",
+      "category": "adult_18+",
+      "description": "Live performance by Trupa Discoteka at the Doors Club on Saturday, October 17th.",
       "sources": [
         {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/klavirno-trio/p1331.html"
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/trupa-discoteka-at-doors/"
         }
       ]
     },
@@ -804,6 +689,41 @@
     {
       "translations": {
         "bg": {
+          "title": "Концерт – Клавирно трио",
+          "description": "Клавирно трио ще се представи с концерт на събота, 17 октомври 2026 година."
+        },
+        "en": {
+          "title": "Concert – Piano Trio",
+          "description": "Piano trio will perform a concert on Saturday, October 17, 2026."
+        },
+        "ro": {
+          "title": "Concert – Trio pentru pian",
+          "description": "Un trio de pian va prezenta un concert sâmbătă, 17 octombrie 2026."
+        }
+      },
+      "id": 297,
+      "title": "Концерт – Клавирно трио",
+      "date": "2026-10-17",
+      "time": "19:00",
+      "location": "Концертното студио на Радио Варна",
+      "category": "concert",
+      "description": "Певицата и автор Даниела Белчева ще представи BRIDGES, концертен проект, който ще включва джаз, гъдулка и български фолклор.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/klavirno-trio/p1331.html"
+        },
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536736"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "„Агри.СС“ организира празник с игри и музика за Световния ден на яйцето в Генерал Тошево",
           "description": "Празник с игри и музика организиран от „Агри.СС“ в Генерал Тошево за Световния ден на яйцето."
         },
@@ -822,12 +742,17 @@
       "time": "",
       "location": "Генерал Тошево",
       "category": "other",
-      "description": "Празник с игри и музика организиран от „Агри.СС“ в Генерал Тошево за Световния ден на яйцето.",
+      "description": "Изложба по случая на 35-ата година на Конституцията на Република България, тя ще се провежда от 12 до 24 октомври 2026 година.",
       "sources": [
         {
           "source_id": "pronewsdobrich",
           "source_name": "ProNews Dobrich",
           "url": "https://pronewsdobrich.bg/„agriss“-organizira-praznik-s-igri-i-muzika-za-svetovniya-den-na-yaytseto-v-general-toshevo-p731663"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/35-godini-konstitutsiya-na-republika-balgariya-izl.html"
         }
       ]
     },
@@ -1964,6 +1889,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Нощта на маските",
+          "description": "Нощта на маските е събитие в Енергия Констанца, което се провежда на 31 октомври от 18:00 часа."
+        },
+        "en": {
+          "title": "Night of the Masks",
+          "description": "The Night of Masks is an event at Energia Constanta that takes place on October 31 at 18:00."
+        },
+        "ro": {
+          "title": "Noaptea Măștilor",
+          "description": "Noaptea Măștilor este o eveniment de la Energia Constanta care are loc la 31 octombrie la ora 18:00."
+        }
+      },
+      "id": 326,
+      "title": "Noaptea Măștilor",
+      "date": "2026-10-31",
+      "time": "18:00",
+      "location": "Energia Constanta",
+      "category": "other",
+      "description": "Noaptea Măștilor este o eveniment de la Energia Constanta care are loc la 31 octombrie la ora 18:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/noaptea-mastilor/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Новият албум на \"КВЛТ\"",
           "description": "На 6 ноември от 7:00 ч. в клуб \"Феникс\" в Констанца ще се състои представянето на новия албум \"КВЛТ\"."
         },
@@ -2263,6 +2218,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/gala-de-opera-opereta-si-musical/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/all-inclusive-23-noiembrie-ora-1900-casa-de-cultura-a-sindicatelor-constanta/"
         }
       ]
     },
@@ -3122,12 +3082,17 @@
       "time": "",
       "location": "Colegiul Național de Arte Regina Maria",
       "category": "other",
-      "description": "Când muzica zâmbește, scena se transformă: „Zâmbetul Muzicii",
+      "description": "UNKLFNKL și Maria Mashuka lansează un nou album intitulat „Spooky Spooky”.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/zambetul-muzicii-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/11/unklfnkl-maria-mashuka-spooky-spooky/"
         }
       ]
     },
@@ -3527,12 +3492,17 @@
       "time": "",
       "location": "STRADA MALAGA",
       "category": "adult_18+",
-      "description": "Premiera unei odăi care aduce libertatea de a dori și iubi la orice vârstă, subtitulată 'STRADA MALAGA'.",
+      "description": "Un spectacul de animație DreamWorks cu temă pe o insulă construită din amintiri, dar fără date sau locație specificate.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/09/29/strada-malaga-carmen-maura-premiera/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/12/forgotten-island-animatie-dreamworks/"
         }
       ]
     },
@@ -4459,6 +4429,126 @@
     {
       "translations": {
         "bg": {
+          "title": "Благотворителен концерт на товари",
+          "description": "Констанца, 2026 – Групата кани феновете и любителите на рок музиката на благотворителен концерт в рамките на 14-годишния юбилей на музиката."
+        },
+        "en": {
+          "title": "Charity Concert Cargo",
+          "description": "Constanta, 2026 – The band CARGO invites fans and lovers of rock music to a charity concert in the framework of the 14th anniversary of music."
+        },
+        "ro": {
+          "title": "Concert caritabil Cargo",
+          "description": "Constanța, 2026 – Trupa CARGO invită fanii și iubitorii muzicii rock la un concert caritabil în cadrul aniversarului de 14 ani de muzică."
+        }
+      },
+      "id": 328,
+      "title": "Concert caritabil Cargo",
+      "date": "",
+      "time": "",
+      "location": "Constanța",
+      "category": "concert",
+      "description": "Constanța, 2026 – Trupa CARGO invită fanii și iubitorii muzicii rock la un concert caritabil în cadrul aniversarului de 14 ani de muzică.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/constanta-concert-caritabil-cargo/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Игри в градината на баба и дядо",
+          "description": "Спектакъл с традиционна румънска специфика, който продължава около 45 минути, според минималната възраст от 3+."
+        },
+        "en": {
+          "title": "GAMES IN THE GARDEN OF THE GRANDFATHERS",
+          "description": "A traditional Romanian show that lasts about 45 minutes, according to the minimum age of 3+."
+        },
+        "ro": {
+          "title": "JOCURI ÎN OGRADA BUNICILOR",
+          "description": "Un spectacol cu specific tradițional românesc care durează aproximativ 45 minute, potrivit vârstei minime de 3+."
+        }
+      },
+      "id": 330,
+      "title": "JOCURI ÎN OGRADA BUNICILOR",
+      "date": "",
+      "time": "",
+      "location": "Ograda Bunicilor",
+      "category": "theater",
+      "description": "Un spectacol cu specific tradițional românesc care durează aproximativ 45 minute, potrivit vârstei minime de 3+.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/jocuri-in-ograda-bunicilor/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Известният френски арфист Ксавие дьо Мейстре открива новия сезон на Радио Камерния Оркестър",
+          "description": "Известният френски арфист Ксавие де Мейстре открива нов сезон на Радио Камерния Оркестър със зрелищно изпълнение."
+        },
+        "en": {
+          "title": "The famous French harpist Xavier de Maistre opens the new season of the Radio Chamber Orchestra",
+          "description": "The famous French harpist Xavier de Maistre opens a new season at the Radio Chamber Orchestra in a spectacular performance."
+        },
+        "ro": {
+          "title": "Celebrul harpist francez Xavier de Maistre deschide noua stagiune a Orchestrei de Cameră Radio",
+          "description": "Celebrul harpist francez Xavier de Maistre deschide o nouă stagione la Orchestrei de Cameră Radio într-o spectaculoasă prezentare."
+        }
+      },
+      "id": 331,
+      "title": "Celebrul harpist francez Xavier de Maistre deschide noua stagiune a Orchestrei de Cameră Radio",
+      "date": "",
+      "time": "",
+      "location": "Orchestrei de Cameră Radio",
+      "category": "other",
+      "description": "Celebrul harpist francez Xavier de Maistre deschide o nouă stagione la Orchestrei de Cameră Radio într-o spectaculoasă prezentare.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/12/xavier-de-maistre-deschide-noua-stagiune/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Хория Гибутиу | Какво и защо да видите на ФНТ36",
+          "description": "Представете се на актьора и режисьора Хория Гибутиу на Фестивала на националния театър FNT36."
+        },
+        "en": {
+          "title": "Horia Ghibuțiu | What and why to see at FNT36",
+          "description": "Introducing the actor and director Horia Ghibutiu at the National Theatre Festival FNT36, arrange to make an impression of his work."
+        },
+        "ro": {
+          "title": "Horia Ghibuțiu | Ce și de ce să vedeți la FNT36",
+          "description": "Представяте се на актера и режисъра Хория Гибутиу във Фестивалът на националния театър FNT36. Договорете се за причинение на впечатление от творчеството му."
+        }
+      },
+      "id": 332,
+      "title": "Horia Ghibuțiu | Ce și de ce să vedeți la FNT36",
+      "date": "",
+      "time": "",
+      "location": "FNT36",
+      "category": "theater",
+      "description": "Представяте се на актера и режисъра Хория Гибутиу във Фестивалът на националния театър FNT36. Договорете се за причинение на впечатление от творчеството му.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/12/fnt36-festivalul-national-de-teatru/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Ние отваряме сладолед",
           "description": "Сладоледът се отваря на адрес Принципала 123, община Сарикиой, Тулча, на церемония, насрочена за 09:00 часа."
         },
@@ -4543,6 +4633,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/tosca/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Грабването на Исус от Витлеем",
+          "description": "Събитието се провежда в Националния колеж по изкуствата \"Кралица Мария\" в Констанца и започва в 18:30 часа."
+        },
+        "en": {
+          "title": "The Rapture from the Serai",
+          "description": "The event takes place in the National College of Arts \"Regina Maria\" Constanta and starts at 18:30."
+        },
+        "ro": {
+          "title": "Răpirea din Serai",
+          "description": "Evenimentul se desfășoară în Colegiul Național de Arte \"Regina Maria\" Constanța și începe la ora 18:30."
+        }
+      },
+      "id": 327,
+      "title": "Răpirea din Serai",
+      "date": "",
+      "time": "18:30",
+      "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
+      "category": "other",
+      "description": "Evenimentul se desfășoară în Colegiul Național de Arte \"Regina Maria\" Constanța și începe la ora 18:30.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/rapirea-din-serai/"
         }
       ]
     },
