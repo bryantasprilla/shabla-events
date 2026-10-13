@@ -1,168 +1,128 @@
 {
-  "generated_at": "2026-10-12T11:56:29.247653+00:00",
+  "generated_at": "2026-10-13T11:48:04.153298+00:00",
   "events": [
     {
       "translations": {
         "bg": {
-          "title": "35 години Конституция на Република България",
-          "description": "Фотодокументалната изложба „35 години Конституция на Република България“ е организирана в Регионалната библиотека „Пенчо Славейков“ във Варна от 12 до 24 октомври."
+          "title": "Балетът „Спартак“ с две представления във Варна през октомври",
+          "description": "Балетът „Спартак“ ще бъде представен на 27 и 28 октомври в Основна сцена на Варненската опера, поставен с хореография на Сергей Бобров."
         },
         "en": {
-          "title": "35 years Constitution of the Republic of Bulgaria",
-          "description": "The photo documentary exhibition \"35 years of the Constitution of the Republic of Bulgaria\" is organized in the Regional Library \"Pencho Slaveykov\" in Varna from October 12 to 24."
+          "title": "Spartak Ballet with two performances in Varna in October",
+          "description": "The ballet \"Spartacus\" will be presented on October 27 and 28 in the Main Stage of the Varna Opera, choreographed by Sergey Bobrov."
         },
         "ro": {
-          "title": "35 de ani de la Constituția Republicii Bulgaria",
-          "description": "Expoziția foto-documentară \"35 de ani de Constituție a Republicii Bulgaria\" a fost organizată la Biblioteca Regională \"Pencho Slaveykov\" din Varna între 12 și 24 octombrie."
+          "title": "Baletul \"Spartacus\" cu două spectacole la Varna în octombrie",
+          "description": "Baletul \"Spartacus\" va fi prezentat în 27 și 28 octombrie pe Scena Principală a Operei din Varna, în coregrafia lui Serghei Bobrov."
         }
       },
-      "id": 319,
-      "title": "35 години Конституция на Република България",
-      "date": "2026-10-12",
+      "id": 298,
+      "title": "Балетът „Спартак“ с две представления във Варна през октомври",
+      "date": "2026-10-13",
       "time": "",
-      "location": "Регионалната библиотека „Пенчо Славейков“ във Варна",
-      "category": "exhibition",
-      "description": "Фотодокументалната изложба „35 години Конституция на Република България“ е организирана в Регионалната библиотека „Пенчо Славейков“ във Варна от 12 до 24 октомври.",
+      "location": "Основна сцена на Варненската опера",
+      "category": "theater",
+      "description": "Златаровците организираха различни мероприятия като концерт, фотоизложба, представяне на книга и кулинарни изкушения за отбелязване на своя юбилей.",
       "sources": [
         {
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536705"
+          "url": "https://www.moreto.net/events.php?n=536560"
+        },
+        {
+          "source_id": "shabla_novini",
+          "source_name": "Shabla.bg — Novini (News)",
+          "url": "https://shabla.bg/s-praznichen-konczert-fotoizlozhba-predstavyane-na-kniga-kulinarni-izkusheniya-i-meri-bojs-bend-zlatarovczi-otbelyazaha-svoya-yubilej/"
         }
       ]
     },
     {
       "translations": {
         "bg": {
-          "title": "С наситен събитиен календар, археология и занимания за децата музеят в Балчик привлича нови публики",
-          "description": "Музей в Балчик организира разнообразни събития, археологически изследвания и дейности за децата, които привличат посетители."
+          "title": "Атлетите от ЛПС \"Николае Ротару\" Констанца на подиума на националното състезание по щафети и класически дисциплини в Клуж - Напока",
+          "description": "Атлетите от Специализираната педагогическа гимназия \"Николае Ротару\" в Констанца получиха място на подиума в националното състезание по щафети и класически дисциплини, което се проведе в Клуж-Напока."
         },
         "en": {
-          "title": "With a rich calendar of events, archaeology and activities for children, the museum in Balchik attracts new audiences",
-          "description": "The Museum in Balchik organizes various events, archaeological research and activities for children that attract visitors."
+          "title": "Athletes from LPS \"Nicolae Rotaru\" Constanta, on the podium at the national competition of Relays and Classics, from Cluj - Napoca",
+          "description": "Athletes from the \"Nicolae Rotaru\" Specialized Pedagogical High School from Constanta obtained a place on the podium in the national competition of Relays and Classic Proofs, which took place in Cluj-Napoca."
         },
         "ro": {
-          "title": "Cu un calendar bogat de evenimente, arheologie și activități pentru copii, muzeul din Balcic atrage noi publicuri",
-          "description": "Muzeul din Balcic organizează diverse evenimente, cercetări arheologice și activități pentru copii, care atrag vizitatori."
+          "title": "Atleții de la LPS „Nicolae Rotaru“ Constanța, pe podium la concursul național de Ștafete și Probe Clasice, de la Cluj - Napoca",
+          "description": "Atletii din Liceul Pedagogic Specializat „Nicolae Rotaru“ din Constanța au obținut un loc pe podium în concursul național de Ștafete și Probe Clasice, care s-a desfășurat în Cluj-Napoca."
         }
       },
-      "id": 324,
-      "title": "С наситен събитиен календар, археология и занимания за децата музеят в Балчик привлича нови публики",
-      "date": "2026-10-12",
+      "id": 339,
+      "title": "Atleții de la LPS „Nicolae Rotaru“ Constanța, pe podium la concursul național de Ștafete și Probe Clasice, de la Cluj - Napoca",
+      "date": "2026-10-13",
       "time": "",
-      "location": "музеят в Балчик",
-      "category": "other",
-      "description": "Музей в Балчик организира разнообразни събития, археологически изследвания и дейности за децата, които привличат посетители.",
+      "location": "Cluj-Napoca",
+      "category": "sports",
+      "description": "Atletii din Liceul Pedagogic Specializat „Nicolae Rotaru“ din Constanța au obținut un loc pe podium în concursul național de Ștafete și Probe Clasice, care s-a desfășurat în Cluj-Napoca.",
+      "sources": [
+        {
+          "source_id": "ziua_constanta",
+          "source_name": "Ziua de Constanta",
+          "url": "https://www.ziuaconstanta.ro/stiri/sport/atletii-de-la-lps-nicolae-rotaru-constanta-pe-podium-la-concursul-national-de-stafete-si-probe-clasice-de-la-cluj-napoca-galerie-foto-956468.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Седмицата на спорта в Генерал Тошево",
+          "description": "Седмицата на спорта в Генерал Тошево започва с турнира по баскетбол 3х3 на 13 октомври 2026 г."
+        },
+        "en": {
+          "title": "The week of sport in General Toshevo",
+          "description": "The week of sports in General Toshevo begins with the 3x3 basketball tournament on October 13, 2026."
+        },
+        "ro": {
+          "title": "Săptămâna Sportului în General Tosevo",
+          "description": "Săptămâna sportului în General Tosevo începe cu turneul de baschet 3x3 pe 13 octombrie 2026."
+        }
+      },
+      "id": 338,
+      "title": "Седмицата на спорта в Генерал Тошево",
+      "date": "2026-10-13",
+      "time": "10:32",
+      "location": "Генерал Тошево",
+      "category": "sports",
+      "description": "Седмицата на спорта в Генерал Тошево започва с турнира по баскетбол 3х3 на 13 октомври 2026 г.",
       "sources": [
         {
           "source_id": "dobrudjabg",
           "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/s-nasiten-sybitien-kalendar-arheologiq-i-zanimaniq-za-decata-muzeqt-v-balchik-privlicha-novi-publiki-video-/117000"
+          "url": "https://dobrudjabg.com/novina/s-turnir-po-basketbol-3h3-zapochna-sedmicata-na-sporta-v-general-toshevo/117020"
         }
       ]
     },
     {
       "translations": {
         "bg": {
-          "title": "Честит празник на район „Младост“ във Варна!",
-          "description": "Празнуване на празник в район „Младост“ във Варна."
+          "title": "Мултимедийна изложба представя храма на Кибела в Добрич",
+          "description": "Мултимедийна изложба в Добрич представя храма на Кибела."
         },
         "en": {
-          "title": "Happy holiday to the district \"Mladost\" in Varna!",
-          "description": "Celebration of a holiday in the district \"Mladost\" in Varna."
+          "title": "Multimedia exhibition presents the Temple of Cybele in Dobrich",
+          "description": "A multimedia exhibition in Dobrich presents the temple of Cybele."
         },
         "ro": {
-          "title": "Sărbători fericite!",
-          "description": "Sărbătorirea unei sărbători în cartierul Mladost din Varna."
+          "title": "O expoziție multimedia prezintă Templul lui Kibela din Dobrici",
+          "description": "O expoziție multimedia din Dobrici prezintă Templul lui Kibela."
         }
       },
-      "id": 325,
-      "title": "Честит празник на район „Младост“ във Варна!",
-      "date": "2026-10-12",
-      "time": "",
-      "location": "Варна",
-      "category": "municipal",
-      "description": "Празнуване на празник в район „Младост“ във Варна.",
+      "id": 337,
+      "title": "Мултимедийна изложба представя храма на Кибела в Добрич",
+      "date": "2026-10-13",
+      "time": "13:00",
+      "location": "Добрич",
+      "category": "exhibition",
+      "description": "Мултимедийна изложба в Добрич представя храма на Кибела.",
       "sources": [
         {
-          "source_id": "budna_varna",
-          "source_name": "Budna Varna",
-          "url": "https://www.budnavarna.com/2026/10/12/chestit-praznik-na-rajon-mladost-vav-varna/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Майсторски клас по козметични технологии ТЕХМЕД – КОНСТАНЦА",
-          "description": "Майсторски клас по красота и технологии, който ще се проведе в хотел Континентал Форум Констанца на 12 октомври 2026 г., от 12:00 часа."
-        },
-        "en": {
-          "title": "BEAUTY TECH MASTERCLASS TECHMED – CONSTANTA",
-          "description": "A beauty and technology masterclass event taking place at Hotel Continental Forum Constanța on October 12, 2026, at 12:00."
-        },
-        "ro": {
-          "title": "BEAUTY TECH MASTERCLASS TECHMED – CONSTANTA",
-          "description": "A beauty and technology masterclass event taking place at Hotel Continental Forum Constanța on October 12, 2026, at 12:00."
-        }
-      },
-      "id": 179,
-      "title": "BEAUTY TECH MASTERCLASS TECHMED – CONSTANTA",
-      "date": "2026-10-12",
-      "time": "12:00",
-      "location": "Hotel Continental Forum Constanța",
-      "category": "other",
-      "description": "A beauty and technology masterclass event taking place at Hotel Continental Forum Constanța on October 12, 2026, at 12:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/beauty-tech-masterclass-techmed-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Приказка за една вечер",
-          "description": "Литературен спектакъл, базиран на историята на една поредица, планиран в Многофункционалния образователен център за младежта \"Жан Константин\" в Констанца."
-        },
-        "en": {
-          "title": "THE STORY OF ONE EVENING – Constanta",
-          "description": "A literary show based on the story of a series, scheduled at the Multifunctional Educational Center for Youth \"Jean Constantin\" in Constanta."
-        },
-        "ro": {
-          "title": "POVESTEA UNEI SERI – Constanta",
-          "description": "Un spectacol literar bazat pe povestea unei serii, programat la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” în Constanta."
-        }
-      },
-      "id": 112,
-      "title": "POVESTEA UNEI SERI – Constanta",
-      "date": "2026-10-12",
-      "time": "19:00",
-      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
-      "category": "other",
-      "description": "Concertul de muzică live al poveștilor Carmen Tănase și Marius Bodochi va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/povestea-unei-seri-constanta/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/povestea-unei-seri-carmen-tanase-marius-bodochi-constanta/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/constanta-plaiesii-leru-i-ler-la-nalte-curti-spectacol-de-colinde/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/povestea-unei-seri-constanta/"
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/multimediyna-izlozhba-predstavya-hrama-na-kibela-v-dobrich-p731900"
         }
       ]
     },
@@ -193,6 +153,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/ata-si-navodu-ei-de-viata-casa-sindicatelor-constanta-13-octombrie/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Скорпиънс правят трибют в Рок Хале",
+          "description": "Трибутен концерт на Скорпиънс, който ще се проведе в Рок Хале в Констанца, Румъния на 13 октомври 2026 г., от 21:30 часа."
+        },
+        "en": {
+          "title": "The Zoo – Scorpions Tribute at Rock Halle",
+          "description": "A Scorpions tribute concert taking place at Rock Halle in Constanta, Romania on October 13, 2026, starting at 21:30."
+        },
+        "ro": {
+          "title": "The Zoo – Scorpions Tribute at Rock Halle",
+          "description": "A Scorpions tribute concert taking place at Rock Halle in Constanta, Romania on October 13, 2026, starting at 21:30."
+        }
+      },
+      "id": 341,
+      "title": "The Zoo – Scorpions Tribute at Rock Halle",
+      "date": "2026-10-13",
+      "time": "21:30",
+      "location": "Rock Halle",
+      "category": "concert",
+      "description": "A Scorpions tribute concert taking place at Rock Halle in Constanta, Romania on October 13, 2026, starting at 21:30.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/the-zoo-scorpions-tribute-at-rock-halle/"
         }
       ]
     },
@@ -323,6 +313,36 @@
           "source_id": "pronewsdobrich",
           "source_name": "ProNews Dobrich",
           "url": "https://pronewsdobrich.bg/miro-uti-bachvarov-i-pfa-„dobrudzha“-v-programata-za-praznika-na-gen-toshevo-p731698"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Разговор за любовта и…още нещо",
+          "description": "Разговор със тема „Любовта и…още нещо“ в Зелен образователен център в Шабла."
+        },
+        "en": {
+          "title": "A conversation about love and…something else",
+          "description": "Talk on the theme \"Love and...something else\" in Green Educational Center in Shabla."
+        },
+        "ro": {
+          "title": "O conversație despre dragoste și... altceva",
+          "description": "Conversație pe tema \"Dragostea și... altceva\" în Centrul Educațional Verde din Șabla."
+        }
+      },
+      "id": 334,
+      "title": "Разговор за любовта и…още нещо",
+      "date": "2026-10-15",
+      "time": "17:30",
+      "location": "Зелен образователен център, гр. Шабла",
+      "category": "other",
+      "description": "Разговор със тема „Любовта и…още нещо“ в Зелен образователен център в Шабла.",
+      "sources": [
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/razgovor-za-lyubovta-i-osthe-nestho/"
         }
       ]
     },
@@ -623,6 +643,16 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/orchestra-curcubeu-in-lumea-povestilor-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/12/red-bull-rap-lab-idk-si-cristi-comaroni/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/13/kinedok-online-documentare-gratuite/"
         }
       ]
     },
@@ -653,6 +683,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/fata-babei-si-fata-mosului-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Трети фестивал на тиквата „Ни прозорец, ни врата, пълна къща със деца“",
+          "description": "Третият фестивал на тиквата се проведе на 17 октомври 2026 г. в Народното читалище Дружба 1898 в село Дуранкулак."
+        },
+        "en": {
+          "title": "Third festival of the pumpkin \"No window, no door, a house full of children\"",
+          "description": "The third pumpkin festival was held on October 17, 2026 in the Drujba 1898 Community Center in the village of Durankulak."
+        },
+        "ro": {
+          "title": "Al treilea festival de dovleac \"Nici o fereastră, nici o ușă, o casă plină de copii\"",
+          "description": "Cel de-al treilea festival al dovleacului a avut loc pe 17 octombrie 2026 la Centrul Cultural Drujba 1898 din satul Durankulak."
+        }
+      },
+      "id": 335,
+      "title": "Трети фестивал на тиквата „Ни прозорец, ни врата, пълна къща със деца“",
+      "date": "2026-10-17",
+      "time": "11:00",
+      "location": "Народно читалище Дружба 1898, с.Дуранкулак",
+      "category": "festival",
+      "description": "Третият фестивал на тиквата се проведе на 17 октомври 2026 г. в Народното читалище Дружба 1898 в село Дуранкулак.",
+      "sources": [
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/treti-festival-na-tikvata-ni-prozorecz-ni-vrata-palna-kastha-sas-decza/"
         }
       ]
     },
@@ -777,7 +837,7 @@
       "time": "11:00",
       "location": "Vasile Lucaciu, nr. 1, Constanța",
       "category": "other",
-      "description": "Un atelier de pictură destinat adulților care va avea loc în data de 18 octombrie la ora 11:00 în Vasile Lucaciu, nr. 1, Constanța.",
+      "description": "Un film documentar va fi lanșat și va urma un turneu național de conferințe și evenimente multimedia susținute de violonista Diana Jipa și pianistul Ștefan Doniga.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -798,6 +858,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/11/dracula-film-festival-dracula-trophy/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/13/evenimente-sustinute-de-diana-jipa/"
         }
       ]
     },
@@ -1739,6 +1804,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Тържествена церемония за връчване на годишна награда „Шабла“",
+          "description": "Тържествена церемония за връчване на годишната награда „Шабла“ ще се проведе на 30 октомври 2026 г. във Зелен образователен център в град Шабла."
+        },
+        "en": {
+          "title": "Ceremony of presentation of the annual award \"Shabla\"",
+          "description": "A solemn ceremony for the presentation of the annual Shabla Award will be held on October 30, 2026 in the Green Educational Center in the city of Shabla."
+        },
+        "ro": {
+          "title": "Ceremonia solemnă de decernare a premiului anual \"Shabla\"",
+          "description": "O ceremonie solemnă de decernare a premiului anual Shabla va avea loc pe 30 octombrie 2026 la Centrul Educațional Verde din orașul Shabla."
+        }
+      },
+      "id": 336,
+      "title": "Тържествена церемония за връчване на годишна награда „Шабла“",
+      "date": "2026-10-30",
+      "time": "17:30",
+      "location": "Зелен образователен център, гр. Шабла",
+      "category": "municipal",
+      "description": "Тържествена церемония за връчване на годишната награда „Шабла“ ще се проведе на 30 октомври 2026 г. във Зелен образователен център в град Шабла.",
+      "sources": [
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/tarzhestvena-czeremoniya-za-vrachvane-na-godishna-nagrada-shabla-2/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Клуб Феникс – Клуб Феникс",
           "description": "ТРУПЪР ще свирят в Клуб Феникс в Констанца на 30 октомври от 20:00 часа."
         },
@@ -2483,6 +2578,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/regal-vienez-%f0%9f%8e%bb-casa-sindicatelor-constanta-%f0%9f%8e%84-26-decembrie/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/casa-bernardei-alba/"
         }
       ]
     },
@@ -3022,12 +3122,17 @@
       "time": "",
       "location": "Teatru interactiv",
       "category": "other",
-      "description": "O teatru interactivă pentru copii bazată pe povestea clasică „Ursul păcălit de vulpe",
+      "description": "„Ața și năvodu’ ei…de viață!” este o comedie plină de pasiune, umor și muzică, care se desfășoară într-o seară imprevizibilă, cu tema iubirei și trădării.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/ursul-pacalit-de-vulpe-by-qfeel-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/ata-si-navodu-eide-viata-constanta/"
         }
       ]
     },
@@ -3438,6 +3543,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/09/28/m-l-rio-autoarea-daca-am-fi-ticalosi/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/13/caroll-vanwelden-shakespeare-revisited/"
         }
       ]
     },
@@ -3788,6 +3898,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/03/triosence-turneu-romania-2026/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/13/unghiile-ciocolatii-vedetele-toamnei/"
         }
       ]
     },
@@ -4129,36 +4244,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Балетът „Спартак“ с две представления във Варна през октомври",
-          "description": "Балетът „Спартак“ ще бъде представен на 27 и 28 октомври в Основна сцена на Варненската опера, поставен с хореография на Сергей Бобров."
-        },
-        "en": {
-          "title": "Spartak Ballet with two performances in Varna in October",
-          "description": "The ballet \"Spartacus\" will be presented on October 27 and 28 in the Main Stage of the Varna Opera, choreographed by Sergey Bobrov."
-        },
-        "ro": {
-          "title": "Baletul \"Spartacus\" cu două spectacole la Varna în octombrie",
-          "description": "Baletul \"Spartacus\" va fi prezentat în 27 și 28 octombrie pe Scena Principală a Operei din Varna, în coregrafia lui Serghei Bobrov."
-        }
-      },
-      "id": 298,
-      "title": "Балетът „Спартак“ с две представления във Варна през октомври",
-      "date": "",
-      "time": "",
-      "location": "Основна сцена на Варненската опера",
-      "category": "theater",
-      "description": "Балетът „Спартак“ ще бъде представен на 27 и 28 октомври в Основна сцена на Варненската опера, поставен с хореография на Сергей Бобров.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536560"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Надя Команечи, в комикси, в Мангалия! \"10 ПЕРФЕКТ!\" – изложбата, която...",
           "description": "Изложбата \"10 на комикса... се провежда в Мангалия и е организирана от Европейското училище по комикси в партньорство с и Гимназията \"Гала Галаксион\""
         },
@@ -4237,12 +4322,17 @@
       "time": "",
       "location": "Casa de Cultură a Sindicatelor Constanţa",
       "category": "other",
-      "description": "Ночная программа в Центру культуре профсоюзов Констанца.",
+      "description": "Представа „Ромео и Йулиета“ в Casa de Cultură a Sindicatelor din Constanța.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/fata-babei-si-fata-mosului-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/romeo-si-julieta-constanta/"
         }
       ]
     },
@@ -4543,6 +4633,126 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/12/fnt36-festivalul-national-de-teatru/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Фестивал на галактиката 2027",
+          "description": "Фестивал Галаксия 2027 ще се проведе на брега на Черно море, превръщайки НИБИРУ в място, където да изпитате 3 дни лятна енергия и топли нощи."
+        },
+        "en": {
+          "title": "Galaxia Festival 2027",
+          "description": "Galaxia Festival 2027 is set to take place on the shores of the Black Sea, transforming NIBIRU into a place to experience 3 days of summer energy and warm nights."
+        },
+        "ro": {
+          "title": "Galaxia Festival 2027",
+          "description": "Galaxia Festival 2027 is set to take place on the shores of the Black Sea, transforming NIBIRU into a place to experience 3 days of summer energy and warm nights."
+        }
+      },
+      "id": 342,
+      "title": "Galaxia Festival 2027",
+      "date": "",
+      "time": "",
+      "location": "NIBIRU",
+      "category": "festival",
+      "description": "Galaxia Festival 2027 is set to take place on the shores of the Black Sea, transforming NIBIRU into a place to experience 3 days of summer energy and warm nights.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/galaxia-festival-2027-2/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Колтрейн 100 Майлс: Стогодишнината на Джон Колтрейн и Майлс Дейвис, отбелязана от Биг Бенда на Радио Румъния",
+          "description": "Честване на 100-годишнината на Джон Колтрейн и Майлс Дейвис с участието на Биг Бенд на Радио Румъния."
+        },
+        "en": {
+          "title": "Coltrane 100 Miles: Centenary of John Coltrane and Miles Davis, celebrated by the Radio Romania Big Band",
+          "description": "Celebrations of the 100th anniversary of John Coltrane and Miles Davis with the participation of the Radio Romania Big Band."
+        },
+        "ro": {
+          "title": "Coltrane 100 Miles: Centenar John Coltrane și Miles Davis, aniversat de Big Band-ul Radio România",
+          "description": "Celebrări ale aniversarului de 100 de ani ai John Coltrane și Miles Davis cu participația Big Band-ului Radio România."
+        }
+      },
+      "id": 343,
+      "title": "Coltrane 100 Miles: Centenar John Coltrane și Miles Davis, aniversat de Big Band-ul Radio România",
+      "date": "",
+      "time": "",
+      "location": "Big Band-ul Radio România",
+      "category": "other",
+      "description": "Celebrări ale aniversarului de 100 de ani ai John Coltrane și Miles Davis cu participația Big Band-ului Radio România.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/13/coltrane-100-miles-john-coltrane/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Годзила (1998, реж.: Роланд Емерих / 2014, реж.: Гарет Еванс)",
+          "description": "Събитие с видео прожекции във ВИДЕОДОМ, включващо сравнение на версиите от 1998 г. и 2014 г. на филма \"Годзила\" на режисьорите Роланд Емерих и Гарет Еванс."
+        },
+        "en": {
+          "title": "VideoDOME | \"GODZILLA\" (1998, d: Roland Emmerich / 2014, d: Gareth Evans)",
+          "description": "A video screening event at VIDEODOME featuring a comparison of the 1998 and 2014 versions of the film Godzilla directed by Roland Emmerich and Gareth Evans respectively."
+        },
+        "ro": {
+          "title": "VIDEODOME | “GODZILLA” (1998, r: Roland Emmerich / 2014, r: Gareth Evans)",
+          "description": "A video screening event at VIDEODOME featuring a comparison of the 1998 and 2014 versions of the film 'Godzilla' directed by Roland Emmerich and Gareth Evans respectively."
+        }
+      },
+      "id": 344,
+      "title": "VIDEODOME | “GODZILLA” (1998, r: Roland Emmerich / 2014, r: Gareth Evans)",
+      "date": "",
+      "time": "",
+      "location": "VIDEODOME",
+      "category": "other",
+      "description": "A video screening event at VIDEODOME featuring a comparison of the 1998 and 2014 versions of the film 'Godzilla' directed by Roland Emmerich and Gareth Evans respectively.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/13/godzilla-1998-vs-2014-comparatie-filme/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Жени. Потисничество. Съпротива. Знание.",
+          "description": "Биенале на сценографията, което се провежда в Букурещ и разглежда теми, свързани с жените, потисничеството, съпротивата и знанието."
+        },
+        "en": {
+          "title": "W.O.R.K. | Women. Oppression. Resistance. Knowledge.",
+          "description": "Biennial of scenography that takes place in Bucharest and that addresses the themes related to women, oppression, resistance and knowledge."
+        },
+        "ro": {
+          "title": "W.O.R.K. | Women. Oppression. Resistance. Knowledge.",
+          "description": "Bienală de scenografie care se desfășoară în București și care abordează temele legate de femeile, opresiunea, rezistența și cunoașterea."
+        }
+      },
+      "id": 345,
+      "title": "W.O.R.K. | Women. Oppression. Resistance. Knowledge.",
+      "date": "",
+      "time": "",
+      "location": "București",
+      "category": "other",
+      "description": "Bienală de scenografie care se desfășoară în București și care abordează temele legate de femeile, opresiunea, rezistența și cunoașterea.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/13/bienala-de-scenografie-bucuresti-work/"
         }
       ]
     },
