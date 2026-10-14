@@ -1,191 +1,6 @@
 {
-  "generated_at": "2026-10-13T11:48:04.153298+00:00",
+  "generated_at": "2026-10-14T09:32:01.441876+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Балетът „Спартак“ с две представления във Варна през октомври",
-          "description": "Балетът „Спартак“ ще бъде представен на 27 и 28 октомври в Основна сцена на Варненската опера, поставен с хореография на Сергей Бобров."
-        },
-        "en": {
-          "title": "Spartak Ballet with two performances in Varna in October",
-          "description": "The ballet \"Spartacus\" will be presented on October 27 and 28 in the Main Stage of the Varna Opera, choreographed by Sergey Bobrov."
-        },
-        "ro": {
-          "title": "Baletul \"Spartacus\" cu două spectacole la Varna în octombrie",
-          "description": "Baletul \"Spartacus\" va fi prezentat în 27 și 28 octombrie pe Scena Principală a Operei din Varna, în coregrafia lui Serghei Bobrov."
-        }
-      },
-      "id": 298,
-      "title": "Балетът „Спартак“ с две представления във Варна през октомври",
-      "date": "2026-10-13",
-      "time": "",
-      "location": "Основна сцена на Варненската опера",
-      "category": "theater",
-      "description": "Златаровците организираха различни мероприятия като концерт, фотоизложба, представяне на книга и кулинарни изкушения за отбелязване на своя юбилей.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536560"
-        },
-        {
-          "source_id": "shabla_novini",
-          "source_name": "Shabla.bg — Novini (News)",
-          "url": "https://shabla.bg/s-praznichen-konczert-fotoizlozhba-predstavyane-na-kniga-kulinarni-izkusheniya-i-meri-bojs-bend-zlatarovczi-otbelyazaha-svoya-yubilej/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Атлетите от ЛПС \"Николае Ротару\" Констанца на подиума на националното състезание по щафети и класически дисциплини в Клуж - Напока",
-          "description": "Атлетите от Специализираната педагогическа гимназия \"Николае Ротару\" в Констанца получиха място на подиума в националното състезание по щафети и класически дисциплини, което се проведе в Клуж-Напока."
-        },
-        "en": {
-          "title": "Athletes from LPS \"Nicolae Rotaru\" Constanta, on the podium at the national competition of Relays and Classics, from Cluj - Napoca",
-          "description": "Athletes from the \"Nicolae Rotaru\" Specialized Pedagogical High School from Constanta obtained a place on the podium in the national competition of Relays and Classic Proofs, which took place in Cluj-Napoca."
-        },
-        "ro": {
-          "title": "Atleții de la LPS „Nicolae Rotaru“ Constanța, pe podium la concursul național de Ștafete și Probe Clasice, de la Cluj - Napoca",
-          "description": "Atletii din Liceul Pedagogic Specializat „Nicolae Rotaru“ din Constanța au obținut un loc pe podium în concursul național de Ștafete și Probe Clasice, care s-a desfășurat în Cluj-Napoca."
-        }
-      },
-      "id": 339,
-      "title": "Atleții de la LPS „Nicolae Rotaru“ Constanța, pe podium la concursul național de Ștafete și Probe Clasice, de la Cluj - Napoca",
-      "date": "2026-10-13",
-      "time": "",
-      "location": "Cluj-Napoca",
-      "category": "sports",
-      "description": "Atletii din Liceul Pedagogic Specializat „Nicolae Rotaru“ din Constanța au obținut un loc pe podium în concursul național de Ștafete și Probe Clasice, care s-a desfășurat în Cluj-Napoca.",
-      "sources": [
-        {
-          "source_id": "ziua_constanta",
-          "source_name": "Ziua de Constanta",
-          "url": "https://www.ziuaconstanta.ro/stiri/sport/atletii-de-la-lps-nicolae-rotaru-constanta-pe-podium-la-concursul-national-de-stafete-si-probe-clasice-de-la-cluj-napoca-galerie-foto-956468.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Седмицата на спорта в Генерал Тошево",
-          "description": "Седмицата на спорта в Генерал Тошево започва с турнира по баскетбол 3х3 на 13 октомври 2026 г."
-        },
-        "en": {
-          "title": "The week of sport in General Toshevo",
-          "description": "The week of sports in General Toshevo begins with the 3x3 basketball tournament on October 13, 2026."
-        },
-        "ro": {
-          "title": "Săptămâna Sportului în General Tosevo",
-          "description": "Săptămâna sportului în General Tosevo începe cu turneul de baschet 3x3 pe 13 octombrie 2026."
-        }
-      },
-      "id": 338,
-      "title": "Седмицата на спорта в Генерал Тошево",
-      "date": "2026-10-13",
-      "time": "10:32",
-      "location": "Генерал Тошево",
-      "category": "sports",
-      "description": "Седмицата на спорта в Генерал Тошево започва с турнира по баскетбол 3х3 на 13 октомври 2026 г.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/s-turnir-po-basketbol-3h3-zapochna-sedmicata-na-sporta-v-general-toshevo/117020"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Мултимедийна изложба представя храма на Кибела в Добрич",
-          "description": "Мултимедийна изложба в Добрич представя храма на Кибела."
-        },
-        "en": {
-          "title": "Multimedia exhibition presents the Temple of Cybele in Dobrich",
-          "description": "A multimedia exhibition in Dobrich presents the temple of Cybele."
-        },
-        "ro": {
-          "title": "O expoziție multimedia prezintă Templul lui Kibela din Dobrici",
-          "description": "O expoziție multimedia din Dobrici prezintă Templul lui Kibela."
-        }
-      },
-      "id": 337,
-      "title": "Мултимедийна изложба представя храма на Кибела в Добрич",
-      "date": "2026-10-13",
-      "time": "13:00",
-      "location": "Добрич",
-      "category": "exhibition",
-      "description": "Мултимедийна изложба в Добрич представя храма на Кибела.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/multimediyna-izlozhba-predstavya-hrama-na-kibela-v-dobrich-p731900"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Това и нейната мрежа... на живота",
-          "description": "Събитието ще се проведе в Дома на културата на профсъюзите в Констанца във вторник, 13 октомври от 19:00 часа."
-        },
-        "en": {
-          "title": "THAT AND ITS NETWORK... OF LIFE",
-          "description": "The event will take place at the House of Culture of the Trade Unions Constanta on Tuesday, October 13 at 19:00."
-        },
-        "ro": {
-          "title": "AȚA ȘI NĂVODU’ EI… DE VIAȚĂ",
-          "description": "Evenimentul va avea loc la Casa de Cultură a Sindicatelor Constanța pe marți, 13 octombrie la ora 19:00."
-        }
-      },
-      "id": 237,
-      "title": "AȚA ȘI NĂVODU’ EI… DE VIAȚĂ",
-      "date": "2026-10-13",
-      "time": "19:00",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "other",
-      "description": "Evenimentul va avea loc la Casa de Cultură a Sindicatelor Constanța pe marți, 13 octombrie la ora 19:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/ata-si-navodu-ei-de-viata-casa-sindicatelor-constanta-13-octombrie/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Скорпиънс правят трибют в Рок Хале",
-          "description": "Трибутен концерт на Скорпиънс, който ще се проведе в Рок Хале в Констанца, Румъния на 13 октомври 2026 г., от 21:30 часа."
-        },
-        "en": {
-          "title": "The Zoo – Scorpions Tribute at Rock Halle",
-          "description": "A Scorpions tribute concert taking place at Rock Halle in Constanta, Romania on October 13, 2026, starting at 21:30."
-        },
-        "ro": {
-          "title": "The Zoo – Scorpions Tribute at Rock Halle",
-          "description": "A Scorpions tribute concert taking place at Rock Halle in Constanta, Romania on October 13, 2026, starting at 21:30."
-        }
-      },
-      "id": 341,
-      "title": "The Zoo – Scorpions Tribute at Rock Halle",
-      "date": "2026-10-13",
-      "time": "21:30",
-      "location": "Rock Halle",
-      "category": "concert",
-      "description": "A Scorpions tribute concert taking place at Rock Halle in Constanta, Romania on October 13, 2026, starting at 21:30.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/the-zoo-scorpions-tribute-at-rock-halle/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -248,6 +63,11 @@
           "source_id": "kavarna_municipality",
           "source_name": "Kavarna.bg — Novini/Aktualno/Sabitiya",
           "url": "https://www.kavarna.bg/novini-aktualno-sybitiya/5544-13-oktomvri-mezdunaroden-den-za-namalavane-na-riska-ot-bedstvia"
+        },
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536867"
         }
       ]
     },
@@ -278,6 +98,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/comedia-bulevardiera-interpretul/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "BBC Symphony Orchestra закрива юбилейното „Варненско лято“ с концерт във Варна",
+          "description": "Симфоничният оркестър на Би Би Си ще изнесе концерт във Варна на 14 октомври, част от юбилейната програма на „Варненско лято“. Концерта ще се проведе в залата „Конгресна“ на Двореца на културата и спорта."
+        },
+        "en": {
+          "title": "BBC Symphony Orchestra closes Varna Summer with concert in Varna",
+          "description": "The BBC Symphony Orchestra will perform a concert in Varna on October 14, as part of the jubilee programme of Varna Summer, in the Congress Hall of the Palace of Culture and Sports."
+        },
+        "ro": {
+          "title": "Orchestra Simfonică BBC încheie Vara de la Varna cu un concert la Varna",
+          "description": "Orchestra Simfonică a BBC va susține un concert la Varna în 14 octombrie, în cadrul programului aniversar Varna Summer. Concertul va avea loc în Sala de Congrese a Palatului Culturii și Sportului."
+        }
+      },
+      "id": 348,
+      "title": "BBC Symphony Orchestra закрива юбилейното „Варненско лято“ с концерт във Варна",
+      "date": "2026-10-14",
+      "time": "19:00",
+      "location": "залата „Конгресна“ на Двореца на културата и спорта",
+      "category": "concert",
+      "description": "Симфоничният оркестър на Би Би Си ще изнесе концерт във Варна на 14 октомври, част от юбилейната програма на „Варненско лято“. Концерта ще се проведе в залата „Конгресна“ на Двореца на културата и спорта.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536848"
         }
       ]
     },
@@ -713,6 +563,36 @@
           "source_id": "shabla_sabitiya",
           "source_name": "Shabla.bg — Sabitiya (Events archive)",
           "url": "https://shabla.bg/events/treti-festival-na-tikvata-ni-prozorecz-ni-vrata-palna-kastha-sas-decza/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Мечо Пух“ и „Пепеляшка“ на сцената на Варненския куклен театър",
+          "description": "Децата над 4 години могат да гледат спектакъла „Мечо Пух“ през събота, 17 октомври, във Варненския куклен театър."
+        },
+        "en": {
+          "title": "\"Pooh\" and \"Cinderella\" on the stage of the Varna Puppet Theatre",
+          "description": "Children over 4 years old can watch the performance \"Pooh\" on Saturday, October 17, in the Varna Puppet Theatre."
+        },
+        "ro": {
+          "title": "\"Ursulețul Pooh\" și \"Cenușăreasa\" pe scena Teatrului de păpuși din Varna",
+          "description": "Copiii de peste 4 ani pot urmări spectacolul \"Ursulețul Pooh\" sâmbătă, 17 octombrie, la Teatrul de Păpuși din Varna."
+        }
+      },
+      "id": 347,
+      "title": "„Мечо Пух“ и „Пепеляшка“ на сцената на Варненския куклен театър",
+      "date": "2026-10-17",
+      "time": "11:00",
+      "location": "Държавен куклен театър във Варна",
+      "category": "theater",
+      "description": "Децата над 4 години могат да гледат спектакъла „Мечо Пух“ през събота, 17 октомври, във Варненския куклен театър.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536842"
         }
       ]
     },
@@ -1603,6 +1483,11 @@
           "source_id": "silistra_news",
           "source_name": "Silistra News",
           "url": "https://silistranews.net/2026/10/03/gostuvashta-izlozhba-na-hudozhestvena-galeriya-silistra-beshe-otkrita-v-istoricheskiya-muzej-v-dulovo"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/moreto-na-edna-zvezda-izlozhba-zhivopis.html"
         }
       ]
     },
@@ -2318,6 +2203,16 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/all-inclusive-23-noiembrie-ora-1900-casa-de-cultura-a-sindicatelor-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/14/b-u-g-mafia-arta-si-precizie/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/13/olivia-addams-liviu-teodorescu-florile/"
         }
       ]
     },
@@ -2583,6 +2478,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/casa-bernardei-alba/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/romeo-si-julieta-constanta-2/"
         }
       ]
     },
@@ -4753,6 +4653,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/13/bienala-de-scenografie-bucuresti-work/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Дракула Филм Фестивал 2026 започва!",
+          "description": "Дракула Филм Фестивал 2026 започва с четири дни на хорър и фентъзи филми, международни гости и специални събития в Брашов."
+        },
+        "en": {
+          "title": "Dracula Film Festival 2026 starts!",
+          "description": "Dracula Film Festival 2026 starts with four days of horror and fantasy films, international guests and special events in Brasov."
+        },
+        "ro": {
+          "title": "Începe Dracula Film Festival 2026!",
+          "description": "Dracula Film Festival 2026 începe cu patru zile de filme de horror și fantasy, invitații internaționale și evenimente speciale în Brașov."
+        }
+      },
+      "id": 349,
+      "title": "Începe Dracula Film Festival 2026!",
+      "date": "",
+      "time": "",
+      "location": "Brașov",
+      "category": "festival",
+      "description": "Dracula Film Festival 2026 începe cu patru zile de filme de horror și fantasy, invitații internaționale și evenimente speciale în Brașov.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/14/incepe-dracula-film-festival-2026/"
         }
       ]
     },
