@@ -1,136 +1,6 @@
 {
-  "generated_at": "2026-10-14T09:32:01.441876+00:00",
+  "generated_at": "2026-10-15T09:00:24.504362+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Представяне на книгата „Нещо за подарък“ София Стойнева",
-          "description": "София Стойнева, автор на книгата „Нещо за подарък“, ще се срещне с публиката за разговор при отipple на Деня на четенето."
-        },
-        "en": {
-          "title": "Presentation of the book \"Something for a gift\" Sofia Stoyneva",
-          "description": "Sofia Stoyneva, author of the book \"Something for a Gift\", will meet with the audience for a conversation at the Reading Day."
-        },
-        "ro": {
-          "title": "Prezentarea cărții \"Ceva pentru un cadou\" Sofia Stoyneva",
-          "description": "Sofia Stoyneva, autoarea cărții \"Ceva pentru cadou\", se va întâlni cu publicul pentru o discuție în cadrul Zilei Lecturii."
-        }
-      },
-      "id": 37,
-      "title": "Представяне на книгата „Нещо за подарък“ София Стойнева",
-      "date": "2026-10-14",
-      "time": "",
-      "location": "Народно читалище „Зора 1894\"",
-      "category": "other",
-      "description": "София Стойнева, автор на книгата „Нещо за подарък“, ще се срещне с публиката за разговор при отipple на Деня на четенето.",
-      "sources": [
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/predstavyane-na-sofiya-stoyneva.html"
-        },
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/simfonichen-orkestar-na-bbc-london/p1307.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "13 октомври - Международен ден за намаляване на риска от бедствия",
-          "description": "Районната служба „Пожарна безопасност и защита на населението“ гр. Каварна организира събитие за повишаване на осведомеността на населението за рисковете от бедствия, което ще се проведе във фойето на „Сити център“ Каварна на 14 октомври 2026 г. от 14:00 часа."
-        },
-        "en": {
-          "title": "13 October - International Day for Disaster Risk Reduction",
-          "description": "The Regional Service \"Fire Safety and Protection of the Population\" Kavarna organizes an event to raise the awareness of the population about the risks of disasters, which will be held in the foyer of \"City Center\" Kavarna on October 14, 2026 from 14:00."
-        },
-        "ro": {
-          "title": "13 octombrie - Ziua Internațională pentru Reducerea Riscului de Dezastre",
-          "description": "Serviciul raional \"Securitatea împotriva incendiilor și protecția populației\" din orașul Kavarna organizează un eveniment pentru creșterea gradului de conștientizare a populației cu privire la riscurile dezastrelor, care va avea loc în foaierul \"City Center\" Kavarna pe 14 octombrie 2026 de la ora 14:00."
-        }
-      },
-      "id": 307,
-      "title": "13 октомври - Международен ден за намаляване на риска от бедствия",
-      "date": "2026-10-14",
-      "time": "14:00",
-      "location": "Фойето на „Сити център“ Каварна",
-      "category": "municipal",
-      "description": "Районната служба „Пожарна безопасност и защита на населението“ гр. Каварна организира събитие за повишаване на осведомеността на населението за рисковете от бедствия, което ще се проведе във фойето на „Сити център“ Каварна на 14 октомври 2026 г. от 14:00 часа.",
-      "sources": [
-        {
-          "source_id": "kavarna_municipality",
-          "source_name": "Kavarna.bg — Novini/Aktualno/Sabitiya",
-          "url": "https://www.kavarna.bg/novini-aktualno-sybitiya/5544-13-oktomvri-mezdunaroden-den-za-namalavane-na-riska-ot-bedstvia"
-        },
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536867"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Булевардна комедия \"Изпълнителят\"",
-          "description": "Булевардната комедия \"Изпълнителят\" ще се проведе в Дома на културата на профсъюзите в Констанца на 14 октомври от 19:00 часа."
-        },
-        "en": {
-          "title": "\"The Interpreter\"",
-          "description": "The street comedy \"The Performer\" will take place at the House of Culture of the Trade Unions in Constanta on October 14 at 19:00."
-        },
-        "ro": {
-          "title": "Comedia bulevardiera „Interpretul”",
-          "description": "Comedia bulevardiera „Interpretul” va avea loc la Casa de Cultura a Sindicatelor din Constanța la data de 14 octombrie la ora 19:00."
-        }
-      },
-      "id": 114,
-      "title": "Comedia bulevardiera „Interpretul”",
-      "date": "2026-10-14",
-      "time": "19:00",
-      "location": "Casa de Cultura a Sindicatelor Constanta",
-      "category": "theater",
-      "description": "Comedia bulevardiera „Interpretul” va avea loc la Casa de Cultura a Sindicatelor din Constanța la data de 14 octombrie la ora 19:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/comedia-bulevardiera-interpretul/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "BBC Symphony Orchestra закрива юбилейното „Варненско лято“ с концерт във Варна",
-          "description": "Симфоничният оркестър на Би Би Си ще изнесе концерт във Варна на 14 октомври, част от юбилейната програма на „Варненско лято“. Концерта ще се проведе в залата „Конгресна“ на Двореца на културата и спорта."
-        },
-        "en": {
-          "title": "BBC Symphony Orchestra closes Varna Summer with concert in Varna",
-          "description": "The BBC Symphony Orchestra will perform a concert in Varna on October 14, as part of the jubilee programme of Varna Summer, in the Congress Hall of the Palace of Culture and Sports."
-        },
-        "ro": {
-          "title": "Orchestra Simfonică BBC încheie Vara de la Varna cu un concert la Varna",
-          "description": "Orchestra Simfonică a BBC va susține un concert la Varna în 14 octombrie, în cadrul programului aniversar Varna Summer. Concertul va avea loc în Sala de Congrese a Palatului Culturii și Sportului."
-        }
-      },
-      "id": 348,
-      "title": "BBC Symphony Orchestra закрива юбилейното „Варненско лято“ с концерт във Варна",
-      "date": "2026-10-14",
-      "time": "19:00",
-      "location": "залата „Конгресна“ на Двореца на културата и спорта",
-      "category": "concert",
-      "description": "Симфоничният оркестър на Би Би Си ще изнесе концерт във Варна на 14 октомври, част от юбилейната програма на „Варненско лято“. Концерта ще се проведе в залата „Конгресна“ на Двореца на културата и спорта.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536848"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -163,6 +33,36 @@
           "source_id": "pronewsdobrich",
           "source_name": "ProNews Dobrich",
           "url": "https://pronewsdobrich.bg/miro-uti-bachvarov-i-pfa-„dobrudzha“-v-programata-za-praznika-na-gen-toshevo-p731698"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Фотографска изложба за 80-годишнината на УНИЦЕФ",
+          "description": "Фотографска изложба, посветена на 80-годишнината на УНИЦЕФ, се провежда във Варна от четвъртък, 15 октомври до петък, 30 октомври 2026 година."
+        },
+        "en": {
+          "title": "Photo exhibition for the 80th anniversary of UNICEF",
+          "description": "A photographic exhibition dedicated to the 80th anniversary of UNICEF is held in Varna from Thursday, October 15 to Friday, October 30, 2026."
+        },
+        "ro": {
+          "title": "O expoziție de fotografii marchează cea de-a 80-a aniversare a UNICEF",
+          "description": "O expoziție de fotografie dedicată celei de-a 80-a aniversări a UNICEF are loc la Varna de joi, 15 octombrie până vineri, 30 octombrie 2026."
+        }
+      },
+      "id": 351,
+      "title": "Фотографска изложба за 80-годишнината на УНИЦЕФ",
+      "date": "2026-10-15",
+      "time": "",
+      "location": "Варна",
+      "category": "exhibition",
+      "description": "Фотографска изложба, посветена на 80-годишнината на УНИЦЕФ, се провежда във Варна от четвъртък, 15 октомври до петък, 30 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/fotografska-izlozhba-za-80-godishninata-na-unitsef.html"
         }
       ]
     },
@@ -364,6 +264,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Най-големият светлинен парк в страната",
+          "description": "Най-големият светлинен парк в страната отваря врати на 16 октомври в Ботаническата градина в Букурещ."
+        },
+        "en": {
+          "title": "The largest light park in the country",
+          "description": "The largest park of lights in the country opens on October 16 at the Botanical Garden in Bucharest."
+        },
+        "ro": {
+          "title": "Cel mai mare parc de lumini din țară",
+          "description": "Cel mai mare parc de lumini din țară deschide porturi pe 16 octombrie la Grădina Botanică din București."
+        }
+      },
+      "id": 354,
+      "title": "Cel mai mare parc de lumini din țară",
+      "date": "2026-10-16",
+      "time": "",
+      "location": "Grădina Botanică, București",
+      "category": "other",
+      "description": "Cel mai mare parc de lumini din țară deschide porturi pe 16 octombrie la Grădina Botanică din București.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/14/cel-mai-mare-parc-de-lumini-din-tara/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Златни искри събира във Варна детски песни от автори от цял свят",
           "description": "Варна ще гости 14-ото издание на Европейския конкурс за детски песни „Златни искри“ на 17 и 18 октомври."
         },
@@ -453,6 +383,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/trupa-discoteka-at-doors/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Международно автомобилно състезание „Добрич – Браила 2026“",
+          "description": "Международно автомобилно състезание с начало на 17 октомври 2026 г. между 10:00 и 12:00 в Добрич и Браила."
+        },
+        "en": {
+          "title": "International car race \"Dobrich – Braila 2026\"",
+          "description": "International car race starting on October 17, 2026 between 10:00 and 12:00 in Dobrich and Braila."
+        },
+        "ro": {
+          "title": "Cursa auto internațională \"Dobric – Braila 2026\"",
+          "description": "O cursă auto internațională care începe pe 17 octombrie 2026 între orele 10:00 și 12:00 în Dobrich și Braila."
+        }
+      },
+      "id": 350,
+      "title": "Международно автомобилно състезание „Добрич – Браила 2026“",
+      "date": "2026-10-17",
+      "time": "10:00",
+      "location": "Добрич, Браила",
+      "category": "sports",
+      "description": "Международно автомобилно състезание с начало на 17 октомври 2026 г. между 10:00 и 12:00 в Добрич и Браила.",
+      "sources": [
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/mezhdunarodno-avtomobilno-sastezanie-dobrich-braila-2026/"
         }
       ]
     },
@@ -593,6 +553,36 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536842"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Златни искри събира България и Евropa в името на новата детска песен",
+          "description": "Млади таланти и популярни артисти ще участват в концерта на XIV Европейски конкурс за детска песен „Златни искри“. Конкурсът ще се проведе на 17 октомври в The Brik Port на Морска гара в Варна."
+        },
+        "en": {
+          "title": "Golden Sparks brings together Bulgaria and Europe in the name of the new children's song",
+          "description": "Young talents and popular artists will take part in the concert of the XIV European Children's Song Competition \"Golden Sparks\", which will take place on October 17 at The Brik Port at the Sea Station in Varna."
+        },
+        "ro": {
+          "title": "\"Scântei de aur\" unește Bulgaria și Europa în numele unui nou cântec pentru copii",
+          "description": "Tineri talentați și artiști populari vor participa la concertul celui de-al XIV-lea Concurs European de Cântece pentru Copii \"Scântei de Aur\", care va avea loc în 17 octombrie la The Brik Port din Gara Maritimă din Varna."
+        }
+      },
+      "id": 352,
+      "title": "Златни искри събира България и Евropa в името на новата детска песен",
+      "date": "2026-10-17",
+      "time": "17:00",
+      "location": "The Brik Port на Морска гара – Варна",
+      "category": "concert",
+      "description": "Млади таланти и популярни артисти ще участват в концерта на XIV Европейски конкурс за детска песен „Златни искри“. Конкурсът ще се проведе на 17 октомври в The Brik Port на Морска гара в Варна.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536932"
         }
       ]
     },
@@ -743,6 +733,16 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/13/evenimente-sustinute-de-diana-jipa/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/14/pett-ruu-lanseaza-bad-things/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/15/jocuri-zombi-dracula-film-festival/"
         }
       ]
     },
@@ -868,6 +868,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/beethoven-rocks-constanta-19-octombrie/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/beethoven-rocks-orchestra-simfonica-bucuresti/"
         }
       ]
     },
@@ -1298,6 +1303,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/conferinta-transforma-nu-ul-in-da-curajul-de-a-nu-mai-fi-copy-paste-in-vanzari/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/15/cristian-mandeal-deschide-stagiunea-98/"
         }
       ]
     },
@@ -2213,6 +2223,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/13/olivia-addams-liviu-teodorescu-florile/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/comedie-la-maxim-romica-tociu-si-cornel-palade-constanta/"
         }
       ]
     },
@@ -3437,7 +3452,7 @@
       "time": "",
       "location": "București și Iași",
       "category": "other",
-      "description": "Autorul bestsellerului „Dacă am fi ticăloși” M. L. Rio vine în România pentru întâlniri cu cititorii săi în București și Iași.",
+      "description": "Ночная программа с участием Dolph Lundgren, известного актера и бодибилдера, который выступит с программой \"Cele mai bune mașinării din istorie\".",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -3448,6 +3463,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/13/caroll-vanwelden-shakespeare-revisited/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/14/dolph-lundgren-cele-mai-bune-masinarii/"
         }
       ]
     },
@@ -4683,6 +4703,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/14/incepe-dracula-film-festival-2026/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Поставете монета: Уличен боец се завръща",
+          "description": "Филмова премиера на филма \"Уличен боец\"."
+        },
+        "en": {
+          "title": "Insert Coin: STREET FIGHTER Returns",
+          "description": "Film premiere for the movie 'Street Fighter'."
+        },
+        "ro": {
+          "title": "Insert Coin: STREET FIGHTER se întoarce",
+          "description": "Film premiere for the movie 'Street Fighter'."
+        }
+      },
+      "id": 355,
+      "title": "Insert Coin: STREET FIGHTER se întoarce",
+      "date": "",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Film premiere for the movie 'Street Fighter'.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/15/street-fighter-2026-film-premiera/"
         }
       ]
     },
