@@ -1,198 +1,38 @@
 {
-  "generated_at": "2026-10-15T09:00:24.504362+00:00",
+  "generated_at": "2026-10-16T09:00:14.478879+00:00",
   "events": [
     {
       "translations": {
         "bg": {
-          "title": "Ще ме обидиш - StandUp Comedy Show с Донски и Жо",
-          "description": "Ще ме обидиш е StandUp Comedy Show с участието на артисти Донски и Жо, което се проведе на четвъртък, 15 октомври 2026 година."
+          "title": "100 години Международен музикален фестивал „Варненско лято“",
+          "description": "Международен музикален фестивал „Варненско лято“ отмечава 100 години съществуване със събития между 27 юни и 14 октомври 2026 г."
         },
         "en": {
-          "title": "You Will Offend Me - StandUp Comedy Show with Donsky and Joe",
-          "description": "You'll Offend Me is a StandUp Comedy Show featuring artists Donsky and Joe, which took place on Thursday, October 15, 2026."
+          "title": "100 years of the International Music Festival \"Varna Summer\"",
+          "description": "International Music Festival \"Varna Summer\" celebrates 100 years of existence with events between June 27 and October 14, 2026."
         },
         "ro": {
-          "title": "Mă vei jigni - StandUp Comedy Show cu Donsky și Joe",
-          "description": "Mă vei ofensa este un spectacol de comedie stand-up cu artiștii Donski și Joe, care a avut loc joi, 15 octombrie 2026."
+          "title": "100 de ani de la Festivalul Internațional de Muzică \"Vara din Varna\"",
+          "description": "Festivalul Internațional de Muzică \"Varna Summer\" sărbătorește 100 de ani de existență cu evenimente între 27 iunie și 14 octombrie 2026."
         }
       },
-      "id": 61,
-      "title": "Ще ме обидиш - StandUp Comedy Show с Донски и Жо",
-      "date": "2026-10-15",
-      "time": "",
-      "location": "Ген. Тошево",
-      "category": "other",
-      "description": "Ще ме обидиш е StandUp Comedy Show с участието на артисти Донски и Жо, което се проведе на четвъртък, 15 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/shte-me-obidish/p1324.html"
-        },
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/miro-uti-bachvarov-i-pfa-„dobrudzha“-v-programata-za-praznika-na-gen-toshevo-p731698"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Фотографска изложба за 80-годишнината на УНИЦЕФ",
-          "description": "Фотографска изложба, посветена на 80-годишнината на УНИЦЕФ, се провежда във Варна от четвъртък, 15 октомври до петък, 30 октомври 2026 година."
-        },
-        "en": {
-          "title": "Photo exhibition for the 80th anniversary of UNICEF",
-          "description": "A photographic exhibition dedicated to the 80th anniversary of UNICEF is held in Varna from Thursday, October 15 to Friday, October 30, 2026."
-        },
-        "ro": {
-          "title": "O expoziție de fotografii marchează cea de-a 80-a aniversare a UNICEF",
-          "description": "O expoziție de fotografie dedicată celei de-a 80-a aniversări a UNICEF are loc la Varna de joi, 15 octombrie până vineri, 30 octombrie 2026."
-        }
-      },
-      "id": 351,
-      "title": "Фотографска изложба за 80-годишнината на УНИЦЕФ",
-      "date": "2026-10-15",
+      "id": 11,
+      "title": "100 години Международен музикален фестивал „Варненско лято“",
+      "date": "2026-10-16",
       "time": "",
       "location": "Варна",
-      "category": "exhibition",
-      "description": "Фотографска изложба, посветена на 80-годишнината на УНИЦЕФ, се провежда във Варна от четвъртък, 15 октомври до петък, 30 октомври 2026 година.",
+      "category": "festival",
+      "description": "Международен музикален фестивал „Варненско лято“ отмечава 100 години съществуване със събития между 27 юни и 14 октомври 2026 г.",
       "sources": [
         {
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/fotografska-izlozhba-za-80-godishninata-na-unitsef.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Разговор за любовта и…още нещо",
-          "description": "Разговор със тема „Любовта и…още нещо“ в Зелен образователен център в Шабла."
-        },
-        "en": {
-          "title": "A conversation about love and…something else",
-          "description": "Talk on the theme \"Love and...something else\" in Green Educational Center in Shabla."
-        },
-        "ro": {
-          "title": "O conversație despre dragoste și... altceva",
-          "description": "Conversație pe tema \"Dragostea și... altceva\" în Centrul Educațional Verde din Șabla."
-        }
-      },
-      "id": 334,
-      "title": "Разговор за любовта и…още нещо",
-      "date": "2026-10-15",
-      "time": "17:30",
-      "location": "Зелен образователен център, гр. Шабла",
-      "category": "other",
-      "description": "Разговор със тема „Любовта и…още нещо“ в Зелен образователен център в Шабла.",
-      "sources": [
-        {
-          "source_id": "shabla_sabitiya",
-          "source_name": "Shabla.bg — Sabitiya (Events archive)",
-          "url": "https://shabla.bg/events/razgovor-za-lyubovta-i-osthe-nestho/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Великденски концерт",
-          "description": "Великденски концерт в салона на Народното читалище \"Зора 1894\" в Шабла, започващ от 19:00 ч. Вход свободен."
-        },
-        "en": {
-          "title": "The Easter Concert",
-          "description": "Easter concert in the hall of the \"Zora 1894\" in Shabla, starting at 19:00. Free entrance."
-        },
-        "ro": {
-          "title": "Concert de Paste",
-          "description": "Concert de Paste în sala de la Centrul Cultural \"Zora 1894\" din Shabla, începând cu ora 19:00."
-        }
-      },
-      "id": 50,
-      "title": "Великденски концерт",
-      "date": "2026-10-15",
-      "time": "19:00",
-      "location": "Салона на НЧ \"Зора 1894\"",
-      "category": "concert",
-      "description": "Великденски концерт в салона на Народното читалище \"Зора 1894\" в Шабла, започващ от 19:00 ч. Вход свободен.",
-      "sources": [
-        {
-          "source_id": "zora1894_shabla",
-          "source_name": "NCh Zora 1894 (Shabla cultural center)",
-          "url": "https://nch-zora1894shabla.com/novini/velikdenski-koncert.html"
+          "url": "https://visit.varna.bg/bg/event/100-godini-mezhdunaroden-muzikalen-festival-varnen.html"
         },
         {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/kontsert-na-klavirno-duo/p1329.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "КОНСТАНТА Комедия в МАКСИМ – Ромика Точу и Корнел Паладе",
-          "description": "Комедия на четвъртък, 15 октомври от 19:00 часа в Дома на културата на синдикатите в Констанца, с Ромика Точу и Корнел Паладе."
-        },
-        "en": {
-          "title": "CONSTANTA Comedy at MAXIM – Romica Tociu and Cornel Palade",
-          "description": "Comedy on Thursday, October 15 at 19:00 at the House of Culture of the Trade Unions of Constanta, with Romica Tociu and Cornel Palade."
-        },
-        "ro": {
-          "title": "CONSTANTA Comedie la MAXIM – Romica Tociu si Cornel Palade",
-          "description": "Comedie pe joi, 15 octombrie la 19:00 la Casa de Cultura a Sindicatelor din Constanța, cu Romica Tociu si Cornel Palade."
-        }
-      },
-      "id": 221,
-      "title": "CONSTANTA Comedie la MAXIM – Romica Tociu si Cornel Palade",
-      "date": "2026-10-15",
-      "time": "19:00",
-      "location": "Casa de Cultura a Sindicatelor Constanta",
-      "category": "other",
-      "description": "Comedie pe joi, 15 octombrie la 19:00 la Casa de Cultura a Sindicatelor din Constanța, cu Romica Tociu si Cornel Palade.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/constanta-comedie-la-maxim-romica-tociu-si-cornel-palade/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Млад виртуоз и звезден диригент откриват симфоничния сезон във Варненската опера",
-          "description": "Държавна опера Варна ще започне новия си симфоничен сезон с концерт на Основната сцена, при коемто ще участват млад валдхорнист Виктор Теодосиев и звезден диригент."
-        },
-        "en": {
-          "title": "A young virtuoso and a star conductor open the symphonic season at the Varna Opera",
-          "description": "Varna State Opera will start its new symphonic season with a concert on the Main Stage, in which will participate young waldorf hornist Viktor Teodosiev and a star conductor."
-        },
-        "ro": {
-          "title": "Un tânăr virtuoz și un dirijor vedetă deschid sezonul simfonic la Opera din Varna",
-          "description": "Opera de Stat din Varna își va începe noul sezon simfonic cu un concert pe Scena Principală, la care vor participa tânărul cornist Viktor Teodosiev și un dirijor vedetă."
-        }
-      },
-      "id": 290,
-      "title": "Млад виртуоз и звезден диригент откриват симфоничния сезон във Варненската опера",
-      "date": "2026-10-15",
-      "time": "19:00",
-      "location": "Държавна опера Варна",
-      "category": "concert",
-      "description": "Държавна опера Варна ще започне новия си симфоничен сезон с концерт на Основната сцена, при коемто ще участват млад валдхорнист Виктор Теодосиев и звезден диригент.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536425"
-        },
-        {
-          "source_id": "budna_varna",
-          "source_name": "Budna Varna",
-          "url": "https://www.budnavarna.com/2026/10/12/varna-izbira-svoite-mis-i-mistar-top-licze-na-16-oktomvri/"
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/urban-wine-fest-varna-2026-festival.html"
         }
       ]
     },
@@ -228,6 +68,41 @@
           "source_id": "pronewsdobrich",
           "source_name": "ProNews Dobrich",
           "url": "https://pronewsdobrich.bg/kamen-ivanov-stana-shampion-na-singal-pri-yunoshite-na-turnir-do-16-g-ot-tenis-evropa-v-dobrich-p731396"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Саймън Босуел, Костин Киореану и почит към Стивън Спилбърг сред специалните събития на Дракула Филм Фестивал 2026",
+          "description": "Това е почит към Стивън Спилбърг, заедно с представянето на филмите на Саймън Босуел и Костин Киореану, в рамките на Дракула Филм Фестивал 2026."
+        },
+        "en": {
+          "title": "Simon Boswell, Costin Chioreanu and a tribute to Steven Spielberg among the special events at Dracula Film Festival 2026",
+          "description": "This is a tribute to Steven Spielberg, along with the presentations of films by Simon Boswell and Costin Chioreanu, within the Dracula Film Festival 2026."
+        },
+        "ro": {
+          "title": "Simon Boswell, Costin Chioreanu și un omagiu adus lui Steven Spielberg, printre evenimentele speciale de la Dracula Film Festival 2026",
+          "description": "Acesta este un omagiu adus lui Steven Spielberg, alături de prezentările filmelor de Simon Boswell și Costin Chioreanu, în cadrul Dracula Film Festivalului 2026."
+        }
+      },
+      "id": 317,
+      "title": "Simon Boswell, Costin Chioreanu și un omagiu adus lui Steven Spielberg, printre evenimentele speciale de la Dracula Film Festival 2026",
+      "date": "2026-10-16",
+      "time": "",
+      "location": "Dracula Film Festival 2026",
+      "category": "other",
+      "description": "Acesta este un omagiu adus lui Steven Spielberg, alături de prezentările filmelor de Simon Boswell și Costin Chioreanu, în cadrul Dracula Film Festivalului 2026.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/09/dracula-film-festival-2026-simon-boswell/"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/evropeyski-festival-za-detska-pesen-zlatni-iskri-2.html"
         }
       ]
     },
@@ -288,6 +163,66 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/14/cel-mai-mare-parc-de-lumini-din-tara/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Bridges",
+          "description": "Концерт с тема „Музиката като мост"
+        },
+        "en": {
+          "title": "\"Bridges",
+          "description": "Concert on the theme \"Music as a Bridge"
+        },
+        "ro": {
+          "title": "\"Poduri",
+          "description": "Concert cu tema \"Muzica ca un pod"
+        }
+      },
+      "id": 357,
+      "title": "„Bridges",
+      "date": "2026-10-16",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "Концерт с тема „Музиката като мост",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/bridges-muzikata-kato-most-kontsert.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "НЧ „Жътвари – 2024“ – Добрич празнува с концерт днес своята втора годишнина",
+          "description": "Добрич организира концерт за втората годишна памет на НЧ „Жътвари – 2024“."
+        },
+        "en": {
+          "title": "National Choir \"Reapers – 2024\" – Dobrich celebrates its second anniversary with a concert today",
+          "description": "Dobrich organized a concert for the second anniversary of the National Choir \"Reapers - 2024\"."
+        },
+        "ro": {
+          "title": "Asociația Culturală „Jătvari – 2024” – Dobrici sărbătorește astăzi cu un concert cea de-a doua aniversare",
+          "description": "Dobrici a organizat un concert pentru cea de-a doua comemorare anuală a CN \"Recoltari - 2024\"."
+        }
+      },
+      "id": 356,
+      "title": "НЧ „Жътвари – 2024“ – Добрич празнува с концерт днес своята втора годишнина",
+      "date": "2026-10-16",
+      "time": "09:57",
+      "location": "Добрич",
+      "category": "concert",
+      "description": "Добрич организира концерт за втората годишна памет на НЧ „Жътвари – 2024“.",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/nch-jytvari-2024-dobrich-praznuva-s-koncert-dnes-svoqta-vtora-godishnina/117099"
         }
       ]
     },
@@ -1032,12 +967,17 @@
       "time": "",
       "location": "Варна",
       "category": "other",
-      "description": "Представяне на книга за нови художествени практики във Варна от края на ХХ век.",
+      "description": "УНИЦЕФ България представя във Варна пътуваща фотографска изложба, която включва над 50 фотографии от България и света, заедно с историята на организацията.",
       "sources": [
         {
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/novi-hudozhestveni-praktiki/p1332.html"
+        },
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536976"
         }
       ]
     },
@@ -1068,6 +1008,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/george-mihaita-reconstituirea-unei-vieti-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/george-mihaita-reconstituirea-unei-vieti-2/"
         }
       ]
     },
@@ -1308,6 +1253,16 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/15/cristian-mandeal-deschide-stagiunea-98/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/hitchcock-blonde-blond-glacial-hollywood/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/whalefall-contratimp-in-abis-premiera/"
         }
       ]
     },
@@ -2028,6 +1983,66 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/n-am-pierdut-rasaritul-aurelian-temisan-live-tour-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Скорпиънс правят трибют в Рок Хале",
+          "description": "Трибютен концерт на групата Скорпиънс, който ще се проведе в Рок Хале в Констанца, Румъния на 13 ноември 2026 г., от 9:00 часа."
+        },
+        "en": {
+          "title": "The Zoo – Scorpions Tribute at Rock Halle",
+          "description": "A tribute show to the band Scorpions taking place at the Rock Halle in Constanta, Romania on November 13, 2026, starting at 9:00 PM."
+        },
+        "ro": {
+          "title": "The Zoo – Scorpions Tribute at Rock Halle",
+          "description": "A tribute show to the band Scorpions taking place at the Rock Halle in Constanta, Romania on November 13, 2026, starting at 9:00 PM."
+        }
+      },
+      "id": 359,
+      "title": "The Zoo – Scorpions Tribute at Rock Halle",
+      "date": "2026-11-13",
+      "time": "21:00",
+      "location": "Rock Halle",
+      "category": "concert",
+      "description": "A tribute show to the band Scorpions taking place at the Rock Halle in Constanta, Romania on November 13, 2026, starting at 9:00 PM.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/the-zoo-scorpions-tribute-at-rock-halle/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "АХАТ идва във Варна с концерт за 40-годишнината на групата",
+          "description": "Рок групата АХАТ ще проведе концерт в Варна като част от юбилейното си турне по 40 години от създаването си."
+        },
+        "en": {
+          "title": "AHAT come to Varna with a concert for the 40th anniversary of the group",
+          "description": "The rock band AHAT will hold a concert in Varna as part of its 40th anniversary tour."
+        },
+        "ro": {
+          "title": "AHAT vine la Varna cu un concert pentru a 40-a aniversare a trupei",
+          "description": "Trupa de rock AHAT va susține un concert la Varna în cadrul turneului său aniversar de 40 de ani de la înființare."
+        }
+      },
+      "id": 358,
+      "title": "АХАТ идва във Варна с концерт за 40-годишнината на групата",
+      "date": "2026-11-15",
+      "time": "",
+      "location": "Варна",
+      "category": "concert",
+      "description": "Рок групата АХАТ ще проведе концерт в Варна като част от юбилейното си турне по 40 години от създаването си.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536944"
         }
       ]
     },
@@ -2839,36 +2854,6 @@
     {
       "translations": {
         "bg": {
-          "title": "100 години Международен музикален фестивал „Варненско лято“",
-          "description": "Международен музикален фестивал „Варненско лято“ отмечава 100 години съществуване със събития между 27 юни и 14 октомври 2026 г."
-        },
-        "en": {
-          "title": "100 years of the International Music Festival \"Varna Summer\"",
-          "description": "International Music Festival \"Varna Summer\" celebrates 100 years of existence with events between June 27 and October 14, 2026."
-        },
-        "ro": {
-          "title": "100 de ani de la Festivalul Internațional de Muzică \"Vara din Varna\"",
-          "description": "Festivalul Internațional de Muzică \"Varna Summer\" sărbătorește 100 de ani de existență cu evenimente între 27 iunie și 14 octombrie 2026."
-        }
-      },
-      "id": 11,
-      "title": "100 години Международен музикален фестивал „Варненско лято“",
-      "date": "",
-      "time": "",
-      "location": "Варна",
-      "category": "festival",
-      "description": "Международен музикален фестивал „Варненско лято“ отмечава 100 години съществуване със събития между 27 юни и 14 октомври 2026 г.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/100-godini-mezhdunaroden-muzikalen-festival-varnen.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Великденска работилница",
           "description": "Празнично боядисване на яйца в читалището \"Зора 1894\" в Шабла, комбиниращо традиции с модерни техники."
         },
@@ -3362,7 +3347,7 @@
       "time": "",
       "location": "Constanța",
       "category": "concert",
-      "description": "Concert aniversar al trupii CARGO în împrejurări de 14 ani de activitate dedicată muzicii rock.",
+      "description": "Concert aniversar al trupii CARGO în împrejurări de 14 de ani de activitate dedicată muzicii rock.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -4289,36 +4274,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Саймън Босуел, Костин Киореану и почит към Стивън Спилбърг сред специалните събития на Дракула Филм Фестивал 2026",
-          "description": "Това е почит към Стивън Спилбърг, заедно с представянето на филмите на Саймън Босуел и Костин Киореану, в рамките на Дракула Филм Фестивал 2026."
-        },
-        "en": {
-          "title": "Simon Boswell, Costin Chioreanu and a tribute to Steven Spielberg among the special events at Dracula Film Festival 2026",
-          "description": "This is a tribute to Steven Spielberg, along with the presentations of films by Simon Boswell and Costin Chioreanu, within the Dracula Film Festival 2026."
-        },
-        "ro": {
-          "title": "Simon Boswell, Costin Chioreanu și un omagiu adus lui Steven Spielberg, printre evenimentele speciale de la Dracula Film Festival 2026",
-          "description": "Acesta este un omagiu adus lui Steven Spielberg, alături de prezentările filmelor de Simon Boswell și Costin Chioreanu, în cadrul Dracula Film Festivalului 2026."
-        }
-      },
-      "id": 317,
-      "title": "Simon Boswell, Costin Chioreanu și un omagiu adus lui Steven Spielberg, printre evenimentele speciale de la Dracula Film Festival 2026",
-      "date": "",
-      "time": "",
-      "location": "Dracula Film Festival 2026",
-      "category": "other",
-      "description": "Acesta este un omagiu adus lui Steven Spielberg, alături de prezentările filmelor de Simon Boswell și Costin Chioreanu, în cadrul Dracula Film Festivalului 2026.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/09/dracula-film-festival-2026-simon-boswell/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "\"Дон Кихот\"",
           "description": "Дон Кихот - страст, приключение и танц на сцената в Констанц."
         },
@@ -4733,6 +4688,96 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/15/street-fighter-2026-film-premiera/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Мръсната риза издава \"По-светъл ден\" с Иън Андерсън",
+          "description": "Мръсната риза организира събитие с Иън Андерсън за издаването на албума \"По-светъл ден\"."
+        },
+        "en": {
+          "title": "Dirty Shirt lansează \"A Brighter Day\" alături de Ian Anderson",
+          "description": "Dirty Shirt hosts an event with Ian Anderson for the release of the album \"A Brighter Day\"."
+        },
+        "ro": {
+          "title": "Dirty Shirt lansează „A Brighter Day” alături de Ian Anderson",
+          "description": "Dirty Shirt organizează un eveniment cu Ian Anderson pentru lansarea albumului „A Brighter Day”."
+        }
+      },
+      "id": 360,
+      "title": "Dirty Shirt lansează „A Brighter Day” alături de Ian Anderson",
+      "date": "",
+      "time": "",
+      "location": "Dirty Shirt",
+      "category": "other",
+      "description": "Dirty Shirt organizează un eveniment cu Ian Anderson pentru lansarea albumului „A Brighter Day”.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/dirty-shirt-a-brighter-day-ian-anderson/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Седмица на комедията 2026",
+          "description": "Седмицата на комедията 2026 включва две безплатни представления за деца в АФИ Брашов и специално представление за бенефициентите на Фондация Радостта от даряването."
+        },
+        "en": {
+          "title": "Week of Comedy 2026",
+          "description": "Comedy Week 2026 includes two free shows for children at AFI Brasov and a special show for the beneficiaries of the Joy of the Gift Foundation."
+        },
+        "ro": {
+          "title": "Săptămâna Comediei 2026",
+          "description": "Săptămâna Comediei 2026 include două spectacole gratuite pentru copii la AFI Brașov și un spectacol special pentru beneficiarii Fundației Bucuria Darului."
+        }
+      },
+      "id": 361,
+      "title": "Săptămâna Comediei 2026",
+      "date": "",
+      "time": "",
+      "location": "AFI Brașov",
+      "category": "other",
+      "description": "Săptămâna Comediei 2026 include două spectacole gratuite pentru copii la AFI Brașov și un spectacol special pentru beneficiarii Fundației Bucuria Darului.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/saptamana-comediei-afi-bucuria-darului/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Един Джаз Фестивал Бая Маре, 8-мо издание",
+          "description": "Предварителен преглед на 8-ото издание на джаз фестивала в Бая Маре, Румъния."
+        },
+        "en": {
+          "title": "Preview – One Jazz Festival Baia Mare, 8th edition",
+          "description": "A preview of the 8th edition of the One Jazz Festival in Baia Mare, Romania."
+        },
+        "ro": {
+          "title": "Avanpremieră – One Jazz Festival Baia Mare, ediția nr. 8",
+          "description": "A preview of the 8th edition of the One Jazz Festival in Baia Mare, Romania."
+        }
+      },
+      "id": 362,
+      "title": "Avanpremieră – One Jazz Festival Baia Mare, ediția nr. 8",
+      "date": "",
+      "time": "",
+      "location": "Baia Mare",
+      "category": "other",
+      "description": "A preview of the 8th edition of the One Jazz Festival in Baia Mare, Romania.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/one-jazz-festival-baia-mare-editia-nr-8/"
         }
       ]
     },
