@@ -1,231 +1,6 @@
 {
-  "generated_at": "2026-10-16T09:00:14.478879+00:00",
+  "generated_at": "2026-10-17T08:33:07.627708+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "100 години Международен музикален фестивал „Варненско лято“",
-          "description": "Международен музикален фестивал „Варненско лято“ отмечава 100 години съществуване със събития между 27 юни и 14 октомври 2026 г."
-        },
-        "en": {
-          "title": "100 years of the International Music Festival \"Varna Summer\"",
-          "description": "International Music Festival \"Varna Summer\" celebrates 100 years of existence with events between June 27 and October 14, 2026."
-        },
-        "ro": {
-          "title": "100 de ani de la Festivalul Internațional de Muzică \"Vara din Varna\"",
-          "description": "Festivalul Internațional de Muzică \"Varna Summer\" sărbătorește 100 de ani de existență cu evenimente între 27 iunie și 14 octombrie 2026."
-        }
-      },
-      "id": 11,
-      "title": "100 години Международен музикален фестивал „Варненско лято“",
-      "date": "2026-10-16",
-      "time": "",
-      "location": "Варна",
-      "category": "festival",
-      "description": "Международен музикален фестивал „Варненско лято“ отмечава 100 години съществуване със събития между 27 юни и 14 октомври 2026 г.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/100-godini-mezhdunaroden-muzikalen-festival-varnen.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/urban-wine-fest-varna-2026-festival.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ДОБРИЯТ ЧОВЕК ОТ СЕЧУАН по Бертолт Брехт",
-          "description": "Премиера на поставката от Сечуан по пьесата на Бертолт Брехт."
-        },
-        "en": {
-          "title": "THE GOOD MAN FROM SECHUAN by Bertolt Brecht",
-          "description": "Premiere of the Szechuan set based on the play by Bertolt Brecht."
-        },
-        "ro": {
-          "title": "Omul bun din Sichuan de Bertolt Brecht",
-          "description": "Premiera spectacolului din Sichuan după piesa lui Bertolt Brecht."
-        }
-      },
-      "id": 62,
-      "title": "ДОБРИЯТ ЧОВЕК ОТ СЕЧУАН по Бертолт Брехт",
-      "date": "2026-10-16",
-      "time": "",
-      "location": "Добрич",
-      "category": "theater",
-      "description": "Камен Иванов е станал шампион на сингъл турнира за юношеството до 16 години от Тенис Европа в Добрич.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/dobriyat-chovek/p1232.html"
-        },
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/kamen-ivanov-stana-shampion-na-singal-pri-yunoshite-na-turnir-do-16-g-ot-tenis-evropa-v-dobrich-p731396"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Саймън Босуел, Костин Киореану и почит към Стивън Спилбърг сред специалните събития на Дракула Филм Фестивал 2026",
-          "description": "Това е почит към Стивън Спилбърг, заедно с представянето на филмите на Саймън Босуел и Костин Киореану, в рамките на Дракула Филм Фестивал 2026."
-        },
-        "en": {
-          "title": "Simon Boswell, Costin Chioreanu and a tribute to Steven Spielberg among the special events at Dracula Film Festival 2026",
-          "description": "This is a tribute to Steven Spielberg, along with the presentations of films by Simon Boswell and Costin Chioreanu, within the Dracula Film Festival 2026."
-        },
-        "ro": {
-          "title": "Simon Boswell, Costin Chioreanu și un omagiu adus lui Steven Spielberg, printre evenimentele speciale de la Dracula Film Festival 2026",
-          "description": "Acesta este un omagiu adus lui Steven Spielberg, alături de prezentările filmelor de Simon Boswell și Costin Chioreanu, în cadrul Dracula Film Festivalului 2026."
-        }
-      },
-      "id": 317,
-      "title": "Simon Boswell, Costin Chioreanu și un omagiu adus lui Steven Spielberg, printre evenimentele speciale de la Dracula Film Festival 2026",
-      "date": "2026-10-16",
-      "time": "",
-      "location": "Dracula Film Festival 2026",
-      "category": "other",
-      "description": "Acesta este un omagiu adus lui Steven Spielberg, alături de prezentările filmelor de Simon Boswell și Costin Chioreanu, în cadrul Dracula Film Festivalului 2026.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/09/dracula-film-festival-2026-simon-boswell/"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/evropeyski-festival-za-detska-pesen-zlatni-iskri-2.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "\"Лято на нищото\", новият игрален филм на Алина Манолаче",
-          "description": "Алиней Манолаке пусна на 16 октомври в кината новия си пълнометражен филм, озаглавен \"Лято на нищо\"."
-        },
-        "en": {
-          "title": "\"A Summer of Nothing\", the new feature film by Alina Manolache",
-          "description": "Alinei Manolache launched on October 16 his new feature film, titled \"A Summer of Nothing\", in cinemas."
-        },
-        "ro": {
-          "title": "„O vară de nimic”, noul lungmetraj al Alinei Manolache",
-          "description": "Alinei Manolache a lanțuit pe 16 octombrie noul său lungmetraj, titulat „O vară de nimic”, în cinematografe."
-        }
-      },
-      "id": 333,
-      "title": "„O vară de nimic”, noul lungmetraj al Alinei Manolache",
-      "date": "2026-10-16",
-      "time": "",
-      "location": "cinematografe",
-      "category": "other",
-      "description": "Alinei Manolache a lanțuit pe 16 octombrie noul său lungmetraj, titulat „O vară de nimic”, în cinematografe.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/12/o-vara-de-nimic-alina-manolache/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Най-големият светлинен парк в страната",
-          "description": "Най-големият светлинен парк в страната отваря врати на 16 октомври в Ботаническата градина в Букурещ."
-        },
-        "en": {
-          "title": "The largest light park in the country",
-          "description": "The largest park of lights in the country opens on October 16 at the Botanical Garden in Bucharest."
-        },
-        "ro": {
-          "title": "Cel mai mare parc de lumini din țară",
-          "description": "Cel mai mare parc de lumini din țară deschide porturi pe 16 octombrie la Grădina Botanică din București."
-        }
-      },
-      "id": 354,
-      "title": "Cel mai mare parc de lumini din țară",
-      "date": "2026-10-16",
-      "time": "",
-      "location": "Grădina Botanică, București",
-      "category": "other",
-      "description": "Cel mai mare parc de lumini din țară deschide porturi pe 16 octombrie la Grădina Botanică din București.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/14/cel-mai-mare-parc-de-lumini-din-tara/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Bridges",
-          "description": "Концерт с тема „Музиката като мост"
-        },
-        "en": {
-          "title": "\"Bridges",
-          "description": "Concert on the theme \"Music as a Bridge"
-        },
-        "ro": {
-          "title": "\"Poduri",
-          "description": "Concert cu tema \"Muzica ca un pod"
-        }
-      },
-      "id": 357,
-      "title": "„Bridges",
-      "date": "2026-10-16",
-      "time": "",
-      "location": "",
-      "category": "concert",
-      "description": "Концерт с тема „Музиката като мост",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/bridges-muzikata-kato-most-kontsert.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "НЧ „Жътвари – 2024“ – Добрич празнува с концерт днес своята втора годишнина",
-          "description": "Добрич организира концерт за втората годишна памет на НЧ „Жътвари – 2024“."
-        },
-        "en": {
-          "title": "National Choir \"Reapers – 2024\" – Dobrich celebrates its second anniversary with a concert today",
-          "description": "Dobrich organized a concert for the second anniversary of the National Choir \"Reapers - 2024\"."
-        },
-        "ro": {
-          "title": "Asociația Culturală „Jătvari – 2024” – Dobrici sărbătorește astăzi cu un concert cea de-a doua aniversare",
-          "description": "Dobrici a organizat un concert pentru cea de-a doua comemorare anuală a CN \"Recoltari - 2024\"."
-        }
-      },
-      "id": 356,
-      "title": "НЧ „Жътвари – 2024“ – Добрич празнува с концерт днес своята втора годишнина",
-      "date": "2026-10-16",
-      "time": "09:57",
-      "location": "Добрич",
-      "category": "concert",
-      "description": "Добрич организира концерт за втората годишна памет на НЧ „Жътвари – 2024“.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/nch-jytvari-2024-dobrich-praznuva-s-koncert-dnes-svoqta-vtora-godishnina/117099"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -258,6 +33,11 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/detski-horov-kontsert/p1330.html"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/forum-na-modata---varna-iii.html"
         }
       ]
     },
@@ -282,7 +62,7 @@
       "time": "",
       "location": "Club Phoenix",
       "category": "adult_18+",
-      "description": "Nelu performs a time and space-defying show at Club Phoenix on October 17th as part of the EFEMERIDE event series.",
+      "description": "Nelu prezentă un spectacol de la IRIS la Club Phoenix pe 17 octombrie, oferind un experiență care să depășească timpul și spațiul.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -318,6 +98,71 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/trupa-discoteka-at-doors/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Как да гледаме балет“ - мултимедийна среща",
+          "description": "Изложбата „Околната ни среда е...“ показва как отпадъците получават втори живот чрез творчески преобразувания."
+        },
+        "en": {
+          "title": "\"How to watch ballet\" - multimedia meeting",
+          "description": "The exhibition \"Our environment is...\" shows how waste gets a second life through creative transformations."
+        },
+        "ro": {
+          "title": "\"Cum să urmăriți baletul\" - o întâlnire multimedia",
+          "description": "Expoziția \"Mediul nostru este...\" arată cum deșeurile primesc o a doua viață prin transformări creative."
+        }
+      },
+      "id": 364,
+      "title": "„Как да гледаме балет“ - мултимедийна среща",
+      "date": "2026-10-17",
+      "time": "",
+      "location": "Варна",
+      "category": "other",
+      "description": "Изложбата „Околната ни среда е...“ показва как отпадъците получават втори живот чрез творчески преобразувания.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/kak-da-gledame-balet-multimediyna-sreshta171026.html"
+        },
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536996"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Програма Държавен куклен театър Варна 17.10 - 18.10.2026 г.",
+          "description": "Държавен куклен театър в Варна се проведе на събота, 17 октомври и на неделя, 18 октомври 2026 година."
+        },
+        "en": {
+          "title": "Program State Puppet Theatre Varna 17.10 - 18.10.2026",
+          "description": "State Puppet Theatre in Varna took place on Saturday, October 17 and Sunday, October 18, 2026."
+        },
+        "ro": {
+          "title": "Program Teatrul de Stat de Păpuși Varna 17.10 - 18.10.2026",
+          "description": "Teatrul de păpuși de stat din Varna a avut loc sâmbătă, 17 octombrie și duminică, 18 octombrie 2026."
+        }
+      },
+      "id": 365,
+      "title": "Програма Държавен куклен театър Варна 17.10 - 18.10.2026 г.",
+      "date": "2026-10-17",
+      "time": "",
+      "location": "Държавен куклен театър Варна",
+      "category": "theater",
+      "description": "Държавен куклен театър в Варна се проведе на събота, 17 октомври и на неделя, 18 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/programa-darzhaven-kuklen-teatar-varna-1710-181020.html"
         }
       ]
     },
@@ -488,6 +333,11 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536842"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/snezhanka-i-sedemte-dzhudzheta-balet17102026.html"
         }
       ]
     },
@@ -678,6 +528,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/15/jocuri-zombi-dracula-film-festival/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Над 50 варненски художници представят свои творби в изложбата „Св. Лука“",
+          "description": "Ежегодната изложба на Сдружението на варненските художници „Св. Лука“ ще бъде открита на 18 октомври в Градската художествена галерия „Борис Георгиев“."
+        },
+        "en": {
+          "title": "More than 50 Varna artists present their works in the exhibition \"St. Luke\"",
+          "description": "The annual exhibition of the Association of Varna Artists \"St. Luke\" will be opened on October 18 in the City Art Gallery \"Boris Georgiev\"."
+        },
+        "ro": {
+          "title": "Peste 50 de artiști din Varna își prezintă lucrările în expoziția \"Sfântul Luca\"",
+          "description": "Expoziția anuală a Asociației Artiștilor din Varna \"Sf. Luca\" va fi inaugurată în 18 octombrie la Galeria de Artă Municipală \"Boris Georgiev\"."
+        }
+      },
+      "id": 366,
+      "title": "Над 50 варненски художници представят свои творби в изложбата „Св. Лука“",
+      "date": "2026-10-18",
+      "time": "18:00",
+      "location": "Градската художествена галерия „Борис Георгиев“ – Варна",
+      "category": "exhibition",
+      "description": "Ежегодната изложба на Сдружението на варненските художници „Св. Лука“ ще бъде открита на 18 октомври в Градската художествена галерия „Борис Георгиев“.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=536990"
         }
       ]
     },
@@ -1049,6 +929,71 @@
     {
       "translations": {
         "bg": {
+          "title": "Камерният концерт „Огледало с 3 лица“  ще бъде представен на 22 октомври в Добрич",
+          "description": "Камерният концерт „Огледало с 3 лица“ ще се проведе на 22 октомври в Добрич."
+        },
+        "en": {
+          "title": "The chamber concert \"Mirror with 3 Faces\" will be presented on October 22 in Dobrich",
+          "description": "The chamber concert \"Mirror with 3 Faces\" will be held on October 22 in Dobrich."
+        },
+        "ro": {
+          "title": "Concertul de cameră \"O oglindă cu 3 fețe\" va fi prezentat în 22 octombrie la Dobrich",
+          "description": "Concertul de cameră \"O oglindă cu 3 fețe\" va avea loc în 22 octombrie la Dobrich."
+        }
+      },
+      "id": 363,
+      "title": "Камерният концерт „Огледало с 3 лица“  ще бъде представен на 22 октомври в Добрич",
+      "date": "2026-10-22",
+      "time": "",
+      "location": "Добрич",
+      "category": "concert",
+      "description": "Камерният концерт „Огледало с 3 лица“ ще се проведе на 22 октомври в Добрич.",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/kamerniqt-koncert-ogledalo-s-3-lica-shte-byde-predstaven-na-22-oktomvri-v-dobrich/117120"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Силвиу Ковачи @doors",
+          "description": "Силвиу Ковачи изпълнява фолклорна музика в четвъртък, 22 октомври, вечерта."
+        },
+        "en": {
+          "title": "Silviu Covaci @doors",
+          "description": "Silviu Covaci performs folk music on Thursday, October 22nd, in the evening."
+        },
+        "ro": {
+          "title": "Silviu Covaci @doors",
+          "description": "Silviu Covaci performs folk music on Thursday, October 22nd, in the evening."
+        }
+      },
+      "id": 368,
+      "title": "Silviu Covaci @doors",
+      "date": "2026-10-22",
+      "time": "",
+      "location": "doors",
+      "category": "other",
+      "description": "Silviu Covaci performs folk music on Thursday, October 22nd, in the evening.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/silviu-covaci-at-doors/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/voltaj-at-doors/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Коллапс турне: Хакаири, Неонови пророчества, Реч на омразата и Инженер на смъртта в клуб Финикс",
           "description": "Като част от турнето ще се проведат метъл концерти с участието на групи като Hakairi, Neon Prophecies, Hatespeech и Engineer of Death в клуб Phoenix."
         },
@@ -1263,6 +1208,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/16/whalefall-contratimp-in-abis-premiera/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/bukfeszt5-s-a-incheiat/"
         }
       ]
     },
@@ -3098,6 +3048,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/11/unklfnkl-maria-mashuka-spooky-spooky/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/incepe-festivalul-national-de-teatru-2/"
         }
       ]
     },
@@ -3323,6 +3278,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/interpretul-casa-sindicatelor-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/woody-a-movieopera-muzica-film/"
         }
       ]
     },
@@ -3583,6 +3543,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/10/francis-on-my-mind-lanseaza-ars-valendi/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/trupa-gramofone-lanseaza-ordinary/"
         }
       ]
     },
@@ -3999,36 +3964,6 @@
     {
       "translations": {
         "bg": {
-          "title": "ДКТ – Силистра представя четири драматични спектакъла през октомври",
-          "description": "ДКТ – Силистра ще представи четири драматични спектакъла през октомври."
-        },
-        "en": {
-          "title": "DKT – Silistra presents four dramatic performances in October",
-          "description": "DKT – Silistra will present four dramatic performances in October."
-        },
-        "ro": {
-          "title": "DKT – Silistra prezintă patru spectacole dramatice în octombrie",
-          "description": "DKT – Silistra va prezenta patru spectacole dramatice în luna octombrie."
-        }
-      },
-      "id": 280,
-      "title": "ДКТ – Силистра представя четири драматични спектакъла през октомври",
-      "date": "",
-      "time": "",
-      "location": "ДКТ – Силистра",
-      "category": "theater",
-      "description": "ДКТ – Силистра ще представи четири драматични спектакъла през октомври.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/10/06/dkt-silistra-predstavya-chetiri-dramatichni-spektakala-prez-oktomvri"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Моята красива дама",
           "description": "Национален театър за опера и балет \"Олег Дановски\""
         },
@@ -4292,7 +4227,7 @@
       "time": "",
       "location": "Teatrul Național de Operă și Balet „Oleg Danovski",
       "category": "theater",
-      "description": "Don Quijote - pasiune, aventură și dans pe scena constănțeană.",
+      "description": "Don Quijote - pasiune, aventură și dans pe scena constănțeană. Acest spectacol este organizat de Teatrul Național de Operă și Balet „Oleg Danovski",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -4778,6 +4713,66 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/16/one-jazz-festival-baia-mare-editia-nr-8/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Морчиба идва в Брези през 2027 г.",
+          "description": "\"Морчиба\" ще организират концерт в \"Брезой\" през 2027 г., според нощната програма за клубовете в Констанца."
+        },
+        "en": {
+          "title": "Morcheeba comes to Brezoi in 2027",
+          "description": "Morcheeba will organize a concert at Brezoi in 2027, according to the night program for clubs in Constanta."
+        },
+        "ro": {
+          "title": "Morcheeba vine la Brezoi în 2027",
+          "description": "Morcheeba va organiza un concert la Brezoi în 2027, conform programului de noapte pentru cluburi din Constanța."
+        }
+      },
+      "id": 369,
+      "title": "Morcheeba vine la Brezoi în 2027",
+      "date": "",
+      "time": "",
+      "location": "Brezoi",
+      "category": "other",
+      "description": "Morcheeba va organiza un concert la Brezoi în 2027, conform programului de noapte pentru cluburi din Constanța.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/morcheeba-vine-la-brezoi-in-2027/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Буги Шак – Паоло Ганц и Симон Чивило: мини турне в Румъния",
+          "description": "Мини-турнир по биене, организиран от Паоло Ганц и Симон Чивило в Буги Шак в Румъния."
+        },
+        "en": {
+          "title": "Boogie Shack – Paolo Ganz & Simone Chivilò: mini-tour in Romania",
+          "description": "A mini-beating tournament organized by Paolo Ganz and Simone Chivilò at Boogie Shack in Romania."
+        },
+        "ro": {
+          "title": "Boogie Shack – Paolo Ganz & Simone Chivilò: mini-turneu în România",
+          "description": "Un mini-turneu de bătută organizat de Paolo Ganz și Simone Chivilò la Boogie Shack în România."
+        }
+      },
+      "id": 370,
+      "title": "Boogie Shack – Paolo Ganz & Simone Chivilò: mini-turneu în România",
+      "date": "",
+      "time": "",
+      "location": "Boogie Shack",
+      "category": "other",
+      "description": "Un mini-turneu de bătută organizat de Paolo Ganz și Simone Chivilò la Boogie Shack în România.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/boogie-shack-paolo-ganz-simone-chivilo/"
         }
       ]
     },
