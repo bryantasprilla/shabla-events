@@ -1,441 +1,6 @@
 {
-  "generated_at": "2026-10-17T08:33:07.627708+00:00",
+  "generated_at": "2026-10-18T08:49:06.850592+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Златни искри събира във Варна детски песни от автори от цял свят",
-          "description": "Варна ще гости 14-ото издание на Европейския конкурс за детски песни „Златни искри“ на 17 и 18 октомври."
-        },
-        "en": {
-          "title": "Golden Sparks gathers in Varna children’s songs by authors from all over the world",
-          "description": "Varna will host the 14th edition of the European Children's Song Competition \"Golden Sparks\" on October 17 and 18."
-        },
-        "ro": {
-          "title": "Golden Sparks adună la Varna cântece pentru copii de autori din întreaga lume",
-          "description": "Varna va găzdui cea de-a 14-a ediție a Concursului European de Cântece pentru Copii \"Scântei de Aur\" în 17 și 18 octombrie."
-        }
-      },
-      "id": 190,
-      "title": "Златни искри събира във Варна детски песни от автори от цял свят",
-      "date": "2026-10-17",
-      "time": "",
-      "location": "Варна",
-      "category": "other",
-      "description": "Варна ще гости 14-ото издание на Европейския конкурс за детски песни „Златни искри“ на 17 и 18 октомври.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536107"
-        },
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/detski-horov-kontsert/p1330.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/forum-na-modata---varna-iii.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ЕФЕМЕРИД: Космическата мисия ИРИС",
-          "description": "Нелу изнася шоу, което се противопоставя на времето и пространството в Клуб Финикс на 17 октомври като част от поредицата събития ЕФЕМЕРИД."
-        },
-        "en": {
-          "title": "EFEMERIDE: IRIS Space Mission @Club Phoenix",
-          "description": "Nelu performed a time and space-defying show at Club Phoenix on October 17th as part of the EFEMERIDE event series."
-        },
-        "ro": {
-          "title": "EFEMERIDE: Misiunea Spațială IRIS @Club Phoenix",
-          "description": "Nelu performs a time and space-defying show at Club Phoenix on October 17th as part of the EFEMERIDE event series."
-        }
-      },
-      "id": 282,
-      "title": "EFEMERIDE: Misiunea Spațială IRIS @Club Phoenix",
-      "date": "2026-10-17",
-      "time": "",
-      "location": "Club Phoenix",
-      "category": "adult_18+",
-      "description": "Nelu prezentă un spectacol de la IRIS la Club Phoenix pe 17 octombrie, oferind un experiență care să depășească timpul și spațiul.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/efemeride-misiunea-spatiala-iris-at-club-phoenix/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Група Дискотека @doors",
-          "description": "Изпълнение на живо на Труба Дискотека в клуб Дорс в събота, 17 октомври."
-        },
-        "en": {
-          "title": "Band Disco @doors",
-          "description": "Live performance by Trupa Discoteka at the Doors Club on Saturday, October 17th."
-        },
-        "ro": {
-          "title": "Trupa Discoteka @doors",
-          "description": "Live performance by Trupa Discoteka at the Doors Club on Saturday, October 17th."
-        }
-      },
-      "id": 329,
-      "title": "Trupa Discoteka @doors",
-      "date": "2026-10-17",
-      "time": "",
-      "location": "Doors Club",
-      "category": "adult_18+",
-      "description": "Live performance by Trupa Discoteka at the Doors Club on Saturday, October 17th.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/trupa-discoteka-at-doors/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Как да гледаме балет“ - мултимедийна среща",
-          "description": "Изложбата „Околната ни среда е...“ показва как отпадъците получават втори живот чрез творчески преобразувания."
-        },
-        "en": {
-          "title": "\"How to watch ballet\" - multimedia meeting",
-          "description": "The exhibition \"Our environment is...\" shows how waste gets a second life through creative transformations."
-        },
-        "ro": {
-          "title": "\"Cum să urmăriți baletul\" - o întâlnire multimedia",
-          "description": "Expoziția \"Mediul nostru este...\" arată cum deșeurile primesc o a doua viață prin transformări creative."
-        }
-      },
-      "id": 364,
-      "title": "„Как да гледаме балет“ - мултимедийна среща",
-      "date": "2026-10-17",
-      "time": "",
-      "location": "Варна",
-      "category": "other",
-      "description": "Изложбата „Околната ни среда е...“ показва как отпадъците получават втори живот чрез творчески преобразувания.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/kak-da-gledame-balet-multimediyna-sreshta171026.html"
-        },
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536996"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Програма Държавен куклен театър Варна 17.10 - 18.10.2026 г.",
-          "description": "Държавен куклен театър в Варна се проведе на събота, 17 октомври и на неделя, 18 октомври 2026 година."
-        },
-        "en": {
-          "title": "Program State Puppet Theatre Varna 17.10 - 18.10.2026",
-          "description": "State Puppet Theatre in Varna took place on Saturday, October 17 and Sunday, October 18, 2026."
-        },
-        "ro": {
-          "title": "Program Teatrul de Stat de Păpuși Varna 17.10 - 18.10.2026",
-          "description": "Teatrul de păpuși de stat din Varna a avut loc sâmbătă, 17 octombrie și duminică, 18 octombrie 2026."
-        }
-      },
-      "id": 365,
-      "title": "Програма Държавен куклен театър Варна 17.10 - 18.10.2026 г.",
-      "date": "2026-10-17",
-      "time": "",
-      "location": "Държавен куклен театър Варна",
-      "category": "theater",
-      "description": "Държавен куклен театър в Варна се проведе на събота, 17 октомври и на неделя, 18 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/programa-darzhaven-kuklen-teatar-varna-1710-181020.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Международно автомобилно състезание „Добрич – Браила 2026“",
-          "description": "Международно автомобилно състезание с начало на 17 октомври 2026 г. между 10:00 и 12:00 в Добрич и Браила."
-        },
-        "en": {
-          "title": "International car race \"Dobrich – Braila 2026\"",
-          "description": "International car race starting on October 17, 2026 between 10:00 and 12:00 in Dobrich and Braila."
-        },
-        "ro": {
-          "title": "Cursa auto internațională \"Dobric – Braila 2026\"",
-          "description": "O cursă auto internațională care începe pe 17 octombrie 2026 între orele 10:00 și 12:00 în Dobrich și Braila."
-        }
-      },
-      "id": 350,
-      "title": "Международно автомобилно състезание „Добрич – Браила 2026“",
-      "date": "2026-10-17",
-      "time": "10:00",
-      "location": "Добрич, Браила",
-      "category": "sports",
-      "description": "Международно автомобилно състезание с начало на 17 октомври 2026 г. между 10:00 и 12:00 в Добрич и Браила.",
-      "sources": [
-        {
-          "source_id": "shabla_sabitiya",
-          "source_name": "Shabla.bg — Sabitiya (Events archive)",
-          "url": "https://shabla.bg/events/mezhdunarodno-avtomobilno-sastezanie-dobrich-braila-2026/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ОРКЕСТЪР КУРКУБЮ В СВЕТА НА ПРИКАЗКИТЕ",
-          "description": "Концертът на Оркестър \"Дъга\" в рамките на проекта \"Светът на приказките\" ще се проведе в Дома на културата на синдикатите в Констанца на 17 октомври 2026 г. от 11:00 часа."
-        },
-        "en": {
-          "title": "CURCUBEU ORCHESTRA IN THE WORLD OF STORIES",
-          "description": "The Rainbow Orchestra concert in the project \"World of Tales\" will take place at the House of Culture of the Trade Unions in Constanta on October 17, 2026, at 11:00."
-        },
-        "ro": {
-          "title": "ORCHESTRA CURCUBEU ÎN LUMEA POVEȘTILOR",
-          "description": "Concertul Orchestra Curcubeu în proiectul „Lumea Poveștilor” va avea loc la Casa de Cultură a Sindicatelor în Constanța la data de 17 octombrie 2026, la ora 11:00."
-        }
-      },
-      "id": 115,
-      "title": "ORCHESTRA CURCUBEU ÎN LUMEA POVEȘTILOR",
-      "date": "2026-10-17",
-      "time": "11:00",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "concert",
-      "description": "Concertul Orchestra Curcubeu în proiectul „Lumea Poveștilor” va avea loc la Casa de Cultură a Sindicatelor în Constanța la data de 17 octombrie 2026, la ora 11:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/orchestra-curcubeu-in-lumea-povestilor-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/05/de-profundis-palate-festivaluri-2026/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/orchestra-curcubeu-in-lumea-povestilor-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/12/red-bull-rap-lab-idk-si-cristi-comaroni/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/13/kinedok-online-documentare-gratuite/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Момичето и змеят",
-          "description": "Момичето на баба и момичето на Дядо Коледа – представление, което ще се състои в Дома на културата на синдикатите в Констанца на 17 октомври от 11:00 часа."
-        },
-        "en": {
-          "title": "BABY’S FACE AND FATHER’S FACE – Constanta",
-          "description": "Fata Babei si Fata Mosului – a show that will take place at the House of Culture of the Trade Unions in Constanta on October 17 at 11:00."
-        },
-        "ro": {
-          "title": "FATA BABEI SI FATA MOSULUI – Constanta",
-          "description": "Fata Babei si Fata Mosului – un spectacol care va avea loc la Casa de Cultură a Sindicatelor în Constanta pe data de 17 octombrie la ora 11:00."
-        }
-      },
-      "id": 245,
-      "title": "FATA BABEI SI FATA MOSULUI – Constanta",
-      "date": "2026-10-17",
-      "time": "11:00",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "other",
-      "description": "Fata Babei si Fata Mosului – un spectacol care va avea loc la Casa de Cultură a Sindicatelor în Constanta pe data de 17 octombrie la ora 11:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/fata-babei-si-fata-mosului-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Трети фестивал на тиквата „Ни прозорец, ни врата, пълна къща със деца“",
-          "description": "Третият фестивал на тиквата се проведе на 17 октомври 2026 г. в Народното читалище Дружба 1898 в село Дуранкулак."
-        },
-        "en": {
-          "title": "Third festival of the pumpkin \"No window, no door, a house full of children\"",
-          "description": "The third pumpkin festival was held on October 17, 2026 in the Drujba 1898 Community Center in the village of Durankulak."
-        },
-        "ro": {
-          "title": "Al treilea festival de dovleac \"Nici o fereastră, nici o ușă, o casă plină de copii\"",
-          "description": "Cel de-al treilea festival al dovleacului a avut loc pe 17 octombrie 2026 la Centrul Cultural Drujba 1898 din satul Durankulak."
-        }
-      },
-      "id": 335,
-      "title": "Трети фестивал на тиквата „Ни прозорец, ни врата, пълна къща със деца“",
-      "date": "2026-10-17",
-      "time": "11:00",
-      "location": "Народно читалище Дружба 1898, с.Дуранкулак",
-      "category": "festival",
-      "description": "Третият фестивал на тиквата се проведе на 17 октомври 2026 г. в Народното читалище Дружба 1898 в село Дуранкулак.",
-      "sources": [
-        {
-          "source_id": "shabla_sabitiya",
-          "source_name": "Shabla.bg — Sabitiya (Events archive)",
-          "url": "https://shabla.bg/events/treti-festival-na-tikvata-ni-prozorecz-ni-vrata-palna-kastha-sas-decza/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Мечо Пух“ и „Пепеляшка“ на сцената на Варненския куклен театър",
-          "description": "Децата над 4 години могат да гледат спектакъла „Мечо Пух“ през събота, 17 октомври, във Варненския куклен театър."
-        },
-        "en": {
-          "title": "\"Pooh\" and \"Cinderella\" on the stage of the Varna Puppet Theatre",
-          "description": "Children over 4 years old can watch the performance \"Pooh\" on Saturday, October 17, in the Varna Puppet Theatre."
-        },
-        "ro": {
-          "title": "\"Ursulețul Pooh\" și \"Cenușăreasa\" pe scena Teatrului de păpuși din Varna",
-          "description": "Copiii de peste 4 ani pot urmări spectacolul \"Ursulețul Pooh\" sâmbătă, 17 octombrie, la Teatrul de Păpuși din Varna."
-        }
-      },
-      "id": 347,
-      "title": "„Мечо Пух“ и „Пепеляшка“ на сцената на Варненския куклен театър",
-      "date": "2026-10-17",
-      "time": "11:00",
-      "location": "Държавен куклен театър във Варна",
-      "category": "theater",
-      "description": "Децата над 4 години могат да гледат спектакъла „Мечо Пух“ през събота, 17 октомври, във Варненския куклен театър.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536842"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/snezhanka-i-sedemte-dzhudzheta-balet17102026.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Златни искри събира България и Евropa в името на новата детска песен",
-          "description": "Млади таланти и популярни артисти ще участват в концерта на XIV Европейски конкурс за детска песен „Златни искри“. Конкурсът ще се проведе на 17 октомври в The Brik Port на Морска гара в Варна."
-        },
-        "en": {
-          "title": "Golden Sparks brings together Bulgaria and Europe in the name of the new children's song",
-          "description": "Young talents and popular artists will take part in the concert of the XIV European Children's Song Competition \"Golden Sparks\", which will take place on October 17 at The Brik Port at the Sea Station in Varna."
-        },
-        "ro": {
-          "title": "\"Scântei de aur\" unește Bulgaria și Europa în numele unui nou cântec pentru copii",
-          "description": "Tineri talentați și artiști populari vor participa la concertul celui de-al XIV-lea Concurs European de Cântece pentru Copii \"Scântei de Aur\", care va avea loc în 17 octombrie la The Brik Port din Gara Maritimă din Varna."
-        }
-      },
-      "id": 352,
-      "title": "Златни искри събира България и Евropa в името на новата детска песен",
-      "date": "2026-10-17",
-      "time": "17:00",
-      "location": "The Brik Port на Морска гара – Варна",
-      "category": "concert",
-      "description": "Млади таланти и популярни артисти ще участват в концерта на XIV Европейски конкурс за детска песен „Златни искри“. Конкурсът ще се проведе на 17 октомври в The Brik Port на Морска гара в Варна.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536932"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Дон Кихот“",
-          "description": "Театрален спектакъл на Дон Кихот, насрочен за 17 октомври 2026 г., от 18:30 ч. в Дома на културата на синдикатите в Констанца."
-        },
-        "en": {
-          "title": "Don Quixote",
-          "description": "Theater performance of Don Quijote scheduled for October 17, 2026, at 18:30 in Casa de Cultură a Sindicatelor in Constanța."
-        },
-        "ro": {
-          "title": "Don Quijote",
-          "description": "Theater performance of Don Quijote scheduled for October 17, 2026, at 18:30 in Casa de Cultură a Sindicatelor in Constanța."
-        }
-      },
-      "id": 246,
-      "title": "Don Quijote",
-      "date": "2026-10-17",
-      "time": "18:30",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "theater",
-      "description": "Theater performance of Don Quijote scheduled for October 17, 2026, at 18:30 in Casa de Cultură a Sindicatelor in Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/don-quijote/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Концерт – Клавирно трио",
-          "description": "Клавирно трио ще се представи с концерт на събота, 17 октомври 2026 година."
-        },
-        "en": {
-          "title": "Concert – Piano Trio",
-          "description": "Piano trio will perform a concert on Saturday, October 17, 2026."
-        },
-        "ro": {
-          "title": "Concert – Trio pentru pian",
-          "description": "Un trio de pian va prezenta un concert sâmbătă, 17 octombrie 2026."
-        }
-      },
-      "id": 297,
-      "title": "Концерт – Клавирно трио",
-      "date": "2026-10-17",
-      "time": "19:00",
-      "location": "Концертното студио на Радио Варна",
-      "category": "concert",
-      "description": "Певицата и автор Даниела Белчева ще представи BRIDGES, концертен проект, който ще включва джаз, гъдулка и български фолклор.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/klavirno-trio/p1331.html"
-        },
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536736"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -468,6 +33,66 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/35-godini-konstitutsiya-na-republika-balgariya-izl.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "\"Козето момиче\", история за детството, приятелството и смелостта да задавате въпроси",
+          "description": "\"Козето момиче\" е филм за детството, приятелството и смелостта да задавате въпроси, който ще бъде представен в кината на 18 октомври."
+        },
+        "en": {
+          "title": "\"The Goat Girl\", a story about childhood, friendship and the courage to ask questions",
+          "description": "\"The Goat Girl\" is a film about childhood, friendship and the courage to ask questions, which will be presented in cinemas on October 18."
+        },
+        "ro": {
+          "title": "„Fata caprei”, o poveste despre copilărie, prietenie și curajul de a pune întrebări",
+          "description": "„Fata caprei” este un film despre copilărie, prietenie și curajul de a pune întrebări, care se va prezentă în cinematografe pe 18 octombrie."
+        }
+      },
+      "id": 381,
+      "title": "„Fata caprei”, o poveste despre copilărie, prietenie și curajul de a pune întrebări",
+      "date": "2026-10-18",
+      "time": "",
+      "location": "cinematografe",
+      "category": "other",
+      "description": "„Fata caprei” este un film despre copilărie, prietenie și curajul de a pune întrebări, care se va prezentă în cinematografe pe 18 octombrie.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/17/fata-caprei-o-poveste-despre-copilarie/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Обучение на членовете на СИК за община град Добрич",
+          "description": "Собрание за обучение на членовете на Службата за инспекция и контрол (СИК) за община град Добрич ще се проведе днес, с начало на 10:12 ч."
+        },
+        "en": {
+          "title": "Training of the members of the CEC for the municipality of Dobrich",
+          "description": "A meeting for the training of members of the Inspection and Control Service (ICS) for the municipality of the city of Dobrich will be held today, starting at 10:12 a.m."
+        },
+        "ro": {
+          "title": "Instruirea membrilor CEC pentru municipalitatea orașului Dobrich",
+          "description": "Adunarea pentru instruirea membrilor Serviciului de Inspecție și Control (SIC) pentru municipalitatea orașului Dobrich va avea loc astăzi, începând cu ora 10:12."
+        }
+      },
+      "id": 371,
+      "title": "Обучение на членовете на СИК за община град Добрич",
+      "date": "2026-10-18",
+      "time": "10:12",
+      "location": "град Добрич",
+      "category": "municipal",
+      "description": "Собрание за обучение на членовете на Службата за инспекция и контрол (СИК) за община град Добрич ще се проведе днес, с начало на 10:12 ч.",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/obuchenie-na-chlenovete-na-sik-za-obshtina-grad-dobrich-shte-se-provede-dnes/117148"
         }
       ]
     },
@@ -558,6 +183,11 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536990"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/izlozhba-sveti-luka.html"
         }
       ]
     },
@@ -593,6 +223,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/cavalleria-rusticana-si-paiate/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Не подлежи на измами",
+          "description": "Събитието ще се проведе в хотел Континентал Форум Констанца на 19 октомври от 17:00 часа."
+        },
+        "en": {
+          "title": "Not subject to fraud",
+          "description": "The event 'Unsubmissive to Fraud' will take place at Hotel Continental Forum Constanta on October 19th at 17:00."
+        },
+        "ro": {
+          "title": "Nesupus Fraudelor",
+          "description": "Evenimentul 'Nesupus Fraudelor' va avea loc la Hotel Continental Forum Constanța la data de 19 octombrie la ora 17:00."
+        }
+      },
+      "id": 375,
+      "title": "Nesupus Fraudelor",
+      "date": "2026-10-19",
+      "time": "17:00",
+      "location": "Hotel Continental Forum Constanța",
+      "category": "other",
+      "description": "Evenimentul 'Nesupus Fraudelor' va avea loc la Hotel Continental Forum Constanța la data de 19 octombrie la ora 17:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/nesupus-fraudelor-2/"
         }
       ]
     },
@@ -1064,6 +724,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Национален музикален фестивал \"Фолк На Морето\" 2026",
+          "description": "Националният фестивал на фолклорната музика на брега на морето се провежда в Мангалия от 24-25 октомври 2026 г."
+        },
+        "en": {
+          "title": "National Music Festival \"Folk On The Seaside\" 2026",
+          "description": "The National Folk Music Festival La Malul Marii takes place in Mangalia from October 24-25, 2026."
+        },
+        "ro": {
+          "title": "Festivalul Național de Muzică „Folk La Malul Mării” 2026",
+          "description": "Festivalul Național de Muzică Folk La Malul Mării se desfășoară în Mangalia de la 24-25 octombrie 2026."
+        }
+      },
+      "id": 378,
+      "title": "Festivalul Național de Muzică „Folk La Malul Mării” 2026",
+      "date": "2026-10-24",
+      "time": "",
+      "location": "Mangalia",
+      "category": "festival",
+      "description": "Festivalul Național de Muzică Folk La Malul Mării se desfășoară în Mangalia de la 24-25 octombrie 2026.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/festivalul-national-de-muzica-folk-la-malul-marii-2026/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Чигонг терапевтичен 💫 отворен клас за начинаещи",
           "description": "Открит клас за въведение в терапевтичния Чигонг, който ще се проведе на улица Калугарени № 22, Констанца, от 08:30 часа."
         },
@@ -1297,12 +987,17 @@
       "time": "18:30",
       "location": "Casa de Cultură a Sindicatelor Constanța",
       "category": "theater",
-      "description": "Teatru opera Rigoletto se va desfășura la Casa de Cultură a Sindicatelor în Constanța la ora 18:30.",
+      "description": "Teatrul Național de Operă și Balet „Oleg Danovski” Constanța prezentă opera Giuseppe Verdi „Rigoletto",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/rigoletto/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/rigoletto-7/"
         }
       ]
     },
@@ -1873,6 +1568,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/constanta-teo-vio-si-costel-orizont-electric-stand-up-comedy-show/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "КОНСТАНЦА: Модна къща // Михай Бендеак, Влад Драгулин, Ливиу Пинтиласа, Анка Динику",
+          "description": "Модно ревю с участието на Михай Бендеак, Влад Драгулин, Ливиу Пинтилеаса и Анка Динику."
+        },
+        "en": {
+          "title": "CONSTANȚA: House of fashion // Mihai Bendeac, Vlad Drǎgulin, Liviu Pintileasa, Anca Dinicu",
+          "description": "A fashion show featuring Mihai Bendeac, Vlad Drǎgulin, Liviu Pintileasa, and Anca Dinicu."
+        },
+        "ro": {
+          "title": "CONSTANȚA: Casa de modǎ // Mihai Bendeac, Vlad Drǎgulin, Liviu Pintileasa, Anca Dinicu",
+          "description": "Un spectacol de moda cu participarea lui Mihai Bendeac, Vlad Drǎgulin, Liviu Pintileasa, și Anca Dinicu."
+        }
+      },
+      "id": 376,
+      "title": "CONSTANȚA: Casa de modǎ // Mihai Bendeac, Vlad Drǎgulin, Liviu Pintileasa, Anca Dinicu",
+      "date": "2026-11-09",
+      "time": "19:00",
+      "location": "Casa de Cultura a Sindicatelor Constanta",
+      "category": "other",
+      "description": "Un spectacol de moda cu participarea lui Mihai Bendeac, Vlad Drǎgulin, Liviu Pintileasa, și Anca Dinicu.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/constanta-casa-de-moda-mihai-bendeac-vlad-dragulin-liviu-pintileasa-anca-dinicu/"
         }
       ]
     },
@@ -3007,12 +2732,17 @@
       "time": "",
       "location": "Teatrul Metronom București",
       "category": "theater",
-      "description": "O comedie de succes din Londra se prezentă într-o nouă producție la Teatrul Metronom București.",
+      "description": "The article provides reasons why one should not miss the FILIT 2026 event, but does not specify the exact details of the event such as date, time, or location.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/femeile-nu-sunt-ingeri-2/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/17/filit-ce-aduce-filit-2026/"
         }
       ]
     },
@@ -3037,7 +2767,7 @@
       "time": "",
       "location": "Colegiul Național de Arte Regina Maria",
       "category": "other",
-      "description": "UNKLFNKL și Maria Mashuka lansează un nou album intitulat „Spooky Spooky”.",
+      "description": "An event organized by „Histoires De Parfumes” featuring the theme ENCENS ROI, but no specific details about the date, time, or location are provided.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -3053,6 +2783,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/16/incepe-festivalul-national-de-teatru-2/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/18/encens-roi-parfumul-lunii-octombrie-2026/"
         }
       ]
     },
@@ -4773,6 +4508,96 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/16/boogie-shack-paolo-ganz-simone-chivilo/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "70 деца участваха в първия открит областен турнир по джудо в Силистра",
+          "description": "70 деца участват в първия открит областен турнир по джудо в Силистра."
+        },
+        "en": {
+          "title": "70 children participated in the first open regional judo tournament in Silistra",
+          "description": "70 children participated in the first open regional judo tournament in Silistra."
+        },
+        "ro": {
+          "title": "70 de copii au participat la primul turneu regional deschis de judo din Silistra",
+          "description": "70 de copii au participat la primul turneu regional deschis de judo din Silistra."
+        }
+      },
+      "id": 374,
+      "title": "70 деца участваха в първия открит областен турнир по джудо в Силистра",
+      "date": "",
+      "time": "",
+      "location": "Силистра",
+      "category": "sports",
+      "description": "70 деца участват в първия открит областен турнир по джудо в Силистра.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/10/17/70-detsa-uchastvaha-v-parviya-otkrit-oblasten-turnir-po-dzhudo-v-silistra"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Една нощ във Венеция",
+          "description": "Национален театър за опера и балет \"Олег Дановски\""
+        },
+        "en": {
+          "title": "A Night in Venice",
+          "description": "National Theatre of Opera and Ballet \"Oleg Danovski"
+        },
+        "ro": {
+          "title": "O noapte de Veneția",
+          "description": "Teatrul Național de Operă și Balet „Oleg Danovski"
+        }
+      },
+      "id": 379,
+      "title": "O noapte de Veneția",
+      "date": "",
+      "time": "",
+      "location": "Teatrul Național de Operă și Balet „Oleg Danovski",
+      "category": "other",
+      "description": "Teatrul Național de Operă și Balet „Oleg Danovski",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/o-noapte-de-venetia/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Ада Миля / 14 години Музика за аутизъм",
+          "description": "Любителите на народната музика и всички, които ценят автентичната музика, хумора и историите, разказани по различен начин, се очакват в клуба за събитие, организирано от Ада Миля в рамките на проекта Музика за аутизъм."
+        },
+        "en": {
+          "title": "Ada Milea / 14 years Music for Autism",
+          "description": "Folk music lovers and all those who appreciate authentic music, humour and stories told differently are expected at the Club for an event organized by Ada Milea as part of the Music for Autism project."
+        },
+        "ro": {
+          "title": "Ada Milea / 14 ani Music for Autism",
+          "description": "Iubitorii muzicii folk și toți cei care apreciază muzica autentică, umorul și poveștile spuse altfel sunt așteptați la Club pentru un eveniment organizat de Ada Milea în cadrul proiectului Music for Autism."
+        }
+      },
+      "id": 380,
+      "title": "Ada Milea / 14 ani Music for Autism",
+      "date": "",
+      "time": "",
+      "location": "Club",
+      "category": "other",
+      "description": "Iubitorii muzicii folk și toți cei care apreciază muzica autentică, umorul și poveștile spuse altfel sunt așteptați la Club pentru un eveniment organizat de Ada Milea în cadrul proiectului Music for Autism.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/ada-milea-14-ani-music-for-autism/"
         }
       ]
     },
