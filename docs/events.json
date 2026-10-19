@@ -1,228 +1,33 @@
 {
-  "generated_at": "2026-10-18T08:49:06.850592+00:00",
+  "generated_at": "2026-10-19T09:50:38.843751+00:00",
   "events": [
     {
       "translations": {
         "bg": {
-          "title": "„Агри.СС“ организира празник с игри и музика за Световния ден на яйцето в Генерал Тошево",
-          "description": "Празник с игри и музика организиран от „Агри.СС“ в Генерал Тошево за Световния ден на яйцето."
+          "title": "Веселин Маринов гостува в Добрич с юбилейния концерт „Ти си любовта“",
+          "description": "Веселин Маринов ще гостува в Добрич с юбилейния му концерт „Ти си любовта“."
         },
         "en": {
-          "title": "\"Agri.SS\" organizes a celebration with games and music for World Egg Day in General Toshevo",
-          "description": "Celebration with games and music organized by \"Agri.SS\" in General Toshevo for World Egg Day."
+          "title": "Veselin Marinov visits Dobrich with the anniversary concert \"You Are Love\"",
+          "description": "Veselin Marinov will visit Dobrich with his jubilee concert \"You Are Love\"."
         },
         "ro": {
-          "title": "\"Agri.SS\" organizează o sărbătoare cu jocuri și muzică pentru Ziua Mondială a Ouălor în General Toshevo",
-          "description": "Sărbătoare cu jocuri și muzică organizată de \"Agri.SS\" în General Toshevo pentru Ziua Mondială a Ouălor."
+          "title": "Veselin Marinov în vizită la Dobrici cu concertul jubiliar \"Tu ești dragostea\"",
+          "description": "Veselin Marinov va fi în vizită la Dobrich cu concertul său jubiliar \"Tu ești dragostea\"."
         }
       },
-      "id": 273,
-      "title": "„Агри.СС“ организира празник с игри и музика за Световния ден на яйцето в Генерал Тошево",
-      "date": "2026-10-18",
+      "id": 382,
+      "title": "Веселин Маринов гостува в Добрич с юбилейния концерт „Ти си любовта“",
+      "date": "2026-10-19",
       "time": "",
-      "location": "Генерал Тошево",
-      "category": "other",
-      "description": "Изложба по случая на 35-ата година на Конституцията на Република България, тя ще се провежда от 12 до 24 октомври 2026 година.",
+      "location": "Добрич",
+      "category": "concert",
+      "description": "Веселин Маринов ще гостува в Добрич с юбилейния му концерт „Ти си любовта“.",
       "sources": [
         {
           "source_id": "pronewsdobrich",
           "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/„agriss“-organizira-praznik-s-igri-i-muzika-za-svetovniya-den-na-yaytseto-v-general-toshevo-p731663"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/35-godini-konstitutsiya-na-republika-balgariya-izl.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "\"Козето момиче\", история за детството, приятелството и смелостта да задавате въпроси",
-          "description": "\"Козето момиче\" е филм за детството, приятелството и смелостта да задавате въпроси, който ще бъде представен в кината на 18 октомври."
-        },
-        "en": {
-          "title": "\"The Goat Girl\", a story about childhood, friendship and the courage to ask questions",
-          "description": "\"The Goat Girl\" is a film about childhood, friendship and the courage to ask questions, which will be presented in cinemas on October 18."
-        },
-        "ro": {
-          "title": "„Fata caprei”, o poveste despre copilărie, prietenie și curajul de a pune întrebări",
-          "description": "„Fata caprei” este un film despre copilărie, prietenie și curajul de a pune întrebări, care se va prezentă în cinematografe pe 18 octombrie."
-        }
-      },
-      "id": 381,
-      "title": "„Fata caprei”, o poveste despre copilărie, prietenie și curajul de a pune întrebări",
-      "date": "2026-10-18",
-      "time": "",
-      "location": "cinematografe",
-      "category": "other",
-      "description": "„Fata caprei” este un film despre copilărie, prietenie și curajul de a pune întrebări, care se va prezentă în cinematografe pe 18 octombrie.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/17/fata-caprei-o-poveste-despre-copilarie/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Обучение на членовете на СИК за община град Добрич",
-          "description": "Собрание за обучение на членовете на Службата за инспекция и контрол (СИК) за община град Добрич ще се проведе днес, с начало на 10:12 ч."
-        },
-        "en": {
-          "title": "Training of the members of the CEC for the municipality of Dobrich",
-          "description": "A meeting for the training of members of the Inspection and Control Service (ICS) for the municipality of the city of Dobrich will be held today, starting at 10:12 a.m."
-        },
-        "ro": {
-          "title": "Instruirea membrilor CEC pentru municipalitatea orașului Dobrich",
-          "description": "Adunarea pentru instruirea membrilor Serviciului de Inspecție și Control (SIC) pentru municipalitatea orașului Dobrich va avea loc astăzi, începând cu ora 10:12."
-        }
-      },
-      "id": 371,
-      "title": "Обучение на членовете на СИК за община град Добрич",
-      "date": "2026-10-18",
-      "time": "10:12",
-      "location": "град Добрич",
-      "category": "municipal",
-      "description": "Собрание за обучение на членовете на Службата за инспекция и контрол (СИК) за община град Добрич ще се проведе днес, с начало на 10:12 ч.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/obuchenie-na-chlenovete-na-sik-za-obshtina-grad-dobrich-shte-se-provede-dnes/117148"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Уъркшоп по рисуване за възрастни",
-          "description": "Уъркшоп по рисуване за възрастни, който ще се проведе на 18 октомври от 11:00 часа в Василе Лукачиу, № 1, Констанца."
-        },
-        "en": {
-          "title": "Painting workshop for adults",
-          "description": "A painting workshop for adults that will take place on October 18 at 11:00 in Vasile Lucaciu, no. 1, Constanța."
-        },
-        "ro": {
-          "title": "Atelier de pictură pentru adulți",
-          "description": "Un atelier de pictură destinat adulților care va avea loc în data de 18 octombrie la ora 11:00 în Vasile Lucaciu, nr. 1, Constanța."
-        }
-      },
-      "id": 123,
-      "title": "Atelier de pictură pentru adulți",
-      "date": "2026-10-18",
-      "time": "11:00",
-      "location": "Vasile Lucaciu, nr. 1, Constanța",
-      "category": "other",
-      "description": "Un film documentar va fi lanșat și va urma un turneu național de conferințe și evenimente multimedia susținute de violonista Diana Jipa și pianistul Ștefan Doniga.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/atelier-de-pictura-pentru-adulti/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/nunta-lui-figaro-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/05/mielul-shaun-aventuri-de-halloween/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/11/dracula-film-festival-dracula-trophy/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/13/evenimente-sustinute-de-diana-jipa/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/14/pett-ruu-lanseaza-bad-things/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/15/jocuri-zombi-dracula-film-festival/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Над 50 варненски художници представят свои творби в изложбата „Св. Лука“",
-          "description": "Ежегодната изложба на Сдружението на варненските художници „Св. Лука“ ще бъде открита на 18 октомври в Градската художествена галерия „Борис Георгиев“."
-        },
-        "en": {
-          "title": "More than 50 Varna artists present their works in the exhibition \"St. Luke\"",
-          "description": "The annual exhibition of the Association of Varna Artists \"St. Luke\" will be opened on October 18 in the City Art Gallery \"Boris Georgiev\"."
-        },
-        "ro": {
-          "title": "Peste 50 de artiști din Varna își prezintă lucrările în expoziția \"Sfântul Luca\"",
-          "description": "Expoziția anuală a Asociației Artiștilor din Varna \"Sf. Luca\" va fi inaugurată în 18 octombrie la Galeria de Artă Municipală \"Boris Georgiev\"."
-        }
-      },
-      "id": 366,
-      "title": "Над 50 варненски художници представят свои творби в изложбата „Св. Лука“",
-      "date": "2026-10-18",
-      "time": "18:00",
-      "location": "Градската художествена галерия „Борис Георгиев“ – Варна",
-      "category": "exhibition",
-      "description": "Ежегодната изложба на Сдружението на варненските художници „Св. Лука“ ще бъде открита на 18 октомври в Градската художествена галерия „Борис Георгиев“.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536990"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/izlozhba-sveti-luka.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Селска кавалерия / рицари",
-          "description": "Театрален спектакъл с пиесите 'Кавалерия рустикана' и 'Паляци', насрочени за 18 октомври 2026 г., 18:30 ч., в Дома на културата на синдикатите в Констанца."
-        },
-        "en": {
-          "title": "Rustic cavalry / Clowns",
-          "description": "Theatre show with the pieces 'Cavalleria rusticana' and 'Paiațe' scheduled on October 18, 2026, at 18:30 pm, at the House of Culture of the Trade Unions of Constanța."
-        },
-        "ro": {
-          "title": "Cavalleria Rusticana / Paiațe",
-          "description": "Teatrală spectacol cu piesele 'Cavalleria rusticana' și 'Paiațe' programate pe 18 octombrie 2026, ora 18:30, la Casa de Cultura a Sindicatelor din Constanța."
-        }
-      },
-      "id": 119,
-      "title": "Cavalleria Rusticana / Paiațe",
-      "date": "2026-10-18",
-      "time": "18:30",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "theater",
-      "description": "Un spectacol teatral care include peisajele teatralului 'Cavalleria rusticana' și 'Paiațe' se va desfășura la Casa de Cultura a Sindicatelor din Constanța pe 18 octombrie 2026, la ora 18:30.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/cavalleria-rusticana-paiate/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/cavalleria-rusticana-si-paiate/"
+          "url": "https://pronewsdobrich.bg/veselin-marinov-gostuva-v-dobrich-s-yubileyniya-kontsert-„ti-si-lyubovta“-p732093"
         }
       ]
     },
@@ -724,6 +529,41 @@
     {
       "translations": {
         "bg": {
+          "title": "70 деца участваха в първия открит областен турнир по джудо в Силистра",
+          "description": "70 деца участват в първия открит областен турнир по джудо в Силистра."
+        },
+        "en": {
+          "title": "70 children participated in the first open regional judo tournament in Silistra",
+          "description": "70 children participated in the first open regional judo tournament in Silistra."
+        },
+        "ro": {
+          "title": "70 de copii au participat la primul turneu regional deschis de judo din Silistra",
+          "description": "70 de copii au participat la primul turneu regional deschis de judo din Silistra."
+        }
+      },
+      "id": 374,
+      "title": "70 деца участваха в първия открит областен турнир по джудо в Силистра",
+      "date": "2026-10-24",
+      "time": "",
+      "location": "Силистра",
+      "category": "sports",
+      "description": "Турнир по баскетбол, който ще се проведе в Силистра на 24 октомври 2026 г.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/10/17/70-detsa-uchastvaha-v-parviya-otkrit-oblasten-turnir-po-dzhudo-v-silistra"
+        },
+        {
+          "source_id": "portal_silistra",
+          "source_name": "Portal Silistra",
+          "url": "https://www.portal-silistra.eu/news/20350"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Национален музикален фестивал \"Фолк На Морето\" 2026",
           "description": "Националният фестивал на фолклорната музика на брега на морето се провежда в Мангалия от 24-25 октомври 2026 г."
         },
@@ -903,6 +743,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/16/bukfeszt5-s-a-incheiat/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/19/rolling-loud-2026-owen-wilson/"
         }
       ]
     },
@@ -933,6 +778,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/o-noapte-de-venetia/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Ретро парти за игра @Врати",
+          "description": "На 24 октомври от 9:00 ч. в @Doors ще се проведе парти на ретро тема."
+        },
+        "en": {
+          "title": "Retro Play Party at Doors",
+          "description": "A retro-themed party is scheduled to take place at @Doors on October 24th, starting at 9:00 PM."
+        },
+        "ro": {
+          "title": "Retro Play Party @Doors",
+          "description": "A retro-themed party is scheduled to take place at @Doors on October 24th, starting at 9:00 PM."
+        }
+      },
+      "id": 387,
+      "title": "Retro Play Party @Doors",
+      "date": "2026-10-24",
+      "time": "21:00",
+      "location": "@Doors",
+      "category": "other",
+      "description": "A retro-themed party is scheduled to take place at @Doors on October 24th, starting at 9:00 PM.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/retro-play-party-at-doors/"
         }
       ]
     },
@@ -1022,12 +897,17 @@
       "time": "19:00",
       "location": "Strada Ion Lahovari nr. 2A, 900726 Constanta, Romania",
       "category": "other",
-      "description": "Logodnă relativă care va avea loc la Strada Ion Lahovari nr. 2A, Constanta, pe data de 25 octombrie la ora 19:00.",
+      "description": "Un eveniment de logodnă cu participanții patru oameni, două cupluri interșanjabile și o sumă de confuzii și încurcături.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/logodna-relativa/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/logodna-relativa/"
         }
       ]
     },
@@ -1233,6 +1113,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/constanta-stand-up-comedy-cu-bordea-cortea-primiti-cu-gluma/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/18/elf-traps-pas-in-doi/"
         }
       ]
     },
@@ -4514,36 +4399,6 @@
     {
       "translations": {
         "bg": {
-          "title": "70 деца участваха в първия открит областен турнир по джудо в Силистра",
-          "description": "70 деца участват в първия открит областен турнир по джудо в Силистра."
-        },
-        "en": {
-          "title": "70 children participated in the first open regional judo tournament in Silistra",
-          "description": "70 children participated in the first open regional judo tournament in Silistra."
-        },
-        "ro": {
-          "title": "70 de copii au participat la primul turneu regional deschis de judo din Silistra",
-          "description": "70 de copii au participat la primul turneu regional deschis de judo din Silistra."
-        }
-      },
-      "id": 374,
-      "title": "70 деца участваха в първия открит областен турнир по джудо в Силистра",
-      "date": "",
-      "time": "",
-      "location": "Силистра",
-      "category": "sports",
-      "description": "70 деца участват в първия открит областен турнир по джудо в Силистра.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/10/17/70-detsa-uchastvaha-v-parviya-otkrit-oblasten-turnir-po-dzhudo-v-silistra"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Една нощ във Венеция",
           "description": "Национален театър за опера и балет \"Олег Дановски\""
         },
@@ -4598,6 +4453,126 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/ada-milea-14-ani-music-for-autism/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Moving Body събира във Варна отличени артисти и международно танцово кино",
+          "description": "Фестивалът Moving Body представя премиера за Варна, отличени спектакли и международно танцово кино, с акцент върху 40 години на сцена на Галина Борисова."
+        },
+        "en": {
+          "title": "Moving Body brings together in Varna distinguished artists and international dance cinema",
+          "description": "The Moving Body Festival presents the premiere for Varna, award-winning performances and international dance cinema, with an emphasis on 40 years on the stage of Galina Borisova."
+        },
+        "ro": {
+          "title": "Moving Body aduce la Varna artiști renumiți și un cinematograf internațional de dans",
+          "description": "Festivalul Moving Body prezintă premiera din Varna, spectacole premiate și cinematografie internațională de dans, cu accent pe cei 40 de ani de activitate pe scenă ai Galinei Borisova."
+        }
+      },
+      "id": 383,
+      "title": "Moving Body събира във Варна отличени артисти и международно танцово кино",
+      "date": "",
+      "time": "",
+      "location": "Варна",
+      "category": "festival",
+      "description": "Фестивалът Moving Body представя премиера за Варна, отличени спектакли и международно танцово кино, с акцент върху 40 години на сцена на Галина Борисова.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537105"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Концерт Трибют АББА",
+          "description": "Представя се почит към групата АББА, предлагаща класически песни, които все още не са загубили популярността си."
+        },
+        "en": {
+          "title": "ABBA Tribute Concert",
+          "description": "A tribute to the ABBA group is presented, offering classic songs that have not yet lost their popularity."
+        },
+        "ro": {
+          "title": "Concert Tribut ABBA",
+          "description": "Un tribut la grupul ABBA se prezentă, oferind cântece clasice care încă nu au pierdut popularitatea."
+        }
+      },
+      "id": 386,
+      "title": "Concert Tribut ABBA",
+      "date": "",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "Un tribut la grupul ABBA se prezentă, oferind cântece clasice care încă nu au pierdut popularitatea.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/concert-tribut-abba-5/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Грозната патица от Х. К. Андерсен",
+          "description": "В домашен декор, пълен с откровеност, малките ще открият патенце в градина с различни животни."
+        },
+        "en": {
+          "title": "The Ugly Duckling by H. Ch. Andersen",
+          "description": "In a home decor full of candor, the little ones will discover a duckling in a yard with various animals."
+        },
+        "ro": {
+          "title": "RĂȚUȘCA CEA URÂTĂ, după H. Ch. Andersen",
+          "description": "Într-un decor domestic plin de candoare, micuții vor descoperi o rățușcă într-o ogradă cu diverse animale."
+        }
+      },
+      "id": 388,
+      "title": "RĂȚUȘCA CEA URÂTĂ, după H. Ch. Andersen",
+      "date": "",
+      "time": "",
+      "location": "Într-un decor domestic, plin de candoare, o ogradă cu rățuște, găini, gâște, gâscani, curcani",
+      "category": "other",
+      "description": "Într-un decor domestic plin de candoare, micuții vor descoperi o rățușcă într-o ogradă cu diverse animale.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/ratusca-cea-urata-dupa-h-ch-andersen/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Тя и нейната мрежа... на живота",
+          "description": "Театрално представление, което се провежда на сцени в страната, насрочено за средата на октомври, с впечатляващи заглавия, които показват тема за възрастни или ориентирана към възрастна публика."
+        },
+        "en": {
+          "title": "That and her net... of life",
+          "description": "A theatre show that takes place on stages in the country, scheduled in mid-October, with suggestive titles that indicate an adult theme or oriented to an adult audience."
+        },
+        "ro": {
+          "title": "Ața și năvodu’ ei… de viață",
+          "description": "Un spectacol de teatru care se desfășoară pe scene din țară, programat la mijlocul lunii octombrie, cu titluri sugestive care indică o temă adultă sau orientată spre public adult."
+        }
+      },
+      "id": 389,
+      "title": "Ața și năvodu’ ei… de viață",
+      "date": "",
+      "time": "",
+      "location": "scenele din țară",
+      "category": "other",
+      "description": "Un spectacol de teatru care se desfășoară pe scene din țară, programat la mijlocul lunii octombrie, cu titluri sugestive care indică o temă adultă sau orientată spre public adult.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/18/ata-si-navodu-ei-de-viata-dragi-parinti/"
         }
       ]
     },
@@ -4748,6 +4723,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/evolution-of-magic/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Намиране на приятели и езиков обмен в Констанца",
+          "description": "Събитие за езиков обмен, където участниците могат да намерят приятели и да практикуват езиковите си умения в Констанца, което се провежда всеки втори вторник."
+        },
+        "en": {
+          "title": "Make friends & BlaBla Language Exchange Constanța",
+          "description": "A language exchange event where participants can make friends and practice their language skills in Constanța, taking place every other Tuesday."
+        },
+        "ro": {
+          "title": "Make friends & BlaBla Language Exchange Constanța",
+          "description": "A language exchange event where participants can make friends and practice their language skills in Constanța, taking place every other Tuesday."
+        }
+      },
+      "id": 384,
+      "title": "Make friends & BlaBla Language Exchange Constanța",
+      "date": "",
+      "time": "20:00",
+      "location": "Irish Pub",
+      "category": "other",
+      "description": "A language exchange event where participants can make friends and practice their language skills in Constanța, taking place every other Tuesday.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/make-friends-blabla-language-exchange-constanta-every-other-tuesday-recurrent-event/"
         }
       ]
     }
