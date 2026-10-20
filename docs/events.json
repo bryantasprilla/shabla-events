@@ -1,161 +1,6 @@
 {
-  "generated_at": "2026-10-19T09:50:38.843751+00:00",
+  "generated_at": "2026-10-20T09:25:05.885251+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Веселин Маринов гостува в Добрич с юбилейния концерт „Ти си любовта“",
-          "description": "Веселин Маринов ще гостува в Добрич с юбилейния му концерт „Ти си любовта“."
-        },
-        "en": {
-          "title": "Veselin Marinov visits Dobrich with the anniversary concert \"You Are Love\"",
-          "description": "Veselin Marinov will visit Dobrich with his jubilee concert \"You Are Love\"."
-        },
-        "ro": {
-          "title": "Veselin Marinov în vizită la Dobrici cu concertul jubiliar \"Tu ești dragostea\"",
-          "description": "Veselin Marinov va fi în vizită la Dobrich cu concertul său jubiliar \"Tu ești dragostea\"."
-        }
-      },
-      "id": 382,
-      "title": "Веселин Маринов гостува в Добрич с юбилейния концерт „Ти си любовта“",
-      "date": "2026-10-19",
-      "time": "",
-      "location": "Добрич",
-      "category": "concert",
-      "description": "Веселин Маринов ще гостува в Добрич с юбилейния му концерт „Ти си любовта“.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/veselin-marinov-gostuva-v-dobrich-s-yubileyniya-kontsert-„ti-si-lyubovta“-p732093"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Не подлежи на измами",
-          "description": "Събитието ще се проведе в хотел Континентал Форум Констанца на 19 октомври от 17:00 часа."
-        },
-        "en": {
-          "title": "Not subject to fraud",
-          "description": "The event 'Unsubmissive to Fraud' will take place at Hotel Continental Forum Constanta on October 19th at 17:00."
-        },
-        "ro": {
-          "title": "Nesupus Fraudelor",
-          "description": "Evenimentul 'Nesupus Fraudelor' va avea loc la Hotel Continental Forum Constanța la data de 19 octombrie la ora 17:00."
-        }
-      },
-      "id": 375,
-      "title": "Nesupus Fraudelor",
-      "date": "2026-10-19",
-      "time": "17:00",
-      "location": "Hotel Continental Forum Constanța",
-      "category": "other",
-      "description": "Evenimentul 'Nesupus Fraudelor' va avea loc la Hotel Continental Forum Constanța la data de 19 octombrie la ora 17:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/nesupus-fraudelor-2/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Ромео и Жулиета",
-          "description": "Театрален спектакъл на Ромео и Жулиета, насрочен за 19 октомври 2026 г., от 7:00 ч. в Дома на културата на синдикатите в Констанца."
-        },
-        "en": {
-          "title": "Romeo and Juliet",
-          "description": "A theater performance of Romeo and Juliet scheduled for October 19, 2026, at 7:00 PM in Casa de Cultură a Sindicatelor in Constanța."
-        },
-        "ro": {
-          "title": "ROMEO SI JULIETA",
-          "description": "A theater performance of Romeo and Juliet scheduled for October 19, 2026, at 7:00 PM in Casa de Cultură a Sindicatelor in Constanța."
-        }
-      },
-      "id": 253,
-      "title": "ROMEO SI JULIETA",
-      "date": "2026-10-19",
-      "time": "19:00",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "theater",
-      "description": "A theater performance of Romeo and Juliet scheduled for October 19, 2026, at 7:00 PM in Casa de Cultură a Sindicatelor in Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/romeo-si-julieta-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Ромео и Жулиета – Уилям Шекспир (класически монтаж)",
-          "description": "Класическата пиеса на Уилям Шекспир \"Ромео и Жулиета\" ще бъде представена в Дома на културата в Констанца на 19 октомври от 19:00 ч."
-        },
-        "en": {
-          "title": "19 OCT. CONSTANTA – 🎭 ROMEO AND JULIETA – WILLIAM SHAKESPEARE (classic montage)",
-          "description": "William Shakespeare's classic play 'Romeo and Juliet' will be performed at Casa de Cultură Constanţa on October 19th at 19:00."
-        },
-        "ro": {
-          "title": "19 OCT. CONSTANTA – 🎭 ROMEO SI JULIETA – WILLIAM SHAKESPEARE  (montare clasica)",
-          "description": "William Shakespeare's classic play 'Romeo and Juliet' will be performed at Casa de Cultură Constanţa on October 19th at 19:00."
-        }
-      },
-      "id": 254,
-      "title": "19 OCT. CONSTANTA – 🎭 ROMEO SI JULIETA – WILLIAM SHAKESPEARE  (montare clasica)",
-      "date": "2026-10-19",
-      "time": "19:00",
-      "location": "Casa de Cultură Constanţa",
-      "category": "theater",
-      "description": "William Shakespeare's classic play 'Romeo and Juliet' will be performed at Casa de Cultură Constanţa on October 19th at 19:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/19-oct-constanta-%f0%9f%8e%ad-romeo-si-julieta-william-shakespeare-montare-clasica/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Роковете на Бетовен",
-          "description": "Бетовен е концерт, който ще се проведе в Многофункционалния образователен център за младежта \"Жан Константин\" в Констанца на 19 октомври от 19:30 часа."
-        },
-        "en": {
-          "title": "Beethoven ROCKs",
-          "description": "BEethoven ROCKs is a concert that will take place at the Multifunctional Educational Center for Youth \"Jean Constantin\" in Constanta on October 19 at 19:30."
-        },
-        "ro": {
-          "title": "BEethoven ROCKs",
-          "description": "BEethoven ROCKs este un concert care va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanța pe 19 octombrie la ora 19:30."
-        }
-      },
-      "id": 146,
-      "title": "BEethoven ROCKs",
-      "date": "2026-10-19",
-      "time": "19:30",
-      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
-      "category": "concert",
-      "description": "BEethoven ROCKs este un concert care va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanța pe 19 octombrie la ora 19:30.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/beethoven-rocks-constanta-19-octombrie/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/beethoven-rocks-orchestra-simfonica-bucuresti/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -183,6 +28,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/tae-chun-do-kids/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Баскетбол Серийни победи за ЦСМ Констанца до 17 години в първия турнир от Националното първенство",
+          "description": "ЦСМ Констанца играе в първия турнир на Националното баскетболно първенство на 20 октомври 2026 г. в 10:51 часа."
+        },
+        "en": {
+          "title": "Basketball Victories in a row for CSM Constanta Under-17 at the inaugural tournament of the National Championship",
+          "description": "CSM Constanța Under-17 plays in the inaugural tournament of the National Basketball Championship on 20 October 2026 at 10:51."
+        },
+        "ro": {
+          "title": "Baschet Victorii în serie pentru CSM Constanța Under-17 la turneul inaugural al Campionatului Național",
+          "description": "CSM Constanța Under-17 joacă în turneul inaugural al Campionatului Național de baschet pe data de 20 octombrie 2026 la ora 10:51."
+        }
+      },
+      "id": 393,
+      "title": "Baschet Victorii în serie pentru CSM Constanța Under-17 la turneul inaugural al Campionatului Național",
+      "date": "2026-10-20",
+      "time": "10:51",
+      "location": "Turneul inaugural al Campionatului Național",
+      "category": "sports",
+      "description": "CSM Constanța Under-17 joacă în turneul inaugural al Campionatului Național de baschet pe data de 20 octombrie 2026 la ora 10:51.",
+      "sources": [
+        {
+          "source_id": "ziua_constanta",
+          "source_name": "Ziua de Constanta",
+          "url": "https://www.ziuaconstanta.ro/stiri/sport/baschet-victorii-in-serie-pentru-csm-constanta-under-17-la-turneul-inaugural-al-campionatului-national-957327.html"
         }
       ]
     },
@@ -459,6 +334,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Изложба във Варна показва как отпадъците се превръщат в изкуство",
+          "description": "Фондация „Академия за рециклиращо изкуство“ ще открие на 23 октомври експозиция в Културен център „Морско казино“ във Варна, която показва творби, създадени от деца от детски градини и училища."
+        },
+        "en": {
+          "title": "Exhibition in Varna shows how waste turns into art",
+          "description": "Foundation \"Academy for Recycling Art\" will open on October 23 an exhibition in the Cultural Center \"Sea Casino\" in Varna, which shows works created by children from kindergartens and schools."
+        },
+        "ro": {
+          "title": "O expoziție din Varna arată cum deșeurile se transformă în artă",
+          "description": "Fundația Academia de Artă Reciclată va inaugura în 23 octombrie o expoziție la Centrul Cultural \"Cazinoul Mării\" din Varna, care prezintă lucrări create de copiii din grădinițe și școli."
+        }
+      },
+      "id": 391,
+      "title": "Изложба във Варна показва как отпадъците се превръщат в изкуство",
+      "date": "2026-10-23",
+      "time": "",
+      "location": "Културен център „Морско казино“ във Варна",
+      "category": "exhibition",
+      "description": "Фондация „Академия за рециклиращо изкуство“ ще открие на 23 октомври експозиция в Културен център „Морско казино“ във Варна, която показва творби, създадени от деца от детски градини и училища.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537154"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Коллапс турне: Хакаири, Неонови пророчества, Реч на омразата и Инженер на смъртта в клуб Финикс",
           "description": "Като част от турнето ще се проведат метъл концерти с участието на групи като Hakairi, Neon Prophecies, Hatespeech и Engineer of Death в клуб Phoenix."
         },
@@ -663,6 +568,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/01/festivaluri-octombrie-2026-romania/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/20/muzica-beatles-jazzappella/"
         }
       ]
     },
@@ -1184,6 +1094,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Американски джаз и българска музикална традиция в концерт на Държавна опера Варна",
+          "description": "Симфоничен концерт на Държавна опера Варна ще обърне внимание към американски джаз и българска музикална традиция, с диригентство на Стефан Бояджиев."
+        },
+        "en": {
+          "title": "American jazz and Bulgarian musical tradition in a concert at the State Opera Varna",
+          "description": "A symphonic concert of the State Opera of Varna will draw attention to American jazz and Bulgarian musical tradition, conducted by Stefan Boyadzhiev."
+        },
+        "ro": {
+          "title": "Jazz american și tradiția muzicală bulgară într-un concert al Operei de Stat din Varna",
+          "description": "Concertul simfonic al Operei de Stat din Varna va atrage atenția asupra jazzului american și tradiției muzicale bulgare, sub bagheta dirijorului Stefan Bojadzhiev."
+        }
+      },
+      "id": 392,
+      "title": "Американски джаз и българска музикална традиция в концерт на Държавна опера Варна",
+      "date": "2026-10-29",
+      "time": "19:00",
+      "location": "Държавна опера Варна",
+      "category": "concert",
+      "description": "Симфоничен концерт на Държавна опера Варна ще обърне внимание към американски джаз и българска музикална традиция, с диригентство на Стефан Бояджиев.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537135"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Тържествена церемония за връчване на годишна награда „Шабла“",
           "description": "Тържествена церемония за връчване на годишната награда „Шабла“ ще се проведе на 30 октомври 2026 г. във Зелен образователен център в град Шабла."
         },
@@ -1423,6 +1363,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/08/the-90s-art-and-fashion-tate-britain/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Хилда Казасян, Васил Петров и Теодосий Спасов с концерт в Добрич на 6 ноември",
+          "description": "Хилда Казасян, Васил Петров и Теодосий Спасов ще се съберат за концерт в Добрич на 6 ноември."
+        },
+        "en": {
+          "title": "Hilda Kazasian, Vasil Petrov and Teodosiy Spasov with concert in Dobrich on November 6",
+          "description": "Hilda Kazasian, Vasil Petrov and Teodosiy Spasov will gather for a concert in Dobrich on November 6."
+        },
+        "ro": {
+          "title": "Hilda Kazasian, Vasil Petrov și Teodosi Spasov cu un concert la Dobrici pe 6 noiembrie",
+          "description": "Hilda Kazasian, Vasil Petrov și Teodosi Spasov se vor reuni pentru un concert la Dobrich în 6 noiembrie."
+        }
+      },
+      "id": 390,
+      "title": "Хилда Казасян, Васил Петров и Теодосий Спасов с концерт в Добрич на 6 ноември",
+      "date": "2026-11-06",
+      "time": "19:00",
+      "location": "Добрич",
+      "category": "concert",
+      "description": "Хилда Казасян, Васил Петров и Теодосий Спасов ще се съберат за концерт в Добрич на 6 ноември.",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/hilda-kazasqn-vasil-petrov-i-teodosii-spasov-s-koncert-v-dobrich-na-6-noemvri/117179"
         }
       ]
     },
@@ -3287,12 +3257,17 @@
       "time": "",
       "location": "București",
       "category": "other",
-      "description": "Animest.21, un festival de filme naturiste, are loc în București unde natura va fi subliniată într-un program de filme pe ecrane mari.",
+      "description": "Dr. ANASTASIA DIMITRA performs at ANIMEST, discussing how imperfections of human hands are more seductive than the flawless production of a machine.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/01/animest-2026-bucuresti-filme-program/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/19/animest-dr-anastasia-dimitra/"
         }
       ]
     },
@@ -3382,7 +3357,7 @@
       "time": "",
       "location": "România",
       "category": "other",
-      "description": "TRIOSENCE și songjazzul lor revin cu un turneu în România în octombrie 2026, oferind o experiență muzicală marca Jazz Fan Rising de savurat.",
+      "description": "A detailed article about the NOSTALGIA IMAGINARIUM event in 2026, likely a nightlife or party event, but no specific event details are provided.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -3393,6 +3368,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/13/unghiile-ciocolatii-vedetele-toamnei/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/19/totul-despre-nostalgia-imaginarium-2026/"
         }
       ]
     },
@@ -4573,6 +4553,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/18/ata-si-navodu-ei-de-viata-dragi-parinti/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "\"Пламенни седла\" (1974, реж.: Мел Брукс)",
+          "description": "Прожекция на филма от 1974 г. \"Пламенни седла\" на режисьора Мел Брукс."
+        },
+        "en": {
+          "title": "VIDEODOME | \"BLAZING SADDLES\" (1974, r: Mel Brooks)",
+          "description": "Blazing Saddles is a 1974 American drama film directed by Mel Brooks."
+        },
+        "ro": {
+          "title": "VIDEODOME | “BLAZING SADDLES” (1974, r: Mel Brooks)",
+          "description": "A screening of the 1974 film 'Blazing Saddles' directed by Mel Brooks."
+        }
+      },
+      "id": 394,
+      "title": "VIDEODOME | “BLAZING SADDLES” (1974, r: Mel Brooks)",
+      "date": "",
+      "time": "",
+      "location": "VIDEODOME",
+      "category": "other",
+      "description": "A screening of the 1974 film 'Blazing Saddles' directed by Mel Brooks.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/20/blazing-saddles-1974-mel-brooks/"
         }
       ]
     },
