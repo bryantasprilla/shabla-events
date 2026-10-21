@@ -1,141 +1,6 @@
 {
-  "generated_at": "2026-10-20T09:25:05.885251+00:00",
+  "generated_at": "2026-10-21T09:18:59.023801+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Тае Чун До за деца",
-          "description": "Изпълнение на Тае Чун До Кидс на 20 октомври 2026, от 4:00 ч. в Констанца, Румъния."
-        },
-        "en": {
-          "title": "Tae Chun Do Kids",
-          "description": "Tae Chun Do Kids performance on October 20, 2026, at 4:00 AM in Constanta, Romania."
-        },
-        "ro": {
-          "title": "Tae Chun Do Kids",
-          "description": "Tae Chun Do Kids performance on October 20, 2026, at 4:00 AM in Constanta, Romania."
-        }
-      },
-      "id": 117,
-      "title": "Tae Chun Do Kids",
-      "date": "2026-10-20",
-      "time": "04:00",
-      "location": "Strada Amzacea, nr.11, Constanta, Romania",
-      "category": "other",
-      "description": "Tae Chun Do Kids performance on October 20, 2026, at 4:00 AM in Constanta, Romania.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/tae-chun-do-kids/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Баскетбол Серийни победи за ЦСМ Констанца до 17 години в първия турнир от Националното първенство",
-          "description": "ЦСМ Констанца играе в първия турнир на Националното баскетболно първенство на 20 октомври 2026 г. в 10:51 часа."
-        },
-        "en": {
-          "title": "Basketball Victories in a row for CSM Constanta Under-17 at the inaugural tournament of the National Championship",
-          "description": "CSM Constanța Under-17 plays in the inaugural tournament of the National Basketball Championship on 20 October 2026 at 10:51."
-        },
-        "ro": {
-          "title": "Baschet Victorii în serie pentru CSM Constanța Under-17 la turneul inaugural al Campionatului Național",
-          "description": "CSM Constanța Under-17 joacă în turneul inaugural al Campionatului Național de baschet pe data de 20 octombrie 2026 la ora 10:51."
-        }
-      },
-      "id": 393,
-      "title": "Baschet Victorii în serie pentru CSM Constanța Under-17 la turneul inaugural al Campionatului Național",
-      "date": "2026-10-20",
-      "time": "10:51",
-      "location": "Turneul inaugural al Campionatului Național",
-      "category": "sports",
-      "description": "CSM Constanța Under-17 joacă în turneul inaugural al Campionatului Național de baschet pe data de 20 octombrie 2026 la ora 10:51.",
-      "sources": [
-        {
-          "source_id": "ziua_constanta",
-          "source_name": "Ziua de Constanta",
-          "url": "https://www.ziuaconstanta.ro/stiri/sport/baschet-victorii-in-serie-pentru-csm-constanta-under-17-la-turneul-inaugural-al-campionatului-national-957327.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
-          "description": "ДКТ – Силистра обяви програмата за детските представления, които ще се проведат през октомври."
-        },
-        "en": {
-          "title": "DKT – Silistra announced the program for children’s performances in October",
-          "description": "DKT – Silistra announced the program for the children’s performances, which will be held in October."
-        },
-        "ro": {
-          "title": "DKT – Silistra a anunțat programul spectacolelor pentru copii în octombrie",
-          "description": "DKT – Silistra a anunțat programul spectacolelor pentru copii care vor avea loc în octombrie."
-        }
-      },
-      "id": 17,
-      "title": "ДКТ – Силистра обяви програмата за детските представления през октомври",
-      "date": "2026-10-20",
-      "time": "11:00",
-      "location": "ДКТ – Силистра",
-      "category": "other",
-      "description": "Програма за интеркултурно образование за учебната 2026/2027 година, организирана по проект „Единни в различието, за живота се учим“. Дейността се проведе между 28 септември и 10 октомври 2026 г. от 11:00 до 11:00.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/09/25/dkt-silistra-obyavi-programata-za-detskite-predstavleniya-prez-oktomvri"
-        },
-        {
-          "source_id": "shabla_sabitiya",
-          "source_name": "Shabla.bg — Sabitiya (Events archive)",
-          "url": "https://shabla.bg/events/programa-za-interkulturno-obrazovanie-za-uchebnata-2026-2027-godina-po-proekt-edinni-v-razlichieto-za-zhivota-se-uchim/"
-        },
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/vecherya-za-glupatsi/p628.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Какво ще бъде, какво ще бъде! – ПРЕМЬОРА с Дору Октавиан Думитру",
-          "description": "Театралната премиера с Дору Октавиан Думитру ще се състои в Многофункционалния образователен център за младежта \"Жан Константин\" в Констанца."
-        },
-        "en": {
-          "title": "What-O-Be, O-Be! – PREMIERE with Doru Octavian Dumitru",
-          "description": "The theatrical premiere with Doru Octavian Dumitru will take place at the Multifunctional Educational Center for Youth \"Jean Constantin\" in Constanta."
-        },
-        "ro": {
-          "title": "CE-O FI, O FI! – PREMIERA cu Doru Octavian Dumitru",
-          "description": "Premiera teatrală cu Doru Octavian Dumitru va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” în Constanta."
-        }
-      },
-      "id": 223,
-      "title": "CE-O FI, O FI! – PREMIERA cu Doru Octavian Dumitru",
-      "date": "2026-10-20",
-      "time": "19:00",
-      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
-      "category": "theater",
-      "description": "Un eveniment cu o idee genială programat pentru marți, 20 octombrie la 19:30 în Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” din Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/ce-o-fi-o-fi-premiera-cu-doru-octavian-dumitru-constanta/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/o-idee-geniala-constanta/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -198,6 +63,96 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536976"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Село Българево ще отбележи празника си с фолклорна програма и конен турнир",
+          "description": "Село Българево ще организира фолклорна програма и конен турнир за отбелязване на своето празно."
+        },
+        "en": {
+          "title": "Village of Bulgarevo will mark its holiday with a folklore program and a horse tournament",
+          "description": "The village of Bulgarevo will organize a folklore program and a horse tournament to mark its empty."
+        },
+        "ro": {
+          "title": "Satul Bulgarevo își va sărbători sărbătoarea cu un program folcloric și un turneu de cai",
+          "description": "Satul Bulgarevo va organiza un program folcloric și un turneu de echitație pentru a sărbători acest eveniment."
+        }
+      },
+      "id": 395,
+      "title": "Село Българево ще отбележи празника си с фолклорна програма и конен турнир",
+      "date": "2026-10-21",
+      "time": "",
+      "location": "Село Българево",
+      "category": "other",
+      "description": "Село Българево ще организира фолклорна програма и конен турнир за отбелязване на своето празно.",
+      "sources": [
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/selo-balgarevo-shte-otbelezhi-praznika-si-s-folklorna-programa-i-konen-turnir-p732151"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Читалище „Светлина“ в Генерал Тошево отбелязва 85 години с тържествен концерт",
+          "description": "Читалище „Светлина“ в Генерал Тошево организира тържествен концерт за отбелязване на 85-ото юбилея си."
+        },
+        "en": {
+          "title": "\"Svetlina\" Community Center in General Toshevo celebrates 85 years with a solemn concert",
+          "description": "\"Svetlina\" Community Center in General Toshevo organized a concert to mark its 85th anniversary."
+        },
+        "ro": {
+          "title": "Asociația \"Svetlina\" din General Tosevo sărbătorește 85 de ani cu un concert solemn",
+          "description": "Societatea Civică Svetlina din General Tosevo a organizat un concert solemn pentru a sărbători cea de-a 85-a aniversare."
+        }
+      },
+      "id": 396,
+      "title": "Читалище „Светлина“ в Генерал Тошево отбелязва 85 години с тържествен концерт",
+      "date": "2026-10-21",
+      "time": "",
+      "location": "Читалище „Светлина“, Генерал Тошево",
+      "category": "concert",
+      "description": "Читалище „Светлина“ в Генерал Тошево организира тържествен концерт за отбелязване на 85-ото юбилея си.",
+      "sources": [
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/chitalishte-„svetlina“-v-general-toshevo-otbelyazva-85-godini-s-tarzhestven-kontsert-p732149"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Малки красиви неща“ - театрално представление",
+          "description": "Театрално представление под названием „Малки красиви неща“ се проведе на сряда, 21 октомври 2026 година."
+        },
+        "en": {
+          "title": "\"Little beautiful things\" - theatrical performance",
+          "description": "A theatrical performance entitled \"Little Beautiful Things\" was held on Wednesday, October 21, 2026."
+        },
+        "ro": {
+          "title": "\"Lucruri frumoase mici\" - spectacol de teatru",
+          "description": "Un spectacol de teatru intitulat \"Lucruri frumoase mici\" a avut loc miercuri, 21 octombrie 2026."
+        }
+      },
+      "id": 398,
+      "title": "„Малки красиви неща“ - театрално представление",
+      "date": "2026-10-21",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Театрално представление под названием „Малки красиви неща“ се проведе на сряда, 21 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/malki-krasivi-neshta-teatralno.html"
         }
       ]
     },
@@ -334,6 +289,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Документалният филм „В служба на хората“ ще бъде показан във Варна",
+          "description": "Документалният филм „В служба на хората“ от Стефи Стаменова ще бъде представен във Варна на 22 октомври от 18:30 ч. в Фестивалния и конгресен център. След прожекцията ще следи среща и разговор с професионалните участници."
+        },
+        "en": {
+          "title": "The documentary \"In the Service of the People\" will be shown in Varna",
+          "description": "The documentary film \"In the Service of the People\" by Stefi Stamenova will be presented in Varna on October 22 at 18:30 p.m. at the Festival and Congress Center, followed by a meeting and discussion with the professional participants."
+        },
+        "ro": {
+          "title": "Documentarul \"În slujba poporului\" va fi prezentat la Varna",
+          "description": "Filmul documentar \"În slujba oamenilor\" de Stefi Stamenova va fi prezentat la Varna pe 22 octombrie de la ora 18:30 la Centrul de Festivaluri și Congrese. După proiecție va urma o întâlnire și o discuție cu participanții profesioniști."
+        }
+      },
+      "id": 399,
+      "title": "Документалният филм „В служба на хората“ ще бъде показан във Варна",
+      "date": "2026-10-22",
+      "time": "18:30",
+      "location": "Фестивалния и конгресен център",
+      "category": "other",
+      "description": "Документалният филм „В служба на хората“ от Стефи Стаменова ще бъде представен във Варна на 22 октомври от 18:30 ч. в Фестивалния и конгресен център. След прожекцията ще следи среща и разговор с професионалните участници.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537188"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Изложба във Варна показва как отпадъците се превръщат в изкуство",
           "description": "Фондация „Академия за рециклиращо изкуство“ ще открие на 23 октомври експозиция в Културен център „Морско казино“ във Варна, която показва творби, създадени от деца от детски градини и училища."
         },
@@ -358,6 +343,36 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=537154"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Изложбата „ЖАРАВА: Нишка през времето“",
+          "description": "Изложбата на живопис и керамика на Мариана Чешитева ще бъде открита на 23 октомври в галерия „Графит“ във Варна."
+        },
+        "en": {
+          "title": "The exhibition \"CRANE: A thread through time\"",
+          "description": "The exhibition of paintings and ceramics by Mariana Cheshiteva will be opened on October 23 in the gallery \"Grafit\" in Varna."
+        },
+        "ro": {
+          "title": "Expoziția \"CARAVAN: Un fir în timp\"",
+          "description": "O expoziție de pictură și ceramică a artistei Mariana Cheshiteva va fi inaugurată în 23 octombrie la Galeria Graffit din Varna."
+        }
+      },
+      "id": 401,
+      "title": "Изложбата „ЖАРАВА: Нишка през времето“",
+      "date": "2026-10-23",
+      "time": "18:30",
+      "location": "галерия „Графит“ във Варна",
+      "category": "exhibition",
+      "description": "Изложбата на живопис и керамика на Мариана Чешитева ще бъде открита на 23 октомври в галерия „Графит“ във Варна.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537186"
         }
       ]
     },
@@ -398,6 +413,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/08/classic-for-teens-revine-si-se-extinde/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Световно неизвестна“ открива Синелибри във Варна на 23 октомври",
+          "description": "Френската комедия „Световно неизвестна“ с Изабел Юпер открива 12-ия кино-литературен фестивал „Синелибри“ в Варна на 23 октомври."
+        },
+        "en": {
+          "title": "\"World Unknown\" opens Sinelibri in Varna on October 23",
+          "description": "The French comedy \"World Unknown\" with Isabelle Huppert opens the 12th Cinelibris Film and Literature Festival in Varna on October 23."
+        },
+        "ro": {
+          "title": "\"Necunoscută în lume\" deschide Sinelibri la Varna pe 23 octombrie",
+          "description": "Comedia franceză \"Necunoscută în lume\" cu Isabelle Huppert deschide în 23 octombrie cel de-al 12-lea festival de film și literatură Cinelibris de la Varna."
+        }
+      },
+      "id": 400,
+      "title": "„Световно неизвестна“ открива Синелибри във Варна на 23 октомври",
+      "date": "2026-10-23",
+      "time": "19:30",
+      "location": "Фестивалния и конгресен център",
+      "category": "festival",
+      "description": "Френската комедия „Световно неизвестна“ с Изабел Юпер открива 12-ия кино-литературен фестивал „Синелибри“ в Варна на 23 октомври.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537145"
         }
       ]
     },
@@ -658,6 +703,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/19/rolling-loud-2026-owen-wilson/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/20/martin-gore-a-lansat-cross-whisper/"
         }
       ]
     },
@@ -1399,6 +1449,36 @@
     {
       "translations": {
         "bg": {
+          "title": "ПМГ в Силистра организира XXXV математически турнир „Черноризец Храбър“ на 8 ноември",
+          "description": "ПМГ в Силистра организира XXXV математически турнир с име „Черноризец Храбър“, който ще се проведе на 8 ноември."
+        },
+        "en": {
+          "title": "PMG in Silistra organizes XXXV mathematical tournament \"Chernorizets Braver\" on November 8",
+          "description": "PMG in Silistra organizes XXXV mathematical tournament named \"Chernorizets Braver\", which will be held on November 8."
+        },
+        "ro": {
+          "title": "PMG din Silistra organizează pe 8 noiembrie cel de-al XXXV-lea turneu de matematică \"Cernorizets Hrabar\"",
+          "description": "PMG din Silistra organizează în 8 noiembrie cel de-al XXXV-lea turneu de matematică, intitulat \"Cernorizec Curajos\"."
+        }
+      },
+      "id": 402,
+      "title": "ПМГ в Силистра организира XXXV математически турнир „Черноризец Храбър“ на 8 ноември",
+      "date": "2026-11-08",
+      "time": "",
+      "location": "Силистра",
+      "category": "other",
+      "description": "ПМГ в Силистра организира XXXV математически турнир с име „Черноризец Храбър“, който ще се проведе на 8 ноември.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/10/20/pmg-v-silistra-organizira-xxxv-matematicheski-turnir-chernorizets-hrabar-na-8-noemvri"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Тео, Вио и Костел – Хоризонт Електрик | Стендап комедийно шоу",
           "description": "Стендап комедийно шоу с участието на Тео, Вио и Костел в Многофункционалния образователен център за младежи „Жан Константин“ в Констанца."
         },
@@ -1579,6 +1659,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Еликсирът на любовта",
+          "description": "Събитие, озаглавено \"Еликсирът на любовта\", което ще се проведе в Националния колеж по изкуства \"Кралица Мария\" в Констанца на 15 ноември от 18:30 часа."
+        },
+        "en": {
+          "title": "Elixir of Love",
+          "description": "An event entitled 'The Elixir of Love' that will take place at the National College of Arts 'Regina Maria' Constanta on November 15 at 18:30."
+        },
+        "ro": {
+          "title": "Elixirul dragostei",
+          "description": "Un eveniment intitulat 'Elixirul dragostei' care va avea loc la Colegiul Național de Arte 'Regina Maria' Constanța la data de 15 noiembrie la ora 18:30."
+        }
+      },
+      "id": 403,
+      "title": "Elixirul dragostei",
+      "date": "2026-11-15",
+      "time": "18:30",
+      "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
+      "category": "other",
+      "description": "Un eveniment intitulat 'Elixirul dragostei' care va avea loc la Colegiul Național de Arte 'Regina Maria' Constanța la data de 15 noiembrie la ora 18:30.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/elixirul-dragostei/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Констанца; театър/комедия \"При гинеколога\"",
           "description": "Театър/комедия \"При гинеколога\" ще се играе в Многофункционален образователен младежки център \"Жан Константин\" в понеделник, 16 ноември от 19:00 часа."
         },
@@ -1687,12 +1797,17 @@
       "time": "21:00",
       "location": "Doors Club",
       "category": "other",
-      "description": "Vlad Corb lansează un nou album în clubul Doors Club la Constanța.",
+      "description": "Spectacol dedicat etapei de vârstă 14+ cu durată de aproximativ 85 minute.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/vlad-corb-lansare-de-album-constanta-doors-club-20-noiembrie/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/avioane-de-hartie-de-elise-wilk-spectacol-pt-tineret/"
         }
       ]
     },
@@ -2017,7 +2132,7 @@
       "time": "19:00",
       "location": "Casa de Cultura a Sindicatelor Constanta",
       "category": "concert",
-      "description": "Concertul de la Casa de Cultura a Sindicatelor din Constanța cu participarea lui REGAL VIENEZ este programat pentru 26 decembrie la ora 19:00.",
+      "description": "Un concert cu participarea lui Mihai Bendeac, Mihaela Teleoacǎ, Vlad Drǎgulin și Liviu Pintileasa în Casa de Cultura a Sindicatelor din Constanța.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -2043,6 +2158,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/romeo-si-julieta-constanta-2/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/constanta-bani-din-cer-mihai-bendeac-mihaela-teleoaca-vlad-dragulin-liviu-pintileasa/"
         }
       ]
     },
@@ -2078,6 +2198,51 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/fuego-glas-de-colinda-casa-de-cultura-a-sindicatelor-constanta-27-decembrie/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Фестивал на мъглявината 2027",
+          "description": "Непълнолетни лица (15-18 г.) могат да присъстват на това възрастово ограничено събитие самостоятелно, но трябва да носят декларация."
+        },
+        "en": {
+          "title": "Nebula X Festival 2027",
+          "description": "Minor-aged individuals (15-18) can attend this age-restricted event alone, but must bring a declaration form."
+        },
+        "ro": {
+          "title": "Nebula X Festival 2027",
+          "description": "Minor-aged individuals (15-18) can attend this age-restricted event alone, but must bring a declaration form."
+        }
+      },
+      "id": 161,
+      "title": "Nebula X Festival 2027",
+      "date": "2027-01-01",
+      "time": "",
+      "location": "Dracula Film Festival",
+      "category": "adult_18+",
+      "description": "A fashion event titled 'ART EAST FASHION FESTIVAL' is taking place in 2026, though specific details such as date, time, and location are not provided.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/nebula-x-festival-2027/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/09/28/simon-boswell-dracula-film-festival-2026/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/10/art-east-fashion-festival-2026-iasi/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/21/jean-michel-jarre-concert-romania/"
         }
       ]
     },
@@ -2643,46 +2808,6 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/18/encens-roi-parfumul-lunii-octombrie-2026/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Фестивал на мъглявината 2027",
-          "description": "Непълнолетни лица (15-18 г.) могат да присъстват на това възрастово ограничено събитие самостоятелно, но трябва да носят декларация."
-        },
-        "en": {
-          "title": "Nebula X Festival 2027",
-          "description": "Minor-aged individuals (15-18) can attend this age-restricted event alone, but must bring a declaration form."
-        },
-        "ro": {
-          "title": "Nebula X Festival 2027",
-          "description": "Minor-aged individuals (15-18) can attend this age-restricted event alone, but must bring a declaration form."
-        }
-      },
-      "id": 161,
-      "title": "Nebula X Festival 2027",
-      "date": "",
-      "time": "",
-      "location": "Dracula Film Festival",
-      "category": "adult_18+",
-      "description": "A fashion event titled 'ART EAST FASHION FESTIVAL' is taking place in 2026, though specific details such as date, time, and location are not provided.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/nebula-x-festival-2027/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/28/simon-boswell-dracula-film-festival-2026/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/10/art-east-fashion-festival-2026-iasi/"
         }
       ]
     },
@@ -3397,12 +3522,17 @@
       "time": "",
       "location": "KFC Doritos Loaded",
       "category": "adult_18+",
-      "description": "Degustare de produse gurmance într-o scenă specializată, organizată la KFC Doritos Loaded.",
+      "description": "O nouă perspectivă asupra unui roman clasic, probabila un film sau o spectacolă teatrală, dar nu are date specifice de eveniment.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/03/kfc-doritos-loaded-degustare/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/21/sense-and-sensibility-2026-film/"
         }
       ]
     },
@@ -4583,6 +4713,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/20/blazing-saddles-1974-mel-brooks/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Седмица на модата в Букурещ",
+          "description": "Седмицата на модата \"Мерцедес-Бенц Букурещ СС'27\" ще представи нови форми на изразяване и диалог между индустриите."
+        },
+        "en": {
+          "title": "Bucharest Fashion Week SS'27",
+          "description": "Mercedes-Benz Bucharest Fashion Week SS'27 is set to feature new forms of expression and dialogue between industries."
+        },
+        "ro": {
+          "title": "Mercedes-Benz Bucharest Fashion Week SS’27",
+          "description": "Mercedes-Benz Bucharest Fashion Week SS’27 is set to feature new forms of expression and dialogue between industries."
+        }
+      },
+      "id": 404,
+      "title": "Mercedes-Benz Bucharest Fashion Week SS’27",
+      "date": "",
+      "time": "",
+      "location": "Bucharest",
+      "category": "festival",
+      "description": "Mercedes-Benz Bucharest Fashion Week SS’27 is set to feature new forms of expression and dialogue between industries.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/20/mercedes-benz-bucharest-fashion-week-ss/"
         }
       ]
     },
