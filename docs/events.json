@@ -1,331 +1,6 @@
 {
-  "generated_at": "2026-10-23T09:23:07.284963+00:00",
+  "generated_at": "2026-10-24T09:01:46.370291+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "ТРИОСЕНС и техният сонджаз се завръщат с турне в Румъния през октомври 2026 г.",
-          "description": "ТРИОСЕНС и техният сонджаз се завръщат с турне в Румъния през октомври 2026 г., предлагайки музикално изживяване, на което да се насладите."
-        },
-        "en": {
-          "title": "TRIOSENCE and their songjazz return with a tour in Romania in October 2026",
-          "description": "TRIOSENCE and their songjazz return with a tour in Romania in October 2026, offering a Jazz Fan Rising branded musical experience to be enjoyed."
-        },
-        "ro": {
-          "title": "TRIOSENCE și songjazzul lor revin cu un turneu în România în octombrie 2026",
-          "description": "TRIOSENCE și songjazzul lor revin cu un turneu în România în octombrie 2026, oferind o experiență muzicală marca Jazz Fan Rising de savurat."
-        }
-      },
-      "id": 250,
-      "title": "TRIOSENCE și songjazzul lor revin cu un turneu în România în octombrie 2026",
-      "date": "2026-10-23",
-      "time": "",
-      "location": "România",
-      "category": "other",
-      "description": "A detailed article about the NOSTALGIA IMAGINARIUM event in 2026, likely a nightlife or party event, but no specific event details are provided.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/03/triosence-turneu-romania-2026/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/13/unghiile-ciocolatii-vedetele-toamnei/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/19/totul-despre-nostalgia-imaginarium-2026/"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/sinelibri-2026-tsivilizatsiya-na-zrelishteto.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Изложба във Варна показва как отпадъците се превръщат в изкуство",
-          "description": "Фондация „Академия за рециклиращо изкуство“ ще открие на 23 октомври експозиция в Културен център „Морско казино“ във Варна, която показва творби, създадени от деца от детски градини и училища."
-        },
-        "en": {
-          "title": "Exhibition in Varna shows how waste turns into art",
-          "description": "Foundation \"Academy for Recycling Art\" will open on October 23 an exhibition in the Cultural Center \"Sea Casino\" in Varna, which shows works created by children from kindergartens and schools."
-        },
-        "ro": {
-          "title": "O expoziție din Varna arată cum deșeurile se transformă în artă",
-          "description": "Fundația Academia de Artă Reciclată va inaugura în 23 octombrie o expoziție la Centrul Cultural \"Cazinoul Mării\" din Varna, care prezintă lucrări create de copiii din grădinițe și școli."
-        }
-      },
-      "id": 391,
-      "title": "Изложба във Варна показва как отпадъците се превръщат в изкуство",
-      "date": "2026-10-23",
-      "time": "",
-      "location": "Културен център „Морско казино“ във Варна",
-      "category": "exhibition",
-      "description": "Фондация „Академия за рециклиращо изкуство“ ще открие на 23 октомври експозиция в Културен център „Морско казино“ във Варна, която показва творби, създадени от деца от детски градини и училища.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=537154"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Аида“ - опера",
-          "description": "Представяне на опера „Аида“ на Петък, 23 октомври 2026 г."
-        },
-        "en": {
-          "title": "Aida - opera",
-          "description": "Presentation of the opera \"Aida\" on Friday, 23 October 2026"
-        },
-        "ro": {
-          "title": "\"Aida\" - opera",
-          "description": "Evenimente pentru Vineri 23 Octombrie 2026"
-        }
-      },
-      "id": 432,
-      "title": "„Аида“ - опера",
-      "date": "2026-10-23",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Представяне на опера „Аида“ на Петък, 23 октомври 2026 г.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/aida-opera23102026.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Есенна нощ на галериите",
-          "description": "Есенна нощ на галериите се проведе между Петък, 23 октомври и Събота, 24 октомври 2026 година."
-        },
-        "en": {
-          "title": "Autumn night of galleries",
-          "description": "Autumn Night of Galleries takes place between Friday, October 23 and Saturday, October 24, 2026."
-        },
-        "ro": {
-          "title": "Noaptea galeriilor de toamnă",
-          "description": "Noaptea de toamnă a galeriilor a avut loc între vineri, 23 octombrie și sâmbătă, 24 octombrie 2026."
-        }
-      },
-      "id": 433,
-      "title": "Есенна нощ на галериите",
-      "date": "2026-10-23",
-      "time": "",
-      "location": "Галериите",
-      "category": "exhibition",
-      "description": "Есенна нощ на галериите се проведе между Петък, 23 октомври и Събота, 24 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/esenna-nosht-na-muzeite-i-galeriite.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Изложбата „Студентска практика – 2026“ се открива в Тутракан на 23 октомври",
-          "description": "Изложбата „Студентска практика – 2026“ се открива в Тутракан на 23 октомври."
-        },
-        "en": {
-          "title": "Exhibition \"Student Internship – 2026\" opens in Tutrakan on October 23",
-          "description": "The exhibition \"Student Internship – 2026\" opens in Tutrakan on October 23."
-        },
-        "ro": {
-          "title": "Expoziția \"Practică studențească – 2026\" se deschide la Tutrakan în 23 octombrie",
-          "description": "Expoziția \"Practică Studențească – 2026\" a fost inaugurată la Tutrakan în 23 octombrie."
-        }
-      },
-      "id": 435,
-      "title": "Изложбата „Студентска практика – 2026“ се открива в Тутракан на 23 октомври",
-      "date": "2026-10-23",
-      "time": "",
-      "location": "Тутракан",
-      "category": "exhibition",
-      "description": "Изложбата „Студентска практика – 2026“ се открива в Тутракан на 23 октомври.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/10/22/izlozhbata-studentska-praktika-2026-se-otkriva-v-tutrakan-na-23-oktomvri"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Сърцето на Шакти – Майсторски клас с Ави",
-          "description": "Майсторски клас с Ави върху Сърцето на Шакти, който ще се проведе в Студио Уан Йога на 23 октомври 2026 г., от 16:00 часа."
-        },
-        "en": {
-          "title": "The Heart of Shakti Masterclass with Avi",
-          "description": "A masterclass with Avi on the Heart of Shakti, taking place at One Yoga Studio on October 23, 2026, starting at 16:00."
-        },
-        "ro": {
-          "title": "The Heart of Shakti – Masterclass with Avi",
-          "description": "A masterclass with Avi on the Heart of Shakti, taking place at One Yoga Studio on October 23, 2026, starting at 16:00."
-        }
-      },
-      "id": 409,
-      "title": "The Heart of Shakti – Masterclass with Avi",
-      "date": "2026-10-23",
-      "time": "16:00",
-      "location": "One Yoga Studio",
-      "category": "other",
-      "description": "A masterclass with Avi on the Heart of Shakti, taking place at One Yoga Studio on October 23, 2026, starting at 16:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/the-heart-of-shakti-masterclass-with-avi/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Район „Одесос“ отбелязва празника си с турове из галериите на Варна",
-          "description": "Район „Одесос“ ще организира пешеходни изкуствоведски турове из галериите на Варна като част от събитието „Есенна нощ на галериите“. Празничната програма започва на 23 октомври в 17:00 ч."
-        },
-        "en": {
-          "title": "\"Odessos\" district celebrates its holiday with tours through the galleries of Varna",
-          "description": "The Odessos District will organise walking art tours through the galleries of Varna as part of the event \"Autumn Night of the Galleries\".The festive program begins on October 23 at 17:00."
-        },
-        "ro": {
-          "title": "Districtul Odessos își sărbătorește sărbătoarea cu tururi ale galeriilor din Varna",
-          "description": "Districtul Odessos va organiza tururi de artă pe jos prin galeriile din Varna, ca parte a evenimentului \"Noaptea de toamnă a galeriilor\". Programul festiv începe pe 23 octombrie la ora 17:00."
-        }
-      },
-      "id": 434,
-      "title": "Район „Одесос“ отбелязва празника си с турове из галериите на Варна",
-      "date": "2026-10-23",
-      "time": "17:00",
-      "location": "галериите на Варна",
-      "category": "other",
-      "description": "Район „Одесос“ ще организира пешеходни изкуствоведски турове из галериите на Варна като част от събитието „Есенна нощ на галериите“. Празничната програма започва на 23 октомври в 17:00 ч.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=537320"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Изложбата „ЖАРАВА: Нишка през времето“",
-          "description": "Изложбата на живопис и керамика на Мариана Чешитева ще бъде открита на 23 октомври в галерия „Графит“ във Варна."
-        },
-        "en": {
-          "title": "The exhibition \"CRANE: A thread through time\"",
-          "description": "The exhibition of paintings and ceramics by Mariana Cheshiteva will be opened on October 23 in the gallery \"Grafit\" in Varna."
-        },
-        "ro": {
-          "title": "Expoziția \"CARAVAN: Un fir în timp\"",
-          "description": "O expoziție de pictură și ceramică a artistei Mariana Cheshiteva va fi inaugurată în 23 octombrie la Galeria Graffit din Varna."
-        }
-      },
-      "id": 401,
-      "title": "Изложбата „ЖАРАВА: Нишка през времето“",
-      "date": "2026-10-23",
-      "time": "18:30",
-      "location": "галерия „Графит“ във Варна",
-      "category": "exhibition",
-      "description": "Изложбата на живопис и керамика на Мариана Чешитева ще бъде открита на 23 октомври в галерия „Графит“ във Варна.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=537186"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Коллапс турне: Хакаири, Неонови пророчества, Реч на омразата и Инженер на смъртта в клуб Финикс",
-          "description": "Като част от турнето ще се проведат метъл концерти с участието на групи като Hakairi, Neon Prophecies, Hatespeech и Engineer of Death в клуб Phoenix."
-        },
-        "en": {
-          "title": "Collapse Tour: Hakairi, Neon Prophecies, Hatespeech și Engineer of Death în club Phoenix",
-          "description": "As part of the Collapse tour, metal music shows will take place with the presence of Hakairi, Neon Prophecies, Hatespeech and Engineer of Death in Club Phoenix."
-        },
-        "ro": {
-          "title": "Collapse Tour: Hakairi, Neon Prophecies, Hatespeech și Engineer of Death în club Phoenix",
-          "description": "În cadrul turului Collapse, se vor desfășura spectacole de muzică metal cu presența grupurilor Hakairi, Neon Prophecies, Hatespeech și Engineer of Death în Club Phoenix."
-        }
-      },
-      "id": 147,
-      "title": "Collapse Tour: Hakairi, Neon Prophecies, Hatespeech și Engineer of Death în club Phoenix",
-      "date": "2026-10-23",
-      "time": "19:00",
-      "location": "Club Phoenix",
-      "category": "adult_18+",
-      "description": "În cadrul turului Collapse, se vor desfășura spectacole de muzică metal cu presența grupurilor Hakairi, Neon Prophecies, Hatespeech și Engineer of Death în Club Phoenix.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/collapse-tour-hakairi-neon-prophecies-hatespeech-si-engineer-of-death-in-club-phoenix/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/collapse-tour-hakairi-neon-prophecies-si-engineer-of-death-in-club-phoenix/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/08/classic-for-teens-revine-si-se-extinde/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Световно неизвестна“ открива Синелибри във Варна на 23 октомври",
-          "description": "Френската комедия „Световно неизвестна“ с Изабел Юпер открива 12-ия кино-литературен фестивал „Синелибри“ в Варна на 23 октомври."
-        },
-        "en": {
-          "title": "\"World Unknown\" opens Sinelibri in Varna on October 23",
-          "description": "The French comedy \"World Unknown\" with Isabelle Huppert opens the 12th Cinelibris Film and Literature Festival in Varna on October 23."
-        },
-        "ro": {
-          "title": "\"Necunoscută în lume\" deschide Sinelibri la Varna pe 23 octombrie",
-          "description": "Comedia franceză \"Necunoscută în lume\" cu Isabelle Huppert deschide în 23 octombrie cel de-al 12-lea festival de film și literatură Cinelibris de la Varna."
-        }
-      },
-      "id": 400,
-      "title": "„Световно неизвестна“ открива Синелибри във Варна на 23 октомври",
-      "date": "2026-10-23",
-      "time": "19:30",
-      "location": "Фестивалния и конгресен център",
-      "category": "festival",
-      "description": "Френската комедия „Световно неизвестна“ с Изабел Юпер открива 12-ия кино-литературен фестивал „Синелибри“ в Варна на 23 октомври.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=537145"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -388,6 +63,11 @@
           "source_id": "portal_silistra",
           "source_name": "Portal Silistra",
           "url": "https://www.portal-silistra.eu/news/20350"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/mecho-puh-myuzikal-za-detsa2026.html"
         }
       ]
     },
@@ -412,12 +92,17 @@
       "time": "",
       "location": "Mangalia",
       "category": "festival",
-      "description": "Festivalul Național de Muzică Folk La Malul Mării se desfășoară în Mangalia de la 24-25 octombrie 2026.",
+      "description": "Un eveniment cultural-educativ inedit și unic în județul Constanța a avut loc la Mangalia, cu transmisiuni Live de la... dedicat expozițiilor pentru Nadiei Comăneci și benzii desenate românești verșinate la scoala Gala Galaction.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/festivalul-national-de-muzica-folk-la-malul-marii-2026/"
+        },
+        {
+          "source_id": "mangalianews_events",
+          "source_name": "MangaliaNews.ro — Evenimente & Recomandari",
+          "url": "https://www.mangalianews.ro/2026/10/17/duplex-video-10-perfect-la-mangalia-doua-expozitii-dedicate-nadiei-comaneci-si-benzii-desenate-romanesti-vernisate-la-scoala-gala-galaction/"
         }
       ]
     },
@@ -448,6 +133,96 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/halloween-party-la-ferma-voicu-agigea/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Замръзвано сърце - детски спектакъл",
+          "description": "Детски спектакъл „Замръзвано сърце“ ще се представи на събота, 24 октомври 2026 година."
+        },
+        "en": {
+          "title": "Frozen Heart - children's show",
+          "description": "Children's show \"Frozen Heart\" will be presented on Saturday, October 24, 2026."
+        },
+        "ro": {
+          "title": "Inimă înghețată - spectacol pentru copii",
+          "description": "Spectacolul pentru copii \"Frozen Heart\" va fi prezentat sâmbătă, 24 octombrie 2026."
+        }
+      },
+      "id": 448,
+      "title": "Замръзвано сърце - детски спектакъл",
+      "date": "2026-10-24",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Детски спектакъл „Замръзвано сърце“ ще се представи на събота, 24 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/zamraznalodetski-spektakal.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Живи динозаври с Ники Станоев - детски спектакъл",
+          "description": "Детски спектакъл с участието на Ники Станоев, които ще се представят като живи динозаври."
+        },
+        "en": {
+          "title": "Live dinosaurs with Niki Stanoev - children's show",
+          "description": "A children's show with the participation of Niki Stanoev, who will present themselves as living dinosaurs."
+        },
+        "ro": {
+          "title": "Dinozauri vii cu Niki Stanoev - spectacol pentru copii",
+          "description": "Spectacol pentru copii cu participarea lui Niki Stanoev, care se va prezenta ca dinozauri vii."
+        }
+      },
+      "id": 449,
+      "title": "Живи динозаври с Ники Станоев - детски спектакъл",
+      "date": "2026-10-24",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Детски спектакъл с участието на Ники Станоев, които ще се представят като живи динозаври.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/zhivi-dinozavri-s-niki-stanoev-detski-spektakal.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Програмата на Държавен куклен театър - Варна 24-25.10",
+          "description": "Държавен куклен театър се проведе в Варна от събота, 24 октомври до неделя, 25 октомври 2026 година."
+        },
+        "en": {
+          "title": "The program of State Puppet Theatre - Varna 24-25.10",
+          "description": "State Puppet Theatre took place in Varna from Saturday, October 24 to Sunday, October 25, 2026."
+        },
+        "ro": {
+          "title": "Programul Teatrului de Stat de Păpuși - Varna 24-25.10",
+          "description": "Teatrul de păpuși de stat a avut loc la Varna de sâmbătă, 24 octombrie până duminică, 25 octombrie 2026."
+        }
+      },
+      "id": 450,
+      "title": "Програмата на Държавен куклен театър - Варна 24-25.10",
+      "date": "2026-10-24",
+      "time": "",
+      "location": "Варна",
+      "category": "theater",
+      "description": "Държавен куклен театър се проведе в Варна от събота, 24 октомври до неделя, 25 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/programata-na-darzhaven-kuklen-teatar-varna-24-251.html"
         }
       ]
     },
@@ -703,6 +478,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/22/lily-seabird-lightspheres-on-the-way/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/23/the-gentlemen-productia-sezonului-3/"
         }
       ]
     },
@@ -1423,6 +1203,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/18/elf-traps-pas-in-doi/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/stand-up-comedy-cu-bordea-cortea-primiti-cu-gluma-5/"
         }
       ]
     },
@@ -2134,6 +1919,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Представяне на новата книга на Станислав Пенев „Една любов възвишена – жена“",
+          "description": "Представяне на новата книга на автор Станислав Пенев, петък, 06/11/2026г."
+        },
+        "en": {
+          "title": "Presentation of Stanislav Penev's new book \"One sublime love – a woman\"",
+          "description": "Presentation of the new book by Stanislav Penev, Friday, 06/11/2026g."
+        },
+        "ro": {
+          "title": "Prezentarea noii cărți a lui Stanislav Penev „O iubire sublimă – femeie”",
+          "description": "Prezentarea noii cărți a autorului Stanislav Penev, vineri, 06/11/2026"
+        }
+      },
+      "id": 451,
+      "title": "Представяне на новата книга на Станислав Пенев „Една любов възвишена – жена“",
+      "date": "2026-11-06",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Представяне на новата книга на автор Станислав Пенев, петък, 06/11/2026г.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/edna-lyubov-vazvishena-zhena/p1337.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Новият албум на \"КВЛТ\"",
           "description": "На 6 ноември от 7:00 ч. в клуб \"Феникс\" в Констанца ще се състои представянето на новия албум \"КВЛТ\"."
         },
@@ -2152,7 +1967,7 @@
       "time": "19:00",
       "location": "Phoenix Club",
       "category": "concert",
-      "description": "The Groovy Bastards are hosting the album launch for their new release “KVLT” at the Phoenix Club in Constanța on November 6th at 7:00 PM.",
+      "description": "Owen Wilson și Matt Rife dezlănțuiesc pe marile ecrane haosul de la cel mai mare festival hip-hop din lume, conform anunțului din Zile și Nopti.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -2163,6 +1978,16 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/08/the-90s-art-and-fashion-tate-britain/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/23/rolling-loud-the-movie-festival/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/24/winnie-the-pooh-100-de-ani-istorie-pop-culture/"
         }
       ]
     },
@@ -2223,6 +2048,36 @@
           "source_id": "silistra_news",
           "source_name": "Silistra News",
           "url": "https://silistranews.net/2026/10/20/pmg-v-silistra-organizira-xxxv-matematicheski-turnir-chernorizets-hrabar-na-8-noemvri"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Камерния оркестър на варненските учители „АНИМА“ със солисти деца от НУИ „Д. Христов“ – гр. Варна",
+          "description": "Камерния оркестър на варненските учители „АНИМА“ ще изпълни музика със съвместно участие на солисти деца от НУИ „Д. Христов“."
+        },
+        "en": {
+          "title": "The Chamber Orchestra of Varna Teachers \"ANIMA\" with soloists children from the National Institute of Music \"D. Hristov\" – Varna",
+          "description": "The chamber orchestra of Varna teachers \"ANIMA\" will perform music with the joint participation of soloists children from the \"D. Hristov\" National Academy of Music."
+        },
+        "ro": {
+          "title": "Orchestra de cameră a profesorilor din Varna \"ANIMA\" cu copii solisti de la Școala Națională de Muzică \"D. Hristov\" - Varna",
+          "description": "Orchestra de cameră a profesorilor din Varna \"ANIMA\" va interpreta muzică cu participarea comună a copiilor soliști de la Școala Națională de Muzică \"D. Hristov\"."
+        }
+      },
+      "id": 452,
+      "title": "Камерния оркестър на варненските учители „АНИМА“ със солисти деца от НУИ „Д. Христов“ – гр. Варна",
+      "date": "2026-11-09",
+      "time": "",
+      "location": "гр. Варна",
+      "category": "concert",
+      "description": "Камерния оркестър на варненските учители „АНИМА“ ще изпълни музика със съвместно участие на солисти деца от НУИ „Д. Христов“.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/anima2026/p1338.html"
         }
       ]
     },
@@ -2313,6 +2168,76 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/smqh/p1328.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "ДИГИТАЛНИ КОЛАЖИ",
+          "description": "Един цифров изложба, който ще се проведе на сряда, 11 ноември 2026 година."
+        },
+        "en": {
+          "title": "DIGITAL COLLAGES",
+          "description": "A digital exhibition that will take place on Wednesday, November 11, 2026."
+        },
+        "ro": {
+          "title": "Colaje digitale",
+          "description": "O expoziție digitală, care va avea loc miercuri, 11 noiembrie 2026."
+        }
+      },
+      "id": 453,
+      "title": "ДИГИТАЛНИ КОЛАЖИ",
+      "date": "2026-11-11",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Един цифров изложба, който ще се проведе на сряда, 11 ноември 2026 година.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/digitalni-kolazhi/p1339.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Moving Body събира във Варна отличени артисти и международно танцово кино",
+          "description": "Фестивалът Moving Body представя премиера за Варна, отличени спектакли и международно танцово кино, с акцент върху 40 години на сцена на Галина Борисова."
+        },
+        "en": {
+          "title": "Moving Body brings together in Varna distinguished artists and international dance cinema",
+          "description": "The Moving Body Festival presents the premiere for Varna, award-winning performances and international dance cinema, with an emphasis on 40 years on the stage of Galina Borisova."
+        },
+        "ro": {
+          "title": "Moving Body aduce la Varna artiști renumiți și un cinematograf internațional de dans",
+          "description": "Festivalul Moving Body prezintă premiera din Varna, spectacole premiate și cinematografie internațională de dans, cu accent pe cei 40 de ani de activitate pe scenă ai Galinei Borisova."
+        }
+      },
+      "id": 383,
+      "title": "Moving Body събира във Варна отличени артисти и международно танцово кино",
+      "date": "2026-11-13",
+      "time": "",
+      "location": "Варна",
+      "category": "festival",
+      "description": "Фестивалът Moving Body представя премиера за Варна, отличени спектакли и международно танцово кино, с акцент върху 40 години на сцена на Галина Борисова.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537105"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/kontsert-na/p1340.html"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/kontsert-na-1/p1341.html"
         }
       ]
     },
@@ -2463,6 +2388,36 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536944"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "12 ДУХОВИ ИНСТРУМЕНТАЛИСТА И ЕДИН КОНТРАБАСИСТ",
+          "description": "Музыкален концерт с 12 дуовни инструменталисти и един контрабасист на неделя, 15 ноември 2026 година."
+        },
+        "en": {
+          "title": "12 SPIRITS OF AN INSTRUMENTALIST AND ONE DOUBLE BASSIST",
+          "description": "Musical concert with 12 double instrumentalists and one double bassist on Sunday, November 15, 2026."
+        },
+        "ro": {
+          "title": "12 fantome ale unui instrumentist și un contrabasist",
+          "description": "Concert muzical cu 12 instrumentiști duo și un contrabasist duminică, 15 noiembrie 2026."
+        }
+      },
+      "id": 454,
+      "title": "12 ДУХОВИ ИНСТРУМЕНТАЛИСТА И ЕДИН КОНТРАБАСИСТ",
+      "date": "2026-11-15",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "Музыкален концерт с 12 дуовни инструменталисти и един контрабасист на неделя, 15 ноември 2026 година.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/12-duhovi-instrumentalista-i-edin-kontrabasist/p1342.html"
         }
       ]
     },
@@ -2774,6 +2729,96 @@
     {
       "translations": {
         "bg": {
+          "title": "Таня Туртуряну @doors",
+          "description": "Таня Туртуряну изнася концерт в клуб Дорс на 26 ноември от 9:00 часа."
+        },
+        "en": {
+          "title": "Tania Turtureanu @doors",
+          "description": "Tania Turtureanu performs at Doors Club on Thursday, November 26 at 9:00 PM."
+        },
+        "ro": {
+          "title": "Tania Turtureanu @doors",
+          "description": "Tania Turtureanu performs at Doors Club on Thursday, November 26 at 9:00 PM."
+        }
+      },
+      "id": 455,
+      "title": "Tania Turtureanu @doors",
+      "date": "2026-11-26",
+      "time": "21:00",
+      "location": "Doors Club",
+      "category": "concert",
+      "description": "Tania Turtureanu performs at Doors Club on Thursday, November 26 at 9:00 PM.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/tania-turtureanu-doors/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Човек на луната │ Излиза нов сингъл",
+          "description": "Събитие за пускане на нов сингъл в клуба в Констанца на 27 ноември 2026 г., започващо в 9:00 часа."
+        },
+        "en": {
+          "title": "om la lună │ New Single Release",
+          "description": "A new single release event at Doors Club in Constanța on November 27, 2026, starting at 9:00 PM."
+        },
+        "ro": {
+          "title": "om la lună │ New Single Release",
+          "description": "A new single release event at Doors Club in Constanța on November 27, 2026, starting at 9:00 PM."
+        }
+      },
+      "id": 456,
+      "title": "om la lună │ New Single Release",
+      "date": "2026-11-27",
+      "time": "21:00",
+      "location": "Doors Club",
+      "category": "other",
+      "description": "A new single release event at Doors Club in Constanța on November 27, 2026, starting at 9:00 PM.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/om-la-luna-%e2%94%82-%f0%9d%97%a1%f0%9d%97%b2%f0%9d%98%84-%f0%9d%97%a6%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%b4%f0%9d%97%b9%f0%9d%97%b2-%f0%9d%97%a5%f0%9d%97%b2%f0%9d%97%b9%f0%9d%97%b2%f0%9d%97%ae-5/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Празник на рибената чорба, 2026",
+          "description": "Празник посветен на рибената чорба се провежда на градския площад в Шабла на 5 декември 2026 г., започвайки си в 11:30."
+        },
+        "en": {
+          "title": "Fish Soup Festival, 2026",
+          "description": "A festival dedicated to fish soup is held in the town square in Shabla on December 5, 2026, starting at 11:30."
+        },
+        "ro": {
+          "title": "Sărbătoarea ciorbei de pește, 2026",
+          "description": "Sărbătoarea dedicată ciorbei de pește are loc în piața orașului Șabla pe 5 decembrie 2026, începând cu ora 11:30."
+        }
+      },
+      "id": 446,
+      "title": "Празник на рибената чорба, 2026",
+      "date": "2026-12-05",
+      "time": "11:30",
+      "location": "Градски площад, гр. Шабла",
+      "category": "other",
+      "description": "Празник посветен на рибената чорба се провежда на градския площад в Шабла на 5 декември 2026 г., започвайки си в 11:30.",
+      "sources": [
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/praznik-na-ribenata-chorba-2026/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Отмъстителите: Завръщането на Края (2017)",
           "description": "Повторно представяне на филма \"Отмъстителите: Краят на играта\" с тема \"Завръщане в бъдещето\"."
         },
@@ -3053,6 +3098,46 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/new-year-concert-constanta/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/teis-semeys-midnight-mess-danemarca-estonia-turcia-italia-mexic-letoniajazz-fan-rising-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Благотворителен концерт на товари",
+          "description": "Констанца, 2026 – Групата кани феновете и любителите на рок музиката на благотворителен концерт в рамките на 14-годишния юбилей на музиката."
+        },
+        "en": {
+          "title": "Charity Concert Cargo",
+          "description": "Constanta, 2026 – The band CARGO invites fans and lovers of rock music to a charity concert in the framework of the 14th anniversary of music."
+        },
+        "ro": {
+          "title": "Concert caritabil Cargo",
+          "description": "Constanța, 2026 – Trupa CARGO invită fanii și iubitorii muzicii rock la un concert caritabil în cadrul aniversarului de 14 ani de muzică."
+        }
+      },
+      "id": 328,
+      "title": "Concert caritabil Cargo",
+      "date": "2026-12-26",
+      "time": "20:00",
+      "location": "Constanța",
+      "category": "concert",
+      "description": "Constanța, 2026 – Trupa CARGO invită fanii și iubitorii muzicii rock la un concert caritabil în cadrul aniversarului de 14 ani de muzică.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/regal-vienez-concert-extraordinar-de-craciun-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/constanta-concert-caritabil-cargo/"
         }
       ]
     },
@@ -3633,6 +3718,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/21/morandi-lanseaza-samba-ritmuri-fresh/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/23/trupa-byron-euforia-turneu-20-de-ani/"
         }
       ]
     },
@@ -4157,7 +4247,7 @@
       "time": "",
       "location": "Fantomel",
       "category": "other",
-      "description": "Francis On My Mind lansează un nou EP numit „Ars Valendi”. Aceasta este o notitie despre o lansare de album în contextul vieții noptii, dar nu specifică un eveniment cu data și locul de sosire.",
+      "description": "O adevărată explozie de muzică care începe de la origini și se termină la prezent, trecând prin doină, horă, plâns și râs, în cadrul evenimentului dedicat autismului organizat de Lupii lui Calancea.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -4173,6 +4263,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/16/trupa-gramofone-lanseaza-ordinary/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/lupii-lui-calancea-14-ani-music-for-autism/"
         }
       ]
     },
@@ -4899,36 +4994,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Благотворителен концерт на товари",
-          "description": "Констанца, 2026 – Групата кани феновете и любителите на рок музиката на благотворителен концерт в рамките на 14-годишния юбилей на музиката."
-        },
-        "en": {
-          "title": "Charity Concert Cargo",
-          "description": "Constanta, 2026 – The band CARGO invites fans and lovers of rock music to a charity concert in the framework of the 14th anniversary of music."
-        },
-        "ro": {
-          "title": "Concert caritabil Cargo",
-          "description": "Constanța, 2026 – Trupa CARGO invită fanii și iubitorii muzicii rock la un concert caritabil în cadrul aniversarului de 14 ani de muzică."
-        }
-      },
-      "id": 328,
-      "title": "Concert caritabil Cargo",
-      "date": "",
-      "time": "",
-      "location": "Constanța",
-      "category": "concert",
-      "description": "Constanța, 2026 – Trupa CARGO invită fanii și iubitorii muzicii rock la un concert caritabil în cadrul aniversarului de 14 ani de muzică.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/constanta-concert-caritabil-cargo/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Игри в градината на баба и дядо",
           "description": "Спектакъл с традиционна румънска специфика, който продължава около 45 минути, според минималната възраст от 3+."
         },
@@ -5409,36 +5474,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Moving Body събира във Варна отличени артисти и международно танцово кино",
-          "description": "Фестивалът Moving Body представя премиера за Варна, отличени спектакли и международно танцово кино, с акцент върху 40 години на сцена на Галина Борисова."
-        },
-        "en": {
-          "title": "Moving Body brings together in Varna distinguished artists and international dance cinema",
-          "description": "The Moving Body Festival presents the premiere for Varna, award-winning performances and international dance cinema, with an emphasis on 40 years on the stage of Galina Borisova."
-        },
-        "ro": {
-          "title": "Moving Body aduce la Varna artiști renumiți și un cinematograf internațional de dans",
-          "description": "Festivalul Moving Body prezintă premiera din Varna, spectacole premiate și cinematografie internațională de dans, cu accent pe cei 40 de ani de activitate pe scenă ai Galinei Borisova."
-        }
-      },
-      "id": 383,
-      "title": "Moving Body събира във Варна отличени артисти и международно танцово кино",
-      "date": "",
-      "time": "",
-      "location": "Варна",
-      "category": "festival",
-      "description": "Фестивалът Moving Body представя премиера за Варна, отличени спектакли и международно танцово кино, с акцент върху 40 години на сцена на Галина Борисова.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=537105"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Грозната патица от Х. К. Андерсен",
           "description": "В домашен декор, пълен с откровеност, малките ще открият патенце в градина с различни животни."
         },
@@ -5613,6 +5648,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/22/maria-marica-revine-la-sala-radio/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Международен комедиен филмов фестивал",
+          "description": "Третото издание на Международния фестивал на комедийния филм се организира в Юдецкия културен център „Теодор Т. Бурда“."
+        },
+        "en": {
+          "title": "International Comedy Film Festival",
+          "description": "The third edition of the International Comedy Film Festival is being organized at the Teodor T. Burada Județean Cultural Center."
+        },
+        "ro": {
+          "title": "Festivalul Internațional de Film de Comedie",
+          "description": "The third edition of the International Comedy Film Festival is being organized at the Teodor T. Burada Județean Cultural Center."
+        }
+      },
+      "id": 457,
+      "title": "Festivalul Internațional de Film de Comedie",
+      "date": "",
+      "time": "",
+      "location": "CENTRUL CULTURAL JUDEȚEAN TEODOR T. BURADA",
+      "category": "other",
+      "description": "The third edition of the International Comedy Film Festival is being organized at the Teodor T. Burada Județean Cultural Center.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/festivalul-international-de-film-de-comedie/"
         }
       ]
     },
