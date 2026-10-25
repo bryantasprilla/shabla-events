@@ -1,711 +1,6 @@
 {
-  "generated_at": "2026-10-24T09:01:46.370291+00:00",
+  "generated_at": "2026-10-25T09:09:25.913578+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Ледено сърце (Frozen Heart) - детски шоу спектакъл",
-          "description": "Детско шоу спектакъл с име „Ледено сърце“ ще се проведе на събота, 24 октомври 2026 година."
-        },
-        "en": {
-          "title": "Frozen Heart - children's show",
-          "description": "A children's show spectacle called \"Ice Heart\" will be held on Saturday, October 24, 2026."
-        },
-        "ro": {
-          "title": "Inima de gheață (Frozen Heart) - spectacol pentru copii",
-          "description": "Un spectacol pentru copii numit \"Inima de gheață\" va avea loc sâmbătă, 24 octombrie 2026."
-        }
-      },
-      "id": 63,
-      "title": "Ледено сърце (Frozen Heart) - детски шоу спектакъл",
-      "date": "2026-10-24",
-      "time": "",
-      "location": "",
-      "category": "other",
-      "description": "Детско шоу спектакъл с име „Ледено сърце“ ще се проведе на събота, 24 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/ledeno-sartse/p1310.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "70 деца участваха в първия открит областен турнир по джудо в Силистра",
-          "description": "70 деца участват в първия открит областен турнир по джудо в Силистра."
-        },
-        "en": {
-          "title": "70 children participated in the first open regional judo tournament in Silistra",
-          "description": "70 children participated in the first open regional judo tournament in Silistra."
-        },
-        "ro": {
-          "title": "70 de copii au participat la primul turneu regional deschis de judo din Silistra",
-          "description": "70 de copii au participat la primul turneu regional deschis de judo din Silistra."
-        }
-      },
-      "id": 374,
-      "title": "70 деца участваха в първия открит областен турнир по джудо в Силистра",
-      "date": "2026-10-24",
-      "time": "",
-      "location": "Силистра",
-      "category": "sports",
-      "description": "Турнир по баскетбол, който ще се проведе в Силистра на 24 октомври 2026 г.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/10/17/70-detsa-uchastvaha-v-parviya-otkrit-oblasten-turnir-po-dzhudo-v-silistra"
-        },
-        {
-          "source_id": "portal_silistra",
-          "source_name": "Portal Silistra",
-          "url": "https://www.portal-silistra.eu/news/20350"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/mecho-puh-myuzikal-za-detsa2026.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Национален музикален фестивал \"Фолк На Морето\" 2026",
-          "description": "Националният фестивал на фолклорната музика на брега на морето се провежда в Мангалия от 24-25 октомври 2026 г."
-        },
-        "en": {
-          "title": "National Music Festival \"Folk On The Seaside\" 2026",
-          "description": "The National Folk Music Festival La Malul Marii takes place in Mangalia from October 24-25, 2026."
-        },
-        "ro": {
-          "title": "Festivalul Național de Muzică „Folk La Malul Mării” 2026",
-          "description": "Festivalul Național de Muzică Folk La Malul Mării se desfășoară în Mangalia de la 24-25 octombrie 2026."
-        }
-      },
-      "id": 378,
-      "title": "Festivalul Național de Muzică „Folk La Malul Mării” 2026",
-      "date": "2026-10-24",
-      "time": "",
-      "location": "Mangalia",
-      "category": "festival",
-      "description": "Un eveniment cultural-educativ inedit și unic în județul Constanța a avut loc la Mangalia, cu transmisiuni Live de la... dedicat expozițiilor pentru Nadiei Comăneci și benzii desenate românești verșinate la scoala Gala Galaction.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/festivalul-national-de-muzica-folk-la-malul-marii-2026/"
-        },
-        {
-          "source_id": "mangalianews_events",
-          "source_name": "MangaliaNews.ro — Evenimente & Recomandari",
-          "url": "https://www.mangalianews.ro/2026/10/17/duplex-video-10-perfect-la-mangalia-doua-expozitii-dedicate-nadiei-comaneci-si-benzii-desenate-romanesti-vernisate-la-scoala-gala-galaction/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Хелоуин парти във Ферма Войку Аджия",
-          "description": "Хелоуин парти, което се провежда във Ферма Войку Аджиджа от 24 октомври до 1 ноември."
-        },
-        "en": {
-          "title": "Halloween party at Ferma Voicu Agigea",
-          "description": "Halloween party taking place at Ferma Voicu Agigea from October 24 to November 1."
-        },
-        "ro": {
-          "title": "Halloween party la Ferma Voicu Agigea",
-          "description": "Halloween party taking place at Ferma Voicu Agigea from October 24 to November 1."
-        }
-      },
-      "id": 411,
-      "title": "Halloween party la Ferma Voicu Agigea",
-      "date": "2026-10-24",
-      "time": "",
-      "location": "Ferma Voicu Agigea",
-      "category": "other",
-      "description": "Halloween party taking place at Ferma Voicu Agigea from October 24 to November 1.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/halloween-party-la-ferma-voicu-agigea/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Замръзвано сърце - детски спектакъл",
-          "description": "Детски спектакъл „Замръзвано сърце“ ще се представи на събота, 24 октомври 2026 година."
-        },
-        "en": {
-          "title": "Frozen Heart - children's show",
-          "description": "Children's show \"Frozen Heart\" will be presented on Saturday, October 24, 2026."
-        },
-        "ro": {
-          "title": "Inimă înghețată - spectacol pentru copii",
-          "description": "Spectacolul pentru copii \"Frozen Heart\" va fi prezentat sâmbătă, 24 octombrie 2026."
-        }
-      },
-      "id": 448,
-      "title": "Замръзвано сърце - детски спектакъл",
-      "date": "2026-10-24",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Детски спектакъл „Замръзвано сърце“ ще се представи на събота, 24 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/zamraznalodetski-spektakal.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Живи динозаври с Ники Станоев - детски спектакъл",
-          "description": "Детски спектакъл с участието на Ники Станоев, които ще се представят като живи динозаври."
-        },
-        "en": {
-          "title": "Live dinosaurs with Niki Stanoev - children's show",
-          "description": "A children's show with the participation of Niki Stanoev, who will present themselves as living dinosaurs."
-        },
-        "ro": {
-          "title": "Dinozauri vii cu Niki Stanoev - spectacol pentru copii",
-          "description": "Spectacol pentru copii cu participarea lui Niki Stanoev, care se va prezenta ca dinozauri vii."
-        }
-      },
-      "id": 449,
-      "title": "Живи динозаври с Ники Станоев - детски спектакъл",
-      "date": "2026-10-24",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Детски спектакъл с участието на Ники Станоев, които ще се представят като живи динозаври.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/zhivi-dinozavri-s-niki-stanoev-detski-spektakal.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Програмата на Държавен куклен театър - Варна 24-25.10",
-          "description": "Държавен куклен театър се проведе в Варна от събота, 24 октомври до неделя, 25 октомври 2026 година."
-        },
-        "en": {
-          "title": "The program of State Puppet Theatre - Varna 24-25.10",
-          "description": "State Puppet Theatre took place in Varna from Saturday, October 24 to Sunday, October 25, 2026."
-        },
-        "ro": {
-          "title": "Programul Teatrului de Stat de Păpuși - Varna 24-25.10",
-          "description": "Teatrul de păpuși de stat a avut loc la Varna de sâmbătă, 24 octombrie până duminică, 25 octombrie 2026."
-        }
-      },
-      "id": 450,
-      "title": "Програмата на Държавен куклен театър - Варна 24-25.10",
-      "date": "2026-10-24",
-      "time": "",
-      "location": "Варна",
-      "category": "theater",
-      "description": "Държавен куклен театър се проведе в Варна от събота, 24 октомври до неделя, 25 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/programata-na-darzhaven-kuklen-teatar-varna-24-251.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Чигонг терапевтичен 💫 отворен клас за начинаещи",
-          "description": "Открит клас за въведение в терапевтичния Чигонг, който ще се проведе на улица Калугарени № 22, Констанца, от 08:30 часа."
-        },
-        "en": {
-          "title": "QIGONG Therapeutic 💫 open class for beginners",
-          "description": "An open class of introduction to therapeutic Qigong that will take place at Strada Calugareni nr 22, Constanta, at 08:30."
-        },
-        "ro": {
-          "title": "QIGONG Terapeutic 💫 clasa deschisa pentru incepatori",
-          "description": "O clasa deschisa de introducere în Qigong terapeutic care va avea loc la Strada Calugareni nr 22, Constanta, la ora 08:30."
-        }
-      },
-      "id": 124,
-      "title": "QIGONG Terapeutic 💫 clasa deschisa pentru incepatori",
-      "date": "2026-10-24",
-      "time": "08:30",
-      "location": "Strada Calugareni nr 22, 900189 Constanta, Romania",
-      "category": "other",
-      "description": "O clasa deschisa de introducere în Qigong terapeutic care va avea loc la Strada Calugareni nr 22, Constanta, la ora 08:30.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/qigong-terapeutic-%f0%9f%92%ab-clasa-deschisa-pentru-incepatori/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "В действие!",
-          "description": "Конференцията с тема \"В действие\" е насрочена за 24 октомври 2026 г. от 9:00 ч. в Морския университет в Констанца."
-        },
-        "en": {
-          "title": "TEDxConstanta XI | In Action",
-          "description": "TEDxConstanta XI with the theme 'In Action' is scheduled for October 24, 2026, at 9:00 AM at the Maritime University of Constanta."
-        },
-        "ro": {
-          "title": "TEDxConstanta XI | In Action",
-          "description": "TEDxConstanta XI with the theme 'In Action' is scheduled for October 24, 2026, at 9:00 AM at the Maritime University of Constanta."
-        }
-      },
-      "id": 120,
-      "title": "TEDxConstanta XI | In Action",
-      "date": "2026-10-24",
-      "time": "09:00",
-      "location": "Universitatea Maritimă din Constanța",
-      "category": "other",
-      "description": "Concertul de rock și metal cu presența grupurilor Hakairi, Neon Prophecies, Hatespeech și Engineer of Death va avea loc în Phoenix din Constanța. Eventul include reguli de acces specifice.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/tedxconstanta-xi-in-action/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/autumn-decay-eufobia-vathos-see-in-ruta-23/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/01/evenimente-de-moda-octombrie-2026/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/01/festivaluri-octombrie-2026-romania/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/20/muzica-beatles-jazzappella/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/21/hakairi-neon-prophecies-hatespeech-2/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/21/interplay-5-compozitii-romanesti-turneu/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/22/ce-jucarii-folosesc-copiii/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Семинар за семейни съзвездия",
-          "description": "Уъркшоп по СЕМЕЙНИ СЪЗВЕЩЕНИЯ е насрочен на Алеята на Малината в 09:00 часа на 24 октомври 2026 г."
-        },
-        "en": {
-          "title": "Workshop of FAMILY CONSTELLATIONS",
-          "description": "Atelier de CONSTELAȚII FAMILIARE is scheduled on Aleea Zmeurei at 09:00 on October 24, 2026."
-        },
-        "ro": {
-          "title": "Atelier de CONSTELAȚII FAMILIALE",
-          "description": "Atelier de CONSTELAȚII FAMILIALE este programat pe Aleea Zmeurei la 09:00 în data de 24 octombrie 2026."
-        }
-      },
-      "id": 410,
-      "title": "Atelier de CONSTELAȚII FAMILIALE",
-      "date": "2026-10-24",
-      "time": "09:00",
-      "location": "Aleea Zmeurei",
-      "category": "other",
-      "description": "Atelier de CONSTELAȚII FAMILIALE este programat pe Aleea Zmeurei la 09:00 în data de 24 octombrie 2026.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/atelier-de-constelatii-familiale/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Часът на театъра",
-          "description": "Уъркшоп по джинджифилов сладкиш, който ще се проведе в четвъртък, 24 октомври от 11:00 часа на улица Емил Гърляну, № 4б, в Констанца."
-        },
-        "en": {
-          "title": "Theatre Hour",
-          "description": "Gingerbread workshop that will take place on Thursday, October 24 at 11:00 on Emil Gârleanu Street, no 4b, in Constanta."
-        },
-        "ro": {
-          "title": "Ora de teatru",
-          "description": "Atelier de turtă dulce care va avea loc joi, 24 octombrie la 11:00 pe Strada Emil Gârleanu, nr 4b, în Constanta."
-        }
-      },
-      "id": 436,
-      "title": "Ora de teatru",
-      "date": "2026-10-24",
-      "time": "09:00",
-      "location": "STR TRAIAN 20, Constanta, Romania",
-      "category": "theater",
-      "description": "Atelier de turtă dulce care va avea loc joi, 24 octombrie la 11:00 pe Strada Emil Gârleanu, nr 4b, în Constanta.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/ora-de-teatru/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/atelier-de-turta-dulce/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Пясъчен замък",
-          "description": "ПЯСЪЧЕН ЗАМЪК – третото издание на това събитие, което ще се проведе от 25 до 26 септември 2026 г., на Шосеа Индустриала № 12 в Констанца, Румъния."
-        },
-        "en": {
-          "title": "SAND CASTLE – EDITION III-A",
-          "description": "SAND CASTLE – the third edition of this event, taking place from September 25 to 26, 2026, at Șoseaua Industrială nr."
-        },
-        "ro": {
-          "title": "SAND CASTLE – EDIȚIA A III-A",
-          "description": "SAND CASTLE – the third edition of this event, taking place from September 25 to 26, 2026, at Șoseaua Industriala nr. 12 in Constanta, Romania."
-        }
-      },
-      "id": 79,
-      "title": "SAND CASTLE – EDIȚIA A III-A",
-      "date": "2026-10-24",
-      "time": "09:30",
-      "location": "Șoseaua Industriala nr. 12, 900147 Constanta, Romania",
-      "category": "other",
-      "description": "Conferința Transformă NU-ul în DA se desfășoară la Hotel Continental Forum Constanța pe 24 octombrie la ora 09:30, abordând temele legate de curajul de a renunța la practici de copy-paste în vânzări.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/sand-castle-editia-a-iii-a/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/27/ian-sweet-shiverstruck-jilian-medford/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/29/noaptea-alba-a-galeriilor-20-editii/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/09/30/debut-alessia-pop-lanseaza-compromis/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/02/romanian-jewelry-week-2026-8-designeri/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/conferinta-transforma-nu-ul-in-da-curajul-de-a-nu-mai-fi-copy-paste-in-vanzari-2/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/conferinta-transforma-nu-ul-in-da-curajul-de-a-nu-mai-fi-copy-paste-in-vanzari/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/15/cristian-mandeal-deschide-stagiunea-98/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/16/hitchcock-blonde-blond-glacial-hollywood/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/16/whalefall-contratimp-in-abis-premiera/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/16/bukfeszt5-s-a-incheiat/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/19/rolling-loud-2026-owen-wilson/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/20/martin-gore-a-lansat-cross-whisper/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/22/lily-seabird-lightspheres-on-the-way/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/23/the-gentlemen-productia-sezonului-3/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Констанца: Отново на снимачната площадка | Велора в Мамая",
-          "description": "ВЕЛОРА представя музикално събитие с участието на РОУ ЛЕ НОМАД и НЕГРУЛИН в зала в Мамая."
-        },
-        "en": {
-          "title": "Constanta: Back on Set | Velora at The Place Mamaia",
-          "description": "VELORA presents BACK ON SET, a music event featuring RAW LE NOMADE and NEGRULIN at The Place in Mamaia."
-        },
-        "ro": {
-          "title": "Constanta: Back on Set | Velora @ The Place Mamaia",
-          "description": "VELORA presents BACK ON SET, a music event featuring RAW LE NOMADE and NEGRULIN at The Place in Mamaia."
-        }
-      },
-      "id": 300,
-      "title": "Constanta: Back on Set | Velora @ The Place Mamaia",
-      "date": "2026-10-24",
-      "time": "10:00",
-      "location": "The Place Mamaia",
-      "category": "adult_18+",
-      "description": "Ovidio Running 2026 is scheduled to take place on October 24th at 10:00 AM at Perla Mamaia in Constanța.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/constanta-back-on-set-velora/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/ovidio-running-2026-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Малката грозна гъбичка",
-          "description": "Гъбичката е събитие, което ще се проведе на улица „Купеней“ №2 в Констанца, Румъния, на 24 октомври от 11:00 часа."
-        },
-        "en": {
-          "title": "The Nasty Mushroom",
-          "description": "Ciupercuța năzdrăvană is an event that will take place at Strada Cumpenei nr.2 in Constanta, Romania, on October 24 at 11:00."
-        },
-        "ro": {
-          "title": "Ciupercuța năzdrăvană",
-          "description": "Ciupercuța năzdrăvană este o eveniment care va avea loc la Strada Cumpenei nr.2 în Constanta, România, pe data de 24 octombrie la ora 11:00."
-        }
-      },
-      "id": 412,
-      "title": "Ciupercuța năzdrăvană",
-      "date": "2026-10-24",
-      "time": "11:00",
-      "location": "Strada Cumpenei nr.2",
-      "category": "other",
-      "description": "Ciupercuța năzdrăvană este o eveniment care va avea loc la Strada Cumpenei nr.2 în Constanta, România, pe data de 24 octombrie la ora 11:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/ciupercuta-nazdravana/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ОТКРИЙТЕ СВЕТА НА ПОЧИВКИТЕ! 🚢 | Представяне на ИнКруиз – Констанца",
-          "description": "Представяне на компанията в Цветната библиотека в Констанца с темата за откриването на света на ваканциите."
-        },
-        "en": {
-          "title": "DISCOVER THE WORLD OF HOLIDAY! 🚢 | InCruises Presentation – Constanta",
-          "description": "Presentation of InCruises company in the Colorful Library in Constanta with the theme of discovering the world of holidays."
-        },
-        "ro": {
-          "title": "DESCOPERĂ LUMEA VACANȚELOR! 🚢 | Prezentare InCruises – Constanța",
-          "description": "Prezentarea companiei InCruises în Biblioteca Colorată la Constanța cu tematicea descoperirii lumei de vacanțe."
-        }
-      },
-      "id": 413,
-      "title": "DESCOPERĂ LUMEA VACANȚELOR! 🚢 | Prezentare InCruises – Constanța",
-      "date": "2026-10-24",
-      "time": "11:00",
-      "location": "Biblioteca Colorată",
-      "category": "other",
-      "description": "Prezentarea companiei InCruises în Biblioteca Colorată la Constanța cu tematicea descoperirii lumei de vacanțe.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/%f0%9f%8c%8d-descopera-lumea-vacantelor-%f0%9f%9a%a2-prezentare-incruises-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Изкуство и занаяти – Хелоуин!!!",
-          "description": "Изкуство и занаяти – Хелоуин!!! е събитие, което се провежда на 24 октомври 2026 г., от 11:00 ч. на улица „Богдан Вода“ № 2-4."
-        },
-        "en": {
-          "title": "Art & Craft – Halloween!!!",
-          "description": "Art & Craft – Halloween!!! is an event taking place on October 24, 2026, at 11:00 AM on Strada Bogdan Voda, nr."
-        },
-        "ro": {
-          "title": "Art & Craft – Halloween!!!",
-          "description": "Art & Craft – Halloween!!! is an event taking place on October 24, 2026, at 11:00 AM on Strada Bogdan Voda, nr. 2-4."
-        }
-      },
-      "id": 437,
-      "title": "Art & Craft – Halloween!!!",
-      "date": "2026-10-24",
-      "time": "11:00",
-      "location": "Strada Bogdan Voda, nr. 2-4",
-      "category": "other",
-      "description": "Art & Craft – Halloween!!! is an event taking place on October 24, 2026, at 11:00 AM on Strada Bogdan Voda, nr. 2-4.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/art-craft-halloween/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Ден на голямото НЕ",
-          "description": "Денят на Великия НЕ е събитие, което се провежда в Гръцката църква, енорийска църква \"Промяна на лицето\" на 24 октомври от 18:00 часа."
-        },
-        "en": {
-          "title": "Day of the Great NO",
-          "description": "The Day of the Great NOT is an event that takes place at the Greek Church, Parish \"Change of Face\" on October 24 at 18:00."
-        },
-        "ro": {
-          "title": "Ziua Marelui NU",
-          "description": "Ziua Marelui NU este o evenimentă care are loc la Biserica Greacă, Parohia „Schimbarea la Față” pe data de 24 octombrie la ora 18:00."
-        }
-      },
-      "id": 438,
-      "title": "Ziua Marelui NU",
-      "date": "2026-10-24",
-      "time": "18:00",
-      "location": "Biserica Greacă, Parohia „Schimbarea la Față”,",
-      "category": "other",
-      "description": "Ziua Marelui NU este o evenimentă care are loc la Biserica Greacă, Parohia „Schimbarea la Față” pe data de 24 octombrie la ora 18:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/ziua-marelui-nu/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Една нощ във Венеция",
-          "description": "Една нощ във Венеция е събитие с среща в Дома на културата на профсъюзите в Констанца в 18:30 часа."
-        },
-        "en": {
-          "title": "A Night in Venice",
-          "description": "A Night of Venice is an event with an appointment at the House of Culture of the Trade Unions of Constanta at 18:30."
-        },
-        "ro": {
-          "title": "O noapte de Veneția",
-          "description": "O noapte de Veneția este o eveniment cu o programare la Casa de Cultură a Sindicatelor Constanța la ora 18:30."
-        }
-      },
-      "id": 266,
-      "title": "O noapte de Veneția",
-      "date": "2026-10-24",
-      "time": "18:30",
-      "location": "Casa de Cultură a Sindicatelor Constanța",
-      "category": "other",
-      "description": "O noapte de Veneția este o eveniment cu o programare la Casa de Cultură a Sindicatelor Constanța la ora 18:30.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/o-noapte-de-venetia/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/23-octombrie-seara-de-socializare-board-games-by-reconectare-cu-sens/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Ретро парти за игра @Врати",
-          "description": "На 24 октомври от 9:00 ч. в @Doors ще се проведе парти на ретро тема."
-        },
-        "en": {
-          "title": "Retro Play Party at Doors",
-          "description": "A retro-themed party is scheduled to take place at @Doors on October 24th, starting at 9:00 PM."
-        },
-        "ro": {
-          "title": "Retro Play Party @Doors",
-          "description": "A retro-themed party is scheduled to take place at @Doors on October 24th, starting at 9:00 PM."
-        }
-      },
-      "id": 387,
-      "title": "Retro Play Party @Doors",
-      "date": "2026-10-24",
-      "time": "21:00",
-      "location": "@Doors",
-      "category": "other",
-      "description": "A retro-themed party is scheduled to take place at @Doors on October 24th, starting at 9:00 PM.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/retro-play-party-at-doors/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -799,6 +94,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Работилница за тикви",
+          "description": "Работилницата за тикви се провежда в Йон Адам от 11:00 часа."
+        },
+        "en": {
+          "title": "The Workshop of Pumpkins",
+          "description": "The pumpkin workshop takes place at Ion Adam at 11:00."
+        },
+        "ro": {
+          "title": "Atelierul dovlecilor",
+          "description": "Atelierul dovlecilor are loc la Ion Adam la 11:00."
+        }
+      },
+      "id": 459,
+      "title": "Atelierul dovlecilor",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "location": "Ion Adam",
+      "category": "other",
+      "description": "Atelierul dovlecilor are loc la Ion Adam la 11:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/atelierul-dovlecilor/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Риголето",
           "description": "Театър опера Риголето ще се проведе в Дома на културата на профсъюзите в Констанца от 18:30 часа."
         },
@@ -852,7 +177,7 @@
       "time": "19:00",
       "location": "Strada Ion Lahovari nr. 2A, 900726 Constanta, Romania",
       "category": "other",
-      "description": "Un eveniment de logodnă cu participanții patru oameni, două cupluri interșanjabile și o sumă de confuzii și încurcături.",
+      "description": "Un eveniment de logodnă cu participare a patru oameni, două cupluri interșanjabile și o sumă de confuzii și încurcături cu consecințe prelungite.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -893,6 +218,41 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/ada-milea-14-ani-music-for-autism/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Двама мъже шоу-Натантику и Еди Радой",
+          "description": "Шоу на двама мъже, организирано от Натантику и Еди Радой, което ще се проведе в клуб „Дорс“."
+        },
+        "en": {
+          "title": "Two men show-Natanticu and Edi Radoi",
+          "description": "A two-man show organized by Natanticu and Edi Rădoi, which will take place at Doors Club."
+        },
+        "ro": {
+          "title": "Two men show-Natanticu și Edi Rădoi",
+          "description": "Un spectacol de două bărbați organizat de Natanticu și Edi Rădoi, care va avea loc la Doors Club."
+        }
+      },
+      "id": 428,
+      "title": "Two men show-Natanticu și Edi Rădoi",
+      "date": "2026-10-25",
+      "time": "20:00",
+      "location": "Doors Club",
+      "category": "other",
+      "description": "Un spectacol de două bărbați organizat de Natanticu și Edi Rădoi, care va avea loc la Doors Club.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/two-men-show-natanticu-si-edi-radoi/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/constanta-stand-up-comedy-cu-natanticu-si-edi-radoiu-two-men-show/"
         }
       ]
     },
@@ -1028,6 +388,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/dennis-deletant-comunismul-in-romania-lansare-de-carte/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/25/oasis-dont-look-back-in-anger-review/"
         }
       ]
     },
@@ -1333,6 +698,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/workshop-de-bune-maniere-pentru-fetite-si-domnisoare/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/ramane-intre-noi-teatrul-face-show-la-festivalul-international-de-film-de-comedie/"
         }
       ]
     },
@@ -1363,6 +733,36 @@
           "source_id": "shabla_sabitiya",
           "source_name": "Shabla.bg — Sabitiya (Events archive)",
           "url": "https://shabla.bg/events/tarzhestvena-czeremoniya-za-vrachvane-na-godishna-nagrada-shabla-2/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Терапевтичен ЧиГонг – възстановяване, баланс, жизненост",
+          "description": "Събитие на ЧиГонг терапевт, което ще се проведе на 30 октомври от 17:30 часа на ул. Екатерина Варга 20 в Констанца, Румъния, давайки на участниците възможност да възстановят, балансират и увеличат своята жизненост."
+        },
+        "en": {
+          "title": "Therapeutic QiGong – Restoration, Balance, Vitality",
+          "description": "An event of QiGong therapist that will take place on October 30 at 17:30 on Ecaterina Varga Street 20 in Constanta, Romania, giving participants the opportunity to restore, balance and increase their vitality."
+        },
+        "ro": {
+          "title": "QiGong Terapeutic – Refacere, Echilibru, Vitalitate",
+          "description": "Un eveniment de QiGong terapeut care se va desfășura în data de 30 octombrie la ora 17:30 pe Strada Ecaterina Varga 20 din Constanța, România, oferind participanților oportunitatea de a refacere, echilibra și a crește vitalitatea lor."
+        }
+      },
+      "id": 460,
+      "title": "QiGong Terapeutic – Refacere, Echilibru, Vitalitate",
+      "date": "2026-10-30",
+      "time": "17:30",
+      "location": "Strada Ecaterina Varga 20",
+      "category": "other",
+      "description": "Un eveniment de QiGong terapeut care se va desfășura în data de 30 octombrie la ora 17:30 pe Strada Ecaterina Varga 20 din Constanța, România, oferind participanților oportunitatea de a refacere, echilibra și a crește vitalitatea lor.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/qigong-terapeutic-refacere-echilibru-vitalitate/"
         }
       ]
     },
@@ -1423,6 +823,16 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/trooper-constanta-club-phoenix/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/trooper-club-phoenix/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/trooper-constanta-club-phoenix/"
         }
       ]
     },
@@ -1453,6 +863,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/constanta-puya-adevarul-gol-golut/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/puya-fratelli-constanta/"
         }
       ]
     },
@@ -1543,6 +958,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/conferinta-filosofica-simbolurile-marii/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Приключенията на Призрачната Хейзи",
+          "description": "Културно или театрално събитие, озаглавено 'Приключенията на Призрака Хазлия', което ще се проведе на улица Купенеи №2, Констанца, на 31 октомври от 11:00 часа."
+        },
+        "en": {
+          "title": "The Phantom of the Opera",
+          "description": "A cultural or theatrical event entitled 'Intâmplările Fantomei Hazlii' that will take place in Cumpenei Street no.2, Constanta, on October 31 at 11:00."
+        },
+        "ro": {
+          "title": "Întâmplările Fantomei Hazlii",
+          "description": "Un eveniment cultural sau teatral intitulat 'Întâmplările Fantomei Hazlii' care va avea loc în Strada Cumpenei nr.2, Constanta, pe data de 31 octombrie la ora 11:00."
+        }
+      },
+      "id": 461,
+      "title": "Întâmplările Fantomei Hazlii",
+      "date": "2026-10-31",
+      "time": "11:00",
+      "location": "Strada Cumpenei nr.2",
+      "category": "other",
+      "description": "Un eveniment cultural sau teatral intitulat 'Întâmplările Fantomei Hazlii' care va avea loc în Strada Cumpenei nr.2, Constanta, pe data de 31 octombrie la ora 11:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/intamplarile-fantomei-hazlii/"
         }
       ]
     },
@@ -1709,6 +1154,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Феникс след мрак",
+          "description": "Събитие под надслов \"Феникс след мрак\" е насрочено за 31 октомври от 6:30 ч. в Констанца, Румъния."
+        },
+        "en": {
+          "title": "Phoenix after dark",
+          "description": "An event titled 'Phoenix after dark' is scheduled for October 31st at 6:30 PM in Constanta, Romania."
+        },
+        "ro": {
+          "title": "Phoenix after dark",
+          "description": "An event titled 'Phoenix after dark' is scheduled for October 31st at 6:30 PM in Constanta, Romania."
+        }
+      },
+      "id": 462,
+      "title": "Phoenix after dark",
+      "date": "2026-10-31",
+      "time": "18:30",
+      "location": "Constanta, Romania",
+      "category": "adult_18+",
+      "description": "An event titled 'Phoenix after dark' is scheduled for October 31st at 6:30 PM in Constanta, Romania.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/phoenix-after-dark/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Гръцка вечер в ресторант София!",
           "description": "Вечер на гръцка тематика в ресторант София на 31 октомври от 7:00 часа."
         },
@@ -1793,6 +1268,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/trupa-discoteka-dj-andressy-halloween-party/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/white-horse-halloween-party-doors/"
         }
       ]
     },
@@ -2018,6 +1498,36 @@
           "source_id": "dobrudjabg",
           "source_name": "Dobrudzha news agency",
           "url": "https://dobrudjabg.com/novina/hilda-kazasqn-vasil-petrov-i-teodosii-spasov-s-koncert-v-dobrich-na-6-noemvri/117179"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Гримгод + Екзювиат",
+          "description": "Рок Хале е домакин на концерт с участието на групите Grimegod и Exuviath на 7 ноември от 7:30 часа."
+        },
+        "en": {
+          "title": "Grimegod + Exuviath",
+          "description": "Rock Halle hosts a concert featuring the bands Grimegod and Exuviath on November 7th at 7:30 PM."
+        },
+        "ro": {
+          "title": "Grimegod + Exuviath",
+          "description": "Rock Halle hosts a concert featuring the bands Grimegod and Exuviath on November 7th at 7:30 PM."
+        }
+      },
+      "id": 464,
+      "title": "Grimegod + Exuviath",
+      "date": "2026-11-07",
+      "time": "19:30",
+      "location": "Rock Halle",
+      "category": "concert",
+      "description": "Rock Halle hosts a concert featuring the bands Grimegod and Exuviath on November 7th at 7:30 PM.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/grimegod-exuviath/"
         }
       ]
     },
@@ -2562,7 +2072,7 @@
       "time": "21:00",
       "location": "Doors Club",
       "category": "other",
-      "description": "Spectacol dedicat etapei de vârstă 14+ cu durată de aproximativ 85 minute.",
+      "description": "Acesta este un festival inspirat de operele lui Richard Wagner, dar nu au fost specificate date, timp sau locație.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -2573,6 +2083,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/avioane-de-hartie-de-elise-wilk-spectacol-pt-tineret/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/25/festivalul-sonoro-2026-richard-wagner/"
         }
       ]
     },
@@ -2603,6 +2118,11 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536666"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/varna-jazz-days-festival2026.html"
         }
       ]
     },
@@ -2693,6 +2213,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/23/festivalul-meridian-xxi-sonimagicon/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/festivalul-international-de-film-de-comedie/"
         }
       ]
     },
@@ -2938,6 +2463,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/stand-up-comedy-doors/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Какво правим с толкова много глупаци? – Теодор Палеологу",
+          "description": "Теодор Палеологу ще проведе конференция в Казино Констанца, озаглавена \"Ce ne facem cu atâția proști?\""
+        },
+        "en": {
+          "title": "Paleologu House Conferences | What do we do with so many fools? – Theodor Paleologu",
+          "description": "Theodor Paleologu will hold a conference at Cazinoul Constanța titled 'What do we do with so many fools?'"
+        },
+        "ro": {
+          "title": "Conferințele Casei Paleologu | Ce ne facem cu atâția proști? – Theodor Paleologu",
+          "description": "Theodor Paleologu will hold a conference at Cazinoul Constanța titled 'Ce ne facem cu atâția proști?'"
+        }
+      },
+      "id": 465,
+      "title": "Conferințele Casei Paleologu | Ce ne facem cu atâția proști? – Theodor Paleologu",
+      "date": "2026-12-15",
+      "time": "19:30",
+      "location": "Cazinoul Constanța",
+      "category": "other",
+      "description": "Theodor Paleologu will hold a conference at Cazinoul Constanța titled 'Ce ne facem cu atâția proști?'",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/conferintele-casei-paleologu-ce-ne-facem-cu-atatia-prosti-theodor-paleologu-constanta/"
         }
       ]
     },
@@ -5684,6 +5239,96 @@
     {
       "translations": {
         "bg": {
+          "title": "Спектакълът „Детска усмивка“ учи деца в Тутракан на безопасност",
+          "description": "Спектакълът „Детска усмивка“ в Тутракан обучава деца за безопасност."
+        },
+        "en": {
+          "title": "The play \"Child Smile\" teaches children in Tutrakan about safety",
+          "description": "The \"Children's Smile\" play in Tutrakan educates children about safety."
+        },
+        "ro": {
+          "title": "Spectacolul \"Zâmbetul copilului\" îi învață pe copiii din Tutrakan despre siguranță",
+          "description": "Spectacolul \"Zâmbetul Copilului\" din Tutrakan îi educă pe copii în privința siguranței."
+        }
+      },
+      "id": 458,
+      "title": "Спектакълът „Детска усмивка“ учи деца в Тутракан на безопасност",
+      "date": "",
+      "time": "",
+      "location": "Тутракан",
+      "category": "other",
+      "description": "Спектакълът „Детска усмивка“ в Тутракан обучава деца за безопасност.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/10/24/spektakalat-detska-usmivka-uchi-detsa-v-tutrakan-na-bezopasnost"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Петък 13-ти: Кристално езеро (2016)",
+          "description": "Линда Карделини играе в новия сериал \"Кристално езеро\" от вселената \"Петък 13-ти\". Събитието е представяне на сериала в контекста на нощен клуб или летен клуб, тъй като е споменато в дневния ред през нощта."
+        },
+        "en": {
+          "title": "\"Friday the 13th\": Linda Cardellini in \"Crystal Lake\"",
+          "description": "Linda Cardellini plays in the new series \"Crystal Lake\" from the universe \"Friday the 13th\".The event is a presentation of the series in a nightclub or summer club context, as it is mentioned in the agenda at night."
+        },
+        "ro": {
+          "title": "Linda Cardellini joacă în „Crystal Lake”, noul serial din universul „Friday the 13th”",
+          "description": "Linda Cardellini joacă în noul serial „Crystal Lake” din universul „Friday the 13th”. Eventul este o prezentare a serialului într-un context de nightclub sau club de vară, deoarece este menționat în agenda noaptea."
+        }
+      },
+      "id": 467,
+      "title": "Linda Cardellini joacă în „Crystal Lake”, noul serial din universul „Friday the 13th”",
+      "date": "",
+      "time": "",
+      "location": "Crystal Lake",
+      "category": "other",
+      "description": "Linda Cardellini joacă în noul serial „Crystal Lake” din universul „Friday the 13th”. Eventul este o prezentare a serialului într-un context de nightclub sau club de vară, deoarece este menționat în agenda noaptea.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/24/linda-cardellini-crystal-lake-friday-13/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Хелоуин в крепостта – Сигишоара става столица на Хелоуин!",
+          "description": "Едно Хелоуин събитие, което ще превърне Сигишоара в столицата на този празник, с допълнителни подробности, неописани в оригиналния текст."
+        },
+        "en": {
+          "title": "Halloween in Cetate – Sighisoara becomes the capital of Halloween!",
+          "description": "A Halloween event that will turn Sighisoara into the capital of this festivity, with additional details not mentioned in the original text."
+        },
+        "ro": {
+          "title": "Halloween în Cetate – Sighișoara devine capitala Halloweenului!",
+          "description": "Un eveniment Halloween care va transforma Sighișoara în capitala acestei festivități, cu detalii suplimentare neavândi în textul original."
+        }
+      },
+      "id": 468,
+      "title": "Halloween în Cetate – Sighișoara devine capitala Halloweenului!",
+      "date": "",
+      "time": "",
+      "location": "Cetate, Sighișoara",
+      "category": "other",
+      "description": "Un eveniment Halloween care va transforma Sighișoara în capitala acestei festivități, cu detalii suplimentare neavândi în textul original.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/24/halloween-in-cetate-sighisoara-2026/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Ние отваряме сладолед",
           "description": "Сладоледът се отваря на адрес Принципала 123, община Сарикиой, Тулча, на церемония, насрочена за 09:00 часа."
         },
@@ -5708,6 +5353,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/deschidem-gelateria/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Кафенето на изкуствата – първа среща",
+          "description": "Първата среща на Кафенето на изкуствата, която ще се проведе в ресторант София в Констанца от 14:00 часа."
+        },
+        "en": {
+          "title": "The Café of the Arts – First meeting",
+          "description": "The first meeting of Cafeneaua dintre Arte, which will take place at Restaurant Sophia in Constanta at 14:00."
+        },
+        "ro": {
+          "title": "Cafeneaua dintre Arte – Prima întâlnire",
+          "description": "Prima întâlnire a Cafeneauii dintre Arte, care va avea loc la Restaurant Sophia în Constanța la ora 14:00."
+        }
+      },
+      "id": 466,
+      "title": "Cafeneaua dintre Arte – Prima întâlnire",
+      "date": "",
+      "time": "14:00",
+      "location": "Restaurant Sophia, Strada Pescăruș colț cu Strada Unirii, Constanța",
+      "category": "other",
+      "description": "Prima întâlnire a Cafeneauii dintre Arte, care va avea loc la Restaurant Sophia în Constanța la ora 14:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/cafeneaua-dintre-arte-prima-intalnire/"
         }
       ]
     },
@@ -5858,36 +5533,6 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/make-friends-blabla-language-exchange-constanta-every-other-tuesday-recurrent-event/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Двама мъже шоу-Натантику и Еди Радой",
-          "description": "Шоу на двама мъже, организирано от Натантику и Еди Радой, което ще се проведе в клуб „Дорс“."
-        },
-        "en": {
-          "title": "Two men show-Natanticu and Edi Radoi",
-          "description": "A two-man show organized by Natanticu and Edi Rădoi, which will take place at Doors Club."
-        },
-        "ro": {
-          "title": "Two men show-Natanticu și Edi Rădoi",
-          "description": "Un spectacol de două bărbați organizat de Natanticu și Edi Rădoi, care va avea loc la Doors Club."
-        }
-      },
-      "id": 428,
-      "title": "Two men show-Natanticu și Edi Rădoi",
-      "date": "",
-      "time": "20:00",
-      "location": "Doors Club",
-      "category": "other",
-      "description": "Un spectacol de două bărbați organizat de Natanticu și Edi Rădoi, care va avea loc la Doors Club.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/two-men-show-natanticu-si-edi-radoi/"
         }
       ]
     }
