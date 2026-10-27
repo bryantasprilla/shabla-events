@@ -1,131 +1,6 @@
 {
-  "generated_at": "2026-10-26T10:01:03.549928+00:00",
+  "generated_at": "2026-10-27T09:52:31.174717+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "На Димитровден в Крушари отбелязват празника на общината с тържествен концерт",
-          "description": "В Крушари ще се проведе тържествен концерт за отбелязване на Димитровден и празникот на общината."
-        },
-        "en": {
-          "title": "On Dimitrovden in Krushari celebrate the holiday of the municipality with a solemn concert",
-          "description": "In Krushari will be held a solemn concert to mark Dimitrovden and the holiday of the municipality."
-        },
-        "ro": {
-          "title": "De Ziua Sfântului Dimitrie, Krușari sărbătorește ziua municipalității cu un concert solemn",
-          "description": "În Krușari va avea loc un concert solemn pentru a sărbători Ziua lui Dimitrie și sărbătoarea municipală."
-        }
-      },
-      "id": 471,
-      "title": "На Димитровден в Крушари отбелязват празника на общината с тържествен концерт",
-      "date": "2026-10-26",
-      "time": "",
-      "location": "Крушари",
-      "category": "concert",
-      "description": "В Крушари ще се проведе тържествен концерт за отбелязване на Димитровден и празникот на общината.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/na-dimitrovden-v-krushari-otbelyazvat-praznika-na-obshtinata-s-tarzhestven-kontsert-p732303"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Varnapreneurs #37, гост: Силвия Павлова, Wooden spoon",
-          "description": "Гост на събитието е Силвия Павлова, а темата е Wooden spoon."
-        },
-        "en": {
-          "title": "Varnapreneurs #37, guest: Silvia Pavlova, Wooden spoon",
-          "description": "The guest of the event is Silvia Pavlova, and the theme is Wooden spoon."
-        },
-        "ro": {
-          "title": "Varnapreneurs #37, invitată: Silvia Pavlova, Wooden Spoon",
-          "description": "Invitatul evenimentului este Silvia Pavlova, iar tema este Wooden spoon."
-        }
-      },
-      "id": 472,
-      "title": "Varnapreneurs #37, гост: Силвия Павлова, Wooden spoon",
-      "date": "2026-10-26",
-      "time": "",
-      "location": "",
-      "category": "other",
-      "description": "Гост на събитието е Силвия Павлова, а темата е Wooden spoon.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/varnapreneurs-37-gost-silviya-pavlova-wooden-spoon.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Тикви, цветя и игри",
-          "description": "Довлечи кушути ще се проведе на 27 октомври от 10:00 часа на ул. Б-дул Томис, 126, в Констанца, Румъния."
-        },
-        "en": {
-          "title": "Pumpkins, flowers and play🌺",
-          "description": "Dovleci cusuti will take place on October 27 at 10:00 AM on B-dul Tomis, 126, in Constanta, Romania."
-        },
-        "ro": {
-          "title": "Dovleci, flori si joaca🌺",
-          "description": "Dovleci cusuti will take place on October 27 at 10:00 AM on B-dul Tomis, 126, in Constanta, Romania."
-        }
-      },
-      "id": 416,
-      "title": "Dovleci, flori si joaca🌺",
-      "date": "2026-10-26",
-      "time": "10:00",
-      "location": "B-dul Tomis, 126, Constanta, Constanța",
-      "category": "other",
-      "description": "Dovleci cusuti will take place on October 27 at 10:00 AM on B-dul Tomis, 126, in Constanta, Romania.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/dovleci-flori-si-joaca%f0%9f%8c%ba/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/dovleci-cusuti%f0%9f%8e%83/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Щефан Баница – Моята история (премиера)",
-          "description": "Театралната премиера на биографията на Щефан Баница ще се състои в Многофункционалния образователен център за младежта \"Жан Константин\" в Констанца, със спектакъла, насрочен за 19:30 часа."
-        },
-        "en": {
-          "title": "Ștefan Bănică – My Story (Premiere)",
-          "description": "The theatrical premiere of the biography of Ștefan Bănică will take place at the Multifunctional Educational Center for Youth \"Jean Constantin\" in Constanța, with the show scheduled at 19:30."
-        },
-        "ro": {
-          "title": "Ștefan Bănică – Povestea mea (În premieră)",
-          "description": "Premiera teatrală a biografiei lui Ștefan Bănică va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanța, cu spectacolul programat la ora 19:30."
-        }
-      },
-      "id": 247,
-      "title": "Ștefan Bănică – Povestea mea (În premieră)",
-      "date": "2026-10-26",
-      "time": "19:30",
-      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
-      "category": "concert",
-      "description": "Premiera teatrală a biografiei lui Ștefan Bănică va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanța, cu spectacolul programat la ora 19:30.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/stefan-banica-povestea-mea-in-premiera-constanta/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -163,6 +38,101 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/moreto-na-edna-zvezda-izlozhba-zhivopis.html"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/10-godini-chernoto-pile-monospektakal-na-marius-ku.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Спартак“ - балет",
+          "description": "Балет „Спартак“ ще се представи на сцена от вторник, 27 октомври до сряда, 28 октомври 2026 година."
+        },
+        "en": {
+          "title": "\"Spartacus\" - ballet",
+          "description": "Spartak Ballet will perform on stage from Tuesday, October 27 to Wednesday, October 28, 2026."
+        },
+        "ro": {
+          "title": "\"Spartacus\" - balet",
+          "description": "Baletul \"Spartacus\" va juca pe scenă de marți, 27 octombrie până miercuri, 28 octombrie 2026."
+        }
+      },
+      "id": 488,
+      "title": "„Спартак“ - балет",
+      "date": "2026-10-27",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Балет „Спартак“ ще се представи на сцена от вторник, 27 октомври до сряда, 28 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/spartak-balet2026.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Когато котката я няма“ - театрален спектакъл",
+          "description": "Театрален спектакъл „Когато котката я няма“ ще се представи на вторник, 27 октомври 2026 година."
+        },
+        "en": {
+          "title": "\"When the cat is gone\" - theatrical performance",
+          "description": "Theatre show \"When the cat is gone\" will be presented on Tuesday, October 27, 2026."
+        },
+        "ro": {
+          "title": "\"Când pisica a dispărut\" - spectacol de teatru",
+          "description": "Spectacolul teatral \"Când pisica a dispărut\" va fi prezentat marți, 27 octombrie 2026."
+        }
+      },
+      "id": 489,
+      "title": "„Когато котката я няма“ - театрален спектакъл",
+      "date": "2026-10-27",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Театрален спектакъл „Когато котката я няма“ ще се представи на вторник, 27 октомври 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/kogato-kotkata-ya-nyama-teatralen-spektakal.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Община Варна организира тържествено честване за Деня на народните будители",
+          "description": "Община Варна организира тържествено честване за Деня на народните будители."
+        },
+        "en": {
+          "title": "The Municipality of Varna organizes a solemn celebration for the Day of the People’s Awakeners",
+          "description": "The Municipality of Varna is organizing a solemn celebration for the Day of the National Awakeners."
+        },
+        "ro": {
+          "title": "Primăria Varna organizează o sărbătoare solemnă pentru Ziua Trezitorilor Poporului",
+          "description": "Municipalitatea Varna organizează o sărbătoare solemnă pentru Ziua Trezitorilor Poporului."
+        }
+      },
+      "id": 490,
+      "title": "Община Варна организира тържествено честване за Деня на народните будители",
+      "date": "2026-10-27",
+      "time": "",
+      "location": "",
+      "category": "municipal",
+      "description": "Община Варна организира тържествено честване за Деня на народните будители.",
+      "sources": [
+        {
+          "source_id": "budna_varna",
+          "source_name": "Budna Varna",
+          "url": "https://www.budnavarna.com/2026/10/27/obsthina-varna-organizira-tarzhestveno-chestvane-za-denya-na-narodnite-buditeli/"
         }
       ]
     },
@@ -222,7 +192,7 @@
       "time": "19:00",
       "location": "Централен Мултифункционален Едукативен Център за Тинерето „Джейн Константин“",
       "category": "concert",
-      "description": "Музыкално представление под наименованието „Три веднага“ ще се проведе на 27 октомври във Върховния център за тинерето „Джейн Константин“. Започва в 19:00.",
+      "description": "Театрална комедия despre жените, които смятат, че могат да контролират всичко и мъжете, които знаят, че не могат да контролират нищо, но биха ги контролирали, ако биха могли.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -364,6 +334,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Мими Руменова се завръща във Варна с изложбата „Кратки градски истории“",
+          "description": "Художничката Мими Руменова върне се на варненската художествена сцена с изложбата „Кратки градски истории“, която ще бъде открита на 28 октомври."
+        },
+        "en": {
+          "title": "Mimi Rumenova returns to Varna with the exhibition \"Brief Urban Stories\"",
+          "description": "The artist Mimi Rumenova returns to the Varna art scene with the exhibition \"Brief Urban Stories\", which will be opened on October 28."
+        },
+        "ro": {
+          "title": "Mimi Rumenova se întoarce la Varna cu expoziția \"Scurte povestiri urbane\"",
+          "description": "Artista Mimi Rumenova revine pe scena artistică din Varna cu expoziția \"Scurte Povești Urbane\", care va fi inaugurată în 28 octombrie."
+        }
+      },
+      "id": 492,
+      "title": "Мими Руменова се завръща във Варна с изложбата „Кратки градски истории“",
+      "date": "2026-10-28",
+      "time": "18:00",
+      "location": "Варненска художествена сцена",
+      "category": "exhibition",
+      "description": "Художничката Мими Руменова върне се на варненската художествена сцена с изложбата „Кратки градски истории“, която ще бъде открита на 28 октомври.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537485"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Констанца: Стендап комедия с Бордеа & Кортеа – \"Приемате ли със шега?\"",
           "description": "Стендап комедийно шоу с участието на Бордеа и Кортеа в Многофункционалния образователен център за младежи „Жан Константин“ в Констанца."
         },
@@ -468,6 +468,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/frozen-regatul-inghetat-2/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Ивайло Евстатиев представя изложбата „Рефрен за лятото, което не иска да си тръгне“ във Варна",
+          "description": "Изложбата с живопис на художника Ивайло Евстатиев ще бъде открита на 29 октомври в галерия „Арт Маркони“ във Варна."
+        },
+        "en": {
+          "title": "Ivaylo Evstatiev presents the exhibition \"Chorus for the summer that doesn't want to leave\" in Varna",
+          "description": "The exhibition of paintings by the artist Ivaylo Evstatiev will be opened on October 29 at Art Marconi Gallery in Varna."
+        },
+        "ro": {
+          "title": "Ivaylo Evstatiev prezintă expoziția \"Refren pentru vara care nu vrea să plece\" la Varna",
+          "description": "O expoziție de pictură a artistului Ivaylo Evstatiev va fi inaugurată în 29 octombrie la Galeria Art Marconi din Varna."
+        }
+      },
+      "id": 493,
+      "title": "Ивайло Евстатиев представя изложбата „Рефрен за лятото, което не иска да си тръгне“ във Варна",
+      "date": "2026-10-29",
+      "time": "18:30",
+      "location": "галерия „Арт Маркони“ във Варна",
+      "category": "exhibition",
+      "description": "Изложбата с живопис на художника Ивайло Евстатиев ще бъде открита на 29 октомври в галерия „Арт Маркони“ във Варна.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537515"
         }
       ]
     },
@@ -1209,6 +1239,66 @@
     {
       "translations": {
         "bg": {
+          "title": "Прожекция на „Червената шапчица“ на 1 ноември в Силистра",
+          "description": "Ежегодна прожекция на филма „Червената шапчица“ планира да се проведе на 1 ноември в Силистра."
+        },
+        "en": {
+          "title": "Projection of \"Little Red Riding Hood\" on November 1 in Silistra",
+          "description": "The annual screening of the film \"Little Red Riding Hood\" is planned to take place on November 1 in Silistra."
+        },
+        "ro": {
+          "title": "Scufița Roșie și Păianjenul Alb",
+          "description": "Proiectarea anuală a filmului \"Scufița Roșie\" este programată pentru 1 noiembrie la Silistra."
+        }
+      },
+      "id": 495,
+      "title": "Прожекция на „Червената шапчица“ на 1 ноември в Силистра",
+      "date": "2026-11-01",
+      "time": "",
+      "location": "Силистра",
+      "category": "other",
+      "description": "Ежегодна прожекция на филма „Червената шапчица“ планира да се проведе на 1 ноември в Силистра.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/10/26/prozhektsiya-na-chervenata-shapchitsa-na-1-noemvri-v-silistra"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Тържествено честване на Деня на народните будители",
+          "description": "Община Варна организира тържествено честване на Деня на народните будители с церемония по полагане на венци и цветя с военен ритуал и молебен."
+        },
+        "en": {
+          "title": "Solemn Celebration of the Day of the People's Awakeners",
+          "description": "The Municipality of Varna organized a solemn celebration of the Day of the National Awakeners with a ceremony of laying wreaths and flowers with a military ritual and a prayer."
+        },
+        "ro": {
+          "title": "Sărbătorirea solemnă a Zilei de trezire a poporului",
+          "description": "Municipalitatea Varna organizează o sărbătoare solemnă a Zilei Trezitorilor Naționali cu o ceremonie de depunere a coroanelor de flori și cu un ritual militar și o rugăciune."
+        }
+      },
+      "id": 491,
+      "title": "Тържествено честване на Деня на народните будители",
+      "date": "2026-11-01",
+      "time": "10:30",
+      "location": "Община Варна",
+      "category": "municipal",
+      "description": "Община Варна организира тържествено честване на Деня на народните будители с церемония по полагане на венци и цветя с военен ритуал и молебен.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537533"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Новото поколение на професионално оцветяване",
           "description": "Ново поколение професионални оцветители ще представят експонати и услуги в хотел \"Оксфорд\" в Мамая."
         },
@@ -1734,6 +1824,36 @@
     {
       "translations": {
         "bg": {
+          "title": "ФКЦ – Варна събира трима виртуози на флейтата на една сцена",
+          "description": "Трима изтъкнати музиканти от световната флейтова сцена ще гостуват във Варна за концерт със Симфониета Враца на 12 ноември."
+        },
+        "en": {
+          "title": "FCC – Varna brings together three flute virtuosos on one stage",
+          "description": "Three prominent musicians from the world flute scene will visit Varna for a concert with the Vratsa Symphony Orchestra on November 12."
+        },
+        "ro": {
+          "title": "FCC – Varna reunește trei virtuozi ai flautului pe o singură scenă",
+          "description": "Trei muzicieni renumiți de pe scena mondială a flautului vor vizita Varna pentru un concert alături de Orchestra Simfonică Vratsa în 12 noiembrie."
+        }
+      },
+      "id": 494,
+      "title": "ФКЦ – Варна събира трима виртуози на флейтата на една сцена",
+      "date": "2026-11-12",
+      "time": "",
+      "location": "Симфониета Враца",
+      "category": "concert",
+      "description": "Трима изтъкнати музиканти от световната флейтова сцена ще гостуват във Варна за концерт със Симфониета Враца на 12 ноември.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537493"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Moving Body събира във Варна отличени артисти и международно танцово кино",
           "description": "Фестивалът Moving Body представя премиера за Варна, отличени спектакли и международно танцово кино, с акцент върху 40 години на сцена на Галина Борисова."
         },
@@ -2143,6 +2263,36 @@
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
           "url": "https://visit.varna.bg/bg/event/varna-jazz-days-festival2026.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Концерт на Буковина & Козметикс",
+          "description": "Рок концертът с участието на групите Буковина и Козметикът ще се проведе в Рок Хале на 21 ноември 2026 г."
+        },
+        "en": {
+          "title": "Bucovina & Cozmetic concert",
+          "description": "The rock concert with the participation of Bucovina and Cozmetic will take place at Rock Halle on November 21, 2026."
+        },
+        "ro": {
+          "title": "Concert Bucovina & Cozmetic",
+          "description": "Concertul de rock cu participarea grupurilor Bucovina și Cozmetic va avea loc la Rock Halle pe 21 noiembrie 2026."
+        }
+      },
+      "id": 496,
+      "title": "Concert Bucovina & Cozmetic",
+      "date": "2026-11-21",
+      "time": "19:00",
+      "location": "Rock Halle",
+      "category": "concert",
+      "description": "Concertul de rock cu participarea grupurilor Bucovina și Cozmetic va avea loc la Rock Halle pe 21 noiembrie 2026.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/concert-bucovina-in-constanta-rock-halle/"
         }
       ]
     },
@@ -2577,7 +2727,7 @@
       "time": "18:30",
       "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
       "category": "concert",
-      "description": "Festivalul Internațional de Film de Comedie se desfășoară între 30 octombrie și 1 noiembrie la B-dul Ferdinand în Constanta, România.",
+      "description": "Un program de 3 luni pentru clubul mămicilor cu bebeluși, care începe cu o întâlnire la ora 13:30 la adresa Gheorghe Murea 3, din Constanta, România.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -2588,6 +2738,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/festivalul-international-de-film-de-comedie/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/clubul-mamicilor-cu-bebelusi-program-de-3-luni-2/"
         }
       ]
     },
@@ -2618,6 +2773,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/craciun-de-poveste-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Коледен концерт",
+          "description": "Коледен концерт, който ще се проведе в Национален колеж по изкуствата \"Кралица Мария\" от 18:30 часа на 23 декември 2026 г."
+        },
+        "en": {
+          "title": "Christmas Concert",
+          "description": "Christmas Concert that will take place at the National College of Arts Regina Maria at 18:30 on December 23, 2026."
+        },
+        "ro": {
+          "title": "Concert de Crăciun",
+          "description": "Concert de Crăciun care va avea loc la Colegiul National De Arte Regina Maria la 18:30 pe data de 23 decembrie 2026."
+        }
+      },
+      "id": 497,
+      "title": "Concert de Crăciun",
+      "date": "2026-12-23",
+      "time": "18:30",
+      "location": "Colegiul National De Arte Regina Maria",
+      "category": "concert",
+      "description": "Concert de Crăciun care va avea loc la Colegiul National De Arte Regina Maria la 18:30 pe data de 23 decembrie 2026.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/concert-de-craciun-2/"
         }
       ]
     },
@@ -3778,6 +3963,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/14/dolph-lundgren-cele-mai-bune-masinarii/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/26/thirty-seconds-to-mars-revine-in-romania/"
         }
       ]
     },
@@ -3867,12 +4057,17 @@
       "time": "",
       "location": "VIDEODOME",
       "category": "other",
-      "description": "A screening of the 1957 film 'Gunfight at the O.K. Corral' directed by John Sturges, shown at VIDEODOME.",
+      "description": "Un spectacol pentru întreaga familie, în care miticul se împletește cu ludicul, cu absurdul comic și cu muzica inconfundabilă a... (Translation: A show for the whole family, where the myth is completed with the playful, with comic absurdity and with the unmistakable music...)",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/09/29/gunfight-at-the-ok-corral-john-sturges/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/o-insula/"
         }
       ]
     },
@@ -5628,6 +5823,66 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/26/ninigra-sarmalele-reci-raluca-stoica/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Фонтен Д.С., първият хедлайнър на Лятно кладенец 2027",
+          "description": "Фонтен ще бъде първият хедлайнър на събитието през лятото на 2027 г."
+        },
+        "en": {
+          "title": "Fontaines D.C., first headliner Summer Well 2027",
+          "description": "Fontaines D.C. will be the first headliner at Summer Well 2027."
+        },
+        "ro": {
+          "title": "Fontaines D.C., primul headliner Summer Well 2027",
+          "description": "Fontaines D.C. va fi primul headliner la evenimentul Summer Well 2027."
+        }
+      },
+      "id": 498,
+      "title": "Fontaines D.C., primul headliner Summer Well 2027",
+      "date": "",
+      "time": "",
+      "location": "Summer Well 2027",
+      "category": "concert",
+      "description": "Fontaines D.C. va fi primul headliner la evenimentul Summer Well 2027.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/26/fontaines-d-c-headliner-summer-well/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "1989 г. – „Домашни любимци“ (Pet Sematary) – реж.",
+          "description": "Във ВИДЕОДОМ ще бъде прожектиран филмът \"Гробище за домашни любимци\" от 1989 г. на режисьорката Мери Ламбърт."
+        },
+        "en": {
+          "title": "VideoDOME | \"PET SEMATARY\" (1989, r: Mary Lambert)",
+          "description": "A screening of the 1989 film 'Pet Sematary' directed by Mary Lambert will be shown at VIDEODOME."
+        },
+        "ro": {
+          "title": "VIDEODOME | “PET SEMATARY” (1989, r: Mary Lambert)",
+          "description": "A screening of the 1989 film 'Pet Sematary' directed by Mary Lambert will be shown at VIDEODOME."
+        }
+      },
+      "id": 499,
+      "title": "VIDEODOME | “PET SEMATARY” (1989, r: Mary Lambert)",
+      "date": "",
+      "time": "",
+      "location": "VIDEODOME",
+      "category": "other",
+      "description": "A screening of the 1989 film 'Pet Sematary' directed by Mary Lambert will be shown at VIDEODOME.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/27/pet-sematary-1989-stephen-king/"
         }
       ]
     },
