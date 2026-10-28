@@ -1,241 +1,6 @@
 {
-  "generated_at": "2026-10-27T09:52:31.174717+00:00",
+  "generated_at": "2026-10-28T10:36:54.630490+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "10 години Черното пиле - Моноспектакъл на Мариус Куркински",
-          "description": "Монодрама на Мариус Куркински, посветена на 10-та годишнина на „Черното пиле"
-        },
-        "en": {
-          "title": "10 Years of The Black Chicken - Monoperformance by Marius Kurkinsky",
-          "description": "A monodrama by Marius Kurkinsky, dedicated to the 10th anniversary of \"The Black Chicken"
-        },
-        "ro": {
-          "title": "10 ani de Puiul Negru - Monospectacol de Marius Kurkinsky",
-          "description": "Monodrama lui Marius Kurkinsky, dedicată celei de-a 10-a aniversări a \"Puiului negru"
-        }
-      },
-      "id": 64,
-      "title": "10 години Черното пиле - Моноспектакъл на Мариус Куркински",
-      "date": "2026-10-27",
-      "time": "",
-      "location": "Историческия музей в Дулово",
-      "category": "theater",
-      "description": "Преди един ден беше открита изложбата на Художествена галерия в Историческия музей в Дулово.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/kurkinski/p501.html"
-        },
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/10/03/gostuvashta-izlozhba-na-hudozhestvena-galeriya-silistra-beshe-otkrita-v-istoricheskiya-muzej-v-dulovo"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/moreto-na-edna-zvezda-izlozhba-zhivopis.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/10-godini-chernoto-pile-monospektakal-na-marius-ku.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Спартак“ - балет",
-          "description": "Балет „Спартак“ ще се представи на сцена от вторник, 27 октомври до сряда, 28 октомври 2026 година."
-        },
-        "en": {
-          "title": "\"Spartacus\" - ballet",
-          "description": "Spartak Ballet will perform on stage from Tuesday, October 27 to Wednesday, October 28, 2026."
-        },
-        "ro": {
-          "title": "\"Spartacus\" - balet",
-          "description": "Baletul \"Spartacus\" va juca pe scenă de marți, 27 octombrie până miercuri, 28 octombrie 2026."
-        }
-      },
-      "id": 488,
-      "title": "„Спартак“ - балет",
-      "date": "2026-10-27",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Балет „Спартак“ ще се представи на сцена от вторник, 27 октомври до сряда, 28 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/spartak-balet2026.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Когато котката я няма“ - театрален спектакъл",
-          "description": "Театрален спектакъл „Когато котката я няма“ ще се представи на вторник, 27 октомври 2026 година."
-        },
-        "en": {
-          "title": "\"When the cat is gone\" - theatrical performance",
-          "description": "Theatre show \"When the cat is gone\" will be presented on Tuesday, October 27, 2026."
-        },
-        "ro": {
-          "title": "\"Când pisica a dispărut\" - spectacol de teatru",
-          "description": "Spectacolul teatral \"Când pisica a dispărut\" va fi prezentat marți, 27 octombrie 2026."
-        }
-      },
-      "id": 489,
-      "title": "„Когато котката я няма“ - театрален спектакъл",
-      "date": "2026-10-27",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Театрален спектакъл „Когато котката я няма“ ще се представи на вторник, 27 октомври 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/kogato-kotkata-ya-nyama-teatralen-spektakal.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Община Варна организира тържествено честване за Деня на народните будители",
-          "description": "Община Варна организира тържествено честване за Деня на народните будители."
-        },
-        "en": {
-          "title": "The Municipality of Varna organizes a solemn celebration for the Day of the People’s Awakeners",
-          "description": "The Municipality of Varna is organizing a solemn celebration for the Day of the National Awakeners."
-        },
-        "ro": {
-          "title": "Primăria Varna organizează o sărbătoare solemnă pentru Ziua Trezitorilor Poporului",
-          "description": "Municipalitatea Varna organizează o sărbătoare solemnă pentru Ziua Trezitorilor Poporului."
-        }
-      },
-      "id": 490,
-      "title": "Община Варна организира тържествено честване за Деня на народните будители",
-      "date": "2026-10-27",
-      "time": "",
-      "location": "",
-      "category": "municipal",
-      "description": "Община Варна организира тържествено честване за Деня на народните будители.",
-      "sources": [
-        {
-          "source_id": "budna_varna",
-          "source_name": "Budna Varna",
-          "url": "https://www.budnavarna.com/2026/10/27/obsthina-varna-organizira-tarzhestveno-chestvane-za-denya-na-narodnite-buditeli/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Денис Делетан – Комунизмът в Румъния – представяне на книгата",
-          "description": "Представяне на книгата на британския автор Денис Делетан за историята на комунизма в Румъния, насрочено за вторник, 27 октомври от 18:00 часа в Казино Констанца."
-        },
-        "en": {
-          "title": "Dennis Deletant – Communism in Romania – book launch",
-          "description": "Book launch of the British author Dennis Deletant about the history of communism in Romania, scheduled for Tuesday, October 27 at 18:00 in Casino Constanta."
-        },
-        "ro": {
-          "title": "Dennis Deletant – Comunismul în România – lansare de carte",
-          "description": "Lansarea de carte a autorului britanic Dennis Deletant despre istoria comunismului în România, programată pentru marți 27 octombrie la 18:00 în Cazinoul Constanța."
-        }
-      },
-      "id": 440,
-      "title": "Dennis Deletant – Comunismul în România – lansare de carte",
-      "date": "2026-10-27",
-      "time": "18:00",
-      "location": "Cazinoul Constanța",
-      "category": "other",
-      "description": "Lansarea de carte a autorului britanic Dennis Deletant despre istoria comunismului în România, programată pentru marți 27 octombrie la 18:00 în Cazinoul Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/dennis-deletant-comunismul-in-romania-lansare-de-carte/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/25/oasis-dont-look-back-in-anger-review/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Три в едно – Констанца",
-          "description": "Музикален спектакъл под надслов \"Три веднага\" ще се проведе на 27 октомври във Висшия център за тийнейджъри \"Джейн Константин\" от 19:00 ч."
-        },
-        "en": {
-          "title": "Three immediately – Constanta",
-          "description": "A musical performance entitled \"Three immediately\" will be held on October 27 at the Jane Constantine High School for Teens, starting at 19:00 p.m."
-        },
-        "ro": {
-          "title": "Три веднага – Констанца",
-          "description": "Музыкално представление под наименованието „Три веднага“ ще се проведе на 27 октомври във Върховния център за тинерето „Джейн Константин“. Започва в 19:00."
-        }
-      },
-      "id": 222,
-      "title": "Три веднага – Констанца",
-      "date": "2026-10-27",
-      "time": "19:00",
-      "location": "Централен Мултифункционален Едукативен Център за Тинерето „Джейн Константин“",
-      "category": "concert",
-      "description": "Театрална комедия despre жените, които смятат, че могат да контролират всичко и мъжете, които знаят, че не могат да контролират нищо, но биха ги контролирали, ако биха могли.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/trei-in-unu-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/trei-in-unu-2/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "\"Три в едно\"",
-          "description": "Премиерата на комедия/театър, озаглавена \"Три в едно\" ще се състои в Многофункционалния образователен център за младежта \"Жан Константин\" в Констанца, Румъния, във вторник, 27 октомври от 19:00 часа."
-        },
-        "en": {
-          "title": "Constanta: PREMIERE comedy/theater \"Three in one\"",
-          "description": "The premiere of a comedy/theatre titled \"Three in one\" will take place at the Multifunctional Educational Center for Youth \"Jean Constantin\" in Constanta, Romania, on Tuesday, October 27 at 19:00."
-        },
-        "ro": {
-          "title": "Constanța: PREMIERĂ comedie/teatru „Trei în unu”",
-          "description": "Premiera unei comedii/teatre intitulată „Trei în unu” va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanța, România, pe marți, 27 octombrie la ora 19:00."
-        }
-      },
-      "id": 293,
-      "title": "Constanța: PREMIERĂ comedie/teatru „Trei în unu”",
-      "date": "2026-10-27",
-      "time": "19:00",
-      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
-      "category": "theater",
-      "description": "Premiera unei comedii/teatre intitulată „Trei în unu” va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanța, România, pe marți, 27 octombrie la ora 19:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/constanta-premiera-comedie-teatru-trei-in-unu/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -268,6 +33,11 @@
           "source_id": "pronewsdobrich",
           "source_name": "ProNews Dobrich",
           "url": "https://pronewsdobrich.bg/deputatat-ot-dobrich-svilen-trifonov-initsiira-izlozhba-v-podkrepa-na-horata-s-intelektualni-zatrudneniya-p731742"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/otkrastanadoluteatralnapostanovka.html"
         }
       ]
     },
@@ -358,6 +128,11 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=537485"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/kratki-gradski-istoriiizlozhba.html"
         }
       ]
     },
@@ -858,6 +633,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/halloween-party-at-rock-halle/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Музикален фестивал „Казино“ в Мамая, Констанца",
+          "description": "Музикалният фестивал ще се проведе в Констанца от 31 октомври до 1 ноември 2026 г. с участието на групата съставена от две сестри и три инструмента, известна със своята музикална химия."
+        },
+        "en": {
+          "title": "OMD Mamaia Constanța Casino Music Festival",
+          "description": "The OMD Mamaia Constanța Cazino music festival will take place in Constanța from October 31 to November 1, 2026, with the participation of the Druml Sisters group, formed by two sisters and three instruments, known for its musical chemistry."
+        },
+        "ro": {
+          "title": "OMD Mamaia Constanța Cazino Music Festival",
+          "description": "Festivalul de muzică OMD Mamaia Constanța Cazino va avea loc în Constanța de la 31 octombrie până în 1 noiembrie 2026, cu participarea grupului Druml Sisters, formata din două surori și trei instrumente, cunoscută pentru chimia sa muzicală."
+        }
+      },
+      "id": 502,
+      "title": "OMD Mamaia Constanța Cazino Music Festival",
+      "date": "2026-10-31",
+      "time": "",
+      "location": "Constanța",
+      "category": "festival",
+      "description": "Festivalul de muzică OMD Mamaia Constanța Cazino va avea loc în Constanța de la 31 octombrie până în 1 noiembrie 2026, cu participarea grupului Druml Sisters, formata din două surori și trei instrumente, cunoscută pentru chimia sa muzicală.",
+      "sources": [
+        {
+          "source_id": "ziua_constanta",
+          "source_name": "Ziua de Constanta",
+          "url": "https://www.ziuaconstanta.ro/stiri/eveniment/cazino-music-festival-la-constanta-31-octombrie-1-noiembrie-2026-video-druml-sisters-doua-surori-trei-instrumente-o-chimie-muzicala-958312.html"
         }
       ]
     },
@@ -1449,6 +1254,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Ревю-спектакъл „За да ни има“ ще се проведе на 4 ноември в Генерал Тошево",
+          "description": "Ревю-спектакъл с име „За да ни има“ ще се проведе на 4 ноември в Генерал Тошево."
+        },
+        "en": {
+          "title": "Revue-performance \"To have us\" will be held on November 4 in General Toshevo",
+          "description": "A show called \"For us to exist\" will be held on November 4 in General Toshevo."
+        },
+        "ro": {
+          "title": "Revizuirea-spectacol \"Pentru a ne avea\" va avea loc pe 4 noiembrie în General Tosevo",
+          "description": "Un spectacol de revistă intitulat \"Pentru a ne avea\" va avea loc în 4 noiembrie la General Tosevo."
+        }
+      },
+      "id": 500,
+      "title": "Ревю-спектакъл „За да ни има“ ще се проведе на 4 ноември в Генерал Тошево",
+      "date": "2026-11-04",
+      "time": "",
+      "location": "Генерал Тошево",
+      "category": "theater",
+      "description": "Ревю-спектакъл с име „За да ни има“ ще се проведе на 4 ноември в Генерал Тошево.",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/reviu-spektakyl-za-da-ni-ima-shte-se-provede-na-4-noemvri-v-general-toshevo/117376"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Хелоуин парти за деца 🎃👻",
           "description": "Хелоуин парти за деца в Констанца, Румъния, насрочено за 4 ноември от 5:00 часа."
         },
@@ -1473,6 +1308,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/halloween-party-pentru-copii%f0%9f%8e%83%f0%9f%91%bb/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Среща през ноември 💡",
+          "description": "Ноемврийска среща в Клуб Дорс на 4 ноември от 6:30 ч."
+        },
+        "en": {
+          "title": "November Meetup 💡",
+          "description": "MEETUP at Doors Club on November 4th at 6:30 PM."
+        },
+        "ro": {
+          "title": "Noiembrie MEETUP 💡",
+          "description": "Noiembrie MEETUP at Doors Club on November 4th at 6:30 PM."
+        }
+      },
+      "id": 503,
+      "title": "Noiembrie MEETUP 💡",
+      "date": "2026-11-04",
+      "time": "18:30",
+      "location": "Doors Club",
+      "category": "adult_18+",
+      "description": "Noiembrie MEETUP at Doors Club on November 4th at 6:30 PM.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/noiembrie-meetup-%f0%9f%92%a1/"
         }
       ]
     },
@@ -1525,14 +1390,19 @@
       "title": "Представяне на новата книга на Станислав Пенев „Една любов възвишена – жена“",
       "date": "2026-11-06",
       "time": "",
-      "location": "",
+      "location": "Основна сцена на Варненската опера",
       "category": "other",
-      "description": "Представяне на новата книга на автор Станислав Пенев, петък, 06/11/2026г.",
+      "description": "Балетът „Спартак“ ще бъде представен на Основна сцена на Варненската опера на 27 и 28 октомври.",
       "sources": [
         {
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/edna-lyubov-vazvishena-zhena/p1337.html"
+        },
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537537"
         }
       ]
     },
@@ -1608,6 +1478,36 @@
           "source_id": "dobrudjabg",
           "source_name": "Dobrudzha news agency",
           "url": "https://dobrudjabg.com/novina/hilda-kazasqn-vasil-petrov-i-teodosii-spasov-s-koncert-v-dobrich-na-6-noemvri/117179"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Машина",
+          "description": "Машинал е театрално представление, което ще се състои в Държавния театър в Констанца на 7 ноември 2026 г. от 7:00 ч."
+        },
+        "en": {
+          "title": "Machinal",
+          "description": "Machinal is a theatrical performance taking place at the Teatrul de Stat Constanța's Sala Mare on November 7, 2026, at 7:00 PM."
+        },
+        "ro": {
+          "title": "Machinal",
+          "description": "Machinal is a theatrical performance taking place at the Teatrul de Stat Constanța's Sala Mare on November 7, 2026, at 7:00 PM."
+        }
+      },
+      "id": 504,
+      "title": "Machinal",
+      "date": "2026-11-07",
+      "time": "19:00",
+      "location": "Teatrul de Stat Constanța - Sala Mare",
+      "category": "theater",
+      "description": "Machinal is a theatrical performance taking place at the Teatrul de Stat Constanța's Sala Mare on November 7, 2026, at 7:00 PM.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/machinal-2/"
         }
       ]
     },
@@ -2032,12 +1932,17 @@
       "time": "",
       "location": "Варна",
       "category": "concert",
-      "description": "Рок групата АХАТ ще проведе концерт в Варна като част от юбилейното си турне по 40 години от създаването си.",
+      "description": "Парк-музей „Владислав Варненчик“ във Варна организира приключение за децата и техните семейства, което съчетава средновековната история с роботиката и съвременните технологии.",
       "sources": [
         {
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=536944"
+        },
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537489"
         }
       ]
     },
@@ -2228,6 +2133,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/25/festivalul-sonoro-2026-richard-wagner/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/28/craciun-amar-pedro-almodovar/"
         }
       ]
     },
@@ -2398,6 +2308,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/traviata-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/28/maia-morgenstern-joaca-in-cvartet/"
         }
       ]
     },
@@ -2703,6 +2618,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/conferintele-casei-paleologu-ce-ne-facem-cu-atatia-prosti-theodor-paleologu-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Виена Шьонбрун Оркестра идва във Варна с „Коледен златен галаконцерт“",
+          "description": "Виена Шьонбрун Оркестра ще представи във Варна „Коледен златен галаконцерт“ на 18 декември."
+        },
+        "en": {
+          "title": "Vienna Schönbrunn Orchestra comes to Varna with \"Christmas Golden Gala Concert\"",
+          "description": "Vienna Schönbrunn Orchestra will present in Varna \"Christmas Golden Gala Concert\" on December 18."
+        },
+        "ro": {
+          "title": "Orchestra Schönbrunn din Viena vine la Varna cu \"Concertul de Gală de Aur de Crăciun\"",
+          "description": "Orchestra Schönbrunn din Viena va susține \"Concertul de Gală de Aur de Crăciun\" la Varna în 18 decembrie."
+        }
+      },
+      "id": 501,
+      "title": "Виена Шьонбрун Оркестра идва във Варна с „Коледен златен галаконцерт“",
+      "date": "2026-12-18",
+      "time": "",
+      "location": "Двореца на културата и спорта",
+      "category": "concert",
+      "description": "Виена Шьонбрун Оркестра ще представи във Варна „Коледен златен галаконцерт“ на 18 декември.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537559"
         }
       ]
     },
@@ -5883,6 +5828,66 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/27/pet-sematary-1989-stephen-king/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Гарана Джаз Фестивал 2027: пуснати са в продажба първите абонаменти на специална цена",
+          "description": "Обявление за първата продажба на абонаменти на специална цена за Гарана Джаз Фестивал 2027."
+        },
+        "en": {
+          "title": "Gărâna Jazz Festival 2027: the first subscriptions at a special price have been put on sale",
+          "description": "The announcement for the first sale of subscriptions at a special price for Gărâna Jazz Festival 2027."
+        },
+        "ro": {
+          "title": "Gărâna Jazz Festival 2027: au fost puse în vânzare primele abonamente la preț special",
+          "description": "Anunțul pentru prima vânzare de abonamente la preț special pentru Gărâna Jazz Festival 2027."
+        }
+      },
+      "id": 505,
+      "title": "Gărâna Jazz Festival 2027: au fost puse în vânzare primele abonamente la preț special",
+      "date": "",
+      "time": "",
+      "location": "Gărâna",
+      "category": "other",
+      "description": "Anunțul pentru prima vânzare de abonamente la preț special pentru Gărâna Jazz Festival 2027.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/27/garana-jazz-festival-2027-abonamente/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Дейвид Боуи се завръща на сцената",
+          "description": "Дейвид Боуи ще има концерт в Големите арени, но точната дата и час не са посочени."
+        },
+        "en": {
+          "title": "David Bowie returns to the big arenas",
+          "description": "David Bowie will have a concert at the Grand Arenas, but the exact date and time have not been specified."
+        },
+        "ro": {
+          "title": "David Bowie revine în concert pe marile arene",
+          "description": "David Bowie va avea un concert în Marile Arene, dar nu s-au specificat data și ora exacte."
+        }
+      },
+      "id": 506,
+      "title": "David Bowie revine în concert pe marile arene",
+      "date": "",
+      "time": "",
+      "location": "Marile Arene",
+      "category": "concert",
+      "description": "David Bowie va avea un concert în Marile Arene, dar nu s-au specificat data și ora exacte.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/27/david-bowie-concert-pe-marile-arene/"
         }
       ]
     },
