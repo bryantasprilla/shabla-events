@@ -1,113 +1,68 @@
 {
-  "generated_at": "2026-11-02T12:20:18.156902+00:00",
+  "generated_at": "2026-11-03T11:52:47.492279+00:00",
   "events": [
     {
       "translations": {
         "bg": {
-          "title": "Безплатен спектакъл за Деня на будителите в Тутракан на 2 ноември",
-          "description": "Безплатен спектакъл за Деня на будителите ще се проведе в Тутракан на 2 ноември."
+          "title": "Любовта е куче от ада – провокативна изложба по Буковски",
+          "description": "Изложбата „Любовта е куче от ада“ от Буковски провокира зрителите и обсъждается в Добрич."
         },
         "en": {
-          "title": "Free show for the Day of the Awakeners in Tutrakan on November 2",
-          "description": "A free performance for the Day of the Awakeners will be held in Tutrakan on November 2."
+          "title": "Love is a dog from hell – a provocative exhibition on Bukovsky",
+          "description": "The exhibition \"Love is a Dog from Hell\" by Bukovsky provokes viewers and is being discussed in Dobrich."
         },
         "ro": {
-          "title": "Spectacol gratuit de Ziua Trezitorilor la Tutrakan pe 2 noiembrie",
-          "description": "Un spectacol gratuit de Ziua Trezirii va avea loc la Tutrakan în 2 noiembrie."
+          "title": "Dragostea este un câine din iad – o expoziție provocatoare despre Bukovsky",
+          "description": "Expoziția \"Dragostea este un câine din iad\" de Bukovsky provoacă spectatorii și este discutată în Dobrici."
         }
       },
-      "id": 511,
-      "title": "Безплатен спектакъл за Деня на будителите в Тутракан на 2 ноември",
-      "date": "2026-11-02",
+      "id": 565,
+      "title": "Любовта е куче от ада – провокативна изложба по Буковски",
+      "date": "2026-11-03",
       "time": "",
-      "location": "Тутракан",
-      "category": "other",
-      "description": "Фолклорен спектакъл под названието „Змейова сватба“ се проведе на неделя, 01/11/2026г.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/10/28/bezplaten-spektakal-za-denya-na-buditelite-v-tutrakan-na-2-noemvri"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/zmeyova-svatbafolkloren-spektakal.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/mazhat-na-zhena-mi-teatralna-postanovka.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Изложба в Генерал Тошево проследява бойния път на 46-и пехотен Добрички полк през ВСВ",
-          "description": "Изложбата в Генерал Тошево разкрива историята на 46-ия пехотен Добрички полк през Втората световна война."
-        },
-        "en": {
-          "title": "Exhibition in General Toshevo traces the battle path of the 46th Dobrich Infantry Regiment during World War II",
-          "description": "The exhibition in General Toshevo reveals the history of the 46th Dobrich Infantry Regiment during the Second World War."
-        },
-        "ro": {
-          "title": "O expoziție la General Tosevo urmărește calea de luptă a Regimentului 46 de infanterie din Dobrici în timpul Primului Război Mondial",
-          "description": "Expoziția de la General Tosevo prezintă istoria Regimentului 46 de Infanterie Dobrich din timpul celui de-al doilea război mondial."
-        }
-      },
-      "id": 564,
-      "title": "Изложба в Генерал Тошево проследява бойния път на 46-и пехотен Добрички полк през ВСВ",
-      "date": "2026-11-02",
-      "time": "",
-      "location": "Генерал Тошево",
+      "location": "Добрич",
       "category": "exhibition",
-      "description": "Изложбата в Генерал Тошево разкрива историята на 46-ия пехотен Добрички полк през Втората световна война.",
+      "description": "Изложбата „Любовта е куче от ада“ от Буковски провокира зрителите и обсъждается в Добрич.",
       "sources": [
         {
           "source_id": "pronewsdobrich",
           "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/izlozhba-v-general-toshevo-prosledyava-boyniya-pat-na-46-i-pehoten-dobrichki-polk-prez-vsv-p732553"
+          "url": "https://pronewsdobrich.bg/„lyubovta-e-kuche-ot-ada“-–-provokativna-izlozhba-po-bukovski-gostuva-v-dobrich-p732550"
         },
         {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/izlojba-za-boiniq-pyt-na-46-i-pehoten-dobrichki-polk-gostuva-v-general-toshevo/117532"
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/karmen-opera-ot-zhorzh-bize031126.html"
         }
       ]
     },
     {
       "translations": {
         "bg": {
-          "title": "Новото поколение на професионално оцветяване",
-          "description": "Ново поколение професионални оцветители ще представят експонати и услуги в хотел \"Оксфорд\" в Мамая."
+          "title": "„Кармен“",
+          "description": "Представяне на операта „Кармен“."
         },
         "en": {
-          "title": "RE_COLOR – THE NEXT GENERATION OF PROFESSIONAL COLORING",
-          "description": "A new generation of professional colorators will offer exhibits and services at the Oxford Hotel in Mamaia."
+          "title": "Carmen.",
+          "description": "Presentation of the opera \"Carmen\"."
         },
         "ro": {
-          "title": "RE_COLOR – NOUA GENERAȚIE DE COLORARE PROFESIONALĂ",
-          "description": "Нова генерация на професионални кулоратори ще се предложат на експонати и услуги в отелу Оксфорд в Мамаїа."
+          "title": "Carmen.",
+          "description": "Prezentarea operei \"Carmen\"."
         }
       },
-      "id": 477,
-      "title": "RE_COLOR – NOUA GENERAȚIE DE COLORARE PROFESIONALĂ",
-      "date": "2026-11-02",
-      "time": "10:00",
-      "location": "Hotel Oxford Mamaia",
+      "id": 577,
+      "title": "„Кармен“",
+      "date": "2026-11-03",
+      "time": "",
+      "location": "",
       "category": "other",
-      "description": "Нова генерация на професионални кулоратори ще се предложат на експонати и услуги в отелу Оксфорд в Мамаїа.",
+      "description": "Представяне на операта „Кармен“.",
       "sources": [
         {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/re_color-noua-generatie-de-colorare-profesionala-3/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/asa-de-simplu-constanta/"
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/karmen/p665.html"
         }
       ]
     },
@@ -359,6 +314,36 @@
     {
       "translations": {
         "bg": {
+          "title": "АЛМА МАЛЕР",
+          "description": "АЛМА МАЛЕР е запланирана за четвъртък, 05/11/2026."
+        },
+        "en": {
+          "title": "Alma Mahler",
+          "description": "ALMA MALER is scheduled for Thursday, 05/11/2026."
+        },
+        "ro": {
+          "title": "Alma Mahler",
+          "description": "Alma Mahler este programată pentru joi, 05/11/2026."
+        }
+      },
+      "id": 578,
+      "title": "АЛМА МАЛЕР",
+      "date": "2026-11-05",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "АЛМА МАЛЕР е запланирана за четвъртък, 05/11/2026.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/alma-maler/p1175.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Иновационно турне на Макита – ТРИТОН",
           "description": "Иновационното турне на Макита – ТРИТОН, насрочено за четвъртък, 5 ноември от 10:00 часа, се провежда в Тритон Скул Бетун."
         },
@@ -548,6 +533,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/6-noiembrie-seara-de-socializare-board-games-by-reconectare-cu-sens/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Полска графика от Международно триенале на графиката – Краков гостува във Варна",
+          "description": "Галерията за графично изкуство – Варна организира изложбата „Полска графика от Международното триенале на графиката – Краков“, която ще бъде открита на 6 ноември 2026 г. от 18:00 ч."
+        },
+        "en": {
+          "title": "Polish Graphics from the International Triennial of Graphics – Krakow visits Varna",
+          "description": "The Gallery of Graphic Art – Varna organizes the exhibition \"Polish Graphics from the International Triennial of Graphic Art – Krakow\", which will be opened on November 6, 2026 from 18:00 p.m."
+        },
+        "ro": {
+          "title": "Grafică poloneză de la Trienala Internațională de Grafică – Cracovia în vizită la Varna",
+          "description": "Galeria de Artă Grafică – Varna organizează expoziția \"Grafica poloneză de la Trienala Internațională de Grafică – Cracovia\", care va fi deschisă pe 6 noiembrie 2026 de la ora 18:00."
+        }
+      },
+      "id": 582,
+      "title": "Полска графика от Международно триенале на графиката – Краков гостува във Варна",
+      "date": "2026-11-06",
+      "time": "18:00",
+      "location": "Галерията за графично изкуство – Варна",
+      "category": "exhibition",
+      "description": "Галерията за графично изкуство – Варна организира изложбата „Полска графика от Международното триенале на графиката – Краков“, която ще бъде открита на 6 ноември 2026 г. от 18:00 ч.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537916"
         }
       ]
     },
@@ -1684,6 +1699,36 @@
     {
       "translations": {
         "bg": {
+          "title": "ДИВИЯТ ДЕЛТА – кино прожекция",
+          "description": "Филмова прожекция, организирана в Многофункционален образователен център за младежта \"Жан Константин\"."
+        },
+        "en": {
+          "title": "WILD DELTA – cinema projection",
+          "description": "Film screening organized at the Multifunctional Educational Center for Youth \"Jean Constantin\"."
+        },
+        "ro": {
+          "title": "DELTA SĂLBATICĂ – proiecțion cinematografică",
+          "description": "Proiecție cinematografică organizată la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”."
+        }
+      },
+      "id": 583,
+      "title": "DELTA SĂLBATICĂ – proiecțion cinematografică",
+      "date": "2026-11-15",
+      "time": "17:00",
+      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
+      "category": "other",
+      "description": "Proiecție cinematografică organizată la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/delta-salbatica-proiectie-cinematografica/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Еликсирът на любовта",
           "description": "Събитие, озаглавено \"Еликсирът на любовта\", което ще се проведе в Националния колеж по изкуства \"Кралица Мария\" в Констанца на 15 ноември от 18:30 часа."
         },
@@ -1768,6 +1813,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/fooca-wow-balloon-convention-2026/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Графиня Марица",
+          "description": "Оперета от Имре Калман, която ще се представи на вторник, 17/11/2026."
+        },
+        "en": {
+          "title": "Countess Maritsa",
+          "description": "The opera by Imre Kalman, which will be performed on Tuesday, 17/11/2026."
+        },
+        "ro": {
+          "title": "Contesa de Maritsa",
+          "description": "Opera de Imre Kalman, care va fi prezentată marți, 17/11/2026."
+        }
+      },
+      "id": 579,
+      "title": "Графиня Марица",
+      "date": "2026-11-17",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Оперета от Имре Калман, която ще се представи на вторник, 17/11/2026.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/grafinya-maritsa/p573.html"
         }
       ]
     },
@@ -2329,6 +2404,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Тя спи гола",
+          "description": "Един спектакъл, който ще се представи на сряда, 2 декември 2026 година."
+        },
+        "en": {
+          "title": "She sleeps naked",
+          "description": "A show that will be presented on Wednesday, December 2, 2026."
+        },
+        "ro": {
+          "title": "Ea doarme goală",
+          "description": "Un spectacol care va fi prezentat miercuri, 2 decembrie 2026."
+        }
+      },
+      "id": 580,
+      "title": "Тя спи гола",
+      "date": "2026-12-02",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Един спектакъл, който ще се представи на сряда, 2 декември 2026 година.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/tyaspi/p1343.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Празник на рибената чорба, 2026",
           "description": "Празник посветен на рибената чорба се провежда на градския площад в Шабла на 5 декември 2026 г., започвайки си в 11:30."
         },
@@ -2777,12 +2882,17 @@
       "time": "19:00",
       "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
       "category": "other",
-      "description": "Un eveniment cultural care are loc în Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la Constanta pe 21 decembrie 2026 la ora 19:00.",
+      "description": "A concert featuring Maia Morgenstern, Marius Bodochi, and the Moldavia Symphony Orchestra at the Jean Constantin Multifunctional Educational Center for Youth.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/craciun-de-poveste-constanta/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/craciun-de-poveste-maia-morgenstern-marius-bodochi-moldavia-symphony-orchestra-constanta/"
         }
       ]
     },
@@ -3123,6 +3233,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/02/slash-vine-la-rockstadt-fest-2027/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Градски легенди",
+          "description": "Градски легенди е едно събитие, което се проведе на понеделник, 18 януари 2027 година, но детайли за местоположение и описанието на събитието не са предоставени."
+        },
+        "en": {
+          "title": "City legends",
+          "description": "Urban Legends is an event that took place on Monday, January 18, 2027, but location details and event description are not provided."
+        },
+        "ro": {
+          "title": "Legende ale orașului",
+          "description": "Legende urbane este un eveniment care a avut loc pe luni, 18 ianuarie 2027, dar detaliile despre locație și descrierea evenimentului nu sunt furnizate."
+        }
+      },
+      "id": 581,
+      "title": "Градски легенди",
+      "date": "2027-01-18",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Градски легенди е едно събитие, което се проведе на понеделник, 18 януари 2027 година, но детайли за местоположение и описанието на събитието не са предоставени.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/gradski-legendi/p1344.html"
         }
       ]
     },
@@ -3618,6 +3758,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/02/20-ani-de-byron-de-vorba-cu-6fingers/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/03/evenimente-culturale-noiembrie-2026/"
         }
       ]
     },
@@ -5058,6 +5203,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/galaxia-festival-2027-2/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/03/nibiru-anunta-primii-artisti-din-2027/"
         }
       ]
     },
@@ -5747,12 +5897,17 @@
       "time": "",
       "location": "Sala Radio",
       "category": "other",
-      "description": "Dan Dediu prezentă în premieră absolută spectacolul „Funambulia",
+      "description": "Se anunță o seară de tango cu participarea lui Analia Selis, Mariano Castro și Big Band-ul Radio România.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/26/funambulia-de-dan-dediu-la-sala-radio/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/03/seara-de-tango-sala-radio-analia-selis/"
         }
       ]
     },
@@ -6219,36 +6374,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Любовта е куче от ада – провокативна изложба по Буковски",
-          "description": "Изложбата „Любовта е куче от ада“ от Буковски провокира зрителите и обсъждается в Добрич."
-        },
-        "en": {
-          "title": "Love is a dog from hell – a provocative exhibition on Bukovsky",
-          "description": "The exhibition \"Love is a Dog from Hell\" by Bukovsky provokes viewers and is being discussed in Dobrich."
-        },
-        "ro": {
-          "title": "Dragostea este un câine din iad – o expoziție provocatoare despre Bukovsky",
-          "description": "Expoziția \"Dragostea este un câine din iad\" de Bukovsky provoacă spectatorii și este discutată în Dobrici."
-        }
-      },
-      "id": 565,
-      "title": "Любовта е куче от ада – провокативна изложба по Буковски",
-      "date": "",
-      "time": "",
-      "location": "Добрич",
-      "category": "exhibition",
-      "description": "Изложбата „Любовта е куче от ада“ от Буковски провокира зрителите и обсъждается в Добрич.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/„lyubovta-e-kuche-ot-ada“-–-provokativna-izlozhba-po-bukovski-gostuva-v-dobrich-p732550"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Тео Роуз @ \"Обширни съгласия\"",
           "description": "Тео Роуз се завръща с концерт в \"Акордури амбъл\" след разпродадения успех на поредицата \"Пе Веки\" в \"Сала Палатулум\"."
         },
@@ -6333,6 +6458,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/02/festivalul-meridian-2026-sonimagicon/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Двоен юбилей в Тервел: Храмът и хор „Св. Георги“ отбелязват 15 години с празничен концерт",
+          "description": "Храмът и хорът „Св. Георги“ в Тервел организират празничен концерт за отбелязване на двоен юбилей - 15 години от отворене на храма и 15 години от основаване на хора."
+        },
+        "en": {
+          "title": "Double anniversary in Tervel: The Church and Choir \"St. George\" celebrate 15 years with a festive concert",
+          "description": "The church and choir \"St. George\" in Tervel organize a festive concert to mark a double anniversary - 15 years since the opening of the church and 15 years since the foundation of people."
+        },
+        "ro": {
+          "title": "Dublă aniversare la Tervel: Biserica și corul \"Sfântul Gheorghe\" sărbătoresc 15 ani cu un concert festiv",
+          "description": "Biserica și corul Sf. Gheorghe din Tervel organizează un concert festiv pentru a marca un dublu jubileu - 15 ani de la deschiderea bisericii și 15 ani de la înființarea oamenilor."
+        }
+      },
+      "id": 576,
+      "title": "Двоен юбилей в Тервел: Храмът и хор „Св. Георги“ отбелязват 15 години с празничен концерт",
+      "date": "",
+      "time": "",
+      "location": "Храм „Св. Георги“, Тервел",
+      "category": "concert",
+      "description": "Храмът и хорът „Св. Георги“ в Тервел организират празничен концерт за отбелязване на двоен юбилей - 15 години от отворене на храма и 15 години от основаване на хора.",
+      "sources": [
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/dvoen-yubiley-v-tervel-hramat-i-hor-„sv-georgi“-otbelyazvat-15-godini-s-praznichen-kontsert-p732605"
         }
       ]
     },
