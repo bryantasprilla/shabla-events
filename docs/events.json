@@ -1,196 +1,6 @@
 {
-  "generated_at": "2026-11-03T11:52:47.492279+00:00",
+  "generated_at": "2026-11-04T12:03:11.956958+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Любовта е куче от ада – провокативна изложба по Буковски",
-          "description": "Изложбата „Любовта е куче от ада“ от Буковски провокира зрителите и обсъждается в Добрич."
-        },
-        "en": {
-          "title": "Love is a dog from hell – a provocative exhibition on Bukovsky",
-          "description": "The exhibition \"Love is a Dog from Hell\" by Bukovsky provokes viewers and is being discussed in Dobrich."
-        },
-        "ro": {
-          "title": "Dragostea este un câine din iad – o expoziție provocatoare despre Bukovsky",
-          "description": "Expoziția \"Dragostea este un câine din iad\" de Bukovsky provoacă spectatorii și este discutată în Dobrici."
-        }
-      },
-      "id": 565,
-      "title": "Любовта е куче от ада – провокативна изложба по Буковски",
-      "date": "2026-11-03",
-      "time": "",
-      "location": "Добрич",
-      "category": "exhibition",
-      "description": "Изложбата „Любовта е куче от ада“ от Буковски провокира зрителите и обсъждается в Добрич.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/„lyubovta-e-kuche-ot-ada“-–-provokativna-izlozhba-po-bukovski-gostuva-v-dobrich-p732550"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/karmen-opera-ot-zhorzh-bize031126.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Кармен“",
-          "description": "Представяне на операта „Кармен“."
-        },
-        "en": {
-          "title": "Carmen.",
-          "description": "Presentation of the opera \"Carmen\"."
-        },
-        "ro": {
-          "title": "Carmen.",
-          "description": "Prezentarea operei \"Carmen\"."
-        }
-      },
-      "id": 577,
-      "title": "„Кармен“",
-      "date": "2026-11-03",
-      "time": "",
-      "location": "",
-      "category": "other",
-      "description": "Представяне на операта „Кармен“.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/karmen/p665.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Специална прожекция \"Почивка Ол Инклузив\" | КОНСТАНЦА",
-          "description": "Специална прожекция на филма \"Почивка в Синема Сити Сити Парк в Сити Парк Мол\"."
-        },
-        "en": {
-          "title": "Special screening \"All Inclusive Holiday\" | Cinema City City Park CONSTANȚA",
-          "description": "Special screening of the film \"All Inclusive Holiday\" at Cinema City City Park in City Park Mall."
-        },
-        "ro": {
-          "title": "Proiecție specială „Vacanță All Inclusive” | Cinema City City Park CONSTANȚA",
-          "description": "Proiecție specială a filmului „Vacanță All Inclusive” la Cinema City City Park în City Park Mall."
-        }
-      },
-      "id": 478,
-      "title": "Proiecție specială „Vacanță All Inclusive” | Cinema City City Park CONSTANȚA",
-      "date": "2026-11-03",
-      "time": "17:00",
-      "location": "City Park Mall",
-      "category": "other",
-      "description": "Proiecție specială a filmului „Vacanță All Inclusive” la Cinema City City Park în City Park Mall.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/proiectie-speciala-vacanta-all-inclusive-cinema-city-city-park-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Специална прожекция \"Почивка Ол Инклузив\" | Център Жан Константин КОНСТАНЦА",
-          "description": "Специалната прожекция \"Почивка ще се проведе в Многофункционалния образователен младежки център \"Жан Константин\" във вторник, 3 ноември от 18:30 часа."
-        },
-        "en": {
-          "title": "Special screening \"All Inclusive Holiday\" | Jean Constantin Center CONSTANȚA",
-          "description": "The special screening \"All Inclusive Holiday\" will take place at the Multifunctional Educational Center for Youth \"Jean Constantin\" on Tuesday, November 3 at 18:30."
-        },
-        "ro": {
-          "title": "Proiecție specială „Vacanță All Inclusive” | Centrul Jean Constantin CONSTANȚA",
-          "description": "Proiecția specială „Vacanță All Inclusive” va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” pe marți, 3 noiembrie la ora 18:30."
-        }
-      },
-      "id": 426,
-      "title": "Proiecție specială „Vacanță All Inclusive” | Centrul Jean Constantin CONSTANȚA",
-      "date": "2026-11-03",
-      "time": "18:30",
-      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
-      "category": "other",
-      "description": "Proiecția specială „Vacanță All Inclusive” va avea loc la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” pe marți, 3 noiembrie la ora 18:30.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/proiectie-speciala-vacanta-all-inclusive-centrul-jean-constantin-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Лазарица на Русенския театър",
-          "description": "Спектакълът „Лазарица“ ще бъде представен на 3 ноември от 19:00 часа на сцената на Държавния куклен театър във Варна."
-        },
-        "en": {
-          "title": "Lazaritsa of the Ruse Theatre",
-          "description": "The performance \"Lazaritsa\" will be presented on November 3 at 19:00 on the stage of the State Puppet Theatre in Varna."
-        },
-        "ro": {
-          "title": "Teatrul Național din București",
-          "description": "Spectacolul \"Lazaritsa\" va fi prezentat pe 3 noiembrie de la ora 19:00 pe scena Teatrului Național de Păpuși din Varna."
-        }
-      },
-      "id": 406,
-      "title": "Лазарица на Русенския театър",
-      "date": "2026-11-03",
-      "time": "19:00",
-      "location": "Държавен куклен театър във Варна",
-      "category": "theater",
-      "description": "Галина Христова, Марина Борисова и Елица Карабашлиева ще отворят съвместна акварелна изложба в галерия „Графит“ във Варна на 4 ноември, с начало на изложбата в 18:30.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=537173"
-        },
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=537691"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Специална прожекция \"Почивка Ол Инклузив\" | На живо! КОНСТАНЦА",
-          "description": "Специалната прожекция на филма \"Почивка Ол Инклузив\" ще се състои в \"Синема Сити ВИВО\" в Констанца на 3 ноември от 19:00 часа."
-        },
-        "en": {
-          "title": "Special screening \"All Inclusive Holiday\" | Cinema City VIVO! CONSTANȚA",
-          "description": "The special screening of the film \"All Inclusive Holiday\" will take place at Cinema City VIVO in Constanta on November 3 at 19:00."
-        },
-        "ro": {
-          "title": "Proiecție specială „Vacanță All Inclusive” | Cinema City VIVO! CONSTANȚA",
-          "description": "Proiecția specială a filmului „Vacanță All Inclusive” va avea loc la Cinema City VIVO din Constanța la data de 3 noiembrie la ora 19:00."
-        }
-      },
-      "id": 479,
-      "title": "Proiecție specială „Vacanță All Inclusive” | Cinema City VIVO! CONSTANȚA",
-      "date": "2026-11-03",
-      "time": "19:00",
-      "location": "Cinema City VIVO, CONSTANȚA",
-      "category": "other",
-      "description": "Proiecția specială a filmului „Vacanță All Inclusive” va avea loc la Cinema City VIVO din Constanța la data de 3 noiembrie la ora 19:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/proiectie-speciala-vacanta-all-inclusive-cinema-city-vivo-constanta/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -749,6 +559,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Китайската култура оживява във Варна с танци, музика, бойни изкуства и древна поезия",
+          "description": "Празникът на 7 ноември представя традиционни китайски изкуства и дава възможност на публиката да се включи в творчески активности."
+        },
+        "en": {
+          "title": "Chinese culture comes alive in Varna with dance, music, martial arts and ancient poetry",
+          "description": "The festival on November 7 presents traditional Chinese arts and gives the audience the opportunity to engage in creative activities."
+        },
+        "ro": {
+          "title": "Cultura chineză prinde viață în Varna cu dans, muzică, arte marțiale și poezie antică",
+          "description": "Festivalul din 7 noiembrie prezintă artele tradiționale chineze și oferă publicului posibilitatea de a se angaja în activități creative."
+        }
+      },
+      "id": 584,
+      "title": "Китайската култура оживява във Варна с танци, музика, бойни изкуства и древна поезия",
+      "date": "2026-11-07",
+      "time": "",
+      "location": "Варна",
+      "category": "other",
+      "description": "Празникът на 7 ноември представя традиционни китайски изкуства и дава възможност на публиката да се включи в творчески активности.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=537939"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Червената шапчица",
           "description": "Червената шапчица е събитие, което ще се проведе на улица Купенеи в Констанца, Румъния, на 7 ноември 2026 в 11:00 часа."
         },
@@ -1013,6 +853,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/constanta-teo-vio-si-costel-orizont-electric-stand-up-comedy-show/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/la-ginecolog-constanta/"
         }
       ]
     },
@@ -2243,6 +2088,16 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/01/lacul-lebedelor-casei-de-cultura/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/04/regina-si-marea-filmul-multipremiat/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/04/filmul-wild-horse-nine-2026/"
         }
       ]
     },
@@ -2743,6 +2598,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/conferintele-casei-paleologu-ce-ne-facem-cu-atatia-prosti-theodor-paleologu-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/ce-o-fi-o-fi-premiera-cu-doru-octavian-dumitru-constanta/"
         }
       ]
     },
@@ -3868,6 +3728,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/concert-aniversar-byron-20-de-ani/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/03/pauza-de-care-hormonii-tai-aveau-nevoie/"
         }
       ]
     },
@@ -4442,12 +4307,17 @@
       "time": "",
       "location": "Mandinga",
       "category": "adult_18+",
-      "description": "An event at Mandinga celebrating the end of summer and continuing the party beyond the usual time.",
+      "description": "Carla’s Dreams is returning, though no specific date, time, or location is provided in the given text.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/01/vara-s-a-terminat-nu-si-la-mandinga/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/03/carlas-dreams-revine/"
         }
       ]
     },
@@ -6392,7 +6262,7 @@
       "time": "",
       "location": "Acorduri ample",
       "category": "other",
-      "description": "Theo Rose returns with a concert at Acorduri ample after the sold-out success of the „Pe Vechi” series at Sala Palatului.",
+      "description": "Theo Rose prezentă un spectacol-concert care explorează sunetul și farmecul muzicii românești din anii '50-'80, o perioadă în care cântecele au devenit liantul dintre oameni.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -6488,6 +6358,66 @@
           "source_id": "pronewsdobrich",
           "source_name": "ProNews Dobrich",
           "url": "https://pronewsdobrich.bg/dvoen-yubiley-v-tervel-hramat-i-hor-„sv-georgi“-otbelyazvat-15-godini-s-praznichen-kontsert-p732605"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Хория Михаил изпълнява Концерта за пиано на Григ",
+          "description": "Хория Михаил ще участва в пиано концерт по произведения на Едвард Григ в Радиозала."
+        },
+        "en": {
+          "title": "Horia Mihail performs Grieg’s Piano Concerto",
+          "description": "Horia Mihail will take part in a piano concert based on the works of Edvard Grieg in the Radio Hall."
+        },
+        "ro": {
+          "title": "Horia Mihail interpretează Concertul pentru pian de Grieg",
+          "description": "Horia Mihail va prelua parte la un concert de pian bazat pe operele lui Edvard Grieg în Sala Radio."
+        }
+      },
+      "id": 585,
+      "title": "Horia Mihail interpretează Concertul pentru pian de Grieg",
+      "date": "",
+      "time": "",
+      "location": "Sala Radio",
+      "category": "concert",
+      "description": "Horia Mihail va prelua parte la un concert de pian bazat pe operele lui Edvard Grieg în Sala Radio.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/04/horia-mihail-concertul-de-grieg/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Направете своята почивка ол инклузив в Синеплекс!",
+          "description": "Оферта за почивка ол инклузив в развлекателен център в Констанца."
+        },
+        "en": {
+          "title": "Make your holiday all inclusive at Cineplexx!",
+          "description": "An all-inclusive holiday offer at Cineplexx, an entertainment center in Constanta."
+        },
+        "ro": {
+          "title": "Fă-ți vacanța all inclusive la Cineplexx!",
+          "description": "O ofertă de vacanță all inclusive la Cineplexx, un centru de divertisment din Constanța."
+        }
+      },
+      "id": 586,
+      "title": "Fă-ți vacanța all inclusive la Cineplexx!",
+      "date": "",
+      "time": "",
+      "location": "Cineplexx",
+      "category": "other",
+      "description": "O ofertă de vacanță all inclusive la Cineplexx, un centru de divertisment din Constanța.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/04/fa-ti-vacanta-all-inclusive-la-cineplexx/"
         }
       ]
     },
