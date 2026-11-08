@@ -1,526 +1,6 @@
 {
-  "generated_at": "2026-11-07T11:21:37.644837+00:00",
+  "generated_at": "2026-11-08T11:14:42.682597+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "СЕМЕЙСТВОТО НА РОМАНТИКАТА – Извънреден концерт -Национален театър за опера и балет \"Олег Дановски\" Констанца",
-          "description": "Констанца ще бъде домакин на 7 ноември 2026 г. на изключителен концерт, посветен на румънската романтика и песента, която превръща копнежа в изкуство."
-        },
-        "en": {
-          "title": "THE FAMILY OF ROMANCE – Extraordinary Concert -National Theatre of Opera and Ballet \"Oleg Danovski\" Constanta",
-          "description": "Constanța will host on November 7, 2026 an extraordinary concert dedicated to Romanian romance and the song that transforms longing into art."
-        },
-        "ro": {
-          "title": "FAMILIA ROMANTEI – Concert Extraordinar -Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-          "description": "Constanța va acoge pe 7 noiembrie 2026 un concert extraordinar dedicat romanței românești și cântecului care transformă dorul în artă."
-        }
-      },
-      "id": 545,
-      "title": "FAMILIA ROMANTEI – Concert Extraordinar -Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-      "date": "2026-11-07",
-      "time": "",
-      "location": "Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-      "category": "concert",
-      "description": "Constanța va acola pe 7 noiembrie 2026 un concert extraordinar dedicat romanței românești și cântecului, organizat de Teatrul Național de Operă și Balet „Oleg Danovski”.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/familia-romantei-concert-extraordinar-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Гримгод + Екзювиат",
-          "description": "Рок Хале Констанца кани феновете на метъла на нощ на музиката с участието на групите Grimegod и Exuviath."
-        },
-        "en": {
-          "title": "Grimegod + Exuviath",
-          "description": "Rock Halle Constanta invites metal fans to a night of music featuring the bands Grimegod and Exuviath."
-        },
-        "ro": {
-          "title": "Grimegod + Exuviath",
-          "description": "Rock Halle Constanta invites metal fans to a night of music featuring the bands Grimegod and Exuviath."
-        }
-      },
-      "id": 561,
-      "title": "Grimegod + Exuviath",
-      "date": "2026-11-07",
-      "time": "",
-      "location": "Rock Halle Constanta",
-      "category": "concert",
-      "description": "Rock Halle Constanta invites metal fans to a night of music featuring the bands Grimegod and Exuviath.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/grimegod-exuviath/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Китайската култура оживява във Варна с танци, музика, бойни изкуства и древна поезия",
-          "description": "Празникът на 7 ноември представя традиционни китайски изкуства и дава възможност на публиката да се включи в творчески активности."
-        },
-        "en": {
-          "title": "Chinese culture comes alive in Varna with dance, music, martial arts and ancient poetry",
-          "description": "The festival on November 7 presents traditional Chinese arts and gives the audience the opportunity to engage in creative activities."
-        },
-        "ro": {
-          "title": "Cultura chineză prinde viață în Varna cu dans, muzică, arte marțiale și poezie antică",
-          "description": "Festivalul din 7 noiembrie prezintă artele tradiționale chineze și oferă publicului posibilitatea de a se angaja în activități creative."
-        }
-      },
-      "id": 584,
-      "title": "Китайската култура оживява във Варна с танци, музика, бойни изкуства и древна поезия",
-      "date": "2026-11-07",
-      "time": "",
-      "location": "Варна",
-      "category": "other",
-      "description": "Празникът на 7 ноември представя традиционни китайски изкуства и дава възможност на публиката да се включи в творчески активности.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=537939"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Храм „Св. Архангел Михаил“ в Дуранкулак събира вярващите храмовия празник",
-          "description": "Храм „Св. Архангел Михаил“ в Дуранкулак организира храмовия празник за вярващите."
-        },
-        "en": {
-          "title": "\"St. Archangel Michael\" Temple in Durankulak gathers the faithful for the temple feast",
-          "description": "Temple \"St. Archangel Michael\" in Durankulak organized the temple holiday for the believers."
-        },
-        "ro": {
-          "title": "Templul \"Sfântul Arhanghel Mihail\" din Durankulak adună credincioșii sărbătorii templului",
-          "description": "Templul \"Sfântul Arhanghel Mihail\" din Durankulak organizează sărbătoarea templului pentru credincioși."
-        }
-      },
-      "id": 589,
-      "title": "Храм „Св. Архангел Михаил“ в Дуранкулак събира вярващите храмовия празник",
-      "date": "2026-11-07",
-      "time": "",
-      "location": "Храм „Св. Архангел Михаил“ в Дуранкулак",
-      "category": "other",
-      "description": "Храм „Св. Архангел Михаил“ в Дуранкулак организира храмовия празник за вярващите.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/hram-„sv-arhangel-mihail“-v-durankulak-sabira-vyarvashtite-hramoviya-praznik-p732676"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/praznik-na-kitayskata-kultura.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Паразитите на @doors",
-          "description": "Паразитите се завръщат на сцената в клуб Дорс на 7 ноември с истински рап."
-        },
-        "en": {
-          "title": "Parasites @doors",
-          "description": "Parasites are back on stage at the Doors club on November 7 with real rap."
-        },
-        "ro": {
-          "title": "Paraziții @doors",
-          "description": "Paraziții se întorc pe scenă la clubul Doors pe 7 noiembrie cu rap pe bune."
-        }
-      },
-      "id": 612,
-      "title": "Paraziții @doors",
-      "date": "2026-11-07",
-      "time": "",
-      "location": "Doors",
-      "category": "adult_18+",
-      "description": "Paraziții se întorc pe scenă la clubul Doors pe 7 noiembrie cu rap pe bune.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/parazitii-at-doors/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Добро кафе | Изкуство | Вдъхновяващи разговори.",
-          "description": "Серия от вдъхновяващи разговори, които ще се състоят в рамките на събитието \"Добро кафе | АРТ\"."
-        },
-        "en": {
-          "title": "A good coffee | ARTA | Conversations that inspire.",
-          "description": "A series of inspiring conversations that will take place during the event 'Good coffee | ART'."
-        },
-        "ro": {
-          "title": "O cafea buna | ARTA | Conversatii care inspira.",
-          "description": "O serie de conversații inspiratoare care vor avea loc în cadrul evenimentului 'O cafea buna | ARTA'."
-        }
-      },
-      "id": 629,
-      "title": "O cafea buna | ARTA | Conversatii care inspira.",
-      "date": "2026-11-07",
-      "time": "",
-      "location": "Bd. Tomis nr 25, Constanța",
-      "category": "other",
-      "description": "O serie de conversații inspiratoare care vor avea loc în cadrul evenimentului 'O cafea buna | ARTA'.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/o-cafea-buna-arta-conversatii-care-inspira/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Благотворителен „Бал на изобилието“ в подкрепа на златното наследство на Варна",
-          "description": "Благотворителен бал, организиран за подкрепа на златното наследство на Варна."
-        },
-        "en": {
-          "title": "Charity \"Ball of Abundance\" in support of the golden heritage of Varna",
-          "description": "A charity ball organized to support the golden heritage of Varna."
-        },
-        "ro": {
-          "title": "\"Balul Abundenței\" de caritate în sprijinul moștenirii de aur a Varnei",
-          "description": "Bal de caritate organizat în sprijinul moștenirii de aur a Varnei."
-        }
-      },
-      "id": 637,
-      "title": "Благотворителен „Бал на изобилието“ в подкрепа на златното наследство на Варна",
-      "date": "2026-11-07",
-      "time": "",
-      "location": "",
-      "category": "other",
-      "description": "Благотворителен бал, организиран за подкрепа на златното наследство на Варна.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/blagotvoritelen-bal-na-izobilieto-v-podkrepa-na-zl.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Изложба разказва в Добрич за 150 години детски организации в България",
-          "description": "В Добрич ще се проведе изложба, която разказва за 150 години историята на детски организации в България."
-        },
-        "en": {
-          "title": "Exhibition in Dobrich tells about 150 years of children’s organizations in Bulgaria",
-          "description": "In Dobrich will be held an exhibition that tells about 150 years of the history of children’s organizations in Bulgaria."
-        },
-        "ro": {
-          "title": "O expoziție la Dobrich prezintă 150 de ani de organizații pentru copii din Bulgaria",
-          "description": "O expoziție care prezintă 150 de ani de istorie a organizațiilor pentru copii din Bulgaria va fi organizată la Dobrich."
-        }
-      },
-      "id": 636,
-      "title": "Изложба разказва в Добрич за 150 години детски организации в България",
-      "date": "2026-11-07",
-      "time": "09:36",
-      "location": "Добрич",
-      "category": "exhibition",
-      "description": "В Добрич ще се проведе изложба, която разказва за 150 години историята на детски организации в България.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/izlojba-razkazva-v-dobrich-za-150-godini-detski-organizacii-v-bylgariq/117663"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Работилница за страшни бисквити",
-          "description": "Работилница за производство на страшни бисквити ще се проведе в хотел Агапи Мамая на 7 ноември от 10:00 часа."
-        },
-        "en": {
-          "title": "Workshop of scary biscuits",
-          "description": "A workshop of making scary biscuits will take place at Hotel Agapi Mamaia, on November 7 at 10:00."
-        },
-        "ro": {
-          "title": "Atelier de biscuiți înfricoşători",
-          "description": "Un atelier de fabricare a biscuitelor înfricoșătoare va avea loc la Hotel Agapi Mamaia, în data de 7 noiembrie la ora 10:00."
-        }
-      },
-      "id": 596,
-      "title": "Atelier de biscuiți înfricoşători",
-      "date": "2026-11-07",
-      "time": "10:00",
-      "location": "Hotel Agapi Mamaia",
-      "category": "other",
-      "description": "Un atelier de fabricare a biscuitelor înfricoșătoare va avea loc la Hotel Agapi Mamaia, în data de 7 noiembrie la ora 10:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/atelier-de-biscuiti-infricosatori/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Безплатни медитации",
-          "description": "Безплатни медитации, организирани от ФИМИМ (Международна федерация за интелектуална и морална медитация) в Университета \"Овидий\" в Констанца."
-        },
-        "en": {
-          "title": "Free FIMIM Meditations",
-          "description": "Free meditations organized by FIMIM (International Federation for Intellectual and Moral Meditation) at \"Ovidius\" University of Constanta."
-        },
-        "ro": {
-          "title": "Meditații FIMIM Gratuite",
-          "description": "Gratuite meditații organizate de FIMIM (Federatia Internaționala pentru Meditarea Intelectuală și Morală) la Universitatea „Ovidius” din Constanța."
-        }
-      },
-      "id": 628,
-      "title": "Meditații FIMIM Gratuite",
-      "date": "2026-11-07",
-      "time": "10:00",
-      "location": "Universitatea „Ovidius” din Constanța",
-      "category": "other",
-      "description": "Gratuite meditații organizate de FIMIM (Federatia Internaționala pentru Meditarea Intelectuală și Morală) la Universitatea „Ovidius” din Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/meditatii-fimim-gratuite/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Червената шапчица",
-          "description": "Червената шапчица е събитие, което ще се проведе на улица Купенеи в Констанца, Румъния, на 7 ноември 2026 в 11:00 часа."
-        },
-        "en": {
-          "title": "Little Red Riding Hood",
-          "description": "Red Riding Hood is an event that will take place at Strada Cumppenei in Constanța, Romania, on November 7, 2026 at 11:00 am."
-        },
-        "ro": {
-          "title": "Scufița Roșie",
-          "description": "Scufița Roșie este o eveniment care va avea loc la Strada Cumpenei în Constanța, România, pe data de 7 noiembrie 2026 la ora 11:00."
-        }
-      },
-      "id": 543,
-      "title": "Scufița Roșie",
-      "date": "2026-11-07",
-      "time": "11:00",
-      "location": "Strada Cumpenei nr.2, 900147 Constanța, Romania",
-      "category": "other",
-      "description": "Scufița Roșie este o eveniment care va avea loc la Strada Cumpenei în Constanța, România, pe data de 7 noiembrie 2026 la ora 11:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/scufita-rosie-6/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Кой съм аз без майка си? – преживяващ уъркшоп за личностно развитие",
-          "description": "Експериментален уъркшоп за личностно развитие на тема \"Кой съм аз без майка си?\", който ще се проведе на 7 ноември от 11:00 часа в Констанца, Румъния."
-        },
-        "en": {
-          "title": "Who am I without my mother? – experiential personal development workshop",
-          "description": "An experiential personal development workshop entitled 'Who am I without my mother?' which will take place on November 7th at 11:00 in Constanta, Romania."
-        },
-        "ro": {
-          "title": "Cine sunt eu, fără mama? – workshop experențial de dezvoltare personală",
-          "description": "Un workshop experențial de dezvoltare personală cu titlul 'Cine sunt eu, fără mama?' care va avea loc în data de 7 noiembrie la ora 11:00 în Constanta, România."
-        }
-      },
-      "id": 551,
-      "title": "Cine sunt eu, fără mama? – workshop experențial de dezvoltare personală",
-      "date": "2026-11-07",
-      "time": "11:00",
-      "location": "Constanta, Romania",
-      "category": "other",
-      "description": "Un workshop experențial de dezvoltare personală cu titlul 'Cine sunt eu, fără mama?' care va avea loc în data de 7 noiembrie la ora 11:00 în Constanta, România.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/cine-sunt-eu-fara-mama-workshop-experential-de-dezvoltare-personala/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Уъркшоп по рисуване за деца",
-          "description": "Организирана работилница по рисуване за деца, която ще се проведе в Библиотеката на Дориан Грей на 7 ноември 2026 г. от 11:00 часа."
-        },
-        "en": {
-          "title": "Painting workshop for children",
-          "description": "Painting workshop organized for children, which will take place at the Dorian Gray Library on November 7, 2026 at 11:00."
-        },
-        "ro": {
-          "title": "Atelier de pictură pentru copii",
-          "description": "Atelier de pictură organizat pentru copii, care va avea loc la Libraria Dorian Gray la 7 noiembrie 2026 la ora 11:00."
-        }
-      },
-      "id": 641,
-      "title": "Atelier de pictură pentru copii",
-      "date": "2026-11-07",
-      "time": "11:00",
-      "location": "Libraria Dorian Gray",
-      "category": "other",
-      "description": "Atelier de pictură organizat pentru copii, care va avea loc la Libraria Dorian Gray la 7 noiembrie 2026 la ora 11:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/atelier-de-pictura-pentru-copii-4/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ЦСКА-София – ЦСКА-София",
-          "description": "Баскетболен мач между ЦСУ Нептун Ц-ца и АЦС Сармис Букурещ е насрочен за утре от 11:30 часа в спортната зала на Констанца."
-        },
-        "en": {
-          "title": "CSU Neptun C-ţa – ACS Sarmis București",
-          "description": "A basketball match between CSU Neptun C-ța and ACS Sarmis București is scheduled for tomorrow at 11:30 AM at the Constanta Sports Hall."
-        },
-        "ro": {
-          "title": "CSU Neptun C-ța – ACS Sarmis București",
-          "description": "A basketball match between CSU Neptun C-ța and ACS Sarmis București is scheduled for tomorrow at 11:30 AM at the Constanta Sports Hall."
-        }
-      },
-      "id": 630,
-      "title": "CSU Neptun C-ța – ACS Sarmis București",
-      "date": "2026-11-07",
-      "time": "11:30",
-      "location": "Sala Sporturilor Constanta",
-      "category": "sports",
-      "description": "A basketball match between CSU Neptun C-ța and ACS Sarmis București is scheduled for tomorrow at 11:30 AM at the Constanta Sports Hall.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/csu-neptun-c-ta-acs-sarmis-bucuresti/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Уъркшоп – Какво избирам да оставя зад себе си?",
-          "description": "Работилница, озаглавена \"Какво избирам да оставя след себе си?\", която ще се проведе в четвъртък, 7 ноември от 12:30 ч. в Центъра ВИАРТ."
-        },
-        "en": {
-          "title": "Workshop – What do I choose to leave behind?",
-          "description": "A workshop entitled 'What do I choose to leave behind?' which takes place on Thursday, November 7 at 12:30 in the VIART Centre."
-        },
-        "ro": {
-          "title": "Atelier – Ce aleg să las în urmă?",
-          "description": "Un atelier cu titlul 'Ce aleg să las în urmă?' care are loc joi, 7 noiembrie la ora 12:30 în Centrul VIART."
-        }
-      },
-      "id": 552,
-      "title": "Atelier – Ce aleg să las în urmă?",
-      "date": "2026-11-07",
-      "time": "12:30",
-      "location": "Centrul VIART",
-      "category": "other",
-      "description": "Un atelier cu titlul 'Ce aleg să las în urmă?' care are loc joi, 7 noiembrie la ora 12:30 în Centrul VIART.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/atelier-ce-aleg-sa-las-in-urma/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Машина",
-          "description": "Машинал е театрално представление, което ще се състои в Държавния театър в Констанца на 7 ноември 2026 г. от 7:00 ч."
-        },
-        "en": {
-          "title": "Machinal",
-          "description": "Machinal is a theatrical performance taking place at the Teatrul de Stat Constanța's Sala Mare on November 7, 2026, at 7:00 PM."
-        },
-        "ro": {
-          "title": "Machinal",
-          "description": "Machinal is a theatrical performance taking place at the Teatrul de Stat Constanța's Sala Mare on November 7, 2026, at 7:00 PM."
-        }
-      },
-      "id": 504,
-      "title": "Machinal",
-      "date": "2026-11-07",
-      "time": "19:00",
-      "location": "Teatrul de Stat Constanța - Sala Mare",
-      "category": "theater",
-      "description": "MACHINAL proposes a scenic reflection on the relationship between individuals and the social mechanisms regulating work, family, and intimacy in a modern world.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/machinal/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/machinal-2/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Гримгод + Екзювиат",
-          "description": "Рок Хале е домакин на концерт с участието на групите Grimegod и Exuviath на 7 ноември от 7:30 часа."
-        },
-        "en": {
-          "title": "Grimegod + Exuviath",
-          "description": "Rock Halle hosts a concert featuring the bands Grimegod and Exuviath on November 7th at 7:30 PM."
-        },
-        "ro": {
-          "title": "Grimegod + Exuviath",
-          "description": "Rock Halle hosts a concert featuring the bands Grimegod and Exuviath on November 7th at 7:30 PM."
-        }
-      },
-      "id": 464,
-      "title": "Grimegod + Exuviath",
-      "date": "2026-11-07",
-      "time": "19:30",
-      "location": "Rock Halle",
-      "category": "concert",
-      "description": "Rock Halle hosts a concert featuring the bands Grimegod and Exuviath on November 7th at 7:30 PM.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/grimegod-exuviath/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -553,6 +33,36 @@
           "source_id": "silistra_news",
           "source_name": "Silistra News",
           "url": "https://silistranews.net/2026/11/06/xx-yubileen-turnir-kupa-drastar-po-sportna-strelba-se-provezhda-v-silistra"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Бивали Небивалици“ – комедия",
+          "description": "Представяне на комедия „Бивали Небивалици“."
+        },
+        "en": {
+          "title": "\"Bivali Nebivalici\" – comedy",
+          "description": "Presentation of the comedy \"Bivali Nebivalici\"."
+        },
+        "ro": {
+          "title": "\"Bivali Nebivalici\" - comedie",
+          "description": "Prezentarea comediei \"Bivali Nebivalici\"."
+        }
+      },
+      "id": 655,
+      "title": "„Бивали Небивалици“ – комедия",
+      "date": "2026-11-08",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Представяне на комедия „Бивали Небивалици“.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/bivali-nebivalitsi-komediya555.html"
         }
       ]
     },
@@ -648,6 +158,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/inger-de-buzunar-atelier-ludic-creativ/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "С детския спектакъл „Геройско парти“ започна програмата за празника на Генерал Тошево",
+          "description": "Състоя се детски спектакъл „Геройско парти“ като начало на програмата за празник в Генерал Тошево."
+        },
+        "en": {
+          "title": "The program for the celebration of General Toshevo began with the children's show \"Hero Party\"",
+          "description": "There was a children's show \"Hero Party\" as the beginning of the program for celebration in General Toshevo."
+        },
+        "ro": {
+          "title": "Cu spectacolul pentru copii \"Petrecerea eroilor\" a început programul de sărbătoare a Generalului Tosevo",
+          "description": "Spectacolul pentru copii \"Petrecerea Eroilor\" a avut loc la începutul programului de sărbătoare din General Tosevo."
+        }
+      },
+      "id": 654,
+      "title": "С детския спектакъл „Геройско парти“ започна програмата за празника на Генерал Тошево",
+      "date": "2026-11-08",
+      "time": "11:26",
+      "location": "Генерал Тошево",
+      "category": "other",
+      "description": "Състоя се детски спектакъл „Геройско парти“ като начало на програмата за празник в Генерал Тошево.",
+      "sources": [
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/s-detskiq-spektakyl-geroisko-parti-zapochna-programata-za-praznika-na-general-toshevo/117680"
         }
       ]
     },
@@ -1469,6 +1009,36 @@
     {
       "translations": {
         "bg": {
+          "title": "3 Югоизток",
+          "description": "Изпълнение на живо на 3 от 19:30 часа, като концертът започва в 20:00 часа."
+        },
+        "en": {
+          "title": "3 South East @doors",
+          "description": "Live performance by 3 SUD EST starting at 19:30 with the concert beginning at 20:00."
+        },
+        "ro": {
+          "title": "3 Sud Est @doors",
+          "description": "Live performance by 3 SUD EST starting at 19:30 with the concert beginning at 20:00."
+        }
+      },
+      "id": 657,
+      "title": "3 Sud Est @doors",
+      "date": "2026-11-14",
+      "time": "19:30",
+      "location": "Doors",
+      "category": "concert",
+      "description": "Live performance by 3 SUD EST starting at 19:30 with the concert beginning at 20:00.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/3-sud-est-at-doors/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "КОНЦЕРТНА УСМИВКА",
           "description": "Смайли изнася представление в Многофункционален образователен център за младежта \"Жан Константин\" на 14 ноември 2026 г., от 20:00 часа."
         },
@@ -1803,6 +1373,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/elixirul-dragostei/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/elixirul-dragostei-4/"
         }
       ]
     },
@@ -2209,6 +1784,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Семейни съзвездия",
+          "description": "Събитие"
+        },
+        "en": {
+          "title": "Family constellations",
+          "description": "Evenimentul"
+        },
+        "ro": {
+          "title": "Constelații Familiale",
+          "description": "Evenimentul "
+        }
+      },
+      "id": 656,
+      "title": "Constelații Familiale",
+      "date": "2026-11-21",
+      "time": "10:00",
+      "location": "Agigea, str Teilor, Nr 1",
+      "category": "other",
+      "description": "Evenimentul ",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/constelatii-familiale/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Да поговорим за #СЪДЪРЖАНИЕ: Уъркшоп за бранд идентичност и създаване на ролка",
           "description": "Уъркшоп по бранд идентичност и създаване на ролка, който ще се проведе в Кафе Бонжур на 21 ноември 2026 г., от 11:00 часа."
         },
@@ -2583,6 +2188,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/07/proteina-antrenamentul-cantaresc-eaa/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/08/horatiu-malaele-maia-morgenstern-turneu/"
         }
       ]
     },
@@ -2955,7 +2565,7 @@
       "title": "ТРИ ДЕЦА ОТ ЕДНА ЖЕНА",
       "date": "2026-12-03",
       "time": "",
-      "location": "",
+      "location": "Силистра",
       "category": "other",
       "description": "Абонемент за представление \"ТРИ ДЕЦА ОТ ЕДНА ЖЕНА\" на четвъртък, 03 декември 2026 година.",
       "sources": [
@@ -2963,6 +2573,11 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/tri-detsa-ot-edna-zhena/p1352.html"
+        },
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/08/bk-dorostol-igrae-dva-macha-ot-turnira-u14-v-silistra-v-nedelya"
         }
       ]
     },
@@ -5037,7 +4652,7 @@
       "time": "",
       "location": "STRADA MALAGA",
       "category": "adult_18+",
-      "description": "Un spectacul de animație DreamWorks cu temă pe o insulă construită din amintiri, dar fără date sau locație specificate.",
+      "description": "Un one woman show care prezintă o versiune despre viața celebrei cântărețe Maria Tanase, cu aspecte ale suferinței sale.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -5048,6 +4663,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/12/forgotten-island-animatie-dreamworks/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/maria-tanase-o-poveste-2/"
         }
       ]
     },
@@ -7628,6 +7248,66 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/07/copilul-noptii-horrorul-rupert-grint/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "КОНЦЕРТНА УСМИВКА",
+          "description": "Съвременната румънска музика се празнува със Смайли в Констанца заедно с Деня на Добруджа."
+        },
+        "en": {
+          "title": "CONCERT SMILEY",
+          "description": "Contemporary Romanian music is celebrated with Smiley in Constanta alongside the Dobrogea Day."
+        },
+        "ro": {
+          "title": "CONCERT SMILEY",
+          "description": "Muzica românească contemporană se celebrează cu Smiley în constănțenii alături de Ziua Dobrogei."
+        }
+      },
+      "id": 658,
+      "title": "CONCERT SMILEY",
+      "date": "",
+      "time": "",
+      "location": "constănțenii",
+      "category": "concert",
+      "description": "Muzica românească contemporană se celebrează cu Smiley în constănțenii alături de Ziua Dobrogei.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/concert-smiley/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Александру Андриеш и Фринедс/14 години Музика за аутизъм",
+          "description": "Александър Андриеш и приятели изпълняват на сцената на Доорс за хуманитарен концерт, посветен на кампанията Музика за аутизъм, инициатива, родена в подкрепа на осведомеността и изследванията на аутизма."
+        },
+        "en": {
+          "title": "Alexandru Andrieș & Frineds/14 years Music for Autism",
+          "description": "Alexandru Andrieș & Friends performed on stage at Doors for a humanitarian concert dedicated to the Music for Autism campaign, an initiative born to support autism awareness and research."
+        },
+        "ro": {
+          "title": "Alexandru Andrieș & Frineds/14 ani Music for Autism",
+          "description": "Alexandru Andrieș & Friends perform on stage at Doors for a humanitarian concert dedicated to the Music for Autism campaign, an initiative born to support autism awareness and research."
+        }
+      },
+      "id": 659,
+      "title": "Alexandru Andrieș & Frineds/14 ani Music for Autism",
+      "date": "",
+      "time": "",
+      "location": "Doors",
+      "category": "concert",
+      "description": "Alexandru Andrieș & Friends perform on stage at Doors for a humanitarian concert dedicated to the Music for Autism campaign, an initiative born to support autism awareness and research.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/alexandru-andries-frineds14-ani-music-for-autism/"
         }
       ]
     },
