@@ -1,226 +1,6 @@
 {
-  "generated_at": "2026-11-08T11:14:42.682597+00:00",
+  "generated_at": "2026-11-09T12:48:47.639221+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "ПМГ в Силистра организира XXXV математически турнир „Черноризец Храбър“ на 8 ноември",
-          "description": "ПМГ в Силистра организира XXXV математически турнир с име „Черноризец Храбър“, който ще се проведе на 8 ноември."
-        },
-        "en": {
-          "title": "PMG in Silistra organizes XXXV mathematical tournament \"Chernorizets Braver\" on November 8",
-          "description": "PMG in Silistra organizes XXXV mathematical tournament named \"Chernorizets Braver\", which will be held on November 8."
-        },
-        "ro": {
-          "title": "PMG din Silistra organizează pe 8 noiembrie cel de-al XXXV-lea turneu de matematică \"Cernorizets Hrabar\"",
-          "description": "PMG din Silistra organizează în 8 noiembrie cel de-al XXXV-lea turneu de matematică, intitulat \"Cernorizec Curajos\"."
-        }
-      },
-      "id": 402,
-      "title": "ПМГ в Силистра организира XXXV математически турнир „Черноризец Храбър“ на 8 ноември",
-      "date": "2026-11-08",
-      "time": "",
-      "location": "Силистра",
-      "category": "other",
-      "description": "ПМГ в Силистра организира XXXV математически турнир с име „Черноризец Храбър“, който ще се проведе на 8 ноември.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/10/20/pmg-v-silistra-organizira-xxxv-matematicheski-turnir-chernorizets-hrabar-na-8-noemvri"
-        },
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/11/06/xx-yubileen-turnir-kupa-drastar-po-sportna-strelba-se-provezhda-v-silistra"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Бивали Небивалици“ – комедия",
-          "description": "Представяне на комедия „Бивали Небивалици“."
-        },
-        "en": {
-          "title": "\"Bivali Nebivalici\" – comedy",
-          "description": "Presentation of the comedy \"Bivali Nebivalici\"."
-        },
-        "ro": {
-          "title": "\"Bivali Nebivalici\" - comedie",
-          "description": "Prezentarea comediei \"Bivali Nebivalici\"."
-        }
-      },
-      "id": 655,
-      "title": "„Бивали Небивалици“ – комедия",
-      "date": "2026-11-08",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Представяне на комедия „Бивали Небивалици“.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/bivali-nebivalitsi-komediya555.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Упражнения на Фалун Гонг на открито в Констанца",
-          "description": "Упражненията на Фалун Гонг ще се проведат на открито в парка Тъбакарие в Констанца на 8 ноември 2026 г., преди 09:00 часа."
-        },
-        "en": {
-          "title": "Falun Gong Exercises in Constanta, Romania",
-          "description": "The Falun Gong exercises will be held outdoors in the Tabacaria Park in Constanta on November 8, 2026, before 09:00 a.m."
-        },
-        "ro": {
-          "title": "Exerciţii Falun Gong în aer liber – Constanţa",
-          "description": "Exerciții Falun Gong se vor desfășura în aer liber în Parcul Tăbăcăriei la Constanța la data de 8 noiembrie 2026, înainte de ora 09:00."
-        }
-      },
-      "id": 642,
-      "title": "Exerciţii Falun Gong în aer liber – Constanţa",
-      "date": "2026-11-08",
-      "time": "09:00",
-      "location": "Parcul Tăbăcăriei",
-      "category": "other",
-      "description": "Exerciții Falun Gong se vor desfășura în aer liber în Parcul Tăbăcăriei la Constanța la data de 8 noiembrie 2026, înainte de ora 09:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/exercitii-falun-gong-in-aer-liber-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Обученият кон от Шарл Перо",
-          "description": "Спектакълът \"MOTANUL ÎNCĂLȚAT\" от Шарл Перо трябва да продължи около 50 минути."
-        },
-        "en": {
-          "title": "THE BOOTED MOUNTAIN, after Ch. Perrault",
-          "description": "The play \"MOTANUL ÎNCĂLȚAT\" by Charles Perrault, expected to last about 50 minutes."
-        },
-        "ro": {
-          "title": "MOTANUL ÎNCĂLȚAT, după Ch. Perrault",
-          "description": "Представа „MOTANUL ÎNCĂЛȚAT“ по Charles Perrault, длъжна да продължи около 50 минути."
-        }
-      },
-      "id": 613,
-      "title": "MOTANUL ÎNCĂLȚAT, după Ch. Perrault",
-      "date": "2026-11-08",
-      "time": "10:30",
-      "location": "Aristide Karatzali, nr 16, 900746 Constanta, Romania",
-      "category": "theater",
-      "description": "Un spectacol teatral bazat pe operele lui Ch. Perrault, desfășurat de la ora 10:30 într-o locație specificată din Constanta, România.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/motanul-incaltat-dupa-ch-perrault/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/motanul-incaltat-dupa-ch-perrault-2/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Джобен ангел - творческа работилница",
-          "description": "Джобен ангел – творческа игрална работилница е събитие за отдих, планирано в Център за отдих и развитие на 8 ноември от 11:00 часа."
-        },
-        "en": {
-          "title": "Pocket angel - creative playful workshop",
-          "description": "Pocket Angel - creative playful workshop is a recreation event scheduled at the Equilibrium and Development Recreation Center on November 8 at 11:00."
-        },
-        "ro": {
-          "title": "Înger de buzunar -atelier ludic creativ",
-          "description": "Înger de buzunar -atelier ludic creativ este o eveniment de recreație programată la Centrul Recreațional Equilibrium și Dezvoltare pe data de 8 noiembrie la ora 11:00."
-        }
-      },
-      "id": 598,
-      "title": "Înger de buzunar -atelier ludic creativ",
-      "date": "2026-11-08",
-      "time": "11:00",
-      "location": "Centrul Recreațional Equilibrium și Dezvoltare",
-      "category": "other",
-      "description": "Înger de buzunar -atelier ludic creativ este o eveniment de recreație programată la Centrul Recreațional Equilibrium și Dezvoltare pe data de 8 noiembrie la ora 11:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/inger-de-buzunar-atelier-ludic-creativ/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "С детския спектакъл „Геройско парти“ започна програмата за празника на Генерал Тошево",
-          "description": "Състоя се детски спектакъл „Геройско парти“ като начало на програмата за празник в Генерал Тошево."
-        },
-        "en": {
-          "title": "The program for the celebration of General Toshevo began with the children's show \"Hero Party\"",
-          "description": "There was a children's show \"Hero Party\" as the beginning of the program for celebration in General Toshevo."
-        },
-        "ro": {
-          "title": "Cu spectacolul pentru copii \"Petrecerea eroilor\" a început programul de sărbătoare a Generalului Tosevo",
-          "description": "Spectacolul pentru copii \"Petrecerea Eroilor\" a avut loc la începutul programului de sărbătoare din General Tosevo."
-        }
-      },
-      "id": 654,
-      "title": "С детския спектакъл „Геройско парти“ започна програмата за празника на Генерал Тошево",
-      "date": "2026-11-08",
-      "time": "11:26",
-      "location": "Генерал Тошево",
-      "category": "other",
-      "description": "Състоя се детски спектакъл „Геройско парти“ като начало на програмата за празник в Генерал Тошево.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/s-detskiq-spektakyl-geroisko-parti-zapochna-programata-za-praznika-na-general-toshevo/117680"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Игри в задния двор",
-          "description": "Игра в задния двор е насрочена за петък, 8 ноември от 19:00 часа на улица Йон Лаховари № 2А в Констанца, Румъния."
-        },
-        "en": {
-          "title": "GAMES IN THE BACK YARD",
-          "description": "A backyard game is scheduled for Friday, November 8 at 19:00 on Ion Lahovari Street No. 2A in Constanta, Romania."
-        },
-        "ro": {
-          "title": "JOCURI ÎN CURTEA DIN SPATE",
-          "description": "Un joc în curtea din spate este programat pentru vineri, 8 noiembrie la ora 19:00 pe Strada Ion Lahovari nr. 2A în Constanta, România."
-        }
-      },
-      "id": 594,
-      "title": "JOCURI ÎN CURTEA DIN SPATE",
-      "date": "2026-11-08",
-      "time": "19:00",
-      "location": "Strada Ion Lahovari nr. 2A, 900726 Constanta, Romania",
-      "category": "other",
-      "description": "Un joc în curtea din spate este programat pentru vineri, 8 noiembrie la ora 19:00 pe Strada Ion Lahovari nr. 2A în Constanta, România.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/jocuri-in-curtea-din-spate/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -248,6 +28,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/orizonturi-dobrogene/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Красавицата и Звяра",
+          "description": "Концерт на труппата „Красавицата и Звяра"
+        },
+        "en": {
+          "title": "Beauty and the Beast",
+          "description": "\"Beauty and the Beast\""
+        },
+        "ro": {
+          "title": "Frumoasa si Bestia",
+          "description": "Frumoasa si Bestia"
+        }
+      },
+      "id": 660,
+      "title": "„Красавицата и Звяра",
+      "date": "2026-11-09",
+      "time": "",
+      "location": "Костюми",
+      "category": "concert",
+      "description": "Концерт на труппата „Красавицата и Звяра",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/krasavitsata-i-zvyara-kontsert-v-kostyumi091126.html"
         }
       ]
     },
@@ -728,6 +538,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/seara-multiculturalitatii-dobrogene/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/seara-multiculturalitatii-dobrogene/"
         }
       ]
     },
@@ -937,12 +752,17 @@
       "time": "19:00",
       "location": "Sala Mare a TSC",
       "category": "other",
-      "description": "A comedy show taking place at Sala Mare a TSC on November 14, 2026, starting at 19:00.",
+      "description": "A special edition of Comedy Shop is taking place at the large hall of TSC, offering a 1+1 deal for the Day of Dobrogea.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/comedy-shop-2/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/comedy-shop/"
         }
       ]
     },
@@ -1437,12 +1257,17 @@
       "time": "",
       "location": "Melody Grand Ballroom",
       "category": "other",
-      "description": "Balloon convention taking place at the Melody Grand Ballroom from November 17 to 18, 2026.",
+      "description": "„Regina nopții” a câștigat premiul principal la Săptămânii Comediei 2026, iar spectacolul Teatrului „Fani Tardini” Galați a obținut patru premii.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/fooca-wow-balloon-convention-2026/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/09/regina-noptii-castiga-saptamana-comediei/"
         }
       ]
     },
@@ -1633,6 +1458,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/ironarm-iii/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Гала рожден ден \"Бели пера\"",
+          "description": "Юбилейно гала събитие за \"Бели пера\", което ще се проведе в Дома на културата в Констанца на 20 ноември 2026 г., от 17:45 часа."
+        },
+        "en": {
+          "title": "\"White Feathers\" Birthday Gala",
+          "description": "An anniversary gala event for 'White Feathers' taking place at Casa de Cultură Constanţa on November 20, 2026, starting at 17:45."
+        },
+        "ro": {
+          "title": "GALA ANIVERSARA “ White Feathers”",
+          "description": "An anniversary gala event for 'White Feathers' taking place at Casa de Cultură Constanţa on November 20, 2026, starting at 17:45."
+        }
+      },
+      "id": 663,
+      "title": "GALA ANIVERSARA “ White Feathers”",
+      "date": "2026-11-20",
+      "time": "17:45",
+      "location": "Casa de Cultură Constanţa",
+      "category": "other",
+      "description": "An anniversary gala event for 'White Feathers' taking place at Casa de Cultură Constanţa on November 20, 2026, starting at 17:45.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/gala-aniversara-white-feathers/"
         }
       ]
     },
@@ -2193,6 +2048,21 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/08/horatiu-malaele-maia-morgenstern-turneu/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/lansare-de-carte-am-scris-o-carte-despre-tine-catalina-bianca-buta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/constanta-stand-up-comedy-show-cu-georgiana-anghel-jan-holban-marius-tomescu-si-paul-lungu/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/09/leontina-vaduva-bella-voce-bella-musica-2/"
         }
       ]
     },
@@ -2388,6 +2258,36 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/ida-nilsen-the-funkbots/p1353.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Домашна стендъп комедия",
+          "description": "Стендап комедийно шоу в Гроув Алт Сошъл Бар в Констанца."
+        },
+        "en": {
+          "title": "Stand-up Comedy",
+          "description": "Stand-up comedy show at Groove Alt Social Bar in Constanța."
+        },
+        "ro": {
+          "title": "Stand-up Comedy de casă",
+          "description": "Stand-up comedy show at Groove Alt Social Bar in Constanța."
+        }
+      },
+      "id": 664,
+      "title": "Stand-up Comedy de casă",
+      "date": "2026-11-29",
+      "time": "20:00",
+      "location": "Groove Alt Social Bar",
+      "category": "other",
+      "description": "Stand-up comedy show at Groove Alt Social Bar in Constanța.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/stand-up-comedy-de-casa-groove-alt-social-bar-constanta/"
         }
       ]
     },
@@ -2868,6 +2768,36 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/na-hubaviya-sin-dunav/p1350.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Категория:Зимни спортове",
+          "description": "Музикалният концерт с участието на Тудор Георге ще се проведе в Многофункционалния образователен център за младежта \"Жан Константин\" на 11 декември 2026 г. от 19:00 часа."
+        },
+        "en": {
+          "title": "Tudor Gheorghe: Iarna",
+          "description": "The music concert with the participation of Tudor Gheorghe will take place in the Multifunctional Educational Center for Youth \"Jean Constantin\" on December 11, 2026, at 19:00."
+        },
+        "ro": {
+          "title": "Tudor Gheorghe: Iarna",
+          "description": "Concertul de muzică cu participarea lui Tudor Gheorghe va avea loc în Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la data de 11 decembrie 2026, la ora 19:00."
+        }
+      },
+      "id": 665,
+      "title": "Tudor Gheorghe: Iarna",
+      "date": "2026-12-11",
+      "time": "19:00",
+      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
+      "category": "concert",
+      "description": "Concertul de muzică cu participarea lui Tudor Gheorghe va avea loc în Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” la data de 11 decembrie 2026, la ora 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/tudor-gheorghe-iarna-10/"
         }
       ]
     },
@@ -3493,6 +3423,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/regal-dobrogean/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/the-evolution-of-magic-constanta/"
         }
       ]
     },
@@ -4598,6 +4533,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/06/filme-romanesti-in-noiembrie-2026/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/09/cum-sa-spargi-o-banca-2026/"
         }
       ]
     },
@@ -5872,12 +5812,17 @@
       "time": "",
       "location": "Într-un decor domestic, plin de candoare, o ogradă cu rățuște, găini, gâște, gâscani, curcani",
       "category": "other",
-      "description": "Într-un decor domestic plin de candoare, micuții vor descoperi o rățușcă într-o ogradă cu diverse animale.",
+      "description": "Spectacolul „LEGENDA MĂRII NEGRE” a fost pus în scenă de Valeria Cristia și Amalia Iorgoiu și este adaptat după diferite legende legate de Mării Negre, dedicat Zilei Dobrogei.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/ratusca-cea-urata-dupa-h-ch-andersen/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/legenda-marii-negre-adaptat-dupa-diferite-legende-ale-marii-negrespectacol-dedicat-zilei-dobrogei/"
         }
       ]
     },
@@ -7314,6 +7259,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Наследниците на музикалната Румъния",
+          "description": "В Радиозалата е насрочен концерт с трима млади солисти, диригент и изключителна програма."
+        },
+        "en": {
+          "title": "Heirs of Musical Romania",
+          "description": "A concert with three young soloists, a conductor and an exceptional program is scheduled at the Radio Hall."
+        },
+        "ro": {
+          "title": "Moștenitorii României muzicale",
+          "description": "Un concert cu trei tineri soliști, un dirijor și un program de excepție este programat la Sala Radio."
+        }
+      },
+      "id": 666,
+      "title": "Moștenitorii României muzicale",
+      "date": "",
+      "time": "",
+      "location": "Sala Radio",
+      "category": "concert",
+      "description": "Un concert cu trei tineri soliști, un dirijor și un program de excepție este programat la Sala Radio.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/09/mostenitorii-romaniei-muzicale-concert/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Ние отваряме сладолед",
           "description": "Сладоледът се отваря на адрес Принципала 123, община Сарикиой, Тулча, на церемония, насрочена за 09:00 часа."
         },
@@ -7518,6 +7493,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/tosca/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/tosca-3/"
         }
       ]
     },
@@ -7548,6 +7528,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/alexandru-andries-frineds-14-ani-music-for-autism/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Еволюция на магията",
+          "description": "Еволюцията на магията ще се проведе в Дома на културата на синдикатите в Констанца на неопределена дата, от 19:00 часа."
+        },
+        "en": {
+          "title": "Evolution of Magic",
+          "description": "Evolution of Magic is scheduled to take place at Casa de Cultura a Sindicatelor in Constanta on an unspecified date, starting at 19:00."
+        },
+        "ro": {
+          "title": "Evolution of Magic",
+          "description": "Evolution of Magic is scheduled to take place at Casa de Cultura a Sindicatelor in Constanta on an unspecified date, starting at 19:00."
+        }
+      },
+      "id": 662,
+      "title": "Evolution of Magic",
+      "date": "",
+      "time": "19:00",
+      "location": "Casa de Cultura a Sindicatelor Constanta",
+      "category": "other",
+      "description": "Evolution of Magic is scheduled to take place at Casa de Cultura a Sindicatelor in Constanta on an unspecified date, starting at 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/evolution-of-magic-2/"
         }
       ]
     },
