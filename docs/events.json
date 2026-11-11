@@ -1,161 +1,6 @@
 {
-  "generated_at": "2026-11-10T12:31:25.461798+00:00",
+  "generated_at": "2026-11-11T11:56:03.644818+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "СМЯХ БЕЗ ЗАВЕСА",
-          "description": "Евента е запланирана за вторник, 10 ноември 2026 година, но няма указана конкретна локация или описанието на евента."
-        },
-        "en": {
-          "title": "Laughter Without a Curtain",
-          "description": "The event is scheduled for Tuesday, November 10, 2026, but no specific location or event description has been specified."
-        },
-        "ro": {
-          "title": "Râsete fără cortină",
-          "description": "Evenimentul este programat pentru marți, 10 noiembrie 2026, dar nu există o locație specifică sau o descriere a evenimentului."
-        }
-      },
-      "id": 235,
-      "title": "СМЯХ БЕЗ ЗАВЕСА",
-      "date": "2026-11-10",
-      "time": "",
-      "location": "",
-      "category": "other",
-      "description": "Евента е запланирана за вторник, 10 ноември 2026 година, но няма указана конкретна локация или описанието на евента.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/smqh/p1328.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/smyah-bez-zavesa-teatralno-predstavlenie.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Парк-музей „Владислав Варненчик“ отбелязва 582 години от Битката при Варна с безплатни музейни турове",
-          "description": "Парк-музей „Владислав Варненчик“ организира безплатни музейни турове за отбелязване на 582-ата година от Битката при Варна."
-        },
-        "en": {
-          "title": "Park-Museum \"Vladislav Varnenchik\" celebrates 582 years of the Battle of Varna with free museum tours",
-          "description": "Park-Museum \"Vladislav Varnenchik\" organizes free museum tours to mark the 582th anniversary of the Battle of Varna."
-        },
-        "ro": {
-          "title": "Parcul-muzeu \"Vladislav Varnenchik\" sărbătorește 582 de ani de la Bătălia de la Varna cu tururi gratuite ale muzeului",
-          "description": "Parcul-muzeu Vladislav Varnenchik organizează tururi gratuite ale muzeului pentru a marca împlinirea a 582 de ani de la Bătălia de la Varna."
-        }
-      },
-      "id": 669,
-      "title": "Парк-музей „Владислав Варненчик“ отбелязва 582 години от Битката при Варна с безплатни музейни турове",
-      "date": "2026-11-10",
-      "time": "",
-      "location": "Парк-музей „Владислав Варненчик“",
-      "category": "exhibition",
-      "description": "Парк-музей „Владислав Варненчик“ организира безплатни музейни турове за отбелязване на 582-ата година от Битката при Варна.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/park-muzey-vladislav-varnenchik-otbelyazva-582-god.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Детска книга | \"Усмивки в царството на моретата\", Габриела Добре и Дейвид Добре",
-          "description": "Габриела Добре и Давид Добре ще вземат думата на четене за деца в Делфинариума в Констанца на 10 ноември 2026 г."
-        },
-        "en": {
-          "title": "Book for children | \"Smiles in the Kingdom of the Seas\", Gabriela Dobre & David Dobre",
-          "description": "Gabriela Dobre and David Dobre will take the floor in a reading for children at Dolphinarium Constanța on November 10, 2026."
-        },
-        "ro": {
-          "title": "Carte pentru copii | „Zâmbete în Regatul Mărilor”, Gabriela Dobre & David Dobre",
-          "description": "Gabriela Dobre și David Dobre vor prelua cuvântul într-o lectură pentru copii la Delfinariu Constanța pe 10 noiembrie 2026."
-        }
-      },
-      "id": 553,
-      "title": "Carte pentru copii | „Zâmbete în Regatul Mărilor”, Gabriela Dobre & David Dobre",
-      "date": "2026-11-10",
-      "time": "10:30",
-      "location": "Delfinariu Constanța",
-      "category": "other",
-      "description": "Gabriela Dobre și David Dobre vor prelua cuvântul într-o lectură pentru copii la Delfinariu Constanța pe 10 noiembrie 2026.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/carte-pentru-copii-zambete-in-regatul-marilor-gabriela-dobre-david-dobre/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "В Добрич представиха изложбата „150 години детски организации в България – история, уроци и бъдеще“",
-          "description": "В Добрич се представи изложбата „150 години детски организации в България – история, уроци и бъдеще“, откритието събърна на 10.11.2026 г. във възможност от 12:46 ч."
-        },
-        "en": {
-          "title": "In Dobrich they presented the exhibition \"150 years of children's organizations in Bulgaria - history, lessons and future\"",
-          "description": "In Dobrich was presented the exhibition \"150 years of children's organizations in Bulgaria - history, lessons and future\", the opening turned on 10.11.2026 in an opportunity from 12:46 a.m."
-        },
-        "ro": {
-          "title": "La Dobrich a fost prezentată expoziția \"150 de ani de organizații pentru copii în Bulgaria - istorie, lecții și viitor\"",
-          "description": "În Dobrici a fost prezentată expoziția \"150 de ani de organizații ale copiilor în Bulgaria - istorie, lecții și viitor\", deschiderea a avut loc pe 10.11.2026 la ora 12:46."
-        }
-      },
-      "id": 667,
-      "title": "В Добрич представиха изложбата „150 години детски организации в България – история, уроци и бъдеще“",
-      "date": "2026-11-10",
-      "time": "12:46",
-      "location": "Добрич",
-      "category": "exhibition",
-      "description": "В Добрич се представи изложбата „150 години детски организации в България – история, уроци и бъдеще“, откритието събърна на 10.11.2026 г. във възможност от 12:46 ч.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/v-dobrich-predstaviha-izlojbata-150-godini-detski-organizacii-v-bylgariq-istoriq-uroci-i-bydeshte-/117718"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "НЕЛСОН | Констанца | 10 ноември, 19:00 ч. | Дом на културата на профсъюзите",
-          "description": "Концертът на Нелсън ще се проведе в Дома на културата на профсъюзите в Констанца на 10 ноември от 19:00 часа."
-        },
-        "en": {
-          "title": "NELSON | Constanța | 10 November at 19:00 | House of Culture of Trade Unions",
-          "description": "The NELSON concert will take place at the House of Culture of the Trade Unions in Constanta on November 10th at 19:00."
-        },
-        "ro": {
-          "title": "NELSON | Constanța | 10 Noiembrie ora 19:00 | Casa de Cultură a Sindicatelor",
-          "description": "Concertul NELSON va avea loc la Casa de Cultură a Sindicatelor la Constanța pe 10 noiembrie la ora 19:00."
-        }
-      },
-      "id": 554,
-      "title": "NELSON | Constanța | 10 Noiembrie ora 19:00 | Casa de Cultură a Sindicatelor",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "location": "Casa de Cultură a Sindicatelor",
-      "category": "concert",
-      "description": "Concertul NELSON va avea loc la Casa de Cultură a Sindicatelor la Constanța pe 10 noiembrie la ora 19:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/nelson-constanta-10-noiembrie-ora-1900-casa-de-cultura-a-sindicatelor/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -177,12 +22,77 @@
       "time": "",
       "location": "",
       "category": "other",
-      "description": "Един цифров изложба, който ще се проведе на сряда, 11 ноември 2026 година.",
+      "description": "Изложбата „Дигитални колажи“ ще се проведе от сряда, 11/11/2026г. до понеделник, 30/11/2026г.",
       "sources": [
         {
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/digitalni-kolazhi/p1339.html"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/digitalni-kolazhiizlozhba.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Ден на европейските автори Варна (European Authors Day)",
+          "description": "Европейското днище на авторите в Варна."
+        },
+        "en": {
+          "title": "European Authors Day Varna (European Authors Day)",
+          "description": "The European Day of Authors in Varna."
+        },
+        "ro": {
+          "title": "Ziua Autorilor Europeni Varna (European Authors' Day)",
+          "description": "Ziua Europeană a Autorilor în Varna."
+        }
+      },
+      "id": 682,
+      "title": "Ден на европейските автори Варна (European Authors Day)",
+      "date": "2026-11-11",
+      "time": "",
+      "location": "Варна",
+      "category": "other",
+      "description": "Европейското днище на авторите в Варна.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/den-na-evropeyskite-avtori-varna-european-authors-.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Седмицата на православната книга - Варна 2026",
+          "description": "Седмицата на православната книга в Варна се провежда от сряда, 11/11/2026г. до петък, 13/11/2026г."
+        },
+        "en": {
+          "title": "The Orthodox Book Week - Varna 2026",
+          "description": "The Orthodox Book Week in Varna is held from Wednesday, 11/11/2026 to Friday, 13/11/2026."
+        },
+        "ro": {
+          "title": "Săptămâna Cărții Ortodoxe - Varna 2026",
+          "description": "Săptămâna cărții ortodoxe din Varna se desfășoară de miercuri, 11/11/2026 până vineri, 13/11/2026."
+        }
+      },
+      "id": 683,
+      "title": "Седмицата на православната книга - Варна 2026",
+      "date": "2026-11-11",
+      "time": "",
+      "location": "Варна",
+      "category": "other",
+      "description": "Седмицата на православната книга в Варна се провежда от сряда, 11/11/2026г. до петък, 13/11/2026г.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/sedmitsata-na-pravoslavnata-kniga-varna-2026.html"
         }
       ]
     },
@@ -1613,6 +1523,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/05/plimbari-weekend-tinute-elegante/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/11/ebenezer-johnny-depp-film-craciun/"
         }
       ]
     },
@@ -2143,6 +2058,16 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/10/sa-moara-bubi-carmen-tanase/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/11/adela-zaharia-la-cazinoul-din-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/10/aurora-the-lord-of-the-rings-2026/"
         }
       ]
     },
@@ -3663,6 +3588,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/21/jean-michel-jarre-concert-romania/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/10/sziget-festival-2027-primii-artisti/"
         }
       ]
     },
@@ -4343,6 +4273,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/10/spargatorul-de-nuci-in-turneu-national/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/mofturi-si-moftangii-2/"
         }
       ]
     },
@@ -7523,6 +7458,96 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/10/night-of-the-creeps-1986-fred-dekker/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Отмениха балетното представление „Куклената фея“ в Тутракан",
+          "description": "Балетното представление „Куклената фея“ е отменено в Тутракан."
+        },
+        "en": {
+          "title": "The ballet performance \"The Puppet Fairy\" in Tutrakan was cancelled",
+          "description": "The ballet performance \"Puppet Fairy\" has been cancelled in Tutrakan."
+        },
+        "ro": {
+          "title": "Spectacolul de balet \"Zâna păpușilor\" din Tutrakan a fost anulat",
+          "description": "Spectacolul de balet \"Zâna păpușă\" a fost anulat la Tutrakan."
+        }
+      },
+      "id": 684,
+      "title": "Отмениха балетното представление „Куклената фея“ в Тутракан",
+      "date": "",
+      "time": "",
+      "location": "Тутракан",
+      "category": "other",
+      "description": "Балетното представление „Куклената фея“ е отменено в Тутракан.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/11/otmeniha-baletnoto-predstavlenie-kuklenata-feya-v-tutrakan"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Олтре предлага италиански-шик гардероб за зимата 2026, от топли плетива до празнични тоалети",
+          "description": "Олтре предлага италианско-шик гардеробно предложение за зима 2026, което включва топли трикотажни и празнични тоалети."
+        },
+        "en": {
+          "title": "Oltre proposes an Italian-chic wardrobe for winter 2026, from warm knitwear to festive outfits",
+          "description": "Oltre offers an Italian-chic wardrobe proposal for winter 2026, which includes warm knitwear and festive outfits."
+        },
+        "ro": {
+          "title": "Oltre propune o garderobă Italian-chic pentru iarna 2026, de la tricotaje călduroase la ținute de sărbătoare",
+          "description": "Oltre oferă o propunere de garderobă Italian-chic pentru iarna 2026, care include tricotezi călduroși și ținute de sărbătoare."
+        }
+      },
+      "id": 685,
+      "title": "Oltre propune o garderobă Italian-chic pentru iarna 2026, de la tricotaje călduroase la ținute de sărbătoare",
+      "date": "",
+      "time": "",
+      "location": "Oltre",
+      "category": "other",
+      "description": "Oltre oferă o propunere de garderobă Italian-chic pentru iarna 2026, care include tricotezi călduroși și ținute de sărbătoare.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/11/oltre-garderoba-iarna-2026/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Черен петък 2026",
+          "description": "Предлага отстъпки до 50% за устройства за грижа за кожата по случай Черния петък 2026."
+        },
+        "en": {
+          "title": "Black Friday 2026 at FOREO",
+          "description": "Offers up to 50% off on skincare devices on the occasion of Black Friday 2026."
+        },
+        "ro": {
+          "title": "Black Friday 2026 la FOREO",
+          "description": "Oferă reduceri de până la 50% la dispozitivele de îngrijire a tenului pe ocasiunea Black Friday 2026."
+        }
+      },
+      "id": 686,
+      "title": "Black Friday 2026 la FOREO",
+      "date": "",
+      "time": "",
+      "location": "FOREO",
+      "category": "other",
+      "description": "Oferă reduceri de până la 50% la dispozitivele de îngrijire a tenului pe ocasiunea Black Friday 2026.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/11/black-friday-2026-la-foreo-reduceri/"
         }
       ]
     },
