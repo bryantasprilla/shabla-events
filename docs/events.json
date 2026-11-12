@@ -1,101 +1,6 @@
 {
-  "generated_at": "2026-11-11T11:56:03.644818+00:00",
+  "generated_at": "2026-11-12T12:23:30.877362+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "ДИГИТАЛНИ КОЛАЖИ",
-          "description": "Един цифров изложба, който ще се проведе на сряда, 11 ноември 2026 година."
-        },
-        "en": {
-          "title": "DIGITAL COLLAGES",
-          "description": "A digital exhibition that will take place on Wednesday, November 11, 2026."
-        },
-        "ro": {
-          "title": "Colaje digitale",
-          "description": "O expoziție digitală, care va avea loc miercuri, 11 noiembrie 2026."
-        }
-      },
-      "id": 453,
-      "title": "ДИГИТАЛНИ КОЛАЖИ",
-      "date": "2026-11-11",
-      "time": "",
-      "location": "",
-      "category": "other",
-      "description": "Изложбата „Дигитални колажи“ ще се проведе от сряда, 11/11/2026г. до понеделник, 30/11/2026г.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/digitalni-kolazhi/p1339.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/digitalni-kolazhiizlozhba.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Ден на европейските автори Варна (European Authors Day)",
-          "description": "Европейското днище на авторите в Варна."
-        },
-        "en": {
-          "title": "European Authors Day Varna (European Authors Day)",
-          "description": "The European Day of Authors in Varna."
-        },
-        "ro": {
-          "title": "Ziua Autorilor Europeni Varna (European Authors' Day)",
-          "description": "Ziua Europeană a Autorilor în Varna."
-        }
-      },
-      "id": 682,
-      "title": "Ден на европейските автори Варна (European Authors Day)",
-      "date": "2026-11-11",
-      "time": "",
-      "location": "Варна",
-      "category": "other",
-      "description": "Европейското днище на авторите в Варна.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/den-na-evropeyskite-avtori-varna-european-authors-.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Седмицата на православната книга - Варна 2026",
-          "description": "Седмицата на православната книга в Варна се провежда от сряда, 11/11/2026г. до петък, 13/11/2026г."
-        },
-        "en": {
-          "title": "The Orthodox Book Week - Varna 2026",
-          "description": "The Orthodox Book Week in Varna is held from Wednesday, 11/11/2026 to Friday, 13/11/2026."
-        },
-        "ro": {
-          "title": "Săptămâna Cărții Ortodoxe - Varna 2026",
-          "description": "Săptămâna cărții ortodoxe din Varna se desfășoară de miercuri, 11/11/2026 până vineri, 13/11/2026."
-        }
-      },
-      "id": 683,
-      "title": "Седмицата на православната книга - Варна 2026",
-      "date": "2026-11-11",
-      "time": "",
-      "location": "Варна",
-      "category": "other",
-      "description": "Седмицата на православната книга в Варна се провежда от сряда, 11/11/2026г. до петък, 13/11/2026г.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/sedmitsata-na-pravoslavnata-kniga-varna-2026.html"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -123,6 +28,11 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=537493"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/svetovni-virtuozi-na-fleytata-kontsert.html"
         }
       ]
     },
@@ -153,6 +63,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/silviu-covaci-at-doors-2/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "European Authors day: Да служиш на Словото",
+          "description": "Среща с писателя Панко Анчев на европейския ден на авторите."
+        },
+        "en": {
+          "title": "European Authors day: Serving the Word",
+          "description": "Meeting with the writer Panko Anchev on the European Day of Authors."
+        },
+        "ro": {
+          "title": "Ziua europeană a autorilor: Slujirea Cuvântului",
+          "description": "Întâlnire cu scriitorul Panko Anchev cu ocazia Zilei Europene a Autorilor."
+        }
+      },
+      "id": 687,
+      "title": "European Authors day: Да служиш на Словото",
+      "date": "2026-11-12",
+      "time": "",
+      "location": "среща с Панко Анчев",
+      "category": "other",
+      "description": "Среща с писателя Панко Анчев на европейския ден на авторите.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/european-authors-dayda-sluzhish-na-slovoto-sreshta.html"
         }
       ]
     },
@@ -313,6 +253,81 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/kontsert-na-1/p1341.html"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/zhelaniya-i-polichbi-izlozhba.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "\"Толкова познат\", документалният филм за осиновяванията в Румъния през 90-те години",
+          "description": "Документалният филм \"Толкова познат\" за осиновяванията в Румъния през 90-те години ще бъде показан в кината на 13 ноември."
+        },
+        "en": {
+          "title": "\"So Familiar\", the documentary about adoptions in Romania in the 1990s",
+          "description": "The documentary \"So Familiar\" about adoptions in Romania in the 1990s will be presented in cinemas on November 13."
+        },
+        "ro": {
+          "title": "„Atât de familiar”, documentarul despre adopțiile din România anilor ’90",
+          "description": "Documentarul „Atât de familiar” despre adopțiile din România anilor 90 se va prezentă în cinematografe pe 13 noiembrie."
+        }
+      },
+      "id": 690,
+      "title": "„Atât de familiar”, documentarul despre adopțiile din România anilor ’90",
+      "date": "2026-11-13",
+      "time": "",
+      "location": "cinematografe",
+      "category": "other",
+      "description": "Documentarul „Atât de familiar” despre adopțiile din România anilor 90 se va prezentă în cinematografe pe 13 noiembrie.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/12/atat-de-familiar-romania-anilor-90/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Работилница за социализация за деца от 4 до 7 години",
+          "description": "Мюзикълът \"Кокошатул де ла Нотр Дам\" ще дойде в Дома на културата на синдикатите в Констанца на 12 ноември 2026 г., започвайки от 7:00 ч., след успешни представления на големите сцени на Бродуей и Гранд Виа."
+        },
+        "en": {
+          "title": "Socialization workshop for children 4 – 7 years",
+          "description": "The musical 'Cocoșatul de la Notre Dame' is coming to Casa de Cultură a Sindicatelor in Constanța on November 12, 2026, starting at 7:00 PM, following successful performances on major Broadway and Grand Via stages."
+        },
+        "ro": {
+          "title": "Atelier de socializare pentru copii 4 – 7 ani",
+          "description": "The musical 'Cocoșatul de la Notre Dame' is coming to Casa de Cultură a Sindicatelor in Constanța on November 12, 2026, starting at 7:00 PM, following successful performances on major Broadway and Grand Via stages."
+        }
+      },
+      "id": 688,
+      "title": "Atelier de socializare pentru copii 4 – 7 ani",
+      "date": "2026-11-13",
+      "time": "16:00",
+      "location": "Constanta, Romania",
+      "category": "other",
+      "description": "The musical 'Cocoșatul de la Notre Dame' is coming to Casa de Cultură a Sindicatelor in Constanța on November 12, 2026, starting at 7:00 PM, following successful performances on major Broadway and Grand Via stages.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/atelier-de-socializare-pentru-copii-4-7-ani/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/atelier-pentru-copii/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/cocosatul-de-la-notre-dame-5/"
         }
       ]
     },
@@ -437,12 +452,17 @@
       "time": "19:00",
       "location": "Casa de Cultură a Sindicatelor Constanța",
       "category": "concert",
-      "description": "Aurelian Temisan performs his live tour at Casa de Cultură a Sindicatelor in Constanta on November 13, 2026, starting at 19:00.",
+      "description": "A football match between CSM Constanța and CS Minaur Baia Mare is scheduled to take place at Sala Sporturilor Constanța on November 14, 2026 at 15:00.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/n-am-pierdut-rasaritul-aurelian-temisan-live-tour-constanta/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/csm-constanta-vs-cs-minaur-baia-mare/"
         }
       ]
     },
@@ -503,6 +523,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/contratimp-doors/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Концерт на Рокси",
+          "description": "Рокси се появява в клуб Финикс за концерт, който няма възраст, показвайки, че добрата музика е за всички."
+        },
+        "en": {
+          "title": "Concert RockSea",
+          "description": "RockSea performs at Club Phoenix for a concert that has no age, indicating that good music is for everyone."
+        },
+        "ro": {
+          "title": "Concert RockSea",
+          "description": "RockSea se prezentă la Club Phoenix pentru un concert care nu are vârstă, indicând că muzica bună este pentru toți."
+        }
+      },
+      "id": 689,
+      "title": "Concert RockSea",
+      "date": "2026-11-14",
+      "time": "",
+      "location": "Club Phoenix",
+      "category": "concert",
+      "description": "RockSea se prezentă la Club Phoenix pentru un concert care nu are vârstă, indicând că muzica bună este pentru toți.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/constanta-concert-rocksea/"
         }
       ]
     },
@@ -1163,6 +1213,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/09/regina-noptii-castiga-saptamana-comediei/"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/kinomaniya-2026.html"
         }
       ]
     },
@@ -2068,6 +2123,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/10/aurora-the-lord-of-the-rings-2026/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/12/lucy-lost-film-animatie/"
         }
       ]
     },
@@ -2643,6 +2703,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/the-spirit-of-vienna-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/11/sam-fender-the-rolling-stones/"
         }
       ]
     },
@@ -2773,6 +2838,11 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/na-hubaviya-sin-dunav/p1350.html"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/trima-krale/p1356.html"
         }
       ]
     },
@@ -4158,6 +4228,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/04/becky-hill-lanseaza-l0st-the-pl0t/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/12/5-soiuri-de-vin-rosu-toamna/"
         }
       ]
     },
@@ -5568,6 +5643,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/03/nibiru-anunta-primii-artisti-din-2027/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/12/europe-vine-la-rock-days-2027-la-nibiru/"
         }
       ]
     },
@@ -7362,12 +7442,17 @@
       "time": "",
       "location": "Силистра",
       "category": "exhibition",
-      "description": "Изложбата, посветена на 150 години на детски организации, се провежда в Силистра.",
+      "description": "Изложбата „Моменти отвъд времето“ ще се провежда от четвъртък, 12/11/2026г. до четвъртък, 10/12/2026г.",
       "sources": [
         {
           "source_id": "silistra_news",
           "source_name": "Silistra News",
           "url": "https://silistranews.net/2026/11/09/patuvashtata-izlozhba-za-150-godini-detski-organizatsii-gostuva-v-silistra"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/momenti-otvad-vremeto-izlozhba.html"
         }
       ]
     },
@@ -7482,7 +7567,7 @@
       "time": "",
       "location": "Тутракан",
       "category": "other",
-      "description": "Балетното представление „Куклената фея“ е отменено в Тутракан.",
+      "description": "Преди един ден беше отменено балетното представление „Куклената фея“ в Тутракан.",
       "sources": [
         {
           "source_id": "silistra_news",
@@ -7548,6 +7633,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/11/black-friday-2026-la-foreo-reduceri/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Лаборатория на времето",
+          "description": "Честване на 15-ия албум на немската електронна музикална група Йело."
+        },
+        "en": {
+          "title": "Time Lab",
+          "description": "Celebrating is the fifteenth studio album by German electronic music group Yello."
+        },
+        "ro": {
+          "title": "Time Lab",
+          "description": "Celebrating the 15th album of the German electronic music group Yello."
+        }
+      },
+      "id": 691,
+      "title": "Time Lab",
+      "date": "",
+      "time": "",
+      "location": "Time Lab",
+      "category": "other",
+      "description": "Celebrating the 15th album of the German electronic music group Yello.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/11/time-lab-al-cincisprezecelea-album-yello/"
         }
       ]
     },
