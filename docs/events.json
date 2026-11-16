@@ -1,413 +1,63 @@
 {
-  "generated_at": "2026-11-15T12:03:53.626621+00:00",
+  "generated_at": "2026-11-16T12:45:55.450368+00:00",
   "events": [
     {
       "translations": {
         "bg": {
-          "title": "АХАТ идва във Варна с концерт за 40-годишнината на групата",
-          "description": "Рок групата АХАТ ще проведе концерт в Варна като част от юбилейното си турне по 40 години от създаването си."
+          "title": "Общински културен институт \"Добрич\" с богата коледна програма",
+          "description": "Общински културен институт \"Добрич\" обявява богата коледна програма, започваща на 16.11.2026 г. във възможност за публика приблизително в 12:29 ч."
         },
         "en": {
-          "title": "AHAT come to Varna with a concert for the 40th anniversary of the group",
-          "description": "The rock band AHAT will hold a concert in Varna as part of its 40th anniversary tour."
+          "title": "Municipal Cultural Institute \"Dobrich\" with a rich Christmas program",
+          "description": "Municipal Cultural Institute \"Dobrich\" announces a rich Christmas program, starting on 16.11.2026 in the opportunity for the public approximately at 12:29."
         },
         "ro": {
-          "title": "AHAT vine la Varna cu un concert pentru a 40-a aniversare a trupei",
-          "description": "Trupa de rock AHAT va susține un concert la Varna în cadrul turneului său aniversar de 40 de ani de la înființare."
+          "title": "Institutul Cultural Municipal \"Dobric\" cu un bogat program de Crăciun",
+          "description": "Institutul Cultural Municipal \"Dobric\" anunță un bogat program de Crăciun, care începe pe 16.11.2026 în posibilitatea publicului aproximativ la ora 12:29."
         }
       },
-      "id": 358,
-      "title": "АХАТ идва във Варна с концерт за 40-годишнината на групата",
-      "date": "2026-11-15",
-      "time": "",
-      "location": "Варна",
-      "category": "concert",
-      "description": "Парк-музей „Владислав Варненчик“ във Варна организира приключение за децата и техните семейства, което съчетава средновековната история с роботиката и съвременните технологии.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=536944"
-        },
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=537489"
-        },
-        {
-          "source_id": "budna_varna",
-          "source_name": "Budna Varna",
-          "url": "https://www.budnavarna.com/2026/11/13/petiyat-festival-na-naukata-vav-varna-sthe-se-provede-prez-dekemvri/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "12 ДУХОВИ ИНСТРУМЕНТАЛИСТА И ЕДИН КОНТРАБАСИСТ",
-          "description": "Музыкален концерт с 12 дуовни инструменталисти и един контрабасист на неделя, 15 ноември 2026 година."
-        },
-        "en": {
-          "title": "12 SPIRITS OF AN INSTRUMENTALIST AND ONE DOUBLE BASSIST",
-          "description": "Musical concert with 12 double instrumentalists and one double bassist on Sunday, November 15, 2026."
-        },
-        "ro": {
-          "title": "12 fantome ale unui instrumentist și un contrabasist",
-          "description": "Concert muzical cu 12 instrumentiști duo și un contrabasist duminică, 15 noiembrie 2026."
-        }
-      },
-      "id": 454,
-      "title": "12 ДУХОВИ ИНСТРУМЕНТАЛИСТА И ЕДИН КОНТРАБАСИСТ",
-      "date": "2026-11-15",
-      "time": "",
-      "location": "читалището в Добрич",
-      "category": "concert",
-      "description": "Ванилин Гавраилов ще представи своето творение „Оброк“ в читалището в Добрич с участието на актьор и бард.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/12-duhovi-instrumentalista-i-edin-kontrabasist/p1342.html"
-        },
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/vanilin-gavrailov-predstavya-v-chitalishteto-v-dobrich-„obrok“-s-uchastieto-na-aktor-i-bard-p732487"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Есенна разходка – Хаджиенска гора",
-          "description": "Планирана есенна разходка в Хагиенската гора, която започва в 09:00 часа."
-        },
-        "en": {
-          "title": "Autumn hike – Hagieni forest",
-          "description": "Autumn hike scheduled in Hagieni Forest, which starts at 09:00."
-        },
-        "ro": {
-          "title": "Drumetie de toamna – padurea Hagieni",
-          "description": "Drumetie de toamnă programată în Padurea Hagieni, care începe la 09:00."
-        }
-      },
-      "id": 644,
-      "title": "Drumetie de toamna – padurea Hagieni",
-      "date": "2026-11-15",
-      "time": "09:00",
-      "location": "Padurea Hagieni",
+      "id": 723,
+      "title": "Общински културен институт \"Добрич\" с богата коледна програма",
+      "date": "2026-11-16",
+      "time": "12:29",
+      "location": "Общински културен институт \"Добрич\"",
       "category": "other",
-      "description": "Drumetie de toamnă programată în Padurea Hagieni, care începe la 09:00.",
+      "description": "Общински културен институт \"Добрич\" обявява богата коледна програма, започваща на 16.11.2026 г. във възможност за публика приблизително в 12:29 ч.",
       "sources": [
         {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/drumetie-de-toamna-padurea-hagieni/"
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/koledna-programa-na-obshtinski-kulturen-institut-dobrich-/117847"
         }
       ]
     },
     {
       "translations": {
         "bg": {
-          "title": "СИЛА НА ПРАХА",
-          "description": "Мощният прах е събитие, което ще се проведе в Еърсофт хъб на 15 ноември 2026 г., започвайки от 09:00."
+          "title": "Интерактивна изложба „Виртуални тела“ ще гостува в Художествена галерия - Добрич",
+          "description": "Интерактивната изложба „Виртуални тела“ ще се проведе в Художествената галерия в Добрич на 16.11.2026 г. от 12:43 ч."
         },
         "en": {
-          "title": "Power Powder",
-          "description": "Power Powder is an event taking place at ACC Airsoft Hub on November 15, 2026, starting at 09:00."
+          "title": "Interactive exhibition \"Virtual bodies\" will be hosted in Art Gallery - Dobrich",
+          "description": "The interactive exhibition \"Virtual Bodies\" will be held in the Art Gallery in Dobrich on 16.11.2026 from 12:43."
         },
         "ro": {
-          "title": "POWER POWDER",
-          "description": "Power Powder is an event taking place at ACC Airsoft Hub on November 15, 2026, starting at 09:00."
+          "title": "Expoziția interactivă \"Corpuri virtuale\" va fi găzduită de Galeria de Artă - Dobrici",
+          "description": "Expoziția interactivă \"Corpuri virtuale\" va avea loc la Galeria de Artă din Dobrich pe 16.11.2026 de la ora 12:43."
         }
       },
-      "id": 696,
-      "title": "POWER POWDER",
-      "date": "2026-11-15",
-      "time": "09:00",
-      "location": "ACC Airsoft Hub",
-      "category": "other",
-      "description": "Power Powder is an event taking place at ACC Airsoft Hub on November 15, 2026, starting at 09:00.",
+      "id": 722,
+      "title": "Интерактивна изложба „Виртуални тела“ ще гостува в Художествена галерия - Добрич",
+      "date": "2026-11-16",
+      "time": "12:43",
+      "location": "Художествена галерия - Добрич",
+      "category": "exhibition",
+      "description": "Интерактивната изложба „Виртуални тела“ ще се проведе в Художествената галерия в Добрич на 16.11.2026 г. от 12:43 ч.",
       "sources": [
         {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/power-powder/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Семинар за семейни съзвездия",
-          "description": "Семинар за семейни съзвездия ще се проведе в хотел Карол в Констанца, сутринта на 15 ноември 2026 г."
-        },
-        "en": {
-          "title": "WORKSHOP FAMILY CONSTELLATIONS",
-          "description": "A workshop about family constellations will take place at Hotel Carol in Constanta, on the morning of November 15, 2026."
-        },
-        "ro": {
-          "title": "WORKSHOP CONSTELAȚII FAMILIALE",
-          "description": "Un workshop despre constelații familiale va avea loc la Hotel Carol în Constanța, dimineața de 15 noiembrie 2026."
-        }
-      },
-      "id": 570,
-      "title": "WORKSHOP CONSTELAȚII FAMILIALE",
-      "date": "2026-11-15",
-      "time": "10:00",
-      "location": "Hotel Carol",
-      "category": "other",
-      "description": "Un workshop despre constelații familiale va avea loc la Hotel Carol în Constanța, dimineața de 15 noiembrie 2026.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/workshop-constelatii-familiale-duminica-15-noiembrie-constanta-%f0%9f%a4%8d/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Купа на община Констанца",
-          "description": "Спортно събитие, по-специално състезание за общинска купа, провеждащо се в Констанца, Румъния."
-        },
-        "en": {
-          "title": "Cup of the City of Constanța",
-          "description": "A sports event, specifically a municipal cup competition, taking place in Constanta, Romania."
-        },
-        "ro": {
-          "title": "Cupa Municipiului Constanța",
-          "description": "A sports event, specifically a municipal cup competition, taking place in Constanta, Romania."
-        }
-      },
-      "id": 646,
-      "title": "Cupa Municipiului Constanța",
-      "date": "2026-11-15",
-      "time": "10:00",
-      "location": "Strada Cumpenei nr.2",
-      "category": "sports",
-      "description": "A sports event, specifically a municipal cup competition, taking place in Constanta, Romania.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/cupa-municipiului-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ЛЕГЕНДАТА ЗА ЧЕРНО МОРЕ, адаптирана по различни легенди за Черно море",
-          "description": "Театрално представление, посветено на Деня на Добруджа, базирано на различни легенди, свързани с Черно море, което ще се състои на 15 ноември от 10:30 часа в Констанца, Румъния."
-        },
-        "en": {
-          "title": "LEGEND OF THE BLACK SEA, adapted from various legends of the Black Sea",
-          "description": "A theatrical performance dedicated to the Day of Dobrogea, based on various legends related to the Black Sea, which will take place on November 15 at 10:30 in Constanta, Romania."
-        },
-        "ro": {
-          "title": "LEGENDA MĂRII NEGRE, adaptat după diferite legende ale Mării Negre",
-          "description": "Spectacol teatral dedicat Zilei Dobrogei, bazat pe diferite legende legate de Marea Negre, care va avea loc în data de 15 noiembrie la ora 10:30 în Constanța, România."
-        }
-      },
-      "id": 697,
-      "title": "LEGENDA MĂRII NEGRE, adaptat după diferite legende ale Mării Negre",
-      "date": "2026-11-15",
-      "time": "10:30",
-      "location": "Aristide Karatzali, nr 16, 900746 Constanța, România",
-      "category": "theater",
-      "description": "Spectacol teatral dedicat Zilei Dobrogei, bazat pe diferite legende legate de Marea Negre, care va avea loc în data de 15 noiembrie la ora 10:30 în Constanța, România.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/legenda-marii-negre-adaptat-dupa-diferite-legende-ale-marii-negrespectacol-dedicat-zilei-dobrogei/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Работилница за терариуми",
-          "description": "Работилница по терариуми, която ще се проведе на 15 ноември от 11:00 часа на ул. Стефан Велики, № 66 в Констанца."
-        },
-        "en": {
-          "title": "Terrarium workshop",
-          "description": "Terrarium workshop that will take place on November 15 at 11:00 in Stefan cel Mare street, no. 66 in Constanta."
-        },
-        "ro": {
-          "title": "Atelier de terarii",
-          "description": "Atelier de terarii care va avea loc în data de 15 noiembrie la ora 11:00 în str. Stefan cel Mare, nr. 66 din Constanța."
-        }
-      },
-      "id": 675,
-      "title": "Atelier de terarii",
-      "date": "2026-11-15",
-      "time": "11:00",
-      "location": "Stefan cel Mare, 66, Constanța",
-      "category": "other",
-      "description": "Atelier de terarii care va avea loc în data de 15 noiembrie la ora 11:00 în str. Stefan cel Mare, nr. 66 din Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/atelier-de-terarii/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Мечката, измамена от лисицата – интерактивно шоу",
-          "description": "Интерактивно шоу с Лисицата и Приятелската Мечка в Клуб Финикс."
-        },
-        "en": {
-          "title": "The bear fooled by the fox – interactive show",
-          "description": "The Fox and the Friendly Bear at Club Phoenix."
-        },
-        "ro": {
-          "title": "Ursul păcălit de vulpe – spectacol interactiv",
-          "description": "Interactiv show featuring the Fox and the Friendly Bear at Club Phoenix."
-        }
-      },
-      "id": 710,
-      "title": "Ursul păcălit de vulpe – spectacol interactiv",
-      "date": "2026-11-15",
-      "time": "11:00",
-      "location": "Club Phoenix",
-      "category": "other",
-      "description": "Interactiv show featuring the Fox and the Friendly Bear at Club Phoenix.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/ursul-pacalit-de-vulpe-spectacol-interactiv/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Разказът на Мария Танас",
-          "description": "„О Повесте“ е концертно събитие, което ще се състои в Зала Маре на ТЦК на 15 ноември 2026 г. от 12:00 часа."
-        },
-        "en": {
-          "title": "MARIA TÂNASE. THE STORY",
-          "description": "Maria Tanase. O Poveste is a concert event taking place at Sala Mare a TSC on November 15, 2026 at 12:00."
-        },
-        "ro": {
-          "title": "MARIA TĂNASE. O POVESTE",
-          "description": "Maria Tanase. O Poveste is a concert event taking place at Sala Mare a TSC on November 15, 2026 at 12:00."
-        }
-      },
-      "id": 556,
-      "title": "MARIA TĂNASE. O POVESTE",
-      "date": "2026-11-15",
-      "time": "12:00",
-      "location": "Sala Mare a TSC",
-      "category": "concert",
-      "description": "Maria Tanase. O Poveste is a concert event taking place at Sala Mare a TSC on November 15, 2026 at 12:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/maria-tanase-o-poveste/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ДИВИЯТ ДЕЛТА – кино прожекция",
-          "description": "Филмова прожекция, организирана в Многофункционален образователен център за младежта \"Жан Константин\"."
-        },
-        "en": {
-          "title": "WILD DELTA – cinema projection",
-          "description": "Film screening organized at the Multifunctional Educational Center for Youth \"Jean Constantin\"."
-        },
-        "ro": {
-          "title": "DELTA SĂLBATICĂ – proiecțion cinematografică",
-          "description": "Proiecție cinematografică organizată la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”."
-        }
-      },
-      "id": 583,
-      "title": "DELTA SĂLBATICĂ – proiecțion cinematografică",
-      "date": "2026-11-15",
-      "time": "17:00",
-      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
-      "category": "other",
-      "description": "Proiecție cinematografică organizată la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/delta-salbatica-proiectie-cinematografica/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Представяне на книгата",
-          "description": "Представяне на нова книга в Констанца, Румъния, насрочено за 15 ноември от 17:00 часа."
-        },
-        "en": {
-          "title": "Book launch 📕",
-          "description": "The launch of a new book in Constanta, Romania, scheduled for November 15 at 17:00."
-        },
-        "ro": {
-          "title": "Lansare de carte 📕",
-          "description": "Lansarea unei noi carti in Constanta, Romania, programata pentru data de 15 noiembrie la ora 17:00."
-        }
-      },
-      "id": 606,
-      "title": "Lansare de carte 📕",
-      "date": "2026-11-15",
-      "time": "17:00",
-      "location": "Constanta, Romania",
-      "category": "other",
-      "description": "Lansarea unei noi carti in Constanta, Romania, programata pentru data de 15 noiembrie la ora 17:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/lansare-de-carte-%f0%9f%93%95/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Еликсирът на любовта",
-          "description": "Събитие, озаглавено \"Еликсирът на любовта\", което ще се проведе в Националния колеж по изкуства \"Кралица Мария\" в Констанца на 15 ноември от 18:30 часа."
-        },
-        "en": {
-          "title": "Elixir of Love",
-          "description": "An event entitled 'The Elixir of Love' that will take place at the National College of Arts 'Regina Maria' Constanta on November 15 at 18:30."
-        },
-        "ro": {
-          "title": "Elixirul dragostei",
-          "description": "Un eveniment intitulat 'Elixirul dragostei' care va avea loc la Colegiul Național de Arte 'Regina Maria' Constanța la data de 15 noiembrie la ora 18:30."
-        }
-      },
-      "id": 403,
-      "title": "Elixirul dragostei",
-      "date": "2026-11-15",
-      "time": "18:30",
-      "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
-      "category": "other",
-      "description": "Un eveniment intitulat 'Elixirul dragostei' care va avea loc la Colegiul Național de Arte 'Regina Maria' Constanța la data de 15 noiembrie la ora 18:30.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/elixirul-dragostei/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/elixirul-dragostei-4/"
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/interaktivna-izlojba-virtualni-tela-shte-gostuva-v-hudojestvena-galeriq-dobrich/117849"
         }
       ]
     },
@@ -958,6 +608,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/constelatii-familiale/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/constelatii-familiale-7/"
         }
       ]
     },
@@ -1188,6 +843,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/zumba-party-with-a-twist%f0%9f%94%a5%f0%9f%87%b7%f0%9f%87%b4/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/spargatorul-de-nuci-constanta/"
         }
       ]
     },
@@ -1573,6 +1233,46 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/gala-de-opera-opereta-si-musical/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/all-inclusive-casa-de-cultura-a-sindicatelor-constanta-23-noiembrie/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/16/vioara-si-enescu-ajunge-la-a-15-a-editie/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Кой беше в леглото ми?",
+          "description": "Националната премиера на спектакъла \"Кой беше в леглото ми?\" ще се проведе в Дома на културата на профсъюзите в Констанца от 19:00 часа."
+        },
+        "en": {
+          "title": "Who Was in My Bed? – National Premiere",
+          "description": "The national premiere of the show \"Who was in my bed?\" will take place at the House of Culture of the Trade Unions in Constanta at 19:00."
+        },
+        "ro": {
+          "title": "Cine-a fost in patul meu ? – Premiera nationala",
+          "description": "Premiera națională a spectacolului „Cine-a fost în patul meu?” se va desfășura la Casa de Cultură a Sindicatelor din Constanța la ora 19:00."
+        }
+      },
+      "id": 724,
+      "title": "Cine-a fost in patul meu ? – Premiera nationala",
+      "date": "2026-11-22",
+      "time": "19:00",
+      "location": "Casa de Cultură a Sindicatelor Constanța",
+      "category": "other",
+      "description": "Premiera națională a spectacolului „Cine-a fost în patul meu?” se va desfășura la Casa de Cultură a Sindicatelor din Constanța la ora 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/cine-a-fost-in-patul-meu-premiera-nationala-constanta/"
         }
       ]
     },
@@ -1639,6 +1339,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Всичко включено в цената",
+          "description": "Събитие, което ще се проведе в Дом на културата на синдикатите в Констанца на 23 ноември, 2026, започващо от 19:00."
+        },
+        "en": {
+          "title": "ALL INCLUSIVE // CASA SINDICATELOR CONSTANTA",
+          "description": "An event taking place at Casa de Cultura a Sindicatelor in Constanta on November 23, 2026, starting at 19:00."
+        },
+        "ro": {
+          "title": "ALL INCLUSIVE //  CASA SINDICATELOR CONSTANTA",
+          "description": "An event taking place at Casa de Cultura a Sindicatelor in Constanta on November 23, 2026, starting at 19:00."
+        }
+      },
+      "id": 725,
+      "title": "ALL INCLUSIVE //  CASA SINDICATELOR CONSTANTA",
+      "date": "2026-11-23",
+      "time": "19:00",
+      "location": "Casa de Cultura a Sindicatelor Constanta",
+      "category": "other",
+      "description": "An event taking place at Casa de Cultura a Sindicatelor in Constanta on November 23, 2026, starting at 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/all-inclusive-casa-sindicatelor-constanta-23-noiembrie/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Двоен юбилей в Тервел: Храмът и хор „Св. Георги“ отбелязват 15 години с празничен концерт",
           "description": "Храмът и хорът „Св. Георги“ в Тервел организират празничен концерт за отбелязване на двоен юбилей - 15 години от отворене на храма и 15 години от основаване на хора."
         },
@@ -1674,6 +1404,41 @@
     {
       "translations": {
         "bg": {
+          "title": "Метод – от Хорди Галсеран",
+          "description": "Премиерата на спектакъла „Методът – от Жорди Галсеран“ ще се състои в Многофункционалния образователен център за младежи „Жан Константин“ в Констанца на 24 ноември от 19:00 часа."
+        },
+        "en": {
+          "title": "Method – by Jordi Galceran",
+          "description": "The premiere of the show \"Metoda – by Jordi Galceran\" will take place at the Multifunctional Educational Center for Youth \"Jean Constantin\" in Constanta on November 24 at 19:00."
+        },
+        "ro": {
+          "title": "Metoda – de Jordi Galceran",
+          "description": "Premiera spectacolului „Metoda – de Jordi Galceran” va avea loc la Centrul Multifuncțional Educativ pentru Tineret „Jean Constantin” la Constanta în data de 24 noiembrie la ora 19:00."
+        }
+      },
+      "id": 727,
+      "title": "Metoda – de Jordi Galceran",
+      "date": "2026-11-24",
+      "time": "19:00",
+      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
+      "category": "other",
+      "description": "Premiera spectacolului „Metoda – de Jordi Galceran” va avea loc la Centrul Multifuncțional Educativ pentru Tineret „Jean Constantin” la Constanta în data de 24 noiembrie la ora 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/metoda-de-jordi-galceran-premiera-la-constanta/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/metoda-de-jordi-galceran-premiera-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Умът зад историята",
           "description": "Събитието ще се проведе в четвъртък от 17:00 часа в Областната библиотека в Констанца и е посветено на ума зад една история."
         },
@@ -1698,6 +1463,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/mintea-din-spatele-povestii/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Концерт на Кристина Фиерару (сопрано) и Максим Белчуг (китара)",
+          "description": "Концертът по класическа музика на сопрано Кристина Фиерару и китариста Максим Белчуг ще се проведе в Голямата синагога в Констанца от 19:00 часа в четвъртък, 26 ноември 2026 г."
+        },
+        "en": {
+          "title": "ARIE ȘI ECOU. Concert Cristina Fieraru (soprano) & Maxim Belciug (guitar)",
+          "description": "The classical music concert of soprano Cristina Fieraru and guitarist Maxim Belciug will take place in the Great Synagogue of Constanta at 19:00 on Thursday, November 26, 2026."
+        },
+        "ro": {
+          "title": "ARIE ȘI ECOU. Concert Cristina Fieraru (soprană) & Maxim Belciug (chitară)",
+          "description": "Concertul de muzică clasică al soprană Cristina Fieraru și chitaristului Maxim Belciug va avea loc în Sinagoga Mare din Constanța la 19:00 pe joi, 26 noiembrie 2026."
+        }
+      },
+      "id": 728,
+      "title": "ARIE ȘI ECOU. Concert Cristina Fieraru (soprană) & Maxim Belciug (chitară)",
+      "date": "2026-11-26",
+      "time": "19:00",
+      "location": "Sinagoga Mare Din Constanța",
+      "category": "concert",
+      "description": "Concertul de muzică clasică al soprană Cristina Fieraru și chitaristului Maxim Belciug va avea loc în Sinagoga Mare din Constanța la 19:00 pe joi, 26 noiembrie 2026.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/arie-si-ecou-concert-cristina-fieraru-soprana-maxim-belciug-chitara/"
         }
       ]
     },
@@ -2590,14 +2385,19 @@
       "title": "ДЕЦА НА СВЕТА",
       "date": "2026-12-13",
       "time": "",
-      "location": "",
+      "location": "Добрич",
       "category": "other",
-      "description": "Месецята Декември е празник на децата, който се отпразнува на първата неделя на декември.",
+      "description": "Празнични концерти ще се проведат в Добрич през декември, като се призиват жителите да видят програмата.",
       "sources": [
         {
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/deca-na-sveta/p1347.html"
+        },
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/praznichni-kontserti-shte-zaradvat-zhitelite-na-dobrich-prez-dekemvri-–-vizhte-programata-p733021"
         }
       ]
     },
@@ -2769,6 +2569,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Коледна Партия: От Уроците в Насоки!",
+          "description": "Коледно парти, организирано от ТНУДА, с представления и дейности от класните стаи в предавания на живо."
+        },
+        "en": {
+          "title": "TNUDA Christmas Party: From Lessons to Directions!",
+          "description": "A Christmas party organized by TNUDA, featuring performances and activities from classrooms in direct broadcasts."
+        },
+        "ro": {
+          "title": "TNUDA Christmas Party: Din Lecții în Direcții!",
+          "description": "A Christmas party organized by TNUDA, featuring performances and activities from classrooms in direct broadcasts."
+        }
+      },
+      "id": 729,
+      "title": "TNUDA Christmas Party: Din Lecții în Direcții!",
+      "date": "2026-12-17",
+      "time": "19:00",
+      "location": "The View - Constanța",
+      "category": "other",
+      "description": "A Christmas party organized by TNUDA, featuring performances and activities from classrooms in direct broadcasts.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/tnuda-christmas-party-din-lectii-in-directii/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Виена Шьонбрун Оркестра идва във Варна с „Коледен златен галаконцерт“",
           "description": "Виена Шьонбрун Оркестра ще представи във Варна „Коледен златен галаконцерт“ на 18 декември."
         },
@@ -2817,7 +2647,7 @@
       "time": "18:30",
       "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
       "category": "concert",
-      "description": "Un program de 3 luni pentru clubul mămicilor cu bebeluși, care începe cu o întâlnire la ora 13:30 la adresa Gheorghe Murea 3, din Constanta, România.",
+      "description": "Evenimentul sub titlul 'Minciuna nu are picioare atât de lungi' are programat pentru Casa de Cultură a Sindicatelor în Constanța, cu o programare pentru 25 noiembrie la ora 19:00.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -2848,6 +2678,16 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/29/pedro-almodovar-craciun-amar/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/minciuna-nu-are-picioare-atat-de-lungi-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/16/concert-omagiu-nicolas-simion/"
         }
       ]
     },
@@ -3903,6 +3743,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/14/fjord-premii-academiei-europene-de-film/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/16/maia-morgenstern-horatiu-malaele/"
         }
       ]
     },
@@ -7348,6 +7193,66 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/15/sergiana-horeca/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "При гинеколога",
+          "description": "Комедия, базирана на хумор от ежедневието. Дестинация за хора над 16-годишна възраст."
+        },
+        "en": {
+          "title": "The Gynecologist",
+          "description": "A comedy based on the humour of everyday life.It is a destination for people over 16 years."
+        },
+        "ro": {
+          "title": "La Ginecolog",
+          "description": "O comedie bazată pe umorul din viața cotidiană. Este destinație pentru persoanele peste 16 ani."
+        }
+      },
+      "id": 730,
+      "title": "La Ginecolog",
+      "date": "",
+      "time": "",
+      "location": "La Ginecolog",
+      "category": "adult_18+",
+      "description": "O comedie bazată pe umorul din viața cotidiană. Este destinație pentru persoanele peste 16 ani.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/la-ginecolog-4/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Слонът и Зен",
+          "description": "Алифантис и група ЗАН искат да (се) върнат пред публиката тази есен с концерт, изпълнен с творчество и сътрудничество."
+        },
+        "en": {
+          "title": "ALIFANTIS & ZAN",
+          "description": "Alifantis and the band ZAN want to (re)come to the public this autumn with a concert full of creation and collaboration."
+        },
+        "ro": {
+          "title": "ALIFANTIS & ZAN",
+          "description": "Alifantis și trupa ZAN vor să (re)venească în fața publicului în această toamnă cu un concert plin de creație și colaborare."
+        }
+      },
+      "id": 731,
+      "title": "ALIFANTIS & ZAN",
+      "date": "",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "Alifantis și trupa ZAN vor să (re)venească în fața publicului în această toamnă cu un concert plin de creație și colaborare.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/alifantis-zan/"
         }
       ]
     },
