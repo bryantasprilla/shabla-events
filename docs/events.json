@@ -1,101 +1,6 @@
 {
-  "generated_at": "2026-11-16T12:45:55.450368+00:00",
+  "generated_at": "2026-11-17T13:15:53.679783+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Общински културен институт \"Добрич\" с богата коледна програма",
-          "description": "Общински културен институт \"Добрич\" обявява богата коледна програма, започваща на 16.11.2026 г. във възможност за публика приблизително в 12:29 ч."
-        },
-        "en": {
-          "title": "Municipal Cultural Institute \"Dobrich\" with a rich Christmas program",
-          "description": "Municipal Cultural Institute \"Dobrich\" announces a rich Christmas program, starting on 16.11.2026 in the opportunity for the public approximately at 12:29."
-        },
-        "ro": {
-          "title": "Institutul Cultural Municipal \"Dobric\" cu un bogat program de Crăciun",
-          "description": "Institutul Cultural Municipal \"Dobric\" anunță un bogat program de Crăciun, care începe pe 16.11.2026 în posibilitatea publicului aproximativ la ora 12:29."
-        }
-      },
-      "id": 723,
-      "title": "Общински културен институт \"Добрич\" с богата коледна програма",
-      "date": "2026-11-16",
-      "time": "12:29",
-      "location": "Общински културен институт \"Добрич\"",
-      "category": "other",
-      "description": "Общински културен институт \"Добрич\" обявява богата коледна програма, започваща на 16.11.2026 г. във възможност за публика приблизително в 12:29 ч.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/koledna-programa-na-obshtinski-kulturen-institut-dobrich-/117847"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Интерактивна изложба „Виртуални тела“ ще гостува в Художествена галерия - Добрич",
-          "description": "Интерактивната изложба „Виртуални тела“ ще се проведе в Художествената галерия в Добрич на 16.11.2026 г. от 12:43 ч."
-        },
-        "en": {
-          "title": "Interactive exhibition \"Virtual bodies\" will be hosted in Art Gallery - Dobrich",
-          "description": "The interactive exhibition \"Virtual Bodies\" will be held in the Art Gallery in Dobrich on 16.11.2026 from 12:43."
-        },
-        "ro": {
-          "title": "Expoziția interactivă \"Corpuri virtuale\" va fi găzduită de Galeria de Artă - Dobrici",
-          "description": "Expoziția interactivă \"Corpuri virtuale\" va avea loc la Galeria de Artă din Dobrich pe 16.11.2026 de la ora 12:43."
-        }
-      },
-      "id": 722,
-      "title": "Интерактивна изложба „Виртуални тела“ ще гостува в Художествена галерия - Добрич",
-      "date": "2026-11-16",
-      "time": "12:43",
-      "location": "Художествена галерия - Добрич",
-      "category": "exhibition",
-      "description": "Интерактивната изложба „Виртуални тела“ ще се проведе в Художествената галерия в Добрич на 16.11.2026 г. от 12:43 ч.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/interaktivna-izlojba-virtualni-tela-shte-gostuva-v-hudojestvena-galeriq-dobrich/117849"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Констанца; театър/комедия \"При гинеколога\"",
-          "description": "Театър/комедия \"При гинеколога\" ще се играе в Многофункционален образователен младежки център \"Жан Константин\" в понеделник, 16 ноември от 19:00 часа."
-        },
-        "en": {
-          "title": "Constanța; theatre/comedy \"At the gynecologist\"",
-          "description": "Theatre / comedy \"At the gynecologist\" will be played at the Multifunctional Educational Center for Youth \"Jean Constantin\" on Monday, November 16 at 19:00."
-        },
-        "ro": {
-          "title": "Constanța; teatru/comedie „La ginecolog”",
-          "description": "Teatru/comedie „La ginecolog” se va juca la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” pe lun, 16 noiembrie la ora 19:00."
-        }
-      },
-      "id": 225,
-      "title": "Constanța; teatru/comedie „La ginecolog”",
-      "date": "2026-11-16",
-      "time": "19:00",
-      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
-      "category": "theater",
-      "description": "Teatru/comedie „La ginecolog” se va juca la Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” pe lun, 16 noiembrie la ora 19:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/constanta-teatru-comedie-la-ginecolog/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/07/clin-doeil-vava-stefanescu/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -157,12 +62,107 @@
       "time": "",
       "location": "",
       "category": "theater",
-      "description": "Оперета от Имре Калман, която ще се представи на вторник, 17/11/2026.",
+      "description": "Имре Калмановата оперета „Графиня Марица“ ще бъде представена на вторник, 17 ноември 2026 година.",
       "sources": [
         {
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/grafinya-maritsa/p573.html"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/grafinya-maritsa-opereta-ot-imre-kalman171126.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Кръговрат” - юбилеен концерт",
+          "description": "Юбилейния концерт на „Кръговрат” се проведе на вторник, 17/11/2026."
+        },
+        "en": {
+          "title": "\"Circle\" - anniversary concert",
+          "description": "The anniversary concert of \"Krogovrat\" was held on Tuesday, 17/11/2026."
+        },
+        "ro": {
+          "title": "\"Circle\" - concert jubiliar",
+          "description": "Concertul aniversar al \"Circuitului\" a avut loc marți, 17/11/2026."
+        }
+      },
+      "id": 733,
+      "title": "„Кръговрат” - юбилеен концерт",
+      "date": "2026-11-17",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "Юбилейния концерт на „Кръговрат” се проведе на вторник, 17/11/2026.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/kragovratyubileen-kontsert.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Тримата мускетари - театрален спектакъл",
+          "description": "Театрален спектакъл „Тримата мускетари"
+        },
+        "en": {
+          "title": "The Three Musketeers",
+          "description": "The Three Musketeers"
+        },
+        "ro": {
+          "title": "Cei trei muschetari",
+          "description": "Spectacol de teatru \"Cei trei muschetari"
+        }
+      },
+      "id": 734,
+      "title": "Тримата мускетари - театрален спектакъл",
+      "date": "2026-11-17",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Театрален спектакъл „Тримата мускетари",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/trimata-musketari-teatralen-spektakal333.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Изкачване до Телевизионната кула във Варна",
+          "description": "Спортно събитие за изкачване до Телевизионната кула във Варна."
+        },
+        "en": {
+          "title": "Climb to the TV Tower in Varna",
+          "description": "Sports event for climbing to the Television Tower in Varna."
+        },
+        "ro": {
+          "title": "Turnul de televiziune din Varna",
+          "description": "Eveniment sportiv de escaladare a Turnului de Televiziune din Varna."
+        }
+      },
+      "id": 735,
+      "title": "Изкачване до Телевизионната кула във Варна",
+      "date": "2026-11-17",
+      "time": "",
+      "location": "Телевизионната кула във Варна",
+      "category": "sports",
+      "description": "Спортно събитие за изкачване до Телевизионната кула във Варна.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/izkachvane-do-televizionnata-kula-vav-varna-sportn.html"
         }
       ]
     },
@@ -208,6 +208,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/bella-voce-bella-muzica/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/club-de-carte-confucius/"
         }
       ]
     },
@@ -464,6 +469,41 @@
     {
       "translations": {
         "bg": {
+          "title": "Карго/ 14 години Музика за аутизъм",
+          "description": "Юбилеен концерт на трупата КАРГО по случай 14 години дейност, посветена на рок музиката."
+        },
+        "en": {
+          "title": "CARGO/ 14 years Music for Autism",
+          "description": "Anniversary concert of the group CARGO in the circumstances of 14 years of activity dedicated to rock music."
+        },
+        "ro": {
+          "title": "CARGO/ 14 ani Music for Autism",
+          "description": "Concert aniversar al trupii CARGO în împrejurări de 14 ani de activitate dedicată muzicii rock."
+        }
+      },
+      "id": 183,
+      "title": "CARGO/ 14 ani Music for Autism",
+      "date": "2026-11-20",
+      "time": "20:30",
+      "location": "Constanța",
+      "category": "concert",
+      "description": "Campania 'Music for Autism' invite pe vineri 20 noiembrie la un eveniment la Doors Club Constanța, unde va se desfășura un concert de muzică organizat pentru autism.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/cargo-14-ani-music-for-autism/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/mihai-margineanu-si-banda-14-ani-music-for-autism/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Михай Мърджиняну и банда / 14 години Музика за аутизъм",
           "description": "Михай Мърджиняну и групата се представят в клуба за благотворителен концерт в полза на аутизма, отбелязвайки 14 години дейност."
         },
@@ -543,6 +583,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/11/ebenezer-johnny-depp-film-craciun/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Празничен концерт 70 години от създаването на хор \"Морски звуци\"",
+          "description": "Празничен концерт за 70-ото юбилея на хора \"Морски звуци\" се проведе на събота, 21 ноември 2026 година."
+        },
+        "en": {
+          "title": "Festive concert 70 years since the creation of the choir \"Sea Sounds\"",
+          "description": "A festive concert for the 70th anniversary of people \"Sea Sounds\" was held on Saturday, November 21, 2026."
+        },
+        "ro": {
+          "title": "Concert festiv 70 de ani de la înființarea corului \"Sunetele mării\"",
+          "description": "Un concert festiv pentru a 70-a aniversare a oamenilor \"Sunetele mării\" a avut loc sâmbătă, 21 noiembrie 2026."
+        }
+      },
+      "id": 736,
+      "title": "Празничен концерт 70 години от създаването на хор \"Морски звуци\"",
+      "date": "2026-11-21",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "Празничен концерт за 70-ото юбилея на хора \"Морски звуци\" се проведе на събота, 21 ноември 2026 година.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/morski-zvuci/p1360.html"
         }
       ]
     },
@@ -709,6 +779,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Вълшебникът от Оз",
+          "description": "Вълшебникът от Оз е събитие от общ характер, което ще се проведе на улица Купенеи в Констанца, Румъния, на 21 ноември от 11:00 часа."
+        },
+        "en": {
+          "title": "The Wizard of Oz.",
+          "description": "The Wizard of Oz is a general event that will take place at Strada Cumppenei in Constanța, Romania, on November 21 at 11:00."
+        },
+        "ro": {
+          "title": "Vrăjitorul din Oz.",
+          "description": "Vrăjitorul din Oz. este o eveniment de tip general care va avea loc la Strada Cumpenei în Constanța, România, pe data de 21 noiembrie la ora 11:00."
+        }
+      },
+      "id": 746,
+      "title": "Vrăjitorul din Oz.",
+      "date": "2026-11-21",
+      "time": "11:00",
+      "location": "Strada Cumpenei nr.2, 900147 Constanța, Romania",
+      "category": "other",
+      "description": "Vrăjitorul din Oz. este o eveniment de tip general care va avea loc la Strada Cumpenei în Constanța, România, pe data de 21 noiembrie la ora 11:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/vrajitorul-din-oz-2/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Курс по спортен масаж – КОНСТАНТА",
           "description": "Квалификационен курс за спортен масаж в София."
         },
@@ -848,6 +948,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/spargatorul-de-nuci-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/cum-a-furat-grinch-craciunul/"
         }
       ]
     },
@@ -984,6 +1089,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Официално откриване на Аеродинамика",
+          "description": "Официално откриване на Аеродинамика в Дъмбравени 61 константа."
+        },
+        "en": {
+          "title": "Official opening of Aerogym",
+          "description": "Official opening of Aerogym at Dumbraveni 61 constant."
+        },
+        "ro": {
+          "title": "Deschiderea oficiala Aerogym",
+          "description": "Official opening of Aerogym at Dumbraveni 61 constant."
+        }
+      },
+      "id": 747,
+      "title": "Deschiderea oficiala Aerogym",
+      "date": "2026-11-22",
+      "time": "00:00",
+      "location": "Dumbraveni 61 constant",
+      "category": "other",
+      "description": "Official opening of Aerogym at Dumbraveni 61 constant.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/deschiderea-oficiala-aerogym/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Дългоносото джудже по Вилхелм Хауф-ПРЕМИЕРА",
           "description": "Премиера на пиесата \"Дългоносото джудже\" по Вилхелм Хауф в Аристид Караджали в Констанца."
         },
@@ -1008,6 +1143,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/piticul-nas-lung-dupa-wilhelm-hauff-premiera/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Дългоносото джудже по Вилхелм Хауф-ПРЕМИЕРА",
+          "description": "Театралната премиера на операта \"Дългоносото джудже, по Вилхелм Хауф\" ще се състои от сутринта в 10:30 часа на сцената на Детския и младежки театър \"Морската количка\"."
+        },
+        "en": {
+          "title": "THE LONG-NOSE DWARF, after Wilhelm Hauff-PREMIERE",
+          "description": "The theatrical premiere of the opera \"The Long-Nosed Dwarf, after Wilhelm Hauff\" will take place in the morning, at 10:30, on the stage of the Theatre for Children and Youth \"Căluțul de Mare\"."
+        },
+        "ro": {
+          "title": "PITICUL NAS-LUNG, după Wilhelm Hauff-PREMIERĂ",
+          "description": "Premiera teatrală a operei „Piticul nas-lung, după Wilhelm Hauff” va avea loc de dimineața, la ora 10:30, pe scena Teatrului pentru Copii și Tineret „Căluțul de Mare”."
+        }
+      },
+      "id": 749,
+      "title": "PITICUL NAS-LUNG, după Wilhelm Hauff-PREMIERĂ",
+      "date": "2026-11-22",
+      "time": "10:30",
+      "location": "Teatrul pentru Copii și Tineret „Căluțul de Mare”",
+      "category": "theater",
+      "description": "Premiera teatrală a operei „Piticul nas-lung, după Wilhelm Hauff” va avea loc de dimineața, la ora 10:30, pe scena Teatrului pentru Copii și Tineret „Căluțul de Mare”.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/piticul-nas-lung-dupa-wilhelm-hauff-premiera/"
         }
       ]
     },
@@ -1398,6 +1563,11 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/za-snahite-i-svekarvite/p1355.html"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/za-snahite-i-svekarvite-1/p1359.html"
         }
       ]
     },
@@ -1433,6 +1603,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/metoda-de-jordi-galceran-premiera-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "САМО ЧАС СПОКОЙСТВИЕ",
+          "description": "Събитието се проведе на сряда, 25/11/2026."
+        },
+        "en": {
+          "title": "JUST A MOMENT OF QUIETNESS",
+          "description": "The event took place on Wednesday, 25/11/2026."
+        },
+        "ro": {
+          "title": "Doar o clipă de liniște",
+          "description": "Evenimentul a avut loc miercuri, 25/11/2026."
+        }
+      },
+      "id": 737,
+      "title": "САМО ЧАС СПОКОЙСТВИЕ",
+      "date": "2026-11-25",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Събитието се проведе на сряда, 25/11/2026.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/samo-chas/p1358.html"
         }
       ]
     },
@@ -1523,6 +1723,41 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/tania-turtureanu-doors/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Детски куклен спектакъл „Дракончето Драчко“",
+          "description": "Постановка на Драматично-куклен театър от Силистра, която ще се представи в Народното читалище Зора 1894 в Шабла на 27 ноември 2026 г. в 18:00."
+        },
+        "en": {
+          "title": "Children's puppet show \"Little Dragon Drachko\"",
+          "description": "A production of the Dramatic and Puppet Theatre from Silistra, which will be presented in the Zora 1894 Community Center in Shabla on November 27, 2026 at 18:00 pm."
+        },
+        "ro": {
+          "title": "Spectacol de păpuși pentru copii \"Dracko Dragonul\"",
+          "description": "Spectacol al Teatrului Dramatic și de Păpuși din Silistra, care va fi prezentat la Centrul Cultural Zora 1894 din Shabla pe 27 noiembrie 2026 la ora 18:00."
+        }
+      },
+      "id": 732,
+      "title": "Детски куклен спектакъл „Дракончето Драчко“",
+      "date": "2026-11-27",
+      "time": "16:00",
+      "location": "Народно читалище Зора 1894, гр. Шабла",
+      "category": "other",
+      "description": "Постановка на Драматично-куклен театър от Силистра, която ще се представи в Народното читалище Зора 1894 в Шабла на 27 ноември 2026 г. в 18:00.",
+      "sources": [
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/detski-kuklen-spektakal-drakoncheto-drachko/"
+        },
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/istinski-lazhi-postanovka-na-dramatichno-kuklen-teatar-gr-silistra/"
         }
       ]
     },
@@ -1629,6 +1864,66 @@
     {
       "translations": {
         "bg": {
+          "title": "ВИШНЕВА ГРАДИНА",
+          "description": "Ежедневният календар на Варна за следващата Nedеля предлага програма за Вишнеева Градина."
+        },
+        "en": {
+          "title": "The Cherry Garden",
+          "description": "The daily calendar of Varna for next Sunday offers a program for the Cherry Garden."
+        },
+        "ro": {
+          "title": "Grădina de cireșe",
+          "description": "Calendarul zilnic al Varnei pentru duminica viitoare oferă un program pentru Grădina Vișei."
+        }
+      },
+      "id": 738,
+      "title": "ВИШНЕВА ГРАДИНА",
+      "date": "2026-11-29",
+      "time": "",
+      "location": "Вишнеева Градина",
+      "category": "other",
+      "description": "Ежедневният календар на Варна за следващата Nedеля предлага програма за Вишнеева Градина.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/vishneva-gradina/p1366.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Емоции. Ароматерапия. Астрология",
+          "description": "Емоции, ароматерапия и астрология се съчетават в събитие, организирано в Култура Вайн Бар."
+        },
+        "en": {
+          "title": "Emotions. aromatherapy. astrology",
+          "description": "Emotions, aromatherapy and astrology combine in an event organized at Kultura Wine Bar."
+        },
+        "ro": {
+          "title": "Emoții. Aromaterapie. Astrologie",
+          "description": "Emoții, aromaterapie și astrologie se combină într-o evenimentă organizată la Kultura Wine Bar."
+        }
+      },
+      "id": 748,
+      "title": "Emoții. Aromaterapie. Astrologie",
+      "date": "2026-11-29",
+      "time": "15:00",
+      "location": "Kultura Wine Bar",
+      "category": "other",
+      "description": "Emoții, aromaterapie și astrologie se combină într-o evenimentă organizată la Kultura Wine Bar.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/emotii-aromaterapie-astrologie/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Домашна стендъп комедия",
           "description": "Стендап комедийно шоу в Гроув Алт Сошъл Бар в Констанца."
         },
@@ -1675,14 +1970,24 @@
       "title": "ЦИГУЛАРКАТА НА БОГА",
       "date": "2026-11-30",
       "time": "",
-      "location": "",
+      "location": "Силистра",
       "category": "other",
-      "description": "Цигуларката на Бога е планирана за понеделник, 30/11/2026.",
+      "description": "Изложбата на акварели на художник Стефан Пенчев е представена в град Силистра.",
       "sources": [
         {
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/tsigularkata-na-boga/p1351.html"
+        },
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/17/multimedijna-izlozhba-za-hrama-na-kibela-shte-bade-otkrita-v-silistra"
+        },
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/16/izlozhba-na-akvareli-na-stefan-penchev-e-predstavena-v-silistra"
         }
       ]
     },
@@ -1884,6 +2189,36 @@
     {
       "translations": {
         "bg": {
+          "title": "С най-голямо уважение",
+          "description": "Камен Донев ще изпълни своето представление с титла „С най-голямо уважение“."
+        },
+        "en": {
+          "title": "With the utmost respect",
+          "description": "Kamen Donev will perform his performance titled \"With the greatest respect\"."
+        },
+        "ro": {
+          "title": "Cu cel mai mare respect",
+          "description": "Kamen Donev își va prezenta spectacolul intitulat \"Cu cel mai mare respect\"."
+        }
+      },
+      "id": 739,
+      "title": "С най-голямо уважение",
+      "date": "2026-12-03",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Камен Донев ще изпълни своето представление с титла „С най-голямо уважение“.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/s-nay-golyamo-uvazhenie/p1368.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Пътища с кръстове",
           "description": "АЛТЕРНОСФЕРА представя \"Пътища с кръстове\" в клуб \"Дорс\" на 3 декември 2026 г."
         },
@@ -1938,6 +2273,36 @@
           "source_id": "balchik_municipality",
           "source_name": "Balchik.bg — Novini",
           "url": "https://www.balchik.bg/bg/novini/obshtina-balchik-kani-mestni-targovtsi-i-proizvoditeli-za-uchastie-v-koledniya-bazar"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Травиата",
+          "description": "Премържане на операта „Травиата“ на Петък, 04 декември 2026 година."
+        },
+        "en": {
+          "title": "Traviata",
+          "description": "Opera \"La Traviata\" on Friday, December 04, 2026."
+        },
+        "ro": {
+          "title": "Traviata",
+          "description": "Preluarea operei \"Traviata\" pe Vineri, 04 Decembrie 2026."
+        }
+      },
+      "id": 740,
+      "title": "Травиата",
+      "date": "2026-12-04",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Премържане на операта „Травиата“ на Петък, 04 декември 2026 година.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/traviata/p44.html"
         }
       ]
     },
@@ -2119,6 +2484,36 @@
     {
       "translations": {
         "bg": {
+          "title": "ГЛАСОВЕ - спектакъл по истински истории",
+          "description": "Представяне на спектакъл "
+        },
+        "en": {
+          "title": "VOICES - a show based on true stories",
+          "description": "Presentation of a show"
+        },
+        "ro": {
+          "title": "VOCI - un spectacol bazat pe povești adevărate",
+          "description": "Prezentarea unui spectacol"
+        }
+      },
+      "id": 741,
+      "title": "ГЛАСОВЕ - спектакъл по истински истории",
+      "date": "2026-12-06",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Представяне на спектакъл ",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/glasove/p1361.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Кулинарна надпревара - Празник за най-вкусна рибена чорба!",
           "description": "Празник със вкусна рибена чорба, богата музикална програма и развлечения, организиран на събота, 6 декември."
         },
@@ -2143,6 +2538,36 @@
           "source_id": "zora1894_shabla",
           "source_name": "NCh Zora 1894 (Shabla cultural center)",
           "url": "https://nch-zora1894shabla.com/novini/kulinarna-nadprevara-praznik-za-nay-vkusna-ribena-chorba-elate-na-vkusen-i-vesel-praznik-s-mnogo-muzika-tanci-i-nastroenie.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Бохеми",
+          "description": "Театърна постановка "
+        },
+        "en": {
+          "title": "Bohemians",
+          "description": "Theatre production"
+        },
+        "ro": {
+          "title": "Boemia",
+          "description": "O producție de teatru"
+        }
+      },
+      "id": 742,
+      "title": "Бохеми",
+      "date": "2026-12-09",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Театърна постановка ",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/bohemi-opera/p133.html"
         }
       ]
     },
@@ -2428,6 +2853,41 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/horia-brenciu-hb-orchestra-rock-symphony-christmas-2026/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/balul-iernii-2026/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "ТРАДИЦИЯ С БЪДЕЩЕ",
+          "description": "Традиция с бъдеще е планирана за понеделник, 14 декември 2026 година."
+        },
+        "en": {
+          "title": "A TRADITION WITH A FUTURE",
+          "description": "A tradition with a future is planned for Monday, December 14, 2026."
+        },
+        "ro": {
+          "title": "O TRADIȚIE CU VIITOR",
+          "description": "O tradiție cu viitor este planificată pentru luni, 14 decembrie 2026."
+        }
+      },
+      "id": 743,
+      "title": "ТРАДИЦИЯ С БЪДЕЩЕ",
+      "date": "2026-12-14",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Традиция с бъдеще е планирана за понеделник, 14 декември 2026 година.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/tradicii/p1362.html"
         }
       ]
     },
@@ -2569,6 +3029,41 @@
     {
       "translations": {
         "bg": {
+          "title": "СНЕЖАНКА И СЕДЕМТЕ ДЖУДЖЕТА - балет по музика на П. И. Чайковски",
+          "description": "Балетът „Снежанка и седемте джуджета“ споделя с музиката на П. И. Чайковски."
+        },
+        "en": {
+          "title": "Snow White and the Seven Dwarfs - ballet to music by P. I. Tchaikovsky",
+          "description": "The ballet \"Snow White and the Seven Dwarfs\" shares with the music of P. I. Tchaikovsky."
+        },
+        "ro": {
+          "title": "Albă ca Zăpada și cele șapte vrăjitoare - balet pe muzica lui P. I. Ceaikovski",
+          "description": "Baletul \"Alba ca zapada si cei sapte pitici\" impartaseste cu muzica lui P. I. Ceaikovski."
+        }
+      },
+      "id": 744,
+      "title": "СНЕЖАНКА И СЕДЕМТЕ ДЖУДЖЕТА - балет по музика на П. И. Чайковски",
+      "date": "2026-12-17",
+      "time": "",
+      "location": "Община Силистра",
+      "category": "theater",
+      "description": "Балетът „Снежанка и седемте джуджета“ споделя с музиката на П. И. Чайковски.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/snezhanka/p131.html"
+        },
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/17/konkursi-za-survachka-i-praznichna-snimka-obyavi-obshtina-silistra"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Коледна Партия: От Уроците в Насоки!",
           "description": "Коледно парти, организирано от ТНУДА, с представления и дейности от класните стаи в предавания на живо."
         },
@@ -2623,6 +3118,36 @@
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=537559"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Концертите на Моцарт и симфониите на Пипков",
+          "description": "Концерт, за който се огласиха работите на Моцарт и симфониите на Пипков, състоящ се на петък, 18 декември 2026 година."
+        },
+        "en": {
+          "title": "Mozart's concertos and Pipkov's symphonies",
+          "description": "A concert that featured the works of Mozart and the symphonies of Pipkov, taking place on Friday, December 18, 2026."
+        },
+        "ro": {
+          "title": "Concertele lui Mozart și simfoniile lui Pipkov",
+          "description": "Un concert pentru care s-au auzit lucrările lui Mozart și simfoniile lui Pipkov, care au avut loc vineri, 18 decembrie 2026."
+        }
+      },
+      "id": 745,
+      "title": "Концертите на Моцарт и симфониите на Пипков",
+      "date": "2026-12-18",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "Концерт, за който се огласиха работите на Моцарт и симфониите на Пипков, състоящ се на петък, 18 декември 2026 година.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/kontsertite-na-motsart-i-simfoniite-na-pipkov/p1364.html"
         }
       ]
     },
@@ -2688,6 +3213,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/16/concert-omagiu-nicolas-simion/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/spargatorul-de-nuci-constanta-3/"
         }
       ]
     },
@@ -4034,36 +4564,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Карго/ 14 години Музика за аутизъм",
-          "description": "Юбилеен концерт на трупата КАРГО по случай 14 години дейност, посветена на рок музиката."
-        },
-        "en": {
-          "title": "CARGO/ 14 years Music for Autism",
-          "description": "Anniversary concert of the group CARGO in the circumstances of 14 years of activity dedicated to rock music."
-        },
-        "ro": {
-          "title": "CARGO/ 14 ani Music for Autism",
-          "description": "Concert aniversar al trupii CARGO în împrejurări de 14 ani de activitate dedicată muzicii rock."
-        }
-      },
-      "id": 183,
-      "title": "CARGO/ 14 ani Music for Autism",
-      "date": "",
-      "time": "",
-      "location": "Constanța",
-      "category": "concert",
-      "description": "Concert aniversar al trupii CARGO în împrejurări de 14 de ani de activitate dedicată muzicii rock.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/cargo-14-ani-music-for-autism/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Маша и мечока",
           "description": "Представлението на детския театър \"Маша и Урсула\" в Златното парти, организирано съвместно с детския театър Piciul Julien от Кишинев."
         },
@@ -5053,6 +5553,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/06/craciunul-la-divapremiere-romantice/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/17/craciunul-la-diva-premiere-romantice/"
         }
       ]
     },
@@ -5213,6 +5718,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/13/godzilla-1998-vs-2014-comparatie-filme/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/17/homefront-2013-jason-statham-videodome/"
         }
       ]
     },
@@ -7253,6 +7763,96 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/alifantis-zan/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Супер модерна жена: Ирина Сърбу и Биг бендът на Радио Румъния",
+          "description": "Ирина Сърбу и Биг Бендът на Радио Румъния се срещат на специален концерт в Радио Сала, на тема \"Супер модерна жена"
+        },
+        "en": {
+          "title": "Super Modern Woman: Irina Sârbu and the Radio România Big Band",
+          "description": "Irina Sârbu and the Radio România Big Band meet in a special concert at the Radio Hall, under the theme \"Super Modern Woman"
+        },
+        "ro": {
+          "title": "Super Modern Woman: Irina Sârbu și Big Band-ul Radio România",
+          "description": "Irina Sârbu și Big Band-ul Radio România se întâlnesc într-un concert special la Sala Radio, sub temă „Super Modern Woman"
+        }
+      },
+      "id": 750,
+      "title": "Super Modern Woman: Irina Sârbu și Big Band-ul Radio România",
+      "date": "",
+      "time": "",
+      "location": "Sala Radio",
+      "category": "concert",
+      "description": "Irina Sârbu și Big Band-ul Radio România se întâlnesc într-un concert special la Sala Radio, sub temă „Super Modern Woman",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/17/super-modern-woman-irina-sarbu/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Събитие на годината в румънската парфюмерия",
+          "description": "Гала събитие, отбелязващо най-доброто от румънската парфюмерия за годината, вероятно включващо награди и вероятно парти атмосфера."
+        },
+        "en": {
+          "title": "AWARDs | ELYSEE 18: Event of the Year in Romanian Perfumery",
+          "description": "A gala event celebrating the year's best in Romanian perfumery, likely including awards and possibly a party atmosphere."
+        },
+        "ro": {
+          "title": "AWARDs | ELYSEE 18: Evenimentul anului în parfumeria românească",
+          "description": "A gala event celebrating the year's best in Romanian perfumery, likely including awards and possibly a party atmosphere."
+        }
+      },
+      "id": 751,
+      "title": "AWARDs | ELYSEE 18: Evenimentul anului în parfumeria românească",
+      "date": "",
+      "time": "",
+      "location": "ELYSEE 18",
+      "category": "adult_18+",
+      "description": "A gala event celebrating the year's best in Romanian perfumery, likely including awards and possibly a party atmosphere.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/17/elysee-18-parfum-limited-edition/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Румъния срещу Република Молдова 0-1",
+          "description": "Футболен мач между Румъния и Република Молдова, отбелязан с резултат 0-1, се проведе в рамките на Националния ден на гастрономията и виното."
+        },
+        "en": {
+          "title": "Romania vs. Republic of Moldova 0-1",
+          "description": "A football match between Romania and the Republic of Moldova, marked with the score 0-1, took place within the phase on the National Day of Gastronomy and Wine."
+        },
+        "ro": {
+          "title": "România vs. Republica Moldova 0-1",
+          "description": "Un partid de fotbal între România și Republica Moldova, marcat cu scorul 0-1, a avut loc în cadrul fazei pe Ziua Națională a Gastronomiei și Vinului."
+        }
+      },
+      "id": 752,
+      "title": "România vs. Republica Moldova 0-1",
+      "date": "",
+      "time": "",
+      "location": "PE GUSTUL NOSTRU",
+      "category": "other",
+      "description": "Un partid de fotbal între România și Republica Moldova, marcat cu scorul 0-1, a avut loc în cadrul fazei pe Ziua Națională a Gastronomiei și Vinului.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/17/ziua-nationala-a-gastronomiei-si-vinului/"
         }
       ]
     },
