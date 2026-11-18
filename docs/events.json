@@ -1,218 +1,193 @@
 {
-  "generated_at": "2026-11-17T13:15:53.679783+00:00",
+  "generated_at": "2026-11-18T12:57:36.875760+00:00",
   "events": [
     {
       "translations": {
         "bg": {
-          "title": "Международна балонна конвенция 2026",
-          "description": "Балонна конвенция, която ще се проведе в балната зала Мелоди Гранд от 17 до 18 ноември 2026 г."
+          "title": "Мечката, измамена от лисицата – Констанца",
+          "description": "Интерактивен детски театър, базиран на класическата приказка \"Мечката, измамена от лисицата"
         },
         "en": {
-          "title": "WOW Balloon Convention 2026",
-          "description": "Balloon convention taking place at the Melody Grand Ballroom from November 17 to 18, 2026."
+          "title": "The bear fooled by the fox – by Qfeel Constanta",
+          "description": "An interactive children's theatre based on the classic story \"The bear fooled by the fox"
         },
         "ro": {
-          "title": "FooCA WOW Balloon Convention 2026",
-          "description": "Balloon convention taking place at the Melody Grand Ballroom from November 17 to 18, 2026."
+          "title": "Ursul păcălit de vulpe – by Qfeel Constanta",
+          "description": "O teatru interactivă pentru copii bazată pe povestea clasică „Ursul păcălit de vulpe"
         }
       },
-      "id": 152,
-      "title": "FooCA WOW Balloon Convention 2026",
-      "date": "2026-11-17",
+      "id": 130,
+      "title": "Ursul păcălit de vulpe – by Qfeel Constanta",
+      "date": "2026-11-18",
       "time": "",
-      "location": "Melody Grand Ballroom",
+      "location": "Teatru interactiv",
       "category": "other",
-      "description": "„Regina nopții” a câștigat premiul principal la Săptămânii Comediei 2026, iar spectacolul Teatrului „Fani Tardini” Galați a obținut patru premii.",
+      "description": "Filmul „FJORD” al regizorului Cristian Mungiu este nominalizat pentru cinci Premii ale Academiei Europene de Film, inclusiv pentru actori Sebastian Stan și Renate Reinsve.",
       "sources": [
         {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/fooca-wow-balloon-convention-2026/"
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/ursul-pacalit-de-vulpe-by-qfeel-constanta/"
         },
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/09/regina-noptii-castiga-saptamana-comediei/"
+          "url": "https://zilesinopti.ro/evenimente/ata-si-navodu-eide-viata-constanta/"
         },
         {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/kinomaniya-2026.html"
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/21/olivia-rodrigo-remix-expectations/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/21/morandi-lanseaza-samba-ritmuri-fresh/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/23/trupa-byron-euforia-turneu-20-de-ani/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/29/orchestra-ceman-dincolo-de-granite/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/30/jocuri-video-inspirate-filme-groaza/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/30/ro-signal-41-de-artisti-patru-viniluri/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/02/the-evolution-of-magic-cu-elizabeth-best/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/02/20-ani-de-byron-de-vorba-cu-6fingers/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/03/evenimente-culturale-noiembrie-2026/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/04/becky-hill-lanseaza-l0st-the-pl0t/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/12/5-soiuri-de-vin-rosu-toamna/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/13/anais-vacariu-lanseaza-weeping-hearts/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/12/enigma-live-michael-cretu-album/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/spectacol-de-balet/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/15/regal-vienez-revine-in-decembrie/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/14/fjord-premii-academiei-europene-de-film/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/16/maia-morgenstern-horatiu-malaele/"
+        },
+        {
+          "source_id": "ziua_constanta",
+          "source_name": "Ziua de Constanta",
+          "url": "https://www.ziuaconstanta.ro/stiri/sport/volei-echipa-de-cadete-a-csm-constanta-numai-victorii-si-la-al-doilea-turneu-al-fazei-inter-judetene-p-960879.html"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/18/whisky-fest-romania-2026-interviu-alin-loboda/"
         }
       ]
     },
     {
       "translations": {
         "bg": {
-          "title": "Графиня Марица",
-          "description": "Оперета от Имре Калман, която ще се представи на вторник, 17/11/2026."
+          "title": "„Тракийските българи. Социодемографски изследвания.“ - представяне на книга",
+          "description": "Представяне на книга със социодемографски изследвания за тракийските българи."
         },
         "en": {
-          "title": "Countess Maritsa",
-          "description": "The opera by Imre Kalman, which will be performed on Tuesday, 17/11/2026."
+          "title": "\"Thracian Bulgarians. Socio-demographic studies.\" - book presentation",
+          "description": "Presentation of a book with socio-demographic studies on Thracian Bulgarians."
         },
         "ro": {
-          "title": "Contesa de Maritsa",
-          "description": "Opera de Imre Kalman, care va fi prezentată marți, 17/11/2026."
+          "title": "\"Bulgarii traci. Studii socio-demografice.\" - prezentarea cărții",
+          "description": "Prezentarea unei cărți cu studii socio-demografice despre bulgarii traci."
         }
       },
-      "id": 579,
-      "title": "Графиня Марица",
-      "date": "2026-11-17",
+      "id": 753,
+      "title": "„Тракийските българи. Социодемографски изследвания.“ - представяне на книга",
+      "date": "2026-11-18",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Представяне на книга със социодемографски изследвания за тракийските българи.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/trakiyskite-balgari-sotsiodemografski-izsledvaniya.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Една българка“ – театрален спектакъл",
+          "description": "Събитието е спектакъл от театър на „Една българка“. Датата на представението е сряда, 18/11/2026г."
+        },
+        "en": {
+          "title": "\"One Bulgarian\" – theatrical performance",
+          "description": "The date of the performance is Wednesday, 18/11/2026g."
+        },
+        "ro": {
+          "title": "\"O bulgară\" – spectacol de teatru",
+          "description": "Evenimentul este un spectacol al teatrului \"O bulgară\". Data spectacolului este miercuri, 18/11/2026."
+        }
+      },
+      "id": 754,
+      "title": "„Една българка“ – театрален спектакъл",
+      "date": "2026-11-18",
       "time": "",
       "location": "",
       "category": "theater",
-      "description": "Имре Калмановата оперета „Графиня Марица“ ще бъде представена на вторник, 17 ноември 2026 година.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/grafinya-maritsa/p573.html"
-        },
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/grafinya-maritsa-opereta-ot-imre-kalman171126.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Кръговрат” - юбилеен концерт",
-          "description": "Юбилейния концерт на „Кръговрат” се проведе на вторник, 17/11/2026."
-        },
-        "en": {
-          "title": "\"Circle\" - anniversary concert",
-          "description": "The anniversary concert of \"Krogovrat\" was held on Tuesday, 17/11/2026."
-        },
-        "ro": {
-          "title": "\"Circle\" - concert jubiliar",
-          "description": "Concertul aniversar al \"Circuitului\" a avut loc marți, 17/11/2026."
-        }
-      },
-      "id": 733,
-      "title": "„Кръговрат” - юбилеен концерт",
-      "date": "2026-11-17",
-      "time": "",
-      "location": "",
-      "category": "concert",
-      "description": "Юбилейния концерт на „Кръговрат” се проведе на вторник, 17/11/2026.",
+      "description": "Събитието е спектакъл от театър на „Една българка“. Датата на представението е сряда, 18/11/2026г.",
       "sources": [
         {
           "source_id": "visit_varna_calendar",
           "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/kragovratyubileen-kontsert.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Тримата мускетари - театрален спектакъл",
-          "description": "Театрален спектакъл „Тримата мускетари"
-        },
-        "en": {
-          "title": "The Three Musketeers",
-          "description": "The Three Musketeers"
-        },
-        "ro": {
-          "title": "Cei trei muschetari",
-          "description": "Spectacol de teatru \"Cei trei muschetari"
-        }
-      },
-      "id": 734,
-      "title": "Тримата мускетари - театрален спектакъл",
-      "date": "2026-11-17",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Театрален спектакъл „Тримата мускетари",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/trimata-musketari-teatralen-spektakal333.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Изкачване до Телевизионната кула във Варна",
-          "description": "Спортно събитие за изкачване до Телевизионната кула във Варна."
-        },
-        "en": {
-          "title": "Climb to the TV Tower in Varna",
-          "description": "Sports event for climbing to the Television Tower in Varna."
-        },
-        "ro": {
-          "title": "Turnul de televiziune din Varna",
-          "description": "Eveniment sportiv de escaladare a Turnului de Televiziune din Varna."
-        }
-      },
-      "id": 735,
-      "title": "Изкачване до Телевизионната кула във Варна",
-      "date": "2026-11-17",
-      "time": "",
-      "location": "Телевизионната кула във Варна",
-      "category": "sports",
-      "description": "Спортно събитие за изкачване до Телевизионната кула във Варна.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/izkachvane-do-televizionnata-kula-vav-varna-sportn.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ДОБЪР ГЛАС, ДОБРА МУЗИКА – Национален театър за опера и балет \"Олег Дановски\" Констанца",
-          "description": "Събитие с участието на Националния театър за опера и балет \"Олег Дановски\" в Констанца, под надслов \"КРАСИВ ГЛАС, КРАСИВНА МУЗИКА\"."
-        },
-        "en": {
-          "title": "BELLA VOCE, BELLA MUZICA – National Theatre of Opera and Ballet \"Oleg Danovski\" Constanta",
-          "description": "An event featuring the National Opera and Ballet Theatre \"Oleg Danovski\" in Constanța, with the title 'BELLA VOCE, BELLA MUZICA'."
-        },
-        "ro": {
-          "title": "BELLA VOCE, BELLA MUZICA – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-          "description": "An event featuring the National Opera and Ballet Theatre \"Oleg Danovski\" in Constanța, with the title 'BELLA VOCE, BELLA MUZICA'."
-        }
-      },
-      "id": 220,
-      "title": "BELLA VOCE, BELLA MUZICA – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-      "date": "2026-11-17",
-      "time": "19:00",
-      "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
-      "category": "other",
-      "description": "Музыкальное представление Bella voce, bella muzica, которое состоится в Colegiul Național de Arte \"Regina Maria\" Constanța в 19:00 на следующий четверг, 17 ноября 2026 года.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/bella-voce-bella-muzica-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/06/machinal-si-jocuri-in-curtea-din-spate/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/bella-voce-bella-muzica/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/bella-voce-bella-muzica/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/club-de-carte-confucius/"
+          "url": "https://visit.varna.bg/bg/event/ednabalgarkateatralenspektakal.html"
         }
       ]
     },
@@ -707,12 +682,17 @@
       "time": "10:00",
       "location": "Strada Ilarie Voronca nr 9, 900178 Constanta, Romania",
       "category": "other",
-      "description": "Grup de psihoterapie care va avea loc în strada Ilarie Voronca, Constanta, pe data de 21 noiembrie la ora 10:00.",
+      "description": "Un eveniment de business care promovează relațiile și colaborarea între membri ai comunității în Centrul Holistic din Constanța.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/grup-de-psihoterapie-in-constanta/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/business-hub-comunitatea-in-care-ne-cunoastem-ne-recomandam-si-crestem-impreuna/"
         }
       ]
     },
@@ -827,7 +807,7 @@
       "time": "12:00",
       "location": "Constanța",
       "category": "other",
-      "description": "Un atelier practic pentru părinți care include educație acvatică și masaj pentru bebeluși.",
+      "description": "The 3rd edition of the Festival Științescu is taking place at Ovidius University in Constanța on November 20, 2026, starting at 16:00.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -838,6 +818,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/atelierul-practic-pentru-parinti-educatie-acvatica-si-masaj-pentru-bebelusi/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/festival-stiintescu-constanta-editia-a-iii-a/"
         }
       ]
     },
@@ -898,6 +883,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/spargatorul-de-nuci-constanta/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Един остров",
+          "description": "Спектакълът \"O INSULĂ\" на Teatrul de Stat Constanţa, насрочен за сряда, 21 ноември, от 19:00 ч."
+        },
+        "en": {
+          "title": "AN ISLAND",
+          "description": "The performance \"O INSULĂ\" by Teatrul de Stat Constanța, scheduled on Wednesday, November 21, at 19:00."
+        },
+        "ro": {
+          "title": "O INSULĂ",
+          "description": "Представа „O INSULĂ“ на Театрul de Stat Constanța, запланирована на сряда, 21 ноември, в 19:00."
+        }
+      },
+      "id": 756,
+      "title": "O INSULĂ",
+      "date": "2026-11-21",
+      "time": "19:00",
+      "location": "Teatrul de Stat Constanța",
+      "category": "theater",
+      "description": "Представа „O INSULĂ“ на Театрul de Stat Constanța, запланирована на сряда, 21 ноември, в 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/o-insula-2/"
         }
       ]
     },
@@ -1209,6 +1224,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Ателие де Пица – Вкусовете на Джио",
+          "description": "Ателие де Пица – Сапори ди Джио е събитие, което ще се проведе на 22 ноември 2026, от 11:00 часа в Констанца, Румъния."
+        },
+        "en": {
+          "title": "Atelier de Pizza – Flavours of Gio",
+          "description": "Atelier de Pizza – Sapori di Gio is an event taking place on November 22, 2026, at 11:00 AM in Constanta, Romania."
+        },
+        "ro": {
+          "title": "Atelier de Pizza – Sapori di Gio",
+          "description": "Atelier de Pizza – Sapori di Gio is an event taking place on November 22, 2026, at 11:00 AM in Constanta, Romania."
+        }
+      },
+      "id": 757,
+      "title": "Atelier de Pizza – Sapori di Gio",
+      "date": "2026-11-22",
+      "time": "11:00",
+      "location": "Str.Baba Novac nr.26, Constanta, Romania",
+      "category": "other",
+      "description": "Atelier de Pizza – Sapori di Gio is an event taking place on November 22, 2026, at 11:00 AM in Constanta, Romania.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/atelier-de-pizza-sapori-di-gio/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "МОРСКИ ИСТОРИИ – МАТИНЕУ",
           "description": "Морски истории – Матинеу, планирано събитие в Сала Студио БЦР на 22 ноември 2026 г., от 12:00 ч."
         },
@@ -1233,6 +1278,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/seaside-stories-matineu/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Добруджа – минало, настояще и бъдеще",
+          "description": "Събитие, което се провежда в Гръцката Църква, Енория \"Промяната на Лицето\" в Добруджа, с дата 22 ноември 2026 г. и начален час 12:00."
+        },
+        "en": {
+          "title": "Dobrogea – past, present and future",
+          "description": "An event taking place at the Greek Church, Parish \"Face Change\" in Dobrogea, with the date of November 22, 2026 and the start time of 12:00."
+        },
+        "ro": {
+          "title": "Dobrogea – trecut, prezent și viitor",
+          "description": "Un eveniment care se desfășoară la Biserica Greacă, Parohia „Schimbarea la Față” în Dobrogea, cu data de 22 noiembrie 2026 și ora de început de 12:00."
+        }
+      },
+      "id": 758,
+      "title": "Dobrogea – trecut, prezent și viitor",
+      "date": "2026-11-22",
+      "time": "12:00",
+      "location": "Biserica Greacă, Parohia „Schimbarea la Față”,",
+      "category": "other",
+      "description": "Un eveniment care se desfășoară la Biserica Greacă, Parohia „Schimbarea la Față” în Dobrogea, cu data de 22 noiembrie 2026 și ora de început de 12:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/dobrogea-trecut-prezent-si-viitor/"
         }
       ]
     },
@@ -1408,6 +1483,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/16/vioara-si-enescu-ajunge-la-a-15-a-editie/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/stand-up-comedy-cu-teo-ionita-teodor-abagiu-florentin-paune-si-tamer/"
         }
       ]
     },
@@ -2427,7 +2507,7 @@
       "time": "19:00",
       "location": "Cazino Constanța",
       "category": "other",
-      "description": "The Spirit of Vienna concert is scheduled to take place at Cazino Constanța on December 5th at 7:00 PM.",
+      "description": "The Evolution of Magic is a modern magic show for theater that combines illusions, mentalism, storytelling, audience interaction, and visual magic, creating a complete theatrical experience.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
@@ -2443,6 +2523,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/11/sam-fender-the-rolling-stones/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/the-evolution-of-magic-3/"
         }
       ]
     },
@@ -2544,6 +2629,106 @@
     {
       "translations": {
         "bg": {
+          "title": "УСМИВКАТА НА МУЗИКАТА – Национален театър за опера и балет \"Олег Дановски\" Констанца",
+          "description": "Когато музиката се усмихва, сцената се превръща: \"Усмивката на музиката"
+        },
+        "en": {
+          "title": "THE SMILE OF MUSIC – National Theatre of Opera and Ballet \"Oleg Danovski\" Constanta",
+          "description": "When the music smiles, the scene turns: \"The Smile of Music"
+        },
+        "ro": {
+          "title": "ZAMBETUL MUZICII – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
+          "description": "Când muzica zâmbește, scena se transformă: „Zâmbetul Muzicii"
+        }
+      },
+      "id": 133,
+      "title": "ZAMBETUL MUZICII – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
+      "date": "2026-12-08",
+      "time": "17:00",
+      "location": "Colegiul Național de Arte Regina Maria",
+      "category": "other",
+      "description": "byron este una dintre cele mai consistente și inventive prezențe din muzica românească a ultimelor două decenii. A fișierat în 2006 și a crescut organic, construind o comunitate loială și implicată în jurul muzicii sale.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/zambetul-muzicii-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/11/unklfnkl-maria-mashuka-spooky-spooky/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/16/incepe-festivalul-national-de-teatru-2/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/18/encens-roi-parfumul-lunii-octombrie-2026/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/23/jocurile-perfecte-de-halloween/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/stand-up-comedy-cu-dracea-carje-moise-si-drobota/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/10/29/calendarul-de-advent-care-se-potriveste/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/pisica-doldora-de-bani-si-nepotii-ei-orfani/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/concert-aniversar-byron-20-de-ani/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/03/pauza-de-care-hormonii-tai-aveau-nevoie/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/10/spargatorul-de-nuci-in-turneu-national/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/mofturi-si-moftangii-2/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/13/east-of-eden-netflix-florence-pugh/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/14/isabelle-huppert-in-povesti-paralele/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/arta-elegantei-workshop-de-stil/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Бохеми",
           "description": "Театърна постановка "
         },
@@ -2627,7 +2812,7 @@
       "time": "",
       "location": "Varna",
       "category": "other",
-      "description": "An event titled 'На хубавия син Дунав' scheduled for Friday, December 11, 2026 in Varna.",
+      "description": "Изложбата се посветява на магията на бусинската керамика и е организирана в Историческия музей в Каварна.",
       "sources": [
         {
           "source_id": "varna_culture",
@@ -2638,6 +2823,11 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/trima-krale/p1356.html"
+        },
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/magiyata-na-businskata-keramika-ozhivyava-v-izlozhba-v-istoricheskiya-muzey-v-kavarna-p733077"
         }
       ]
     },
@@ -4164,126 +4354,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Мечката, измамена от лисицата – Констанца",
-          "description": "Интерактивен детски театър, базиран на класическата приказка \"Мечката, измамена от лисицата"
-        },
-        "en": {
-          "title": "The bear fooled by the fox – by Qfeel Constanta",
-          "description": "An interactive children's theatre based on the classic story \"The bear fooled by the fox"
-        },
-        "ro": {
-          "title": "Ursul păcălit de vulpe – by Qfeel Constanta",
-          "description": "O teatru interactivă pentru copii bazată pe povestea clasică „Ursul păcălit de vulpe"
-        }
-      },
-      "id": 130,
-      "title": "Ursul păcălit de vulpe – by Qfeel Constanta",
-      "date": "",
-      "time": "",
-      "location": "Teatru interactiv",
-      "category": "other",
-      "description": "Filmul „FJORD” al regizorului Cristian Mungiu este nominalizat pentru cinci Premii ale Academiei Europene de Film, inclusiv pentru actori Sebastian Stan și Renate Reinsve.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/ursul-pacalit-de-vulpe-by-qfeel-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/ata-si-navodu-eide-viata-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/21/olivia-rodrigo-remix-expectations/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/21/morandi-lanseaza-samba-ritmuri-fresh/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/23/trupa-byron-euforia-turneu-20-de-ani/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/29/orchestra-ceman-dincolo-de-granite/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/30/jocuri-video-inspirate-filme-groaza/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/30/ro-signal-41-de-artisti-patru-viniluri/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/02/the-evolution-of-magic-cu-elizabeth-best/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/02/20-ani-de-byron-de-vorba-cu-6fingers/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/03/evenimente-culturale-noiembrie-2026/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/04/becky-hill-lanseaza-l0st-the-pl0t/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/12/5-soiuri-de-vin-rosu-toamna/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/13/anais-vacariu-lanseaza-weeping-hearts/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/12/enigma-live-michael-cretu-album/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/spectacol-de-balet/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/15/regal-vienez-revine-in-decembrie/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/14/fjord-premii-academiei-europene-de-film/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/16/maia-morgenstern-horatiu-malaele/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Жените не са ангели",
           "description": "Успешна лондонска комедия се представя в нова постановка в Букурещкия театър „Метроном“."
         },
@@ -4313,101 +4383,6 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/17/filit-ce-aduce-filit-2026/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "УСМИВКАТА НА МУЗИКАТА – Национален театър за опера и балет \"Олег Дановски\" Констанца",
-          "description": "Когато музиката се усмихва, сцената се превръща: \"Усмивката на музиката"
-        },
-        "en": {
-          "title": "THE SMILE OF MUSIC – National Theatre of Opera and Ballet \"Oleg Danovski\" Constanta",
-          "description": "When the music smiles, the scene turns: \"The Smile of Music"
-        },
-        "ro": {
-          "title": "ZAMBETUL MUZICII – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-          "description": "Când muzica zâmbește, scena se transformă: „Zâmbetul Muzicii"
-        }
-      },
-      "id": 133,
-      "title": "ZAMBETUL MUZICII – Teatrul Național de Operă și Balet „Oleg Danovski” Constanta",
-      "date": "",
-      "time": "",
-      "location": "Colegiul Național de Arte Regina Maria",
-      "category": "other",
-      "description": "byron este una dintre cele mai consistente și inventive prezențe din muzica românească a ultimelor două decenii. A fișierat în 2006 și a crescut organic, construind o comunitate loială și implicată în jurul muzicii sale.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/zambetul-muzicii-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/11/unklfnkl-maria-mashuka-spooky-spooky/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/16/incepe-festivalul-national-de-teatru-2/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/18/encens-roi-parfumul-lunii-octombrie-2026/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/23/jocurile-perfecte-de-halloween/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/stand-up-comedy-cu-dracea-carje-moise-si-drobota/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/29/calendarul-de-advent-care-se-potriveste/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/pisica-doldora-de-bani-si-nepotii-ei-orfani/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/concert-aniversar-byron-20-de-ani/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/03/pauza-de-care-hormonii-tai-aveau-nevoie/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/10/spargatorul-de-nuci-in-turneu-national/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/mofturi-si-moftangii-2/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/13/east-of-eden-netflix-florence-pugh/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/14/isabelle-huppert-in-povesti-paralele/"
         }
       ]
     },
@@ -6148,6 +6123,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/22/maria-marica-revine-la-sala-radio/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/18/alexandru-tomescu-interpreteaza-paganini/"
         }
       ]
     },
@@ -7739,36 +7719,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Слонът и Зен",
-          "description": "Алифантис и група ЗАН искат да (се) върнат пред публиката тази есен с концерт, изпълнен с творчество и сътрудничество."
-        },
-        "en": {
-          "title": "ALIFANTIS & ZAN",
-          "description": "Alifantis and the band ZAN want to (re)come to the public this autumn with a concert full of creation and collaboration."
-        },
-        "ro": {
-          "title": "ALIFANTIS & ZAN",
-          "description": "Alifantis și trupa ZAN vor să (re)venească în fața publicului în această toamnă cu un concert plin de creație și colaborare."
-        }
-      },
-      "id": 731,
-      "title": "ALIFANTIS & ZAN",
-      "date": "",
-      "time": "",
-      "location": "",
-      "category": "concert",
-      "description": "Alifantis și trupa ZAN vor să (re)venească în fața publicului în această toamnă cu un concert plin de creație și colaborare.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/alifantis-zan/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Супер модерна жена: Ирина Сърбу и Биг бендът на Радио Румъния",
           "description": "Ирина Сърбу и Биг Бендът на Радио Румъния се срещат на специален концерт в Радио Сала, на тема \"Супер модерна жена"
         },
@@ -7853,6 +7803,66 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/17/ziua-nationala-a-gastronomiei-si-vinului/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Националният конкурс „Никулден у дома“ в Тутракан",
+          "description": "Приема се творби за национален конкурс „Никулден у дома“ до 7 декември."
+        },
+        "en": {
+          "title": "The National Competition \"Nikolden at Home\" in Tutrakan",
+          "description": "Works are accepted for the national competition \"Nicol's Day at Home\" until December 7."
+        },
+        "ro": {
+          "title": "Concursul Național \"Nicolae Acasă\" la Tutrakan",
+          "description": "Lucrările pentru concursul național \"Ziua Sfântului Nicolae acasă\" sunt acceptate până în 7 decembrie."
+        }
+      },
+      "id": 755,
+      "title": "Националният конкурс „Никулден у дома“ в Тутракан",
+      "date": "",
+      "time": "",
+      "location": "Тутракан",
+      "category": "other",
+      "description": "Приема се творби за национален конкурс „Никулден у дома“ до 7 декември.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/18/natsionalniyat-konkurs-nikulden-u-doma-v-tutrakan-priema-tvorbi-do-7-dekemvri"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "КЛУБ КИД 2026 | Приключенията на млад родител в Бруклин",
+          "description": "Филм за приключенията на нов родител в Бруклин, който ще бъде представен в детския клуб."
+        },
+        "en": {
+          "title": "CLUB KID 2026 | The Adventures of a New Parent in Brooklyn",
+          "description": "A film about the adventures of a new parent in Brooklyn, which will be presented in Club Kid."
+        },
+        "ro": {
+          "title": "CLUB KID 2026 | Aventurile unui proaspăt părinte în Brooklyn",
+          "description": "Un film despre aventurile unui proaspăt părinte în Brooklyn, care se va prezentă în Club Kid."
+        }
+      },
+      "id": 759,
+      "title": "CLUB KID 2026 | Aventurile unui proaspăt părinte în Brooklyn",
+      "date": "",
+      "time": "",
+      "location": "Club Kid",
+      "category": "adult_18+",
+      "description": "Un film despre aventurile unui proaspăt părinte în Brooklyn, care se va prezentă în Club Kid.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/18/club-kid-2026-film-jordan-firstman/"
         }
       ]
     },
@@ -8188,6 +8198,41 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/make-friends-blabla-language-exchange-constanta-every-other-tuesday-recurrent-event/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Слонът и Зен",
+          "description": "Алифантис и група ЗАН искат да (се) върнат пред публиката тази есен с концерт, изпълнен с творчество и сътрудничество."
+        },
+        "en": {
+          "title": "ALIFANTIS & ZAN",
+          "description": "Alifantis and the band ZAN want to (re)come to the public this autumn with a concert full of creation and collaboration."
+        },
+        "ro": {
+          "title": "ALIFANTIS & ZAN",
+          "description": "Alifantis și trupa ZAN vor să (re)venească în fața publicului în această toamnă cu un concert plin de creație și colaborare."
+        }
+      },
+      "id": 731,
+      "title": "ALIFANTIS & ZAN",
+      "date": "",
+      "time": "20:30",
+      "location": "Club Phoenix",
+      "category": "concert",
+      "description": "Alifantis și trupa ZAN vor să (re)venească în fața publicului în această toamnă cu un concert plin de creație și colaborare.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/alifantis-zan/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/alifantis-zan/"
         }
       ]
     }
