@@ -1,196 +1,6 @@
 {
-  "generated_at": "2026-11-18T12:57:36.875760+00:00",
+  "generated_at": "2026-11-19T12:51:34.261256+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Мечката, измамена от лисицата – Констанца",
-          "description": "Интерактивен детски театър, базиран на класическата приказка \"Мечката, измамена от лисицата"
-        },
-        "en": {
-          "title": "The bear fooled by the fox – by Qfeel Constanta",
-          "description": "An interactive children's theatre based on the classic story \"The bear fooled by the fox"
-        },
-        "ro": {
-          "title": "Ursul păcălit de vulpe – by Qfeel Constanta",
-          "description": "O teatru interactivă pentru copii bazată pe povestea clasică „Ursul păcălit de vulpe"
-        }
-      },
-      "id": 130,
-      "title": "Ursul păcălit de vulpe – by Qfeel Constanta",
-      "date": "2026-11-18",
-      "time": "",
-      "location": "Teatru interactiv",
-      "category": "other",
-      "description": "Filmul „FJORD” al regizorului Cristian Mungiu este nominalizat pentru cinci Premii ale Academiei Europene de Film, inclusiv pentru actori Sebastian Stan și Renate Reinsve.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/ursul-pacalit-de-vulpe-by-qfeel-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/ata-si-navodu-eide-viata-constanta/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/21/olivia-rodrigo-remix-expectations/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/21/morandi-lanseaza-samba-ritmuri-fresh/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/23/trupa-byron-euforia-turneu-20-de-ani/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/29/orchestra-ceman-dincolo-de-granite/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/30/jocuri-video-inspirate-filme-groaza/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/10/30/ro-signal-41-de-artisti-patru-viniluri/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/02/the-evolution-of-magic-cu-elizabeth-best/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/02/20-ani-de-byron-de-vorba-cu-6fingers/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/03/evenimente-culturale-noiembrie-2026/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/04/becky-hill-lanseaza-l0st-the-pl0t/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/12/5-soiuri-de-vin-rosu-toamna/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/13/anais-vacariu-lanseaza-weeping-hearts/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/12/enigma-live-michael-cretu-album/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/spectacol-de-balet/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/15/regal-vienez-revine-in-decembrie/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/14/fjord-premii-academiei-europene-de-film/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/16/maia-morgenstern-horatiu-malaele/"
-        },
-        {
-          "source_id": "ziua_constanta",
-          "source_name": "Ziua de Constanta",
-          "url": "https://www.ziuaconstanta.ro/stiri/sport/volei-echipa-de-cadete-a-csm-constanta-numai-victorii-si-la-al-doilea-turneu-al-fazei-inter-judetene-p-960879.html"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/18/whisky-fest-romania-2026-interviu-alin-loboda/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Тракийските българи. Социодемографски изследвания.“ - представяне на книга",
-          "description": "Представяне на книга със социодемографски изследвания за тракийските българи."
-        },
-        "en": {
-          "title": "\"Thracian Bulgarians. Socio-demographic studies.\" - book presentation",
-          "description": "Presentation of a book with socio-demographic studies on Thracian Bulgarians."
-        },
-        "ro": {
-          "title": "\"Bulgarii traci. Studii socio-demografice.\" - prezentarea cărții",
-          "description": "Prezentarea unei cărți cu studii socio-demografice despre bulgarii traci."
-        }
-      },
-      "id": 753,
-      "title": "„Тракийските българи. Социодемографски изследвания.“ - представяне на книга",
-      "date": "2026-11-18",
-      "time": "",
-      "location": "",
-      "category": "other",
-      "description": "Представяне на книга със социодемографски изследвания за тракийските българи.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/trakiyskite-balgari-sotsiodemografski-izsledvaniya.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Една българка“ – театрален спектакъл",
-          "description": "Събитието е спектакъл от театър на „Една българка“. Датата на представението е сряда, 18/11/2026г."
-        },
-        "en": {
-          "title": "\"One Bulgarian\" – theatrical performance",
-          "description": "The date of the performance is Wednesday, 18/11/2026g."
-        },
-        "ro": {
-          "title": "\"O bulgară\" – spectacol de teatru",
-          "description": "Evenimentul este un spectacol al teatrului \"O bulgară\". Data spectacolului este miercuri, 18/11/2026."
-        }
-      },
-      "id": 754,
-      "title": "„Една българка“ – театрален спектакъл",
-      "date": "2026-11-18",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Събитието е спектакъл от театър на „Една българка“. Датата на представението е сряда, 18/11/2026г.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/ednabalgarkateatralenspektakal.html"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -218,6 +28,131 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/12/pionul-lui-lenin-in-cinematografe/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/19/jurnalul-unei-cameriste-filmul-radu-jude/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Добрич отбелязва 146 години от рождението на Йовков с Ден на отворените врати и изложба",
+          "description": "Добрич отбелязва 146-ото юбилея на Йовков с Ден на отворените врати и изложба."
+        },
+        "en": {
+          "title": "Dobrich celebrates the 146th anniversary of the birth of Yovkov with an Open Day and an exhibition",
+          "description": "Dobrich celebrates the 146th anniversary of Yovkov with an Open Day and an exhibition."
+        },
+        "ro": {
+          "title": "Dobrici sărbătorește 146 de ani de la nașterea lui Iovkov cu Ziua porților deschise și o expoziție",
+          "description": "Dobrici a sărbătorit cea de-a 146-a aniversare a lui Iovkov cu o Zi a Ușilor Deschise și o expoziție."
+        }
+      },
+      "id": 761,
+      "title": "Добрич отбелязва 146 години от рождението на Йовков с Ден на отворените врати и изложба",
+      "date": "2026-11-19",
+      "time": "",
+      "location": "Добрич",
+      "category": "exhibition",
+      "description": "Добрич отбелязва 146-ото юбилея на Йовков с Ден на отворените врати и изложба.",
+      "sources": [
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/dobrich-otbelyazva-146-godini-ot-rozhdenieto-na-yovkov-s-den-na-otvorenite-vrati-i-izlozhba-p733101"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Гераците“ - театрална постановка",
+          "description": "Театрална постановка под названието „Гераците“ ще се представи на четвъртък, 19 ноември 2026 година."
+        },
+        "en": {
+          "title": "\"The Geracites\" - theatrical production",
+          "description": "A theatrical production under the title \"The Geraci\" will be presented on Thursday, November 19, 2026."
+        },
+        "ro": {
+          "title": "\"Geracii\" - o producție teatrală",
+          "description": "Joi, 19 noiembrie 2026, va fi prezentată o piesă de teatru intitulată \"Geracii\"."
+        }
+      },
+      "id": 762,
+      "title": "„Гераците“ - театрална постановка",
+      "date": "2026-11-19",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Театрална постановка под названието „Гераците“ ще се представи на четвъртък, 19 ноември 2026 година.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/geratsite-teatralna-postanovka19.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Испански камерен концерт",
+          "description": "Испански камерен концерт, проведен четвъртък, 19/11/2026г."
+        },
+        "en": {
+          "title": "Spanish Chamber Concert",
+          "description": "Spanish chamber concert, held on Thursday, 19/11/2026"
+        },
+        "ro": {
+          "title": "Concert de cameră spaniolă",
+          "description": "Concert de cameră spaniolă, desfășurat joi, 19/11/2026"
+        }
+      },
+      "id": 763,
+      "title": "Испански камерен концерт",
+      "date": "2026-11-19",
+      "time": "",
+      "location": "",
+      "category": "concert",
+      "description": "Испански камерен концерт, проведен четвъртък, 19/11/2026г.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/ispanski-kameren-kontsert-kontsert.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Севда Потурлян представя изложбата „Скътани спомени“ във Варна",
+          "description": "Изложбата „Скътани спомени“ на художничката Севда Потурлян ще бъде открита на 19 ноември в Арт галерия Le Papillon във Варна и ще продължи до 10 декември 2026 г."
+        },
+        "en": {
+          "title": "Sevda Poturlian presents the exhibition \"Scattered Memories\" in Varna",
+          "description": "The exhibition \"Scattered Memories\" by the artist Sevda Poturlian will be opened on November 19 at the Art Gallery Le Papillon in Varna and will continue until December 10, 2026."
+        },
+        "ro": {
+          "title": "Sevda Poturlian prezintă expoziția \"Amintiri rătăcite\" la Varna",
+          "description": "Expoziția \"Amintiri rătăcite\" a artistei Sevda Poturlian va fi inaugurată în 19 noiembrie la Galeria de Artă Le Papillon din Varna și va fi deschisă până în 10 decembrie 2026."
+        }
+      },
+      "id": 765,
+      "title": "Севда Потурлян представя изложбата „Скътани спомени“ във Варна",
+      "date": "2026-11-19",
+      "time": "",
+      "location": "Арт галерия Le Papillon",
+      "category": "exhibition",
+      "description": "Изложбата „Скътани спомени“ на художничката Севда Потурлян ще бъде открита на 19 ноември в Арт галерия Le Papillon във Варна и ще продължи до 10 декември 2026 г.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=538644"
         }
       ]
     },
@@ -242,12 +177,117 @@
       "time": "15:00",
       "location": "Constanța",
       "category": "other",
-      "description": "Curs de calificare pentru masaj instrumental oferit de Lucia Style în Constanța.",
+      "description": "Universitatea Ovidius din Constanța organizează Festivalul Științescu Constanța 3.0, care va include proiecte interactive care se concentrează pe știința și tehnologia.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/curs-masaj-instrumental-constanta/"
+        },
+        {
+          "source_id": "ziua_constanta",
+          "source_name": "Ziua de Constanta",
+          "url": "https://www.ziuaconstanta.ro/stiri/eveniment/dobrogea-traditie-si-onoare-constanta-sarbatoreste-148-de-ani-de-la-sosirea-armatei-romane-in-oras-parada-militara-concert-si-demonstratii-961065.html"
+        },
+        {
+          "source_id": "ziua_constanta",
+          "source_name": "Ziua de Constanta",
+          "url": "https://www.ziuaconstanta.ro/stiri/invatamant/universitatea-ovidius-din-constanta-gazduieste-festivalul-stiintescu-constanta-3-0-cu-proiecte-interactive-dedicate-stiintei-si-tehnologiei-961090.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Пандора тур представен от Влад Корб",
+          "description": "Турнето на Пандора, с участието на Влад Корб, е насрочено да се състои в клуб Doors в Констанца, с шоуто да започне в 20:00 часа на четвъртък, 19 ноември 2026."
+        },
+        "en": {
+          "title": "Pandora Tour presented by Vlad Corb",
+          "description": "Pandora Tour, featuring Vlad Corb, is scheduled to perform at Doors Club in Constanța, with the show starting at 20:00 on Thursday, November 19, 2026."
+        },
+        "ro": {
+          "title": "Pandora Tour presented by Vlad Corb",
+          "description": "Pandora Tour, featuring Vlad Corb, is scheduled to perform at Doors Club in Constanța, with the show starting at 20:00 on Thursday, November 19, 2026."
+        }
+      },
+      "id": 768,
+      "title": "Pandora Tour presented by Vlad Corb",
+      "date": "2026-11-19",
+      "time": "20:00",
+      "location": "Doors Club Constanța",
+      "category": "adult_18+",
+      "description": "Pandora Tour, featuring Vlad Corb, is scheduled to perform at Doors Club in Constanța, with the show starting at 20:00 on Thursday, November 19, 2026.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/pandora-tour-presented-by-vlad-corb/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Нощта на духовете (1986, реж. Фред Декер)",
+          "description": "Прожекция на филма на ужасите от 1986 г. \"Нощта на злите духове\" на режисьора Фред Декер."
+        },
+        "en": {
+          "title": "NIGHT OF THE CREEPS (1986, d: Fred Dekker)",
+          "description": "Night of the Creeps is a 1986 American horror film directed by Fred Dekker."
+        },
+        "ro": {
+          "title": "VIDEODOME | NIGHT OF THE CREEPS (1986, r: Fred Dekker)",
+          "description": "A screening of the 1986 horror film 'Night of the Creeps' directed by Fred Dekker."
+        }
+      },
+      "id": 681,
+      "title": "VIDEODOME | NIGHT OF THE CREEPS (1986, r: Fred Dekker)",
+      "date": "2026-11-19",
+      "time": "22:00",
+      "location": "VIDEODOME",
+      "category": "other",
+      "description": "A screening of the 1986 horror film 'Night of the Creeps' directed by Fred Dekker.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/10/night-of-the-creeps-1986-fred-dekker/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/fresher-night-9-0/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Влад Корб • Излизане на албум •",
+          "description": "Влад Корб представя нов албум в Пандора, в клуба в Констанца, с достъп от 21:00 и шоу от 23:00."
+        },
+        "en": {
+          "title": "Vlad Corb • Album release •",
+          "description": "Vlad Corb launches a new album in Pandora, in the Doors club in Constanta, with access from 21:00 and show from 23:00."
+        },
+        "ro": {
+          "title": "Vlad Corb • Lansare de album •",
+          "description": "Vlad Corb lansează un nou album în Pandora, în clubul Doors din Constanta, cu acces de la 21:00 și show de la 23:00."
+        }
+      },
+      "id": 771,
+      "title": "Vlad Corb • Lansare de album •",
+      "date": "2026-11-19",
+      "time": "23:00",
+      "location": "Doors Club, Constanta",
+      "category": "adult_18+",
+      "description": "Vlad Corb lansează un nou album în Pandora, în clubul Doors din Constanta, cu acces de la 21:00 și show de la 23:00.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/vlad-corb-lansare-de-album-3/"
         }
       ]
     },
@@ -588,6 +628,36 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/morski-zvuci/p1360.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Група Дискотека @doors",
+          "description": "Събота-21 ноември, група Дискотека се среща с феновете си в Доорс за една нощ на музика и забавление."
+        },
+        "en": {
+          "title": "Band Disco @doors",
+          "description": "Saturday-November 21, the band Discoteka meets with its fans at Doors for a night of music and fun."
+        },
+        "ro": {
+          "title": "Trupa Discoteka @doors",
+          "description": "Sâmbătă-21 noiembrie, trupa Discoteka se întâlnește cu fanii săi la Doors pentru o noapte de muzică și distracții."
+        }
+      },
+      "id": 772,
+      "title": "Trupa Discoteka @doors",
+      "date": "2026-11-21",
+      "time": "",
+      "location": "Doors",
+      "category": "adult_18+",
+      "description": "Sâmbătă-21 noiembrie, trupa Discoteka se întâlnește cu fanii săi la Doors pentru o noapte de muzică și distracții.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/trupa-discoteka-at-doors-2/"
         }
       ]
     },
@@ -1038,6 +1108,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/21-noiembrie-seara-de-socializare-board-games-by-reconectare-cu-sens/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/constanta-ani-de-liceu-fratelli/"
         }
       ]
     },
@@ -1488,6 +1563,16 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/stand-up-comedy-cu-teo-ionita-teodor-abagiu-florentin-paune-si-tamer/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/gala-de-opera-opereta-si-musical-teatrul-national-de-opera-si-balet-oleg-danovski-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/18/jhauk-jazz-si-drum-bass-album-2026/"
         }
       ]
     },
@@ -2285,14 +2370,49 @@
       "title": "С най-голямо уважение",
       "date": "2026-12-03",
       "time": "",
-      "location": "",
+      "location": "Сцена Филиал",
       "category": "other",
-      "description": "Камен Донев ще изпълни своето представление с титла „С най-голямо уважение“.",
+      "description": "Драматичен театър „Стоян Бъчваров“ във Варна организира коледни спектакли за деца и техните семейства, които ще бъдат представени от 19 до 23 декември на Сцена Филиал.",
       "sources": [
         {
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/s-nay-golyamo-uvazhenie/p1368.html"
+        },
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=538801"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Вторник, 3 декември 2012 г.",
+          "description": "\"Кръстопът\" изследва войните около нас и вътре във всеки човек в разговор, който се разгръща на платформата АЛТЕРНОСФЕРА."
+        },
+        "en": {
+          "title": "ALTERNOSPHERE | Roads of Crosses | December 3 | Constanța",
+          "description": "Roads of Crosses explores the wars around us and within each person in a talk that takes place on the ALTERNOSFERA platform."
+        },
+        "ro": {
+          "title": "ALTERNOSFERA | Drumuri cu Cruci | 3 decembrie | Constanța",
+          "description": "Drumuri cu Cruci explorează războaiele din jurul nostru și în interiorul fiecărei persoane, într-un discurs care se desfășoară pe platforma ALTERNOSFERA."
+        }
+      },
+      "id": 769,
+      "title": "ALTERNOSFERA | Drumuri cu Cruci | 3 decembrie | Constanța",
+      "date": "2026-12-03",
+      "time": "",
+      "location": "Constanța",
+      "category": "other",
+      "description": "Drumuri cu Cruci explorează războaiele din jurul nostru și în interiorul fiecărei persoane, într-un discurs care se desfășoară pe platforma ALTERNOSFERA.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/alternosfera-drumuri-cu-cruci-3-decembrie-constanta/"
         }
       ]
     },
@@ -2389,6 +2509,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Шабла запалва коледните светлини и открива коледния базар",
+          "description": "На 4 декември 2026 г. в Шабла ще запалят коледните светлини и отвори коледния базар."
+        },
+        "en": {
+          "title": "Shabla lights Christmas lights and opens the Christmas Bazaar",
+          "description": "On December 4, 2026 in Shabla will light the Christmas lights and open the Christmas Bazaar."
+        },
+        "ro": {
+          "title": "Shabla aprinde luminile de Crăciun și deschide târgul de Crăciun",
+          "description": "Pe 4 decembrie 2026, în Shabla vor aprinde luminile de Crăciun și vor deschide târgul de Crăciun."
+        }
+      },
+      "id": 760,
+      "title": "Шабла запалва коледните светлини и открива коледния базар",
+      "date": "2026-12-04",
+      "time": "17:00",
+      "location": "Градски площад, гр. Шабла",
+      "category": "other",
+      "description": "На 4 декември 2026 г. в Шабла ще запалят коледните светлини и отвори коледния базар.",
+      "sources": [
+        {
+          "source_id": "shabla_sabitiya",
+          "source_name": "Shabla.bg — Sabitiya (Events archive)",
+          "url": "https://shabla.bg/events/shabla-zapalva-kolednite-svetlini-i-otkriva-koledniya-bazar/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Семинар за семейни съзвездия",
           "description": "Семинар за семейни съзвездия, който ще се проведе на две различни места в Констанца между 5 и 6 декември 2026 г."
         },
@@ -2418,6 +2568,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/workshop-constelatii-familiale-3/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Експозиция",
+          "description": "Изложба, която ще се проведе между 5 и 6 декември 2026 г. в Текиргьол."
+        },
+        "en": {
+          "title": "Exposure",
+          "description": "Exhibition that will take place between 5 and 6 December 2026 in Techirghiol."
+        },
+        "ro": {
+          "title": "Expozitie",
+          "description": "Expozitie care va avea loc între 5 și 6 decembrie 2026 în Techirghiol."
+        }
+      },
+      "id": 766,
+      "title": "Expozitie",
+      "date": "2026-12-05",
+      "time": "",
+      "location": "Techirghiol",
+      "category": "exhibition",
+      "description": "Expozitie care va avea loc între 5 și 6 decembrie 2026 în Techirghiol.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/expozitie/"
         }
       ]
     },
@@ -2623,6 +2803,36 @@
           "source_id": "zora1894_shabla",
           "source_name": "NCh Zora 1894 (Shabla cultural center)",
           "url": "https://nch-zora1894shabla.com/novini/kulinarna-nadprevara-praznik-za-nay-vkusna-ribena-chorba-elate-na-vkusen-i-vesel-praznik-s-mnogo-muzika-tanci-i-nastroenie.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Свети Николай специален",
+          "description": "Специално събитие, посветено на Свети Никола, което ще се проведе в Констанца, Румъния, на 6 декември от 15:00 часа."
+        },
+        "en": {
+          "title": "Special St. Nicholas",
+          "description": "A special event dedicated to St. Nicholas that will take place at Tomis Nord in Constanta, Romania, on December 6 at 15:00."
+        },
+        "ro": {
+          "title": "Sfântul Nicolae deosebit",
+          "description": "Un eveniment special dedicat Sfântului Nicolae care va avea loc la Tomis Nord în Constanta, România, pe data de 6 decembrie la ora 15:00."
+        }
+      },
+      "id": 767,
+      "title": "Sfântul Nicolae deosebit",
+      "date": "2026-12-06",
+      "time": "15:00",
+      "location": "Tomis Nord, Constanta, Romania",
+      "category": "other",
+      "description": "Un eveniment special dedicat Sfântului Nicolae care va avea loc la Tomis Nord în Constanta, România, pe data de 6 decembrie la ora 15:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/sfantul-nicolae-deosebit/"
         }
       ]
     },
@@ -2942,12 +3152,17 @@
       "time": "19:00",
       "location": "Constanta, Romania",
       "category": "other",
-      "description": "Marea Reveneală de Crăciun este o evenimentă care va avea loc la Constanta, România, pe data de 12 decembrie la ora 19:00.",
+      "description": "Gratuită mini sesiune de make-up cu Lala Chirilă care va avea loc la Incinta Portul în Constanța, România, pe data de 13 decembrie la ora 15:00.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/marea-reveneala-de-craciun/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/gratuit-mini-sesiune-de-make-up-cu-lala-chirila/"
         }
       ]
     },
@@ -4668,6 +4883,21 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/14/arta-coboara-in-natura/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/19/andre-rieu-inca-doua-concerte-in-romania/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/19/everlast-revine-in-romania-doua-concerte/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/19/alone-at-parties-turneu-acustic/"
         }
       ]
     },
@@ -4738,6 +4968,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/maria-tanase-o-poveste-2/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/piticul-nas-lung-dupa-wilhelm-hauff-premiera-2/"
         }
       ]
     },
@@ -7449,36 +7684,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Нощта на духовете (1986, реж. Фред Декер)",
-          "description": "Прожекция на филма на ужасите от 1986 г. \"Нощта на злите духове\" на режисьора Фред Декер."
-        },
-        "en": {
-          "title": "NIGHT OF THE CREEPS (1986, d: Fred Dekker)",
-          "description": "Night of the Creeps is a 1986 American horror film directed by Fred Dekker."
-        },
-        "ro": {
-          "title": "VIDEODOME | NIGHT OF THE CREEPS (1986, r: Fred Dekker)",
-          "description": "A screening of the 1986 horror film 'Night of the Creeps' directed by Fred Dekker."
-        }
-      },
-      "id": 681,
-      "title": "VIDEODOME | NIGHT OF THE CREEPS (1986, r: Fred Dekker)",
-      "date": "",
-      "time": "",
-      "location": "VIDEODOME",
-      "category": "other",
-      "description": "A screening of the 1986 horror film 'Night of the Creeps' directed by Fred Dekker.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/10/night-of-the-creeps-1986-fred-dekker/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Отмениха балетното представление „Куклената фея“ в Тутракан",
           "description": "Балетното представление „Куклената фея“ е отменено в Тутракан."
         },
@@ -7863,6 +8068,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/18/club-kid-2026-film-jordan-firstman/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Цената на достойнството",
+          "description": "Пиесата \"PREȚUL DEMNITĂȚII\" по руския драматург Людмила Разумовска за младежи над 14 години, с продължителност около 80 минути."
+        },
+        "en": {
+          "title": "THE PRICE OF DIGNITY",
+          "description": "Play \"PREȚUL DEMNITĂȚII\" by Russian playwright Lyudmila Razumovskaya for young people over 14 years old, duration about 80 minutes."
+        },
+        "ro": {
+          "title": "PREȚUL DEMNITĂȚII",
+          "description": "Пьеса „PREȚUL DEMNITĂȚII” по русскому драматургу Людмиле Разумовской для молодежи старше 14 лет, длительностью около 80 минут."
+        }
+      },
+      "id": 770,
+      "title": "PREȚUL DEMNITĂȚII",
+      "date": "",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Пьеса „PREȚUL DEMNITĂȚII” по русскому драматургу Людмиле Разумовской для молодежи старше 14 лет, длительностью около 80 минут.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/pretul-demnitatii-dupa-ludmila-razumovskaia/"
         }
       ]
     },
