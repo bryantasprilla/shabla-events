@@ -1,296 +1,6 @@
 {
-  "generated_at": "2026-11-19T12:51:34.261256+00:00",
+  "generated_at": "2026-11-20T12:45:43.107714+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Награденият на филмовия фестивал „Астра 2026“ „Пионката на ЛЕНИНСКИ“ пристига в кината на 19 ноември",
-          "description": "Филмът \"Пионът на Ленин\", който спечели награда на филмовия фестивал \"Астра 2026\", ще бъде показан в кината от 19 ноември."
-        },
-        "en": {
-          "title": "\"Lenin's Pawn\", awarded at Astra Film Festival 2026, arrives in cinemas on November 19",
-          "description": "The film 'Pionul lui LENIN', which won an award at the Astra Film Festival 2026, will be screened in cinemas starting November 19."
-        },
-        "ro": {
-          "title": "„Pionul lui LENIN”, premiat la Astra Film Festival 2026, ajunge în cinematografe pe 19 noiembrie",
-          "description": "The film 'Pionul lui LENIN', which won an award at the Astra Film Festival 2026, will be screened in cinemas starting November 19."
-        }
-      },
-      "id": 705,
-      "title": "„Pionul lui LENIN”, premiat la Astra Film Festival 2026, ajunge în cinematografe pe 19 noiembrie",
-      "date": "2026-11-19",
-      "time": "",
-      "location": "cinematografe",
-      "category": "other",
-      "description": "The film 'Pionul lui LENIN', which won an award at the Astra Film Festival 2026, will be screened in cinemas starting November 19.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/12/pionul-lui-lenin-in-cinematografe/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/19/jurnalul-unei-cameriste-filmul-radu-jude/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Добрич отбелязва 146 години от рождението на Йовков с Ден на отворените врати и изложба",
-          "description": "Добрич отбелязва 146-ото юбилея на Йовков с Ден на отворените врати и изложба."
-        },
-        "en": {
-          "title": "Dobrich celebrates the 146th anniversary of the birth of Yovkov with an Open Day and an exhibition",
-          "description": "Dobrich celebrates the 146th anniversary of Yovkov with an Open Day and an exhibition."
-        },
-        "ro": {
-          "title": "Dobrici sărbătorește 146 de ani de la nașterea lui Iovkov cu Ziua porților deschise și o expoziție",
-          "description": "Dobrici a sărbătorit cea de-a 146-a aniversare a lui Iovkov cu o Zi a Ușilor Deschise și o expoziție."
-        }
-      },
-      "id": 761,
-      "title": "Добрич отбелязва 146 години от рождението на Йовков с Ден на отворените врати и изложба",
-      "date": "2026-11-19",
-      "time": "",
-      "location": "Добрич",
-      "category": "exhibition",
-      "description": "Добрич отбелязва 146-ото юбилея на Йовков с Ден на отворените врати и изложба.",
-      "sources": [
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/dobrich-otbelyazva-146-godini-ot-rozhdenieto-na-yovkov-s-den-na-otvorenite-vrati-i-izlozhba-p733101"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "„Гераците“ - театрална постановка",
-          "description": "Театрална постановка под названието „Гераците“ ще се представи на четвъртък, 19 ноември 2026 година."
-        },
-        "en": {
-          "title": "\"The Geracites\" - theatrical production",
-          "description": "A theatrical production under the title \"The Geraci\" will be presented on Thursday, November 19, 2026."
-        },
-        "ro": {
-          "title": "\"Geracii\" - o producție teatrală",
-          "description": "Joi, 19 noiembrie 2026, va fi prezentată o piesă de teatru intitulată \"Geracii\"."
-        }
-      },
-      "id": 762,
-      "title": "„Гераците“ - театрална постановка",
-      "date": "2026-11-19",
-      "time": "",
-      "location": "",
-      "category": "theater",
-      "description": "Театрална постановка под названието „Гераците“ ще се представи на четвъртък, 19 ноември 2026 година.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/geratsite-teatralna-postanovka19.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Испански камерен концерт",
-          "description": "Испански камерен концерт, проведен четвъртък, 19/11/2026г."
-        },
-        "en": {
-          "title": "Spanish Chamber Concert",
-          "description": "Spanish chamber concert, held on Thursday, 19/11/2026"
-        },
-        "ro": {
-          "title": "Concert de cameră spaniolă",
-          "description": "Concert de cameră spaniolă, desfășurat joi, 19/11/2026"
-        }
-      },
-      "id": 763,
-      "title": "Испански камерен концерт",
-      "date": "2026-11-19",
-      "time": "",
-      "location": "",
-      "category": "concert",
-      "description": "Испански камерен концерт, проведен четвъртък, 19/11/2026г.",
-      "sources": [
-        {
-          "source_id": "visit_varna_calendar",
-          "source_name": "Visit Varna — Event Calendar",
-          "url": "https://visit.varna.bg/bg/event/ispanski-kameren-kontsert-kontsert.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Севда Потурлян представя изложбата „Скътани спомени“ във Варна",
-          "description": "Изложбата „Скътани спомени“ на художничката Севда Потурлян ще бъде открита на 19 ноември в Арт галерия Le Papillon във Варна и ще продължи до 10 декември 2026 г."
-        },
-        "en": {
-          "title": "Sevda Poturlian presents the exhibition \"Scattered Memories\" in Varna",
-          "description": "The exhibition \"Scattered Memories\" by the artist Sevda Poturlian will be opened on November 19 at the Art Gallery Le Papillon in Varna and will continue until December 10, 2026."
-        },
-        "ro": {
-          "title": "Sevda Poturlian prezintă expoziția \"Amintiri rătăcite\" la Varna",
-          "description": "Expoziția \"Amintiri rătăcite\" a artistei Sevda Poturlian va fi inaugurată în 19 noiembrie la Galeria de Artă Le Papillon din Varna și va fi deschisă până în 10 decembrie 2026."
-        }
-      },
-      "id": 765,
-      "title": "Севда Потурлян представя изложбата „Скътани спомени“ във Варна",
-      "date": "2026-11-19",
-      "time": "",
-      "location": "Арт галерия Le Papillon",
-      "category": "exhibition",
-      "description": "Изложбата „Скътани спомени“ на художничката Севда Потурлян ще бъде открита на 19 ноември в Арт галерия Le Papillon във Варна и ще продължи до 10 декември 2026 г.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=538644"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Курс по инструментален масаж – КОНСТАНТА",
-          "description": "Квалификационен курс за инструментален масаж, предлаган от Лучия Стил в Констанца."
-        },
-        "en": {
-          "title": "INSTRUMENTAL MASSAGE COURSE – CONSTANTA",
-          "description": "Qualification course for instrumental massage offered by Lucia Style in Constanta."
-        },
-        "ro": {
-          "title": "CURS MASAJ INSTRUMENTAL – CONSTANTA",
-          "description": "Curs de calificare pentru masaj instrumental oferit de Lucia Style în Constanța."
-        }
-      },
-      "id": 633,
-      "title": "CURS MASAJ INSTRUMENTAL – CONSTANTA",
-      "date": "2026-11-19",
-      "time": "15:00",
-      "location": "Constanța",
-      "category": "other",
-      "description": "Universitatea Ovidius din Constanța organizează Festivalul Științescu Constanța 3.0, care va include proiecte interactive care se concentrează pe știința și tehnologia.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/curs-masaj-instrumental-constanta/"
-        },
-        {
-          "source_id": "ziua_constanta",
-          "source_name": "Ziua de Constanta",
-          "url": "https://www.ziuaconstanta.ro/stiri/eveniment/dobrogea-traditie-si-onoare-constanta-sarbatoreste-148-de-ani-de-la-sosirea-armatei-romane-in-oras-parada-militara-concert-si-demonstratii-961065.html"
-        },
-        {
-          "source_id": "ziua_constanta",
-          "source_name": "Ziua de Constanta",
-          "url": "https://www.ziuaconstanta.ro/stiri/invatamant/universitatea-ovidius-din-constanta-gazduieste-festivalul-stiintescu-constanta-3-0-cu-proiecte-interactive-dedicate-stiintei-si-tehnologiei-961090.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Пандора тур представен от Влад Корб",
-          "description": "Турнето на Пандора, с участието на Влад Корб, е насрочено да се състои в клуб Doors в Констанца, с шоуто да започне в 20:00 часа на четвъртък, 19 ноември 2026."
-        },
-        "en": {
-          "title": "Pandora Tour presented by Vlad Corb",
-          "description": "Pandora Tour, featuring Vlad Corb, is scheduled to perform at Doors Club in Constanța, with the show starting at 20:00 on Thursday, November 19, 2026."
-        },
-        "ro": {
-          "title": "Pandora Tour presented by Vlad Corb",
-          "description": "Pandora Tour, featuring Vlad Corb, is scheduled to perform at Doors Club in Constanța, with the show starting at 20:00 on Thursday, November 19, 2026."
-        }
-      },
-      "id": 768,
-      "title": "Pandora Tour presented by Vlad Corb",
-      "date": "2026-11-19",
-      "time": "20:00",
-      "location": "Doors Club Constanța",
-      "category": "adult_18+",
-      "description": "Pandora Tour, featuring Vlad Corb, is scheduled to perform at Doors Club in Constanța, with the show starting at 20:00 on Thursday, November 19, 2026.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/pandora-tour-presented-by-vlad-corb/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Нощта на духовете (1986, реж. Фред Декер)",
-          "description": "Прожекция на филма на ужасите от 1986 г. \"Нощта на злите духове\" на режисьора Фред Декер."
-        },
-        "en": {
-          "title": "NIGHT OF THE CREEPS (1986, d: Fred Dekker)",
-          "description": "Night of the Creeps is a 1986 American horror film directed by Fred Dekker."
-        },
-        "ro": {
-          "title": "VIDEODOME | NIGHT OF THE CREEPS (1986, r: Fred Dekker)",
-          "description": "A screening of the 1986 horror film 'Night of the Creeps' directed by Fred Dekker."
-        }
-      },
-      "id": 681,
-      "title": "VIDEODOME | NIGHT OF THE CREEPS (1986, r: Fred Dekker)",
-      "date": "2026-11-19",
-      "time": "22:00",
-      "location": "VIDEODOME",
-      "category": "other",
-      "description": "A screening of the 1986 horror film 'Night of the Creeps' directed by Fred Dekker.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/2026/11/10/night-of-the-creeps-1986-fred-dekker/"
-        },
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/fresher-night-9-0/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Влад Корб • Излизане на албум •",
-          "description": "Влад Корб представя нов албум в Пандора, в клуба в Констанца, с достъп от 21:00 и шоу от 23:00."
-        },
-        "en": {
-          "title": "Vlad Corb • Album release •",
-          "description": "Vlad Corb launches a new album in Pandora, in the Doors club in Constanta, with access from 21:00 and show from 23:00."
-        },
-        "ro": {
-          "title": "Vlad Corb • Lansare de album •",
-          "description": "Vlad Corb lansează un nou album în Pandora, în clubul Doors din Constanta, cu acces de la 21:00 și show de la 23:00."
-        }
-      },
-      "id": 771,
-      "title": "Vlad Corb • Lansare de album •",
-      "date": "2026-11-19",
-      "time": "23:00",
-      "location": "Doors Club, Constanta",
-      "category": "adult_18+",
-      "description": "Vlad Corb lansează un nou album în Pandora, în clubul Doors din Constanta, cu acces de la 21:00 și show de la 23:00.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/vlad-corb-lansare-de-album-3/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -312,12 +22,17 @@
       "time": "",
       "location": "Държавна опера Варна",
       "category": "festival",
-      "description": "Държавна опера Варна ще организира 27-ото издание на Коледния музикален фестивал от 20 ноември до края на декември, включващ класически оперни заглавия, балетни спектакли и симфонични концерти.",
+      "description": "Варна ще организира мултимедийен концерт „Морски звуци и приятели“ за да отбелязва 100 години от създаването на Музикално дружество „Морски звуци“ и 70 години от основаването на хора „Морски звуци“. ",
       "sources": [
         {
           "source_id": "moreto_varna",
           "source_name": "Moreto.net (Varna events)",
           "url": "https://www.moreto.net/events.php?n=538007"
+        },
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=538809"
         }
       ]
     },
@@ -378,6 +93,71 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/ironarm-iii/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Националният конкурс „Никулден у дома“ в Тутракан",
+          "description": "Приема се творби за национален конкурс „Никулден у дома“ до 7 декември."
+        },
+        "en": {
+          "title": "The National Competition \"Nikolden at Home\" in Tutrakan",
+          "description": "Works are accepted for the national competition \"Nicol's Day at Home\" until December 7."
+        },
+        "ro": {
+          "title": "Concursul Național \"Nicolae Acasă\" la Tutrakan",
+          "description": "Lucrările pentru concursul național \"Ziua Sfântului Nicolae acasă\" sunt acceptate până în 7 decembrie."
+        }
+      },
+      "id": 755,
+      "title": "Националният конкурс „Никулден у дома“ в Тутракан",
+      "date": "2026-11-20",
+      "time": "",
+      "location": "Тутракан",
+      "category": "other",
+      "description": "Община Добричка обявява конкурс за изработване на коледни картички и украси.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/18/natsionalniyat-konkurs-nikulden-u-doma-v-tutrakan-priema-tvorbi-do-7-dekemvri"
+        },
+        {
+          "source_id": "dobrudjabg",
+          "source_name": "Dobrudzha news agency",
+          "url": "https://dobrudjabg.com/novina/obshtina-dobrichka-obqvqva-konkurs-za-izrabotvane-na-koledni-kartichki-i-ukrasi/117968"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "„Пратката“ - комедиен спектакъл",
+          "description": "Представяне на комедийен спектакъл „Пратката"
+        },
+        "en": {
+          "title": "\"The Packet\" - comedy show",
+          "description": "Presentation of a comedy show \"The Shipment"
+        },
+        "ro": {
+          "title": "\"Pachetul\" - un spectacol de comedie",
+          "description": "Prezentarea spectacolului de comedie \"Expediția"
+        }
+      },
+      "id": 775,
+      "title": "„Пратката“ - комедиен спектакъл",
+      "date": "2026-11-20",
+      "time": "",
+      "location": "",
+      "category": "theater",
+      "description": "Представяне на комедийен спектакъл „Пратката",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/pratkata-komedien-spektakal.html"
         }
       ]
     },
@@ -769,6 +549,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Детска работилница \"Наздраве\"",
+          "description": "Работилница за деца на 21 ноември 2026 г. в Б-дъл Томис, 126, Констанца."
+        },
+        "en": {
+          "title": "Hats nazdravane- Workshop for children",
+          "description": "Workshop for children on November 21, 2026 in B-dul Tomis, 126, Constanta."
+        },
+        "ro": {
+          "title": "Palarii nazdravane- Atelier pentru copii",
+          "description": "Atelier pentru copii pe data de 21 noiembrie 2026 în B-dul Tomis, 126, Constanta."
+        }
+      },
+      "id": 777,
+      "title": "Palarii nazdravane- Atelier pentru copii",
+      "date": "2026-11-21",
+      "time": "10:00",
+      "location": "B-dul Tomis, 126, Constanta",
+      "category": "other",
+      "description": "Atelier pentru copii pe data de 21 noiembrie 2026 în B-dul Tomis, 126, Constanta.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/palarii-nazdravane-atelier-pentru-copii/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Да поговорим за #СЪДЪРЖАНИЕ: Уъркшоп за бранд идентичност и създаване на ролка",
           "description": "Уъркшоп по бранд идентичност и създаване на ролка, който ще се проведе в Кафе Бонжур на 21 ноември 2026 г., от 11:00 часа."
         },
@@ -1149,6 +959,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Група Дискотека @doors",
+          "description": "На 21 ноември 2026 г. от 9:00 ч. в клуб „Дорс“ ще изнесе представление група „Дискотека“."
+        },
+        "en": {
+          "title": "Band Disco @doors",
+          "description": "Trupa Discoteka performs at the Doors Club on November 21, 2026, starting at 9:00 PM."
+        },
+        "ro": {
+          "title": "Trupa Discoteka @doors",
+          "description": "Trupa Discoteka performs at the Doors Club on November 21, 2026, starting at 9:00 PM."
+        }
+      },
+      "id": 778,
+      "title": "Trupa Discoteka @doors",
+      "date": "2026-11-21",
+      "time": "21:00",
+      "location": "Doors Club",
+      "category": "adult_18+",
+      "description": "Trupa Discoteka performs at the Doors Club on November 21, 2026, starting at 9:00 PM.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/trupa-discoteka-doors/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "КРИВОРАЗБРАНАТА ЦИВИЛИЗАЦИЯ",
           "description": "Евентът се проведе на неделя, 22/11/2026 г., но детайли за местоположение и описанието на евента не са предоставени."
         },
@@ -1227,12 +1067,17 @@
       "time": "10:30",
       "location": "Aristide Karatzali, nr 16, 900746 Constanta, Romania",
       "category": "other",
-      "description": "Premiera piesei teatrală 'Piticul nas-lung, după Wilhelm Hauff' la Aristide Karatzali în Constanta.",
+      "description": "Premiera teatrală a piesei „Piticul nas-lung, după Wilhelm Hauff” va avea loc la data specificată în locația indicată.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/piticul-nas-lung-dupa-wilhelm-hauff-premiera/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/piticul-nas-lung-dupa-wilhelm-hauff-premiera-2/"
         }
       ]
     },
@@ -1894,6 +1739,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Скулптури на Иван Кулински и класическа живопис се срещат в Галерия 33 във Варна",
+          "description": "Изложба, съчетаваща скулптури на Иван Кулински и произведения на едни от най-известните представители на класическата българска живопис, ще бъде открита на 27 ноември в Галерия 33 във Варна."
+        },
+        "en": {
+          "title": "Ivan Kulinski’s sculptures and classical painting meet in Gallery 33 in Varna",
+          "description": "An exhibition combining sculptures by Ivan Kulinski and works by some of the most famous representatives of classical Bulgarian painting will be opened on November 27 at Gallery 33 in Varna."
+        },
+        "ro": {
+          "title": "Sculpturile lui Ivan Kulinski și pictura clasică se întâlnesc în Galeria 33 din Varna",
+          "description": "O expoziție care combină sculpturile lui Ivan Kulinski și lucrările unora dintre cei mai renumiți reprezentanți ai picturii clasice bulgare va fi inaugurată în 27 noiembrie la Galeria 33 din Varna."
+        }
+      },
+      "id": 776,
+      "title": "Скулптури на Иван Кулински и класическа живопис се срещат в Галерия 33 във Варна",
+      "date": "2026-11-27",
+      "time": "",
+      "location": "Галерия 33 във Варна",
+      "category": "exhibition",
+      "description": "Изложба, съчетаваща скулптури на Иван Кулински и произведения на едни от най-известните представители на класическата българска живопис, ще бъде открита на 27 ноември в Галерия 33 във Варна.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=538798"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Детски куклен спектакъл „Дракончето Драчко“",
           "description": "Постановка на Драматично-куклен театър от Силистра, която ще се представи в Народното читалище Зора 1894 в Шабла на 27 ноември 2026 г. в 18:00."
         },
@@ -1983,6 +1858,41 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/lansare-de-carte/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/lansare-de-carte-5/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Румънски симфоничен концерт",
+          "description": "Румънски симфоничен концерт, който ще се проведе в Националния колеж по изкуства \"Кралица Мария\" в Констанца на 28 ноември от 18:30 часа."
+        },
+        "en": {
+          "title": "Romanian symphonic concert",
+          "description": "A Romanian symphonic concert that will take place at the National College of Arts \"Regina Maria\" Constanta on November 28 at 18:30."
+        },
+        "ro": {
+          "title": "Concert simfonic românesc",
+          "description": "Un concert simfonic românesc care va avea loc la Colegiul Național de Arte \"Regina Maria\" Constanța la data de 28 noiembrie la ora 18:30."
+        }
+      },
+      "id": 779,
+      "title": "Concert simfonic românesc",
+      "date": "2026-11-28",
+      "time": "18:30",
+      "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
+      "category": "concert",
+      "description": "Un concert simfonic românesc care va avea loc la Colegiul Național de Arte \"Regina Maria\" Constanța la data de 28 noiembrie la ora 18:30.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/concert-simfonic-romanesc/"
         }
       ]
     },
@@ -2604,6 +2514,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Математическият турнир „Иван Салабашев“ събира ученици в ПМГ в Добрич",
+          "description": "Математическият турнир „Иван Салабашев“ ще се проведе на 5 декември в ПМГ в Добрич, събираученици от различни училища."
+        },
+        "en": {
+          "title": "The mathematical tournament \"Ivan Salabashev\" gathers students at the Primary School in Dobrich",
+          "description": "The mathematical tournament \"Ivan Salabashev\" will be held on December 5 in PMG in Dobrich, gathering pupils from different schools."
+        },
+        "ro": {
+          "title": "Turneul de matematică \"Ivan Salabashev\" reunește elevii de la PMG din Dobrici",
+          "description": "Turneul de matematică \"Ivan Salabashev\" va avea loc pe 5 decembrie la PMG din Dobrich, adunândelevi din diferite școli."
+        }
+      },
+      "id": 773,
+      "title": "Математическият турнир „Иван Салабашев“ събира ученици в ПМГ в Добрич",
+      "date": "2026-12-05",
+      "time": "",
+      "location": "ПМГ в Добрич",
+      "category": "other",
+      "description": "Математическият турнир „Иван Салабашев“ ще се проведе на 5 декември в ПМГ в Добрич, събираученици от различни училища.",
+      "sources": [
+        {
+          "source_id": "pronewsdobrich",
+          "source_name": "ProNews Dobrich",
+          "url": "https://pronewsdobrich.bg/matematicheskiyat-turnir-„ivan-salabashev“-sabira-uchenitsi-v-pmg-v-dobrich-na-5-dekemvri-p733146"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Празник на рибената чорба, 2026",
           "description": "Празник посветен на рибената чорба се провежда на градския площад в Шабла на 5 декември 2026 г., започвайки си в 11:30."
         },
@@ -3163,6 +3103,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/gratuit-mini-sesiune-de-make-up-cu-lala-chirila/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/gratuit-mini-sesiune-de-make-up-cu-lala-chirila-2/"
         }
       ]
     },
@@ -3285,7 +3230,7 @@
       "title": "ТРАДИЦИЯ С БЪДЕЩЕ",
       "date": "2026-12-14",
       "time": "",
-      "location": "",
+      "location": "Силистра",
       "category": "other",
       "description": "Традиция с бъдеще е планирана за понеделник, 14 декември 2026 година.",
       "sources": [
@@ -3293,6 +3238,11 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/tradicii/p1362.html"
+        },
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/20/uchenicheskite-igri-v-silistra-zapochnaha-s-futbolen-turnir"
         }
       ]
     },
@@ -3463,6 +3413,11 @@
           "source_id": "silistra_news",
           "source_name": "Silistra News",
           "url": "https://silistranews.net/2026/11/17/konkursi-za-survachka-i-praznichna-snimka-obyavi-obshtina-silistra"
+        },
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/znatsi-po-vodata-izlozhba-ebru-suminagashi.html"
         }
       ]
     },
@@ -3623,6 +3578,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/spargatorul-de-nuci-constanta-3/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/gratuit-mini-sesiune-de-make-up-cu-lala-chirila/"
         }
       ]
     },
@@ -8014,36 +7974,6 @@
     {
       "translations": {
         "bg": {
-          "title": "Националният конкурс „Никулден у дома“ в Тутракан",
-          "description": "Приема се творби за национален конкурс „Никулден у дома“ до 7 декември."
-        },
-        "en": {
-          "title": "The National Competition \"Nikolden at Home\" in Tutrakan",
-          "description": "Works are accepted for the national competition \"Nicol's Day at Home\" until December 7."
-        },
-        "ro": {
-          "title": "Concursul Național \"Nicolae Acasă\" la Tutrakan",
-          "description": "Lucrările pentru concursul național \"Ziua Sfântului Nicolae acasă\" sunt acceptate până în 7 decembrie."
-        }
-      },
-      "id": 755,
-      "title": "Националният конкурс „Никулден у дома“ в Тутракан",
-      "date": "",
-      "time": "",
-      "location": "Тутракан",
-      "category": "other",
-      "description": "Приема се творби за национален конкурс „Никулден у дома“ до 7 декември.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/11/18/natsionalniyat-konkurs-nikulden-u-doma-v-tutrakan-priema-tvorbi-do-7-dekemvri"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "КЛУБ КИД 2026 | Приключенията на млад родител в Бруклин",
           "description": "Филм за приключенията на нов родител в Бруклин, който ще бъде представен в детския клуб."
         },
@@ -8098,6 +8028,36 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/pretul-demnitatii-dupa-ludmila-razumovskaia/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "27-ми Коледен музикален фестивал",
+          "description": "Държавната опера Варна ще се занимава със 27-ми Коледен музикален фестивал от 20 ноември до 30 декември 2026 г."
+        },
+        "en": {
+          "title": "27th Christmas Music Festival",
+          "description": "The Varna State Opera will host the 27th Christmas Music Festival from November 20 to December 30, 2026."
+        },
+        "ro": {
+          "title": "Al 27-lea Festival de Muzică de Crăciun",
+          "description": "Opera de Stat din Varna va găzdui cel de-al 27-lea Festival de Muzică de Crăciun în perioada 20 noiembrie - 30 decembrie 2026."
+        }
+      },
+      "id": 774,
+      "title": "27-ми Коледен музикален фестивал",
+      "date": "",
+      "time": "",
+      "location": "Държавна опера Варна",
+      "category": "festival",
+      "description": "Държавната опера Варна ще се занимава със 27-ми Коледен музикален фестивал от 20 ноември до 30 декември 2026 г.",
+      "sources": [
+        {
+          "source_id": "visit_varna_calendar",
+          "source_name": "Visit Varna — Event Calendar",
+          "url": "https://visit.varna.bg/bg/event/programa-darzhavna-opera-varna-m-dekemvri-2026-g.html"
         }
       ]
     },
