@@ -1,96 +1,6 @@
 {
-  "generated_at": "2026-11-23T14:24:21.090551+00:00",
+  "generated_at": "2026-11-24T14:57:33.692698+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "ЦСКА София – Рапид Букурещ",
-          "description": "Футболен мач между ЦСУ Нептун и Рапид Букурещ, игран в Спортната зала в Констанца."
-        },
-        "en": {
-          "title": "CSU Neptun – Rapid București DivA",
-          "description": "A football match between CSU Neptun and Rapid Bucharest, played in the Sports Hall of Constanta."
-        },
-        "ro": {
-          "title": "CSU Neptun – Rapid București DivA",
-          "description": "Un meci de fotbal între CSU Neptun și Rapid București, jucat în Sala Sporturilor din Constanța."
-        }
-      },
-      "id": 800,
-      "title": "CSU Neptun – Rapid București DivA",
-      "date": "2026-11-23",
-      "time": "14:00",
-      "location": "Sala Sporturilor Constanta",
-      "category": "sports",
-      "description": "Un meci de fotbal între CSU Neptun și Rapid București, jucat în Sala Sporturilor din Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/csu-neptun-rapid-bucuresti-diva/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Животът бие полетата!",
-          "description": "ДИВЕРТИС – Животът бие полето! е събитие, което ще се проведе в Многофункционален образователен център за младежта \"Жан Константин\" на 23 ноември 2026 г., от 19:00 часа."
-        },
-        "en": {
-          "title": "DIVERTIS – Life beats fields!",
-          "description": "DIVERTIS – Viata bate campii! is an event taking place at the Centrul Multifuncțional Educativ pentru Tineret \"Jean Constantin\" on November 23, 2026, starting at 19:00."
-        },
-        "ro": {
-          "title": "DIVERTIS – Viata bate campii!",
-          "description": "DIVERTIS – Viata bate campii! is an event taking place at the Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” on November 23, 2026, starting at 19:00."
-        }
-      },
-      "id": 226,
-      "title": "DIVERTIS – Viata bate campii!",
-      "date": "2026-11-23",
-      "time": "19:00",
-      "location": "Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin”",
-      "category": "other",
-      "description": "DIVERTIS – Viata bate campii! is an event taking place at the Centrul Multifuncțional Educativ pentru Tineret “Jean Constantin” on November 23, 2026, starting at 19:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/divertis-viata-bate-campii-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Всичко включено в цената",
-          "description": "Събитие, което ще се проведе в Дом на културата на синдикатите в Констанца на 23 ноември, 2026, започващо от 19:00."
-        },
-        "en": {
-          "title": "ALL INCLUSIVE // CASA SINDICATELOR CONSTANTA",
-          "description": "An event taking place at Casa de Cultura a Sindicatelor in Constanta on November 23, 2026, starting at 19:00."
-        },
-        "ro": {
-          "title": "ALL INCLUSIVE //  CASA SINDICATELOR CONSTANTA",
-          "description": "An event taking place at Casa de Cultura a Sindicatelor in Constanta on November 23, 2026, starting at 19:00."
-        }
-      },
-      "id": 725,
-      "title": "ALL INCLUSIVE //  CASA SINDICATELOR CONSTANTA",
-      "date": "2026-11-23",
-      "time": "19:00",
-      "location": "Casa de Cultura a Sindicatelor Constanta",
-      "category": "other",
-      "description": "An event taking place at Casa de Cultura a Sindicatelor in Constanta on November 23, 2026, starting at 19:00.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/all-inclusive-casa-sindicatelor-constanta-23-noiembrie/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -128,6 +38,71 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/za-snahite-i-svekarvite-1/p1359.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "СУ „Йордан Йовков“ в Тутракан отбеляза патронния си празник с концерт",
+          "description": "СУ „Йордан Йовков“ организира концерт в Тутракан за отбелязване на патронния им празник."
+        },
+        "en": {
+          "title": "\"Jordan Yovkov\" Secondary School in Tutrakan celebrated its patron holiday with a concert",
+          "description": "Secondary School \"Jordan Yovkov\" organized a concert in Tutrakan to mark their patron holiday."
+        },
+        "ro": {
+          "title": "Școala Gimnazială \"Jordan Yovkov\" din Tutrakan și-a sărbătorit ziua patronală cu un concert",
+          "description": "Școala Gimnazială \"Jordan Yovkov\" a organizat un concert în Tutrakan pentru a sărbători sărbătoarea patronului său."
+        }
+      },
+      "id": 799,
+      "title": "СУ „Йордан Йовков“ в Тутракан отбеляза патронния си празник с концерт",
+      "date": "2026-11-24",
+      "time": "",
+      "location": "Тутракан",
+      "category": "concert",
+      "description": "СУ „Йордан Йовков“ организира концерт в Тутракан за отбелязване на патронния им празник.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/22/su-jordan-jovkov-v-tutrakan-otbelyaza-patronniya-si-praznik-s-kontsert"
+        },
+        {
+          "source_id": "portal_silistra",
+          "source_name": "Portal Silistra",
+          "url": "https://www.portal-silistra.eu/news/20544"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Световната купа по Желязна ръка и Елитната купа по бойни изкуства",
+          "description": "Две изключителни събития в света на бойните изкуства, Световната купа на Желязната ръка и Купата на елитното бойно първенство, са подкрепени от ЦСМ Констанца."
+        },
+        "en": {
+          "title": "Iron Arm World Cup and Elite Fighting Championship Cup",
+          "description": "Two exceptional events in the world of combat, the Iron Arm World Cup and the Elite Fighting Championship Cup, are supported by CSM Constanta."
+        },
+        "ro": {
+          "title": "Iron Arm World Cup și Cupa Elite Fighting Championship",
+          "description": "Două evenimente de excepție din lumea combatului, Iron Arm World Cup și Cupa Elite Fighting Championship, sunt susținute de CSM Constanța."
+        }
+      },
+      "id": 835,
+      "title": "Iron Arm World Cup și Cupa Elite Fighting Championship",
+      "date": "2026-11-24",
+      "time": "",
+      "location": "CSM Constanța",
+      "category": "sports",
+      "description": "Două evenimente de excepție din lumea combatului, Iron Arm World Cup și Cupa Elite Fighting Championship, sunt susținute de CSM Constanța.",
+      "sources": [
+        {
+          "source_id": "ziua_constanta",
+          "source_name": "Ziua de Constanta",
+          "url": "https://www.ziuaconstanta.ro/stiri/sport/iron-arm-world-cup-si-cupa-elite-fighting-championship-doua-evenimente-de-exceptie-sustinute-de-csm-constanta-p-961673.html"
         }
       ]
     },
@@ -1214,6 +1189,96 @@
     {
       "translations": {
         "bg": {
+          "title": "Благотворителен концерт „Коледа за Божидар – Да бъдем заедно!“ на 1 декември в ДКС",
+          "description": "Благотворителен концерт „Коледа за Божидар – Да бъдем заедно!“ ще се проведе на 1 декември в ДКС в Варна."
+        },
+        "en": {
+          "title": "Charity concert \"Christmas for Bozhidar – Let's be together!\" on December 1 in DKS",
+          "description": "A charity concert \"Christmas for Bozhidar – Let's be together!\" will be held on December 1st at the DKS in Varna."
+        },
+        "ro": {
+          "title": "Concert de caritate \"Crăciunul pentru Bozidar – Să fim împreună!\" pe 1 decembrie în DKS",
+          "description": "Concertul caritabil \"Crăciunul pentru Bozhidar – Să fim împreună!\" va avea loc pe 1 decembrie la DKS din Varna."
+        }
+      },
+      "id": 832,
+      "title": "Благотворителен концерт „Коледа за Божидар – Да бъдем заедно!“ на 1 декември в ДКС",
+      "date": "2026-12-01",
+      "time": "",
+      "location": "ДКС",
+      "category": "concert",
+      "description": "Благотворителен концерт „Коледа за Божидар – Да бъдем заедно!“ ще се проведе на 1 декември в ДКС в Варна.",
+      "sources": [
+        {
+          "source_id": "budna_varna",
+          "source_name": "Budna Varna",
+          "url": "https://www.budnavarna.com/2026/11/23/varna-se-obedinyava-za-bozhidar-blagotvoritelen-konczert-koleda-za-bozhidar-da-badem-zaedno-na-1-dekemvri-v-dks/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Благотворителен концерт и коледен базар във Варна в подкрепа на 4-годишния Божидар",
+          "description": "Благотворителен концерт с надслов „Коледа за Божидар – да бъдем заедно!“ ще се проведе на 1 декември в залата „Конгресна“ на Двореца на културата и спорта във Варна за да събере средства."
+        },
+        "en": {
+          "title": "Charity concert and Christmas Bazaar in Varna in support of 4-year-old Bozhidar",
+          "description": "A charity concert entitled \"Christmas for Bozhidar - let's be together!\" will be held on December 1st in the \"Congress Hall\" of the Palace of Culture and Sports in Varna to raise funds."
+        },
+        "ro": {
+          "title": "Concert de caritate și târg de Crăciun în Varna în sprijinul lui Božidar, în vârstă de 4 ani",
+          "description": "Un concert caritabil intitulat \"Crăciunul pentru Bozhidar – să fim împreună!\" va avea loc pe 1 decembrie în sala \"Kongressna\" a Palatului Culturii și Sportului din Varna pentru a strânge fonduri."
+        }
+      },
+      "id": 833,
+      "title": "Благотворителен концерт и коледен базар във Варна в подкрепа на 4-годишния Божидар",
+      "date": "2026-12-01",
+      "time": "",
+      "location": "залата „Конгресна“ на Двореца на културата и спорта във Варна",
+      "category": "concert",
+      "description": "Благотворителен концерт с надслов „Коледа за Божидар – да бъдем заедно!“ ще се проведе на 1 декември в залата „Конгресна“ на Двореца на културата и спорта във Варна за да събере средства.",
+      "sources": [
+        {
+          "source_id": "moreto_varna",
+          "source_name": "Moreto.net (Varna events)",
+          "url": "https://www.moreto.net/events.php?n=539042"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Моноспектакълът „Кървави петна“ гостува в Тутракан на 1 декември",
+          "description": "Моноспектакълът „Кървави петна“ ще се проведе в Тутракан на 1 декември."
+        },
+        "en": {
+          "title": "\"Blood Stains\" mono-performance in Tutrakan on December 1",
+          "description": "The mono-performance \"Blood Stains\" will take place in Tutrakan on December 1st."
+        },
+        "ro": {
+          "title": "Spectacolul \"Petele de Sânge\" vizitează Tutrakan în 1 decembrie",
+          "description": "Spectacolul \"Petele de Sânge\" va avea loc la Tutrakan în 1 decembrie."
+        }
+      },
+      "id": 834,
+      "title": "Моноспектакълът „Кървави петна“ гостува в Тутракан на 1 декември",
+      "date": "2026-12-01",
+      "time": "",
+      "location": "Тутракан",
+      "category": "other",
+      "description": "Моноспектакълът „Кървави петна“ ще се проведе в Тутракан на 1 декември.",
+      "sources": [
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/24/monospektakalat-karvavi-petna-gostuva-v-tutrakan-na-1-dekemvri"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Национален празник на Румъния",
           "description": "Рецитал по случай националния празник на Румъния в Националния художествен колеж \"Регина Мария\" в Констанца."
         },
@@ -1362,7 +1427,7 @@
       "time": "",
       "location": "Силистра",
       "category": "other",
-      "description": "Абонемент за представление \"ТРИ ДЕЦА ОТ ЕДНА ЖЕНА\" на четвъртък, 03 декември 2026 година.",
+      "description": "Един ден от календара на Варна за култура, без допълнителна информация за местоположение или съдържание на събитието.",
       "sources": [
         {
           "source_id": "varna_culture",
@@ -1373,6 +1438,11 @@
           "source_id": "silistra_news",
           "source_name": "Silistra News",
           "url": "https://silistranews.net/2026/11/08/bk-dorostol-igrae-dva-macha-ot-turnira-u14-v-silistra-v-nedelya"
+        },
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/svetat-ima-nuzhda-ot-poveche-svetlina/p1369.html"
         }
       ]
     },
@@ -1824,6 +1894,36 @@
     {
       "translations": {
         "bg": {
+          "title": "ЧешкиName",
+          "description": "Бохемия е събитие, което ще се проведе в Национален колеж по изкуствата \"Кралица Мария\" Констанца на 5 декември 2026 г., от 18:30 часа."
+        },
+        "en": {
+          "title": "Bohemian",
+          "description": "Boema is an event that will take place at Colegiul Național de Arte \"Regina Maria\" Constanța on December 5, 2026, at 18:30."
+        },
+        "ro": {
+          "title": "Boema",
+          "description": "Boema este o eveniment care va avea loc la Colegiul Național de Arte \"Regina Maria\" Constanța pe data de 5 decembrie 2026, la ora 18:30."
+        }
+      },
+      "id": 836,
+      "title": "Boema",
+      "date": "2026-12-05",
+      "time": "18:30",
+      "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
+      "category": "other",
+      "description": "Boema este o eveniment care va avea loc la Colegiul Național de Arte \"Regina Maria\" Constanța pe data de 5 decembrie 2026, la ora 18:30.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/boema/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Отмъстителите: Завръщането на Края (2017)",
           "description": "Повторно представяне на филма \"Отмъстителите: Краят на играта\" с тема \"Завръщане в бъдещето\"."
         },
@@ -1893,6 +1993,41 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/autumn-decay-eufobia-vathos-see-in-ruta-23/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Орландо.",
+          "description": "Сутринта на събитието ОРЛАНДО, което ще се проведе в зала Студио на ТСК на 6 декември от 12:00 часа."
+        },
+        "en": {
+          "title": "ORLANDO",
+          "description": "Morning from the ORLANDO event, which will take place at the TSC BCR Studio Hall on December 6 at 12:00."
+        },
+        "ro": {
+          "title": "ORLANDO",
+          "description": "Matineu de la evenimentul ORLANDO, care va avea loc la Sala Studio BCR a TSC pe 6 decembrie la ora 12:00."
+        }
+      },
+      "id": 837,
+      "title": "ORLANDO",
+      "date": "2026-12-05",
+      "time": "19:00",
+      "location": "Sala Studio BCR a TSC",
+      "category": "other",
+      "description": "Matineu de la evenimentul ORLANDO, care va avea loc la Sala Studio BCR a TSC pe 6 decembrie la ora 12:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/orlando-3/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/orlando-matineu/"
         }
       ]
     },
@@ -2298,6 +2433,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/constanta-stand-up-comedy-cu-mirica-loana-luiza-virgil-ciulin-si-mitran-mai-glumim-si-noi/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/constanta-stand-up-comedy-cu-adelina-madalina-florentin-si-gabi-intre-doi-fie-vorba/"
         }
       ]
     },
@@ -2428,6 +2568,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/tulcea-stand-up-comedy-cu-mirica-loana-luiza-virgil-ciulin-si-mitran-mai-glumim-si-noi/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Концерт-спектакъл \"Танцът\" - 20 години танцово изкуство в СУ за ХНИ \"К.Преславски\"",
+          "description": "Концерт-спектакъл, посветен на 20 години танцово изкуство в СУ за ХНИ \"К.Преславски\"."
+        },
+        "en": {
+          "title": "Concert-performance \"The Dance\" - 20 years of dance art in the \"K.Preslavski\" University of Arts",
+          "description": "A concert-performance dedicated to 20 years of dance art at the \"K. Preslavsky\" University of Performing Arts."
+        },
+        "ro": {
+          "title": "Concert-spectacol \"Dansul\" - 20 de ani de artă a dansului în Școala Superioară de Artă \"K. Preslavski\"",
+          "description": "Concert-spectacol dedicat celor 20 de ani de artă a dansului la Școala Superioară de Artă \"K. Preslavski\"."
+        }
+      },
+      "id": 830,
+      "title": "Концерт-спектакъл \"Танцът\" - 20 години танцово изкуство в СУ за ХНИ \"К.Преславски\"",
+      "date": "2026-12-12",
+      "time": "",
+      "location": "СУ за ХНИ \"К.Преславски\"",
+      "category": "other",
+      "description": "Концерт-спектакъл, посветен на 20 години танцово изкуство в СУ за ХНИ \"К.Преславски\".",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/kontsert-spektakal-tantsat/p1370.html"
         }
       ]
     },
@@ -2748,6 +2918,36 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/golemiyat-final/p1349.html"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Любовна магия",
+          "description": "Един събитие, вероятно спектакъл или представа, състоящ се на сряда, 16 декември 2026 година."
+        },
+        "en": {
+          "title": "Love magic",
+          "description": "An event, probably a show or performance, taking place on Wednesday, December 16, 2026."
+        },
+        "ro": {
+          "title": "Magie de dragoste",
+          "description": "Un eveniment, probabil un spectacol sau o reprezentație, care are loc pe miercuri, 16 decembrie 2026."
+        }
+      },
+      "id": 831,
+      "title": "Любовна магия",
+      "date": "2026-12-16",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Един събитие, вероятно спектакъл или представа, състоящ се на сряда, 16 декември 2026 година.",
+      "sources": [
+        {
+          "source_id": "varna_culture",
+          "source_name": "Varna Culture calendar",
+          "url": "https://varnaculture.bg/bg/lyubovna-magiya/p1180.html"
         }
       ]
     },
@@ -3479,15 +3679,20 @@
       "id": 786,
       "title": "STAND UP ШОУТО НА ЗДРАВА КАМЕНОВА \"ДА ОЦЕЛЕЕШ ПО КОЛЕДА\"",
       "date": "2026-12-28",
-      "time": "",
-      "location": "",
+      "time": "20:00",
+      "location": "Cernavoda",
       "category": "other",
-      "description": "Stand-up comedy show by Kamenova titled ",
+      "description": "Stand-up comedy show featuring Adelina, Mădălina, Florentin, and Gabi in Cernavoda.",
       "sources": [
         {
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/stand-up-shouto-na-zdrava-kamenova/p1365.html"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/cernavoda-stand-up-comedy-cu-adelina-madalina-florentin-si-gabi-intre-doi-fie-vorba/"
         }
       ]
     },
@@ -4357,12 +4562,17 @@
       "time": "",
       "location": "Golden Party",
       "category": "theater",
-      "description": "Un teatru pentru copii cu magie, aventură și voie bună organizat de Golden Party în colaborare cu Teatrul pentru Copii Piciul Julien din Chișinău.",
+      "description": "Un proiect cultural care explorează populația Carlo Collodi și păpușa din perspectiva pop art, celebrând 200 de ani de la nașterea personajului Pinocchio.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/masha-si-ursul-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/24/carlo-collodi-200-ani-pinocchio/"
         }
       ]
     },
@@ -5493,6 +5703,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/12/europe-vine-la-rock-days-2027-la-nibiru/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/24/becky-g-vine-in-romania-la-nibiru/"
         }
       ]
     },
@@ -5797,12 +6012,17 @@
       "time": "",
       "location": "VIDEODOME",
       "category": "other",
-      "description": "A screening of the 1974 film 'Blazing Saddles' directed by Mel Brooks.",
+      "description": "Показване на видеохудожническите работи „Прям до ада“ и „Прям до ада върнеше“ от Алекс Коц.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/10/20/blazing-saddles-1974-mel-brooks/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/24/straight-to-hell-returns-alex-cox-punk/"
         }
       ]
     },
@@ -6977,12 +7197,17 @@
       "time": "",
       "location": "4 orașe din România",
       "category": "concert",
-      "description": "George Enescu se va prezentă în 4 orașe din România cu concerte gratuite în cadrul proiectului Multisenzorial.",
+      "description": "O discuție despre ultimii ani ai lui Freddie Mercury, probabil referindu-se la viața și cariera sa înainte de moartea sa în 1991.",
       "sources": [
         {
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/06/george-enescu-ajunge-in-patru-orase/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/24/freddie-mercury-murit-24-noiembrie-1991/"
         }
       ]
     },
@@ -7624,36 +7849,6 @@
     {
       "translations": {
         "bg": {
-          "title": "СУ „Йордан Йовков“ в Тутракан отбеляза патронния си празник с концерт",
-          "description": "СУ „Йордан Йовков“ организира концерт в Тутракан за отбелязване на патронния им празник."
-        },
-        "en": {
-          "title": "\"Jordan Yovkov\" Secondary School in Tutrakan celebrated its patron holiday with a concert",
-          "description": "Secondary School \"Jordan Yovkov\" organized a concert in Tutrakan to mark their patron holiday."
-        },
-        "ro": {
-          "title": "Școala Gimnazială \"Jordan Yovkov\" din Tutrakan și-a sărbătorit ziua patronală cu un concert",
-          "description": "Școala Gimnazială \"Jordan Yovkov\" a organizat un concert în Tutrakan pentru a sărbători sărbătoarea patronului său."
-        }
-      },
-      "id": 799,
-      "title": "СУ „Йордан Йовков“ в Тутракан отбеляза патронния си празник с концерт",
-      "date": "",
-      "time": "",
-      "location": "Тутракан",
-      "category": "concert",
-      "description": "СУ „Йордан Йовков“ организира концерт в Тутракан за отбелязване на патронния им празник.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/11/22/su-jordan-jovkov-v-tutrakan-otbelyaza-patronniya-si-praznik-s-kontsert"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "НЕ Е ВАШЕТО МЯСТО ТУК | Не пропускайте румънския авторски филм на есента в кината!",
           "description": "Промоция на румънски авторски филм, който се прожектира в кината, което предполага, че това е важен филм за тази есен."
         },
@@ -7768,6 +7963,96 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/2026/11/23/angela-similea-scena-teatrului-national/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Огнище, песен и есен във Вранино",
+          "description": "В село Вранино се проведе есенен празник, който събрал жители и гости на селото в атмосфера на топлота и споделеност. Празненството също посветено е на Деня на християнското семейство и включва изпълнения от групи за автентичен фолклор и народно пеене."
+        },
+        "en": {
+          "title": "Fireplace, song and autumn in Vranino",
+          "description": "In the village of Vranino an autumn celebration was held, which gathered residents and guests of the village in an atmosphere of warmth and sharing.The celebration is also dedicated to the Day of the Christian Family and includes performances by groups for authentic folklore and folk singing."
+        },
+        "ro": {
+          "title": "Vatra, cântec și toamnă în Vranino",
+          "description": "În satul Vranino a avut loc o sărbătoare de toamnă, care a reunit locuitorii și oaspeții satului într-o atmosferă de căldură și împărtășire. Sărbătoarea este dedicată și Zilei familiei creștine și include spectacole ale grupurilor de folclor autentic și cântece populare."
+        }
+      },
+      "id": 829,
+      "title": "Огнище, песен и есен във Вранино",
+      "date": "",
+      "time": "",
+      "location": "село Вранино",
+      "category": "other",
+      "description": "В село Вранино се проведе есенен празник, който събрал жители и гости на селото в атмосфера на топлота и споделеност. Празненството също посветено е на Деня на християнското семейство и включва изпълнения от групи за автентичен фолклор и народно пеене.",
+      "sources": [
+        {
+          "source_id": "kavarna_municipality",
+          "source_name": "Kavarna.bg — Novini/Aktualno/Sabitiya",
+          "url": "https://www.kavarna.bg/novini-aktualno-sybitiya/5686-ognise-pesen-i-esen-v-v-vranino-praznik-na-tradiciite-i-obicaite-ot-minaloto"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Международен Шекспиров фестивал Крайова",
+          "description": "Международният фестивал \"Шекспир\" в Крайова спечели Златната награда за високи постижения на румънската награда за връзки с обществеността 2026 г., но няма подробности за датата и мястото на събитието."
+        },
+        "en": {
+          "title": "International Shakespeare festival Craiova",
+          "description": "The International Shakespeare Festival Craiova won the Golden Award for Excellence at the Romanian PR Award 2026, but there are no details about the date and place of the event."
+        },
+        "ro": {
+          "title": "Festivalul Internațional Shakespeare Craiova",
+          "description": "Festivalul Internațional Shakespeare Craiova a câștigat premiul Golden Award for Excellence la Romanian PR Award 2026, dar nu sunt detaliile despre data și locul evenimentului."
+        }
+      },
+      "id": 838,
+      "title": "Festivalul Internațional Shakespeare Craiova",
+      "date": "",
+      "time": "",
+      "location": "",
+      "category": "other",
+      "description": "Festivalul Internațional Shakespeare Craiova a câștigat premiul Golden Award for Excellence la Romanian PR Award 2026, dar nu sunt detaliile despre data și locul evenimentului.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/24/shakespeare-craiova-romanian-pr-award/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Виенският крал носи магията на Коледа",
+          "description": "Регал Виенез организира 39 концерта през декември в 27 града в Румъния, носейки магията на Коледа."
+        },
+        "en": {
+          "title": "Regal Vienez brings the magic of Christmas",
+          "description": "Regal Vienez organizes 39 concerts in December in 27 cities in Romania, bringing the magic of Christmas."
+        },
+        "ro": {
+          "title": "Regal Vienez aduce magia Crăciunului",
+          "description": "Regal Vienez organizează 39 de concerte în luna decembrie în 27 orașe din România, aducând magia Crăciunului."
+        }
+      },
+      "id": 839,
+      "title": "Regal Vienez aduce magia Crăciunului",
+      "date": "",
+      "time": "",
+      "location": "27 de orașe din România",
+      "category": "concert",
+      "description": "Regal Vienez organizează 39 de concerte în luna decembrie în 27 orașe din România, aducând magia Crăciunului.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/24/regal-vienez-aduce-magia-craciunului/"
         }
       ]
     },
