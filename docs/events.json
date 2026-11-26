@@ -1,221 +1,6 @@
 {
-  "generated_at": "2026-11-25T14:19:21.659222+00:00",
+  "generated_at": "2026-11-26T13:37:30.083877+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "САМО ЧАС СПОКОЙСТВИЕ",
-          "description": "Събитието се проведе на сряда, 25/11/2026."
-        },
-        "en": {
-          "title": "JUST A MOMENT OF QUIETNESS",
-          "description": "The event took place on Wednesday, 25/11/2026."
-        },
-        "ro": {
-          "title": "Doar o clipă de liniște",
-          "description": "Evenimentul a avut loc miercuri, 25/11/2026."
-        }
-      },
-      "id": 737,
-      "title": "САМО ЧАС СПОКОЙСТВИЕ",
-      "date": "2026-11-25",
-      "time": "",
-      "location": "",
-      "category": "other",
-      "description": "Събитието се проведе на сряда, 25/11/2026.",
-      "sources": [
-        {
-          "source_id": "varna_culture",
-          "source_name": "Varna Culture calendar",
-          "url": "https://varnaculture.bg/bg/samo-chas/p1358.html"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Нов конкурс за подрастващи в Силистра",
-          "description": "Нов конкурс за подрастващи се провежда в Силистра на 25 ноември 2026 г."
-        },
-        "en": {
-          "title": "New competition for teenagers in Silistra",
-          "description": "A new competition for teenagers is held in Silistra on November 25, 2026."
-        },
-        "ro": {
-          "title": "Un nou concurs pentru adolescenți în Silistra",
-          "description": "Un nou concurs pentru adolescenți are loc în Silistra pe 25 noiembrie 2026."
-        }
-      },
-      "id": 845,
-      "title": "Нов конкурс за подрастващи в Силистра",
-      "date": "2026-11-25",
-      "time": "",
-      "location": "Силистра",
-      "category": "other",
-      "description": "Нов конкурс за подрастващи се провежда в Силистра на 25 ноември 2026 г.",
-      "sources": [
-        {
-          "source_id": "portal_silistra",
-          "source_name": "Portal Silistra",
-          "url": "https://www.portal-silistra.eu/news/20550"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Тутракан ще отбележи Никулден с литургия, рибарски обичай и кулинарен конкурс",
-          "description": "Тутракан ще отпразнува Никулден с литургия, рибарски обичаи и кулинарен конкурс."
-        },
-        "en": {
-          "title": "Tutrakan will mark Nicholas Day with liturgy, fishing custom and culinary competition",
-          "description": "Tutrakan will celebrate Nicholas Day with a liturgy, fishing customs and a culinary competition."
-        },
-        "ro": {
-          "title": "Tutrakan va sărbători Ziua Sfântului Nicolae cu o liturghie, un obicei de pescuit și un concurs culinar",
-          "description": "Tutrakan va sărbători Ziua Sfântului Nicolae cu o liturghie, obiceiuri de pescuit și un concurs culinar."
-        }
-      },
-      "id": 846,
-      "title": "Тутракан ще отбележи Никулден с литургия, рибарски обичай и кулинарен конкурс",
-      "date": "2026-11-25",
-      "time": "",
-      "location": "Тутракан",
-      "category": "festival",
-      "description": "Тутракан ще отпразнува Никулден с литургия, рибарски обичаи и кулинарен конкурс.",
-      "sources": [
-        {
-          "source_id": "silistra_news",
-          "source_name": "Silistra News",
-          "url": "https://silistranews.net/2026/11/25/tutrakan-shte-otbelezhi-nikulden-s-liturgiya-ribarski-obichaj-i-kulinaren-konkurs"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "С тържествена литургия храм „Св. Климент Охридски“ в Добрич отбеляза своя празник",
-          "description": "Храм „Св. Климент Охридски“ в Добрич организира тържествена литургия за отбелязване на своя празник на 25.11.2026 г. във време на 12:19."
-        },
-        "en": {
-          "title": "With a solemn liturgy, the Temple of St. Clement of Ohrid in Dobrich celebrated its feast",
-          "description": "Church \"St. Clement of Ohrid\" in Dobrich organizes a solemn liturgy to mark its feast on 25.11.2026 at 12:19."
-        },
-        "ro": {
-          "title": "Cu o liturghie solemnă, biserica \"Sfântul Clement Ohridski\" din Dobrici și-a sărbătorit sărbătoarea",
-          "description": "Biserica \"Sf. Clement Ohridski\" din Dobrich organizează o liturghie solemnă pentru a sărbători sărbătoarea sa pe 25.11.2026 la ora 12:19."
-        }
-      },
-      "id": 843,
-      "title": "С тържествена литургия храм „Св. Климент Охридски“ в Добрич отбеляза своя празник",
-      "date": "2026-11-25",
-      "time": "12:19",
-      "location": "храм „Св. Климент Охридски“ в Добрич",
-      "category": "other",
-      "description": "Храм „Св. Климент Охридски“ в Добрич организира тържествена литургия за отбелязване на своя празник на 25.11.2026 г. във време на 12:19.",
-      "sources": [
-        {
-          "source_id": "dobrudjabg",
-          "source_name": "Dobrudzha news agency",
-          "url": "https://dobrudjabg.com/novina/s-tyrjestvena-liturgiq-hram-sv-kliment-ohridski-v-dobrich-otbelqza-svoq-praznik/118088"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "ОУ „Свети Климент Охридски“ – с. Дуранкулак, отбеляза своя патронен празник",
-          "description": "ОУ „Свети Климент Охридски“ в Дуранкулак организира празник за патронния си празник на 25.11.2026, започнал в 14:00."
-        },
-        "en": {
-          "title": "\"St. Clement of Ohrid\" Primary School – village of Durankulak, celebrated its patron saint's day",
-          "description": "School \"St. Clement of Ohrid\" in Durankulak organized a celebration for its patron saint on 25.11.2026, started at 14:00."
-        },
-        "ro": {
-          "title": "Școala \"Sfântul Clement Ohridski\" - satul Durankulak, a sărbătorit sărbătoarea patronului său",
-          "description": "Școala primară \"Sfântul Clement Ohridski\" din Durankulak a organizat o sărbătoare pentru sărbătoarea patronului său pe 25.11.2026, care a început la ora 14:00."
-        }
-      },
-      "id": 841,
-      "title": "ОУ „Свети Климент Охридски“ – с. Дуранкулак, отбеляза своя патронен празник",
-      "date": "2026-11-25",
-      "time": "14:00",
-      "location": "с. Дуранкулак",
-      "category": "municipal",
-      "description": "ОУ „Свети Климент Охридски“ в Дуранкулак организира празник за патронния си празник на 25.11.2026, започнал в 14:00.",
-      "sources": [
-        {
-          "source_id": "shabla_novini",
-          "source_name": "Shabla.bg — Novini (News)",
-          "url": "https://shabla.bg/ou-sveti-kliment-ohridski-s-durankulak-otbelyaza-svoya-patronen-praznik/"
-        },
-        {
-          "source_id": "pronewsdobrich",
-          "source_name": "ProNews Dobrich",
-          "url": "https://pronewsdobrich.bg/ou-„sveti-kliment-ohridski“-v-durankulak-otbelyaza-patronniya-si-praznik-p733330"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Арта спее НУ насилие",
-          "description": "Арт-проектик ще се проведе на улица \"Илиаро Воронка\" в Констанца на 25 ноември от 16:30 ч."
-        },
-        "en": {
-          "title": "Art is not violence.",
-          "description": "Art-projektik is held on Iliaro Voronca Street in Constanţa on 25 November at 16:30."
-        },
-        "ro": {
-          "title": "Арта спеje НУ виolențие",
-          "description": "Арт-пројектик се одржава на улицата Илиаро Воронка во Констанțа на 25 ноември од 16:30."
-        }
-      },
-      "id": 815,
-      "title": "Арта спеje НУ виolențие",
-      "date": "2026-11-25",
-      "time": "16:30",
-      "location": "Стрada Илиаро Воронка, Констанța",
-      "category": "other",
-      "description": "Арт-пројектик се одржава на улицата Илиаро Воронка во Констанțа на 25 ноември од 16:30.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/arta-spune-nu-violentei/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Варненската премиера на „Пътна връв“ от Наталия Делева",
-          "description": "Романът „Пътна връв“ на Наталия Делева ще бъде представен във Варна на Международния ден за елиминиране на насилието над жени."
-        },
-        "en": {
-          "title": "The Varna premiere of \"The Road Rope\" by Natalia Deleva",
-          "description": "The novel \"Road Rope\" by Natalia Deleva will be presented in Varna on the International Day for the Elimination of Violence against Women."
-        },
-        "ro": {
-          "title": "Premiera la Varna a spectacolului \"Coarda rutieră\" de Natalia Deleva",
-          "description": "Romanul \"Coarda rutieră\" de Natalia Deleva va fi prezentat la Varna cu ocazia Zilei Internaționale pentru Eliminarea Violenței împotriva Femeilor."
-        }
-      },
-      "id": 813,
-      "title": "Варненската премиера на „Пътна връв“ от Наталия Делева",
-      "date": "2026-11-25",
-      "time": "18:00",
-      "location": "Юнашкия салон",
-      "category": "other",
-      "description": "Романът „Пътна връв“ на Наталия Делева ще бъде представен във Варна на Международния ден за елиминиране на насилието над жени.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=538936"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -738,6 +523,36 @@
       "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
       "category": "concert",
       "description": "Un concert simfonic românesc care va avea loc la Colegiul Național de Arte \"Regina Maria\" Constanța la data de 28 noiembrie la ora 18:30.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/concert-simfonic-romanesc/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Изключителна симфонична гала",
+          "description": "Това е извънредна симфонична гала, която ще се проведе в Националния колеж по изкуства \"Кралица Мария\" в Констанца на 28 ноември 2026 г. от 18:30 часа."
+        },
+        "en": {
+          "title": "Extraordinary symphonic gala",
+          "description": "It is an extraordinary symphonic gala that will take place at the National College of Arts \"Regina Maria\" Constanta on November 28, 2026, at 18:30 pm."
+        },
+        "ro": {
+          "title": "Gală simfonică extraordinară",
+          "description": "Este o gală simfonică extraordinară care va avea loc la Colegiul Național de Arte \"Regina Maria\" Constanța la data de 28 noiembrie 2026, la ora 18:30."
+        }
+      },
+      "id": 865,
+      "title": "Gală simfonică extraordinară",
+      "date": "2026-11-28",
+      "time": "18:30",
+      "location": "Colegiul Național de Arte \"Regina Maria\" Constanța",
+      "category": "concert",
+      "description": "Este o gală simfonică extraordinară care va avea loc la Colegiul Național de Arte \"Regina Maria\" Constanța la data de 28 noiembrie 2026, la ora 18:30.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -2543,6 +2358,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/constanta-paula-seling-magia-craciunului/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/constanta-paula-seling-magia-craciunului-2/"
         }
       ]
     },
@@ -4208,6 +4028,36 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/food-lovers-constanta-intalnirea-iubitorilor-de-mancare-maximum-10-participanti/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Глам парти - Детски ревю",
+          "description": "Детското парти е празнично събитие за деца, което ще се проведе в четвъртък, 31 декември от 17:00 часа на ул. Томис, 126 в Констанца."
+        },
+        "en": {
+          "title": "Glam Party-Children's Revue",
+          "description": "Glam Party-Revelionul copiilor is a celebration event for children that will take place on Thursday, December 31 at 17:00 on B-dul Tomis, 126, in Constanta."
+        },
+        "ro": {
+          "title": "Glam Party-Revelionul copiilor",
+          "description": "Glam Party-Revelionul copiilor este o eveniment de celebrare pentru copii care va avea loc joi, 31 decembrie la ora 17:00 pe B-dul Tomis, 126, în Constanta."
+        }
+      },
+      "id": 866,
+      "title": "Glam Party-Revelionul copiilor",
+      "date": "2026-12-31",
+      "time": "17:00",
+      "location": "B-dul Tomis, 126, Constanta, Constanța",
+      "category": "other",
+      "description": "Glam Party-Revelionul copiilor este o eveniment de celebrare pentru copii care va avea loc joi, 31 decembrie la ora 17:00 pe B-dul Tomis, 126, în Constanta.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/glam-party-revelionul-copiilor/"
         }
       ]
     },
