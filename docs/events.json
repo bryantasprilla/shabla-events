@@ -1,161 +1,6 @@
 {
-  "generated_at": "2026-11-26T13:37:30.083877+00:00",
+  "generated_at": "2026-11-27T13:48:00.435168+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Силвиу Ковачи @Doors",
-          "description": "Една фолклорна вечер със Силвиу Ковачи, изпълнена с емоция и вдъхновени стихове."
-        },
-        "en": {
-          "title": "Silviu Covaci @Doors",
-          "description": "An evening of folk music with Silviu Covaci, full of emotion and inspired lyrics."
-        },
-        "ro": {
-          "title": "Silviu Covaci @Doors",
-          "description": "O seară de folk cu Silviu Covaci, plină de emoție și versuri inspirate."
-        }
-      },
-      "id": 810,
-      "title": "Silviu Covaci @Doors",
-      "date": "2026-11-26",
-      "time": "",
-      "location": "Doors",
-      "category": "adult_18+",
-      "description": "O seară de folk cu Silviu Covaci, plină de emoție și versuri inspirate.",
-      "sources": [
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/silviu-covaci-at-doors-3/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Умът зад историята",
-          "description": "Събитието ще се проведе в четвъртък от 17:00 часа в Областната библиотека в Констанца и е посветено на ума зад една история."
-        },
-        "en": {
-          "title": "The mind behind the story",
-          "description": "The event takes place on Thursday, at 17:00 in the County Library of Constanța and refers to the mind behind a story."
-        },
-        "ro": {
-          "title": "Mintea din spatele poveștii",
-          "description": "Evenimentul se desfășoară joi, la 17:00 în Biblioteca Judeteana din Constanța și se referă la mintea din spatele unei povești."
-        }
-      },
-      "id": 717,
-      "title": "Mintea din spatele poveștii",
-      "date": "2026-11-26",
-      "time": "17:00",
-      "location": "Biblioteca Judeteana Constanta",
-      "category": "other",
-      "description": "Evenimentul se desfășoară joi, la 17:00 în Biblioteca Judeteana din Constanța și se referă la mintea din spatele unei povești.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/mintea-din-spatele-povestii/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Патрул в действие",
-          "description": "Патрулът в действие ще се проведе в четвъртък, 26 ноември от 17:00 часа в Дома на културата на профсъюзите в Констанца."
-        },
-        "en": {
-          "title": "Patrol in Action",
-          "description": "Patrol in Action will take place on Thursday, November 26 at 17:00 in the House of Culture of the Trade Unions in Constanta."
-        },
-        "ro": {
-          "title": "Patrula în Acțiune",
-          "description": "Patrula în Acțiune va avea loc joi, 26 noiembrie la 17:00 în Casa de Cultura a Sindicatelor din Constanța."
-        }
-      },
-      "id": 817,
-      "title": "Patrula în Acțiune",
-      "date": "2026-11-26",
-      "time": "17:00",
-      "location": "Casa de Cultura a Sindicatelor Constanta",
-      "category": "other",
-      "description": "Patrula în Acțiune va avea loc joi, 26 noiembrie la 17:00 în Casa de Cultura a Sindicatelor din Constanța.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/patrula-in-actiune-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Концерт на Кристина Фиерару (сопрано) и Максим Белчуг (китара)",
-          "description": "Концертът по класическа музика на сопрано Кристина Фиерару и китариста Максим Белчуг ще се проведе в Голямата синагога в Констанца от 19:00 часа в четвъртък, 26 ноември 2026 г."
-        },
-        "en": {
-          "title": "ARIE ȘI ECOU. Concert Cristina Fieraru (soprano) & Maxim Belciug (guitar)",
-          "description": "The classical music concert of soprano Cristina Fieraru and guitarist Maxim Belciug will take place in the Great Synagogue of Constanta at 19:00 on Thursday, November 26, 2026."
-        },
-        "ro": {
-          "title": "ARIE ȘI ECOU. Concert Cristina Fieraru (soprană) & Maxim Belciug (chitară)",
-          "description": "Concertul de muzică clasică al soprană Cristina Fieraru și chitaristului Maxim Belciug va avea loc în Sinagoga Mare din Constanța la 19:00 pe joi, 26 noiembrie 2026."
-        }
-      },
-      "id": 728,
-      "title": "ARIE ȘI ECOU. Concert Cristina Fieraru (soprană) & Maxim Belciug (chitară)",
-      "date": "2026-11-26",
-      "time": "19:00",
-      "location": "Sinagoga Mare Din Constanța",
-      "category": "concert",
-      "description": "Concertul de muzică clasică al soprană Cristina Fieraru și chitaristului Maxim Belciug va avea loc în Sinagoga Mare din Constanța la 19:00 pe joi, 26 noiembrie 2026.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/arie-si-ecou-concert-cristina-fieraru-soprana-maxim-belciug-chitara/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Таня Туртуряну @doors",
-          "description": "Таня Туртуряну изнася концерт в клуб Дорс на 26 ноември от 9:00 часа."
-        },
-        "en": {
-          "title": "Tania Turtureanu @doors",
-          "description": "Tania Turtureanu performs at Doors Club on Thursday, November 26 at 9:00 PM."
-        },
-        "ro": {
-          "title": "Tania Turtureanu @doors",
-          "description": "Tania Turtureanu performs at Doors Club on Thursday, November 26 at 9:00 PM."
-        }
-      },
-      "id": 455,
-      "title": "Tania Turtureanu @doors",
-      "date": "2026-11-26",
-      "time": "21:00",
-      "location": "Doors Club",
-      "category": "concert",
-      "description": "Tania Turtureanu performs at Doors Club on Thursday, November 26 at 9:00 PM.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/tania-turtureanu-doors/"
-        },
-        {
-          "source_id": "zilesinopti_constanta",
-          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
-          "url": "https://zilesinopti.ro/evenimente/tania-turtureanu-at-doors/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -558,6 +403,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/concert-simfonic-romanesc/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/gala-simfonica-extraordinara/"
         }
       ]
     },
@@ -1019,6 +869,41 @@
     {
       "translations": {
         "bg": {
+          "title": "\"Метаморфози\", изложба на живопис, посветена на Черно море",
+          "description": "Изложба на живопис, организирана по случай Международния ден на Черно море, която ще включва творби на над 70 художници, вдъхновени от Черно море."
+        },
+        "en": {
+          "title": "\"Metamorphoses\", painting exhibition dedicated to the Black Sea",
+          "description": "A painting exhibition organized on the occasion of the International Black Sea Day, which will include works by over 70 artists inspired by the Black Sea."
+        },
+        "ro": {
+          "title": "„Metamorfoze”, expoziție de pictură dedicată Mării Negre",
+          "description": "O expoziție de pictură organizată cu ocazia Zilei Internaționale a Mării Negre, care va include lucrări de peste 70 de artiști inspirați de Măria Negrească."
+        }
+      },
+      "id": 550,
+      "title": "„Metamorfoze”, expoziție de pictură dedicată Mării Negre",
+      "date": "2026-12-01",
+      "time": "",
+      "location": "Galeria de Artă Mangalia",
+      "category": "exhibition",
+      "description": "În cadrul Zilei Naționale a României, Wild Park Mangalia organizează o sărbătoare în aer liber pentru copii și adulții, cu jocuri, dansuri populare și ateliere de lut și fasole.",
+      "sources": [
+        {
+          "source_id": "mangalianews_events",
+          "source_name": "MangaliaNews.ro — Evenimente & Recomandari",
+          "url": "https://www.mangalianews.ro/2026/10/29/metamorfoze-expozitie-de-pictura-dedicata-marii-negre-la-galeria-de-arta-mangalia/"
+        },
+        {
+          "source_id": "mangalianews_events",
+          "source_name": "MangaliaNews.ro — Evenimente & Recomandari",
+          "url": "https://www.mangalianews.ro/2026/11/22/1-decembrie-la-wild-park-mangalia-jocurile-copilariei-dansuri-populare-atelier-de-lut-si-fasole-la-ceaun/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "ВРАЖАЛЕЦ",
           "description": "Предстоящо вторник, 01/12/2026г., се проведе едно неуточнено събитие във Варна."
         },
@@ -1423,6 +1308,11 @@
           "source_id": "varna_culture",
           "source_name": "Varna Culture calendar",
           "url": "https://varnaculture.bg/bg/svetat-ima-nuzhda-ot-poveche-svetlina/p1369.html"
+        },
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/27/pet-uchilishta-ot-silistra-premeriha-sili-v-uchenicheski-turnir-po-basketbol"
         }
       ]
     },
@@ -1882,7 +1772,7 @@
       "time": "11:30",
       "location": "Градски площад, гр. Шабла",
       "category": "other",
-      "description": "Четвъртият Празник на рибената чорба в Шабла ще се проведе на събота, 5 декември 2026 г., със съставени рибни блюда, музика и празнично настроение.",
+      "description": "На 5 декември 2026 г. ще се проведе музикално-танцова програма във фреймворка на Празника на рибената чорба в град Шабла, посветено на кулинарните традиции и фолклор на България.",
       "sources": [
         {
           "source_id": "shabla_sabitiya",
@@ -1903,6 +1793,16 @@
           "source_id": "shabla_sabitiya",
           "source_name": "Shabla.bg — Sabitiya (Events archive)",
           "url": "https://shabla.bg/events/daritelska-kampaniya-ot-dom-na-dom-ot-sarcze-na-sarcze/"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/muzikalno-tancova-programa-na-praznika-na-ribenata-chorba-shabla-2026.html"
+        },
+        {
+          "source_id": "zora1894_shabla",
+          "source_name": "NCh Zora 1894 (Shabla cultural center)",
+          "url": "https://nch-zora1894shabla.com/novini/zvezdno-kulinarno-zhuri-na-praznika-na-ribenata-chorba-v-shabla.html"
         }
       ]
     },
@@ -2478,6 +2378,16 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/two-men-show-natanticu-si-edi-radoi/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/26/sex-pistols-anarchy-in-the-uk-50-de-ani/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/26/cocktailuri-cu-saramura/"
         }
       ]
     },
@@ -3433,6 +3343,11 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/gratuit-mini-sesiune-de-make-up-cu-lala-chirila/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/recital-de-ziua-nationala-a-romaniei/"
         }
       ]
     },
@@ -4843,6 +4758,16 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/pescuitorii-de-perle-2/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/27/giorgio-de-chirico-in-romania-2/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/27/horror-game-awards-2026-rezultatele/"
         }
       ]
     },
@@ -7009,36 +6934,6 @@
     {
       "translations": {
         "bg": {
-          "title": "\"Метаморфози\", изложба на живопис, посветена на Черно море",
-          "description": "Изложба на живопис, организирана по случай Международния ден на Черно море, която ще включва творби на над 70 художници, вдъхновени от Черно море."
-        },
-        "en": {
-          "title": "\"Metamorphoses\", painting exhibition dedicated to the Black Sea",
-          "description": "A painting exhibition organized on the occasion of the International Black Sea Day, which will include works by over 70 artists inspired by the Black Sea."
-        },
-        "ro": {
-          "title": "„Metamorfoze”, expoziție de pictură dedicată Mării Negre",
-          "description": "O expoziție de pictură organizată cu ocazia Zilei Internaționale a Mării Negre, care va include lucrări de peste 70 de artiști inspirați de Măria Negrească."
-        }
-      },
-      "id": 550,
-      "title": "„Metamorfoze”, expoziție de pictură dedicată Mării Negre",
-      "date": "",
-      "time": "",
-      "location": "Galeria de Artă Mangalia",
-      "category": "exhibition",
-      "description": "O expoziție de pictură organizată cu ocazia Zilei Internaționale a Mării Negre, care va include lucrări de peste 70 de artiști inspirați de Măria Negrească.",
-      "sources": [
-        {
-          "source_id": "mangalianews_events",
-          "source_name": "MangaliaNews.ro — Evenimente & Recomandari",
-          "url": "https://www.mangalianews.ro/2026/10/29/metamorfoze-expozitie-de-pictura-dedicata-marii-negre-la-galeria-de-arta-mangalia/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
           "title": "Мадридският хор започва националния си коледен турне",
           "description": "Мадридският хор започва национално коледно турне, което ще включва 10 представления в 8 града в Румъния."
         },
@@ -8404,6 +8299,66 @@
     {
       "translations": {
         "bg": {
+          "title": "Бъдещето на джаза се чува в Радио Сала: Румънски младежки джаз фестивал",
+          "description": "Първото издание на младежкия джаз фестивал се провежда в Радио Сала с участието на Луиза Зан, Ади Нур и Оана Сърбу."
+        },
+        "en": {
+          "title": "The future of jazz is heard at Sala Radio: Romanian Youth Jazz Festival",
+          "description": "In its first edition, the Romanian Youth Jazz Festival takes place at the Radio Hall with the presence of Luiza Zan, Adi Nour and Oana Sîrbu."
+        },
+        "ro": {
+          "title": "Viitorul jazzului se aude la Sala Radio: Romanian Youth Jazz Festival",
+          "description": "În prima ediție, festivalul de jazz pentru tineret Romanian Youth Jazz Festival se desfășoară la Sala Radio cu prezența lui Luiza Zan, Adi Nour și Oana Sîrbu."
+        }
+      },
+      "id": 867,
+      "title": "Viitorul jazzului se aude la Sala Radio: Romanian Youth Jazz Festival",
+      "date": "",
+      "time": "",
+      "location": "Sala Radio",
+      "category": "concert",
+      "description": "În prima ediție, festivalul de jazz pentru tineret Romanian Youth Jazz Festival se desfășoară la Sala Radio cu prezența lui Luiza Zan, Adi Nour și Oana Sîrbu.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/27/romanian-youth-jazz-festival/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "\"СВЕТЛИНА\", филмът на режисьора Мариан Кришан, награден в Талин. Специални прожекции в 11 града в Румъния",
+          "description": "Филмът \"ЛУМИНА\" на режисьора Мариан Кришан, който спечели награда в Талин, ще има специални прожекции в 11 града в Румъния."
+        },
+        "en": {
+          "title": "\"LUMINA\", the film directed by Marian Crisan, awarded in Tallinn.Special screenings in 11 cities in Romania",
+          "description": "The film \"LUMINA\", directed by Marian Crisan, which won a prize in Tallinn, will have special screenings in 11 cities in Romania."
+        },
+        "ro": {
+          "title": "„LUMINA”, filmul regizat de Marian Crișan, premiat la Tallinn. Proiecții speciale în 11 orașe din România",
+          "description": "Filmul „LUMINA”, regizat de Marian Crișan, care a câștigat un premiu la Tallinn, va avea proiecții speciale în 11 orașe din România."
+        }
+      },
+      "id": 868,
+      "title": "„LUMINA”, filmul regizat de Marian Crișan, premiat la Tallinn. Proiecții speciale în 11 orașe din România",
+      "date": "",
+      "time": "",
+      "location": "11 orașe din România",
+      "category": "other",
+      "description": "Filmul „LUMINA”, regizat de Marian Crișan, care a câștigat un premiu la Tallinn, va avea proiecții speciale în 11 orașe din România.",
+      "sources": [
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/2026/11/27/lumina-regizat-de-marian-crisan/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Ние отваряме сладолед",
           "description": "Сладоледът се отваря на адрес Принципала 123, община Сарикиой, Тулча, на церемония, насрочена за 09:00 часа."
         },
@@ -8727,7 +8682,7 @@
       "time": "19:00",
       "location": "Casa de Cultura a Sindicatelor Constanta",
       "category": "other",
-      "description": "Evenimentul se desfășoară la Casa de Cultura a Sindicatelor din Constanța și are locația și ora stabilită în text.",
+      "description": "Spectacolul de teatru oferă trei partituri, trecând de la elemente comice la vulnerabilitate și îmbătrânirea personajelor, într-un total de 41 minute.",
       "sources": [
         {
           "source_id": "onevent_constanta",
@@ -8738,6 +8693,11 @@
           "source_id": "zilesinopti_constanta",
           "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
           "url": "https://zilesinopti.ro/evenimente/divertis-viata-bate-campii-constanta/"
+        },
+        {
+          "source_id": "zilesinopti_constanta",
+          "source_name": "Zile si Nopti (Constanta) — nightlife/party agenda",
+          "url": "https://zilesinopti.ro/evenimente/constanta-fiecare-sot-distruge-putin-viata-sotiei-sale/"
         }
       ]
     },
