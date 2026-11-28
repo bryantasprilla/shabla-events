@@ -1,191 +1,6 @@
 {
-  "generated_at": "2026-11-27T13:48:00.435168+00:00",
+  "generated_at": "2026-11-28T12:48:07.458912+00:00",
   "events": [
-    {
-      "translations": {
-        "bg": {
-          "title": "Скулптури на Иван Кулински и класическа живопис се срещат в Галерия 33 във Варна",
-          "description": "Изложба, съчетаваща скулптури на Иван Кулински и произведения на едни от най-известните представители на класическата българска живопис, ще бъде открита на 27 ноември в Галерия 33 във Варна."
-        },
-        "en": {
-          "title": "Ivan Kulinski’s sculptures and classical painting meet in Gallery 33 in Varna",
-          "description": "An exhibition combining sculptures by Ivan Kulinski and works by some of the most famous representatives of classical Bulgarian painting will be opened on November 27 at Gallery 33 in Varna."
-        },
-        "ro": {
-          "title": "Sculpturile lui Ivan Kulinski și pictura clasică se întâlnesc în Galeria 33 din Varna",
-          "description": "O expoziție care combină sculpturile lui Ivan Kulinski și lucrările unora dintre cei mai renumiți reprezentanți ai picturii clasice bulgare va fi inaugurată în 27 noiembrie la Galeria 33 din Varna."
-        }
-      },
-      "id": 776,
-      "title": "Скулптури на Иван Кулински и класическа живопис се срещат в Галерия 33 във Варна",
-      "date": "2026-11-27",
-      "time": "",
-      "location": "Галерия 33 във Варна",
-      "category": "exhibition",
-      "description": "Изложба, съчетаваща скулптури на Иван Кулински и произведения на едни от най-известните представители на класическата българска живопис, ще бъде открита на 27 ноември в Галерия 33 във Варна.",
-      "sources": [
-        {
-          "source_id": "moreto_varna",
-          "source_name": "Moreto.net (Varna events)",
-          "url": "https://www.moreto.net/events.php?n=538798"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Панаир на вкусовете на Румъния – КОНСТАНТИНА",
-          "description": "Панаирът Вкусовете на Румъния е изложение на местни и регионални храни, което ще се проведе в Ошан в Констанца от 27 ноември до 1 декември 2026 г."
-        },
-        "en": {
-          "title": "Flavours of Romania Fair – CONSTANȚA",
-          "description": "The Savours of Romania Fair is an exhibition of local and regional foods that will take place at Auchan in Constanta from November 27 to December 1, 2026."
-        },
-        "ro": {
-          "title": "Târgul Savorile României – CONSTANȚA",
-          "description": "Târgul Savorile României este o expoziție de alimente locale și regionale care va avea loc în Auchan din Constanța de la 27 noiembrie până la 1 decembrie 2026."
-        }
-      },
-      "id": 793,
-      "title": "Târgul Savorile României – CONSTANȚA",
-      "date": "2026-11-27",
-      "time": "",
-      "location": "Auchan",
-      "category": "other",
-      "description": "Târgul Savorile României este o expoziție de alimente locale și regionale care va avea loc în Auchan din Constanța de la 27 noiembrie până la 1 decembrie 2026.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/targul-savorile-romaniei-constanta/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Постоянството рециклира! 🌿",
-          "description": "Събитие за рециклиране в Констанца, което ще се проведе във ВАСТУМ ЕКО на 27 ноември от 10:30 часа."
-        },
-        "en": {
-          "title": "CONSTANT RECYCLE! 🌿",
-          "description": "A recycling event in Constanta that will take place in VASTUM ECO on November 27 at 10:30."
-        },
-        "ro": {
-          "title": "CONSTANȚA RECICLEAZĂ! 🌿",
-          "description": "Un eveniment de reciclare în Constanta care va avea loc în VASTUM ECO la data de 27 noiembrie la ora 10:30."
-        }
-      },
-      "id": 847,
-      "title": "CONSTANȚA RECICLEAZĂ! 🌿",
-      "date": "2026-11-27",
-      "time": "10:30",
-      "location": "VASTUM ECO",
-      "category": "other",
-      "description": "Un eveniment de reciclare în Constanta care va avea loc în VASTUM ECO la data de 27 noiembrie la ora 10:30.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/%e2%99%bb%ef%b8%8f-constanta-recicleaza-%f0%9f%8c%bf/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Детски куклен спектакъл „Дракончето Драчко“",
-          "description": "Постановка на Драматично-куклен театър от Силистра, която ще се представи в Народното читалище Зора 1894 в Шабла на 27 ноември 2026 г. в 18:00."
-        },
-        "en": {
-          "title": "Children's puppet show \"Little Dragon Drachko\"",
-          "description": "A production of the Dramatic and Puppet Theatre from Silistra, which will be presented in the Zora 1894 Community Center in Shabla on November 27, 2026 at 18:00 pm."
-        },
-        "ro": {
-          "title": "Spectacol de păpuși pentru copii \"Dracko Dragonul\"",
-          "description": "Spectacol al Teatrului Dramatic și de Păpuși din Silistra, care va fi prezentat la Centrul Cultural Zora 1894 din Shabla pe 27 noiembrie 2026 la ora 18:00."
-        }
-      },
-      "id": 732,
-      "title": "Детски куклен спектакъл „Дракончето Драчко“",
-      "date": "2026-11-27",
-      "time": "16:00",
-      "location": "Народно читалище Зора 1894, гр. Шабла",
-      "category": "other",
-      "description": "Постановка на Драматично-куклен театър от Силистра, която ще се представи в Народното читалище Зора 1894 в Шабла на 27 ноември 2026 г. в 18:00.",
-      "sources": [
-        {
-          "source_id": "shabla_sabitiya",
-          "source_name": "Shabla.bg — Sabitiya (Events archive)",
-          "url": "https://shabla.bg/events/detski-kuklen-spektakal-drakoncheto-drachko/"
-        },
-        {
-          "source_id": "shabla_sabitiya",
-          "source_name": "Shabla.bg — Sabitiya (Events archive)",
-          "url": "https://shabla.bg/events/istinski-lazhi-postanovka-na-dramatichno-kuklen-teatar-gr-silistra/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Джалили на арменската култура 2026 – ХХ издание",
-          "description": "На 27 ноември 2026 г. от 16:00 ч. в Казино Констанца ще се състои 20-тото издание на фестивала „Джалили а Културалъджеи Арманескъ”."
-        },
-        "en": {
-          "title": "Dzalili of Armenian Culture 2026 – Edition XX",
-          "description": "The 20th edition of the Dzâlili a Culturâljei Armâneascâ festival is taking place on November 27, 2026, at 16:00 at Cazinoul din Constanta."
-        },
-        "ro": {
-          "title": "Dzâlili a Culturâljei Armâneascâ 2026 – Editsia XX",
-          "description": "The 20th edition of the Dzâlili a Culturâljei Armâneascâ festival is taking place on November 27, 2026, at 16:00 at Cazinoul din Constanta."
-        }
-      },
-      "id": 818,
-      "title": "Dzâlili a Culturâljei Armâneascâ 2026 – Editsia XX",
-      "date": "2026-11-27",
-      "time": "16:00",
-      "location": "Cazinoul din Constanta",
-      "category": "other",
-      "description": "The 20th edition of the Dzâlili a Culturâljei Armâneascâ festival is taking place on November 27, 2026, at 16:00 at Cazinoul din Constanta.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/dzalili-a-culturaljei-armaneasca-2026-editsia-xx/"
-        }
-      ]
-    },
-    {
-      "translations": {
-        "bg": {
-          "title": "Човек на луната │ Излиза нов сингъл",
-          "description": "Събитие за пускане на нов сингъл в клуба в Констанца на 27 ноември 2026 г., започващо в 9:00 часа."
-        },
-        "en": {
-          "title": "om la lună │ New Single Release",
-          "description": "A new single release event at Doors Club in Constanța on November 27, 2026, starting at 9:00 PM."
-        },
-        "ro": {
-          "title": "om la lună │ New Single Release",
-          "description": "A new single release event at Doors Club in Constanța on November 27, 2026, starting at 9:00 PM."
-        }
-      },
-      "id": 456,
-      "title": "om la lună │ New Single Release",
-      "date": "2026-11-27",
-      "time": "21:00",
-      "location": "Doors Club",
-      "category": "other",
-      "description": "A new single release event at Doors Club in Constanța on November 27, 2026, starting at 9:00 PM.",
-      "sources": [
-        {
-          "source_id": "onevent_constanta",
-          "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/om-la-luna-%e2%94%82-%f0%9d%97%a1%f0%9d%97%b2%f0%9d%98%84-%f0%9d%97%a6%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%b4%f0%9d%97%b9%f0%9d%97%b2-%f0%9d%97%a5%f0%9d%97%b2%f0%9d%97%b9%f0%9d%97%b2%f0%9d%97%ae-5/"
-        }
-      ]
-    },
     {
       "translations": {
         "bg": {
@@ -777,7 +592,7 @@
       "time": "",
       "location": "Силистра",
       "category": "other",
-      "description": "Изложбата на акварели на художник Стефан Пенчев е представена в град Силистра.",
+      "description": "Осем ученици от ПМГ (Политехническото училище в Силистра) участваха в изложбата „Изкуството на познанието“. ",
       "sources": [
         {
           "source_id": "varna_culture",
@@ -793,6 +608,11 @@
           "source_id": "silistra_news",
           "source_name": "Silistra News",
           "url": "https://silistranews.net/2026/11/16/izlozhba-na-akvareli-na-stefan-penchev-e-predstavena-v-silistra"
+        },
+        {
+          "source_id": "silistra_news",
+          "source_name": "Silistra News",
+          "url": "https://silistranews.net/2026/11/28/osem-uchenitsi-ot-pmg-v-silistra-uchastvaha-v-izlozhbata-izkustvoto-na-poznanieto"
         }
       ]
     },
@@ -2169,6 +1989,36 @@
     {
       "translations": {
         "bg": {
+          "title": "Благотворителен панаир \"Даряваме и достигаме ГОЛЕМИ\"",
+          "description": "Благотворително събитие, което ще се проведе в Клуб Дорс на 6 декември 2026 г., от 16:00 часа."
+        },
+        "en": {
+          "title": "Charity Fair \"We Give and Reach BIG\"",
+          "description": "A charity event taking place at Doors Club on December 6th, 2026, starting at 16:00."
+        },
+        "ro": {
+          "title": "Târg Caritabil ”Dăruim și Ajungem MARI”",
+          "description": "A caritablie event taking place at Doors Club on December 6th, 2026, starting at 16:00."
+        }
+      },
+      "id": 869,
+      "title": "Târg Caritabil ”Dăruim și Ajungem MARI”",
+      "date": "2026-12-06",
+      "time": "16:00",
+      "location": "Doors Club",
+      "category": "adult_18+",
+      "description": "A caritablie event taking place at Doors Club on December 6th, 2026, starting at 16:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/targ-caritabil-daruim-si-ajungem-mari/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
           "title": "Поставете монета: Уличен боец се завръща",
           "description": "Филмова премиера на филма \"Уличен боец\"."
         },
@@ -2204,30 +2054,30 @@
     {
       "translations": {
         "bg": {
-          "title": "Коледен панаир в Констанца 2026 – Археологически парк",
-          "description": "Коледа в Констанца 2026 ще се проведе в Археологическия парк от 7 декември до 27 декември."
+          "title": "Концерт Аура Сова-клуб Феникс Констанца",
+          "description": "Концертът на Аура Сова ще се проведе в Клуб Финикс на 6 декември 2026 г. от 20:00 часа."
         },
         "en": {
-          "title": "Christmas Fair in Constanta 2026 – Archaeological Park",
-          "description": "Christmas in Constanta 2026 will take place in the Archaeological Park from December 7th to December 27th."
+          "title": "Concert Aura Sova-Club Phoenix in Constanta",
+          "description": "The Aura Sova concert will take place at Club Phoenix on December 6, 2026 at 20:00."
         },
         "ro": {
-          "title": "Târgul de Crăciun din Constanța 2026 – Parcul Arheologic",
-          "description": "Crăciunul din Constanța 2026 se va desfășura în Parcul Arheologic din 7 decembrie până la 27 decembrie."
+          "title": "Concert Aura Sova-Club Phoenix Constanta",
+          "description": "Concertul Aura Sova va avea loc la Club Phoenix pe data de 6 decembrie 2026 la ora 20:00."
         }
       },
-      "id": 795,
-      "title": "Târgul de Crăciun din Constanța 2026 – Parcul Arheologic",
-      "date": "2026-12-07",
-      "time": "",
-      "location": "Parcul Arheologic Constanta",
-      "category": "other",
-      "description": "Crăciunul din Constanța 2026 se va desfășura în Parcul Arheologic din 7 decembrie până la 27 decembrie.",
+      "id": 870,
+      "title": "Concert Aura Sova-Club Phoenix Constanta",
+      "date": "2026-12-06",
+      "time": "20:00",
+      "location": "Club Phoenix",
+      "category": "concert",
+      "description": "Concertul Aura Sova va avea loc la Club Phoenix pe data de 6 decembrie 2026 la ora 20:00.",
       "sources": [
         {
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
-          "url": "https://www.onevent.ro/evenimente/targul-de-craciun-din-constanta-2026-parcul-arheologic/"
+          "url": "https://www.onevent.ro/evenimente/concert-aura-sova-club-phoenix-constanta/"
         }
       ]
     },
@@ -2263,6 +2113,41 @@
           "source_id": "onevent_constanta",
           "source_name": "OnEvent.ro (Constanta)",
           "url": "https://www.onevent.ro/evenimente/constanta-paula-seling-magia-craciunului-2/"
+        }
+      ]
+    },
+    {
+      "translations": {
+        "bg": {
+          "title": "Коледен панаир в Констанца 2026 – Археологически парк",
+          "description": "Коледа в Констанца 2026 ще се проведе в Археологическия парк от 7 декември до 27 декември."
+        },
+        "en": {
+          "title": "Christmas Fair in Constanta 2026 – Archaeological Park",
+          "description": "Christmas in Constanta 2026 will take place in the Archaeological Park from December 7th to December 27th."
+        },
+        "ro": {
+          "title": "Târgul de Crăciun din Constanța 2026 – Parcul Arheologic",
+          "description": "Crăciunul din Constanța 2026 se va desfășura în Parcul Arheologic din 7 decembrie până la 27 decembrie."
+        }
+      },
+      "id": 795,
+      "title": "Târgul de Crăciun din Constanța 2026 – Parcul Arheologic",
+      "date": "2026-12-07",
+      "time": "19:00",
+      "location": "Parcul Arheologic Constanta",
+      "category": "other",
+      "description": "Turneu național de spargator de nuci care va avea loc la Casa de Cultură a Sindicatelor din Constanța pe 6 decembrie 2026 la ora 19:00.",
+      "sources": [
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/targul-de-craciun-din-constanta-2026-parcul-arheologic/"
+        },
+        {
+          "source_id": "onevent_constanta",
+          "source_name": "OnEvent.ro (Constanta)",
+          "url": "https://www.onevent.ro/evenimente/spargatorul-de-nuci-turneu-national-constanta/"
         }
       ]
     },
